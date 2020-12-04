@@ -1,0 +1,30 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2023-2024 * (30/07/2020 - 15:14:01)                                                    
+                                                             
+ SUMÁRIO DA REDE ELÉTRICA
+
+ BARRAS:                   8288
+ CIRCUITOS:               11791
+ ELEMENTOS NA TRANSMISSÃO: 1900
+ USINAS:                   1746
+
+
+ CAPACIDADE INSTALADA (MW) :  150939.7
+ DEMANDA CONTRATADA   (MW) :   96165.2 /             (ponta / fora ponta)
+
+
+ SUMÁRIO NO CÁLCULO DA TUST-RB -------------
+
+ Receita anual a ser recuperada com a TUST-RB( 1000 R$ ) =   31931470.
+ Proporção de rateio da receita = Geração ( 50.0%)  Carga ( 50.0%)
+ Ponderação de Beta pelo fluxo GER. ( % ) = Mínima  (   .0 ) Máxima (100.0 )
+ Ponderação de Beta pelo fluxo CAR. ( % ) = Mínima  (   .0 ) Máxima (100.0 )
+
+
+ Valor de TUSDg considerado no cálculo da TUST estabilizada:    151738.60 (1000 R$)
+
+ Encargos devidos à REN 267/07 (TUST Longo Prazo ):          .00 (1000R$/ano)
+
+ Encargos devidos à REN 559/13 (TUST Estabilizada):          .00 (1000R$/ano)
+ 

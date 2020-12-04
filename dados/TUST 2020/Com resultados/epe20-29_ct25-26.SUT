@@ -1,0 +1,30 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ ** EPE CICLO 20-29 ** CARGA MÁXIMA ** CT25-26 (30/07/2020 - 15:14:15)                                   
+                                                             
+ SUMÁRIO DA REDE ELÉTRICA
+
+ BARRAS:                  10466
+ CIRCUITOS:               14645
+ ELEMENTOS NA TRANSMISSÃO: 2131
+ USINAS:                   2354
+
+
+ CAPACIDADE INSTALADA (MW) :  157163.3
+ DEMANDA CONTRATADA   (MW) :  116374.9 /             (ponta / fora ponta)
+
+
+ SUMÁRIO NO CÁLCULO DA TUST-RB -------------
+
+ Receita anual a ser recuperada com a TUST-RB( 1000 R$ ) =   29427357.
+ Proporção de rateio da receita = Geração ( 50.0%)  Carga ( 50.0%)
+ Ponderação de Beta pelo fluxo GER. ( % ) = Mínima  (   .0 ) Máxima (100.0 )
+ Ponderação de Beta pelo fluxo CAR. ( % ) = Mínima  (   .0 ) Máxima (100.0 )
+
+
+ Valor de TUSDg considerado no cálculo da TUST estabilizada:    151738.60 (1000 R$)
+
+ Encargos devidos à REN 267/07 (TUST Longo Prazo ):          .00 (1000R$/ano)
+
+ Encargos devidos à REN 559/13 (TUST Estabilizada):          .00 (1000R$/ano)
+ 

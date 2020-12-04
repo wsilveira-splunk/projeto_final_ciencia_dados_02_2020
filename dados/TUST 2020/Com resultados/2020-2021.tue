@@ -1,0 +1,909 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2020-2021 * (30/07/2020 - 15:13:42)                                                    
+                                                             
+ RELATÓRIO DE TUST DAS USINAS
+
+ X--------------------------------X-----------X----------X---X-----X-----X----------------------------------------X------------X--------X
+               USINA                  TUST        MUST     UF        Cód.X              ** Valores em R$/KW.Mês **     EUST    X   CEG  X
+                                    R$/kW.mês      MW         Fator  Int.X TIPO            Ciclo    Média   Trans.  1000R$/ano X        X
+ X--------------------------------X-----------X----------X---X-----X-----X-------------X--------X--------X--------X------------X--------X
+
+  EOL ABIL                               5.815       23.1  BA              USINA LEILÃO    7.134                         1612.0 031402-1
+  EOL ACACIA                             5.555       15.8  BA              USINA LEILÃO    7.033                         1053.0 031418-8
+  EOL ACARI (RIACHAO I)                  7.248       28.7  RN              ESTABILIZADA    6.490    7.248                2496.0 030870-6
+  EOL ACAUA                              5.804        5.9  BA              USINA LEILÃO    7.134                          411.0 031433-1
+  EOL ALBUQUERQUE (RIACHAO II)           7.248       26.4  RN              ESTABILIZADA    6.490    7.248                2296.0 030871-4
+  EOL ALEGRIA I(NEW ENERGY)              6.822       49.2  RN              ESTABILIZADA    7.846    6.822                4028.0 028444-0
+  EOL ALEGRIA II(NEW ENERGY)             6.822       98.4  RN              ESTABILIZADA    7.846    6.822                8055.0 028443-2
+  EOL ALVORADA                           6.899        8.0  BA              USINA LEILÃO    7.145                          662.0 030320-8
+  EOL AMESCLA                            5.651       13.2  BA              ESTABILIZADA    6.759    5.651                 895.0 032090-0
+  EOL AMETISTA                           7.355       28.1  BA              USINA LEILÃO    7.145                         2480.0 030779-3
+  EOL ANEMOI (RIACHAO IV)                7.248       29.0  RN              ESTABILIZADA    6.490    7.248                2522.0 030874-9
+  EOL ANGELIM                            5.651       21.1  BA              ESTABILIZADA    6.759    5.651                1431.0 032091-9
+  EOL ANGICAL                            2.991       12.8  BA              USINA LEILÃO    7.134                          459.0 030732-7
+  EOL ANGICAL 2                          5.805        9.8  BA              USINA LEILÃO    7.134                          683.0 031435-8
+  EOL ANGICO                             5.552        7.9  BA              USINA LEILÃO    7.033                          526.0 031404-8
+  EOL ANGICOS II                         7.846       28.8  RN              ESTABILIZADA    7.846    7.846                2712.0 035166-0
+  EOL APELIOTES(RIACHAO VI)              7.248       29.0  RN              ESTABILIZADA    6.490    7.248                2522.0 030872-2
+  EOL ARAPAPA                            5.802        3.9  BA              USINA LEILÃO    7.134                          272.0 031434-0
+  EOL ARARINHA AZUL                      8.307       20.8  BA              ESTABILIZADA    7.134    8.307                2073.0 037001-0
+  EOL ARENA (RIACHAO VII)                7.248       29.1  RN              ESTABILIZADA    6.490    7.248                2531.0 030873-0
+  EOL AROEIRA                            6.711       30.0  RN              USINA LEILÃO    6.967                         2416.0 031801-9
+  EOL ASA BRANCA I                       7.834       26.5  RN              ESTABILIZADA    6.967    7.834                2491.0 030505-7
+  EOL ASA BRANCA II                      7.784       25.8  RN              USINA LEILÃO    6.967                         2410.0 030547-2
+  EOL ASA BRANCA III                     7.784       26.5  RN              USINA LEILÃO    6.967                         2475.0 030548-0
+  EOL ASA BRANCA IV                      7.784       30.0  RN              USINA LEILÃO    6.967                         2802.0 030498-0
+  EOL ASA BRANCA V                       6.754       30.0  RN              ESTABILIZADA    6.967    6.754                2431.0 030507-3
+  EOL ASA BRANCA VI                      7.784       30.0  RN              USINA LEILÃO    6.967                         2802.0 030520-0
+  EOL ASA BRANCA VII                     6.754       30.0  RN              ESTABILIZADA    6.967    6.754                2431.0 030513-8
+  EOL ASA BRANCA VIII                    7.784       30.0  RN              USINA LEILÃO    6.967                         2802.0 030508-1
+  EOL ASSURUA II                         8.556       30.0  BA              USINA LEILÃO    7.452                         3080.0 031343-2
+  EOL ASSURUA III                        7.794       12.5  BA              USINA LEILÃO    7.452                         1169.0 032342-0
+  EOL ASSURUA IV                         7.830       30.0  BA              USINA LEILÃO    7.452                         2819.0 032343-8
+  EOL ASSURUA V                          8.521       20.0  BA              USINA LEILÃO    7.452                         2045.0 031341-6
+  EOL ASSURUA VII                        8.488       18.0  BA              USINA LEILÃO    7.452                         1833.0 031356-4
+  EOL ATLANTICA I                        3.819       29.3  RS              USINA LEILÃO    9.019                         1343.0 030457-3
+  EOL ATLANTICA II                       3.819       29.3  RS              USINA LEILÃO    9.019                         1343.0 030462-0
+  EOL ATLANTICA IV                       3.819       29.3  RS              USINA LEILÃO    9.019                         1343.0 030461-1
+  EOL ATLANTICA V                        3.819       29.3  RS              USINA LEILÃO    9.019                         1343.0 030480-8
+  EOL AURA LAGOA DO BARRO 01             6.776       26.9  PI              USINA LEILÃO    7.426                         2187.0 033621-1
+  EOL AURA LAGOA DO BARRO 02             6.776       26.9  PI              USINA LEILÃO    7.426                         2187.0 033622-0
+  EOL AURA LAGOA DO BARRO 03             6.776       26.9  PI              USINA LEILÃO    7.426                         2187.0 033619-0
+  EOL AURA LAGOA DO BARRO 04             6.776       26.9  PI              USINA LEILÃO    7.426                         2187.0 033620-3
+  EOL AURA LAGOA DO BARRO 05             6.772       23.9  PI              USINA LEILÃO    7.426                         1942.0 033623-8
+  EOL AURA LAGOA DO BARRO 06             6.776       26.9  PI              USINA LEILÃO    7.426                         2187.0 033624-6
+  EOL AURA LAGOA DO BARRO 07             6.776       26.9  PI              USINA LEILÃO    7.426                         2187.0 033618-1
+  EOL AURA MANGUEIRA IV                  5.976       20.9  RS              USINA LEILÃO    9.795                         1499.0 031700-4
+  EOL AURA MANGUEIRA VI                  5.979       26.9  RS              USINA LEILÃO    9.795                         1930.0 031696-2
+  EOL AURA MANGUEIRA VII                 7.819       23.9  RS              USINA LEILÃO    9.795                         2242.0 031805-1
+  EOL AURA MANGUEIRA XI                  5.971        9.0  RS              USINA LEILÃO    9.795                          645.0 031719-5
+  EOL AURA MANGUEIRA XII                 5.974       14.9  RS              USINA LEILÃO    9.795                         1068.0 031653-9
+  EOL AURA MANGUEIRA XIII                5.973       14.9  RS              USINA LEILÃO    9.795                         1068.0 031646-6
+  EOL AURA MANGUEIRA XV                  5.974       17.9  RS              USINA LEILÃO    9.795                         1283.0 031647-4
+  EOL AURA MANGUEIRA XVII                5.973       14.9  RS              USINA LEILÃO    9.795                         1068.0 031705-5
+  EOL AURA MIRIM II                      7.821       29.9  RS              USINA LEILÃO    9.795                         2806.0 031806-0
+  EOL AURA MIRIM IV                      5.973       14.9  RS              USINA LEILÃO    9.795                         1068.0 031663-6
+  EOL AURA MIRIM VI                      5.970        8.7  RS              USINA LEILÃO    9.795                          623.0 031701-2
+  EOL AURA MIRIM VIII                    5.970        9.0  RS              USINA LEILÃO    9.795                          645.0 031699-7
+  EOL AURA QUEIMADA NOVA 03              6.751        9.0  PI              USINA LEILÃO    7.426                          729.0 033625-4
+  EOL AVENTURA I                         7.185       27.2  RN              USINA LEILÃO    7.092                         2345.0 031887-6
+  EOL AVENTURA II                        9.769       20.6  RN              USINA LEILÃO    7.092                         2415.0 033002-7
+  EOL AVENTURA III                       9.770       24.9  RN              USINA LEILÃO    7.092                         2919.0 033026-4
+  EOL AVENTURA IV                        9.770       29.0  RN              USINA LEILÃO    7.092                         3400.0 037949-2
+  EOL AVENTURA V                         9.771       28.8  RN              USINA LEILÃO    7.092                         3377.0 037950-6
+  EOL B.VENTOS(VENTOS)                   7.054       48.0  CE              ESTABILIZADA    7.072    7.054                4063.0 028887-0
+  EOL BAIXA DO FEIJAO I                  6.711       29.7  RN              USINA LEILÃO    6.967                         2392.0 030932-0
+  EOL BAIXA DO FEIJAO II                 6.711       29.6  RN              USINA LEILÃO    6.967                         2384.0 030933-8
+  EOL BAIXA DO FEIJAO III                6.711       29.8  RN              USINA LEILÃO    6.967                         2400.0 030934-6
+  EOL BAIXA DO FEIJAO IV                 6.711       29.7  RN              USINA LEILÃO    6.967                         2392.0 030931-1
+  EOL BANDA DE COURO                     6.400       30.0  BA              USINA LEILÃO    7.900                         2304.0 031607-5
+  EOL BARAUNAS I                         6.844       30.0  BA              USINA LEILÃO    7.900                         2464.0 031335-1
+  EOL BARAUNAS II                        6.390       25.6  BA              USINA LEILÃO    7.900                         1963.0 031667-9
+  EOL BARBATIMAO                         5.651       15.8  BA              ESTABILIZADA    6.759    5.651                1071.0 032093-5
+  EOL BELA VISTA (AREIA BRANCA)         12.787       27.3  RN              USINA LEILÃO    7.634                         4189.0 030340-2
+  EOL BOA ESPERANCA I                    6.497       30.0  RN              USINA LEILÃO    6.967                         2339.0 033666-1
+  EOL BOA VISTA DA LAGOINHA              7.271       29.6  BA              ESTABILIZADA    7.409    7.271                2583.0 032759-0
+  EOL BONS VENTOS CACIMBAS 2             5.723       24.8  CE              USINA LEILÃO    6.466                         1703.0 031644-0
+  EOL BONS VENTOS CACIMBAS 3             5.708       14.2  CE              USINA LEILÃO    6.466                          973.0 031627-0
+  EOL BONS VENTOS CACIMBAS 4             5.701       10.5  CE              USINA LEILÃO    6.466                          718.0 031621-0
+  EOL BONS VENTOS CACIMBAS 5             5.720       22.6  CE              USINA LEILÃO    6.466                         1551.0 031579-6
+  EOL BONS VENTOS CACIMBAS 7             5.711       16.4  CE              USINA LEILÃO    6.466                         1124.0 031611-3
+  EOL BORGO                              7.324       20.2  BA              USINA LEILÃO    7.134                         1775.0 030837-4
+  EOL BURITI                             8.584       29.5  CE              USINA LEILÃO    6.472                         3039.0 030279-1
+  EOL CABECO PRETO III                   6.709       25.0  RN              USINA LEILÃO    6.967                         2013.0 031015-8
+  EOL CABECO PRETO V                     6.709       25.7  RN              USINA LEILÃO    6.967                         2069.0 030876-5
+  EOL CABECO PRETO VI                    6.701       17.8  RN              USINA LEILÃO    6.967                         1431.0 030900-1
+  EOL CABECO VERMELHO                    6.711       28.0  RN              USINA LEILÃO    6.967                         2255.0 031651-2
+  EOL CABECO VERMELHO II                 6.705       16.5  RN              USINA LEILÃO    6.967                         1328.0 031665-2
+  EOL CACIMBAS 1                         5.197       18.3  CE              ESTABILIZADA    6.876    5.197                1141.0 032011-0
+  EOL CAETITE                            7.355       30.0  BA              USINA LEILÃO    7.134                         2648.0 030792-0
+  EOL CAETITE 1                          6.061       29.4  BA              ESTABILIZADA    7.145    6.061                2138.0 030976-1
+  EOL CAETITE 2                          6.126       29.5  BA              USINA LEILÃO    7.145                         2169.0 030437-9
+  EOL CAETITE 3                          6.126       29.1  BA              USINA LEILÃO    7.145                         2139.0 030448-4
+  EOL CAETITE A                          5.616       23.5  BA              USINA LEILÃO    7.145                         1584.0 031344-0
+  EOL CAETITE B                          5.616       21.8  BA              USINA LEILÃO    7.145                         1469.0 031342-4
+  EOL CAETITE C                          5.655        8.4  BA              USINA LEILÃO    7.145                          570.0 031523-0
+  EOL CAICARA I                          6.645       26.6  RN              USINA LEILÃO    7.634                         2121.0 030895-1
+  EOL CAICARA II                         6.611       17.8  RN              USINA LEILÃO    7.634                         1412.0 030915-0
+  EOL CAITITU                            3.018       22.0  BA              USINA LEILÃO    7.134                          797.0 030739-4
+  EOL CAITITU 2                          5.805        9.8  BA              USINA LEILÃO    7.134                          683.0 031432-3
+  EOL CAITITU 3                          5.805        9.8  BA              USINA LEILÃO    7.134                          683.0 031459-5
+  EOL CAJUCOCO                           8.584       29.6  CE              USINA LEILÃO    6.586                         3049.0 030294-5
+  EOL CALANGO 1                          6.541       29.5  RN              ESTABILIZADA    7.535    6.541                2316.0 030511-1
+  EOL CALANGO 2                          6.541       29.5  RN              ESTABILIZADA    7.535    6.541                2316.0 030519-7
+  EOL CALANGO 3                          6.541       29.6  RN              ESTABILIZADA    7.535    6.541                2323.0 030545-6
+  EOL CALANGO 4                          6.541       29.3  RN              ESTABILIZADA    7.535    6.541                2300.0 030537-5
+  EOL CALANGO 5                          6.541       29.3  RN              ESTABILIZADA    7.535    6.541                2300.0 030552-9
+  EOL CALANGO 6                          7.939       29.1  RN              USINA LEILÃO    7.535                         2772.0 031812-4
+  EOL CAMPO DOS VENTOS I                 5.652       24.7  RN              ESTABILIZADA    6.967    5.652                1675.0 031072-7
+  EOL CAMPO DOS VENTOS II                6.754       29.5  RN              ESTABILIZADA    6.967    6.754                2391.0 030500-6
+  EOL CAMPO DOS VENTOS III               5.652       24.7  RN              ESTABILIZADA    6.967    5.652                1675.0 031071-9
+  EOL CAMPO DOS VENTOS V                 5.652       24.7  RN              ESTABILIZADA    6.967    5.652                1675.0 031069-7
+  EOL CAMPO LARGO I                      9.256       28.8  BA              ESTABILIZADA    7.703    9.256                3199.0 034613-6
+  EOL CAMPO LARGO II                     9.583       28.8  BA              ESTABILIZADA    7.703    9.583                3312.0 034633-0
+  EOL CAMPO LARGO III                    7.364       28.8  BA              USINA LEILÃO    7.703                         2545.0 033628-9
+  EOL CAMPO LARGO IV                     7.364       28.8  BA              USINA LEILÃO    7.703                         2545.0 033629-7
+  EOL CAMPO LARGO IX                     8.366       24.4  BA              ESTABILIZADA    7.703    8.366                2450.0 034631-4
+  EOL CAMPO LARGO V                      7.364       28.8  BA              USINA LEILÃO    7.703                         2545.0 033630-0
+  EOL CAMPO LARGO VI                     7.364       28.8  BA              USINA LEILÃO    7.703                         2545.0 033631-9
+  EOL CAMPO LARGO VII                    7.364       28.8  BA              USINA LEILÃO    7.703                         2545.0 033632-7
+  EOL CAMPO LARGO VIII                   8.366       32.6  BA              ESTABILIZADA    7.703    8.366                3273.0 034614-4
+  EOL CAMPO LARGO X                      8.366       32.6  BA              ESTABILIZADA    7.703    8.366                3273.0 034630-6
+  EOL CAMPO LARGO XI                     8.366       16.3  BA              ESTABILIZADA    7.703    8.366                1636.0 034625-0
+  EOL CAMPO LARGO XII                    8.366       53.0  BA              ESTABILIZADA    7.703    8.366                5321.0 034623-3
+  EOL CAMPO LARGO XIII                   8.366       40.7  BA              ESTABILIZADA    7.703    8.366                4086.0 034622-5
+  EOL CAMPO LARGO XIV                    8.366       20.4  BA              ESTABILIZADA    7.703    8.366                2048.0 034634-9
+  EOL CAMPO LARGO XIX                    8.366       32.6  BA              ESTABILIZADA    7.703    8.366                3273.0 034645-4
+  EOL CAMPO LARGO XV                     9.256       28.8  BA              ESTABILIZADA    7.703    9.256                3199.0 034636-5
+  EOL CAMPO LARGO XVI                    9.256       28.8  BA              ESTABILIZADA    7.703    9.256                3199.0 034637-3
+  EOL CAMPO LARGO XVII                   8.366       28.5  BA              ESTABILIZADA    7.703    8.366                2861.0 034638-1
+  EOL CAMPO LARGO XVIII                  9.256       28.8  BA              ESTABILIZADA    7.703    9.256                3199.0 034643-8
+  EOL CAMPO LARGO XX                     8.366       36.7  BA              ESTABILIZADA    7.703    8.366                3684.0 034647-0
+  EOL CAMPO LARGO XXI                    7.365       28.8  BA              USINA LEILÃO    7.703                         2545.0 033633-5
+  EOL CAMPO LARGO XXII                   8.366       32.6  BA              ESTABILIZADA    7.703    8.366                3273.0 034648-9
+  EOL CANDIBA                            6.899       10.1  BA              USINA LEILÃO    7.145                          836.0 030316-0
+  EOL CANOA QUEBRADA(VENTOS)             7.054       55.0  CE              ESTABILIZADA    7.072    7.054                4656.0 028788-1
+  EOL CAPAO DO INGLES                    6.676        9.8  RS              USINA LEILÃO   10.207                          785.0 031510-9
+  EOL CAPOEIRAS III                      7.826       27.5  BA              USINA LEILÃO    7.452                         2583.0 032344-6
+  EOL CARCARA                            5.802        9.8  BA              USINA LEILÃO    7.134                          682.0 031447-1
+  EOL CARCARA I                          6.992       30.0  RN              USINA LEILÃO    7.634                         2517.0 030832-3
+  EOL CARCARA II                         6.038       30.0  RN              USINA LEILÃO    7.634                         2174.0 030897-8
+  EOL CARNAUBAS                          7.811       27.0  RN              USINA LEILÃO    7.114                         2531.0 030831-5
+  EOL CASA NOVA II                       6.132       30.0  BA              USINA LEILÃO    7.900                         2208.0 031519-2
+  EOL CASA NOVA III                      6.127       28.2  BA              USINA LEILÃO    7.900                         2073.0 031524-9
+  EOL CATAVENTOS ACARAU I                6.873       27.0  CE              ESTABILIZADA    6.586    6.873                2227.0 033756-0
+  EOL CEDRO                              5.563       12.0  BA              ESTABILIZADA    6.759    5.563                 801.0 032098-6
+  EOL CERRO CHATO I                      6.596       29.3  RS              USINA LEILÃO   10.207                         2319.0 030348-8
+  EOL CERRO CHATO II                     6.596       29.3  RS              USINA LEILÃO   10.207                         2319.0 030349-6
+  EOL CERRO CHATO III                    6.596       29.4  RS              USINA LEILÃO   10.207                         2327.0 030350-0
+  EOL CHUI 09                            6.905       17.6  RS              USINA LEILÃO    9.859                         1458.0 031517-6
+  EOL CHUI I                             6.037       23.8  RS              USINA LEILÃO    9.859                         1724.0 030767-0
+  EOL CHUI II                            6.035       21.6  RS              USINA LEILÃO    9.859                         1564.0 030790-4
+  EOL CHUI IV                            6.035       21.6  RS              USINA LEILÃO    9.859                         1564.0 030754-8
+  EOL CHUI V                             6.043       29.4  RS              USINA LEILÃO    9.859                         2132.0 030760-2
+  EOL COLONIA                            8.604       18.5  CE              USINA LEILÃO    6.876                         1910.0 030295-3
+  EOL COQUEIRINHO                        3.028       29.3  BA              USINA LEILÃO    7.134                         1065.0 030738-6
+  EOL COQUEIRINHO 2                      5.795       15.6  BA              USINA LEILÃO    7.134                         1085.0 031518-4
+  EOL COQUEIROS                          8.584       26.6  CE              USINA LEILÃO    6.472                         2740.0 030282-1
+  EOL CORRUPIAO                          3.028       27.5  BA              USINA LEILÃO    7.134                          999.0 030752-1
+  EOL CORRUPIAO 2                        7.874       18.4  BA              ESTABILIZADA    7.134    7.874                1739.0 037019-3
+  EOL CORRUPIAO 3                        5.805        9.7  BA              USINA LEILÃO    7.134                          676.0 031458-7
+  EOL COSTA BRANCA                       7.399       20.3  RN              USINA LEILÃO    6.967                         1802.0 030672-0
+  EOL COSTA DAS DUNAS                    9.329       27.8  RN              USINA LEILÃO    7.114                         3112.0 037959-0
+  EOL COXILHA SECA                       6.776       29.4  RS              USINA LEILÃO   10.207                         2391.0 031487-0
+  EOL CRISTAL                            5.101       29.2  BA              USINA LEILÃO    7.409                         1787.0 030727-0
+  EOL CRISTALANDIA I                     5.559       29.2  BA              USINA LEILÃO    3.983                         1948.0 032081-1
+  EOL CRISTALANDIA II                    5.559       29.2  BA              USINA LEILÃO    3.983                         1948.0 032082-0
+  EOL CRISTALANDIA III                   5.559       29.4  BA              USINA LEILÃO    3.983                         1961.0 032083-8
+  EOL CURRAL DE PEDRAS I                 7.810       20.0  BA              USINA LEILÃO    7.452                         1874.0 032345-4
+  EOL CURRAL DE PEDRAS II                7.830       27.5  BA              USINA LEILÃO    7.452                         2584.0 032346-2
+  EOL DA PRATA                           5.263       21.8  BA              USINA LEILÃO    7.145                         1377.0 030490-5
+  EOL DAMASCENA                         11.246       29.1  BA              USINA LEILÃO    7.409                         3927.0 031338-6
+  EOL DELFINA I                          6.983       27.3  BA              USINA LEILÃO    7.824                         2288.0 032357-8
+  EOL DELFINA II                         6.983       27.3  BA              USINA LEILÃO    7.824                         2288.0 032358-6
+  EOL DELFINA III                        7.249       27.3  BA              ESTABILIZADA    7.824    7.249                2375.0 032521-0
+  EOL DELFINA IV                         7.249        7.8  BA              ESTABILIZADA    7.824    7.249                 679.0 032522-8
+  EOL DELFINA V                          6.983       27.3  BA              USINA LEILÃO    7.824                         2288.0 032359-4
+  EOL DELFINA VI                         7.249       29.3  BA              ESTABILIZADA    7.824    7.249                2549.0 032523-6
+  EOL DELFINA VII                        7.249       29.3  BA              ESTABILIZADA    7.824    7.249                2549.0 032524-4
+  EOL DELTA 3 I                          4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033682-3
+  EOL DELTA 3 II                         4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033683-1
+  EOL DELTA 3 III                        4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033684-0
+  EOL DELTA 3 IV                         4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033685-8
+  EOL DELTA 3 V                          4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033675-0
+  EOL DELTA 3 VI                         4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033673-4
+  EOL DELTA 3 VII                        4.816       27.2  MA              USINA LEILÃO    6.546                         1572.0 033680-7
+  EOL DELTA 3 VIII                       5.164       27.2  MA              USINA LEILÃO    6.546                         1686.0 033686-6
+  EOL DELTA 5 I                          8.946       26.6  MA              USINA LEILÃO    6.546                         2856.0 037976-0
+  EOL DELTA 5 II                         8.946       26.6  MA              USINA LEILÃO    6.546                         2856.0 037972-7
+  EOL DELTA 6 I                          8.947       29.3  MA              USINA LEILÃO    6.546                         3146.0 037970-0
+  EOL DELTA 6 II                         8.946       23.9  MA              USINA LEILÃO    6.546                         2566.0 037967-0
+  EOL DELTA 7 I                          7.215       26.6  MA              ESTABILIZADA    6.546    7.215                2303.0 040572-8
+  EOL DELTA 7 II                         7.215       34.8  MA              ESTABILIZADA    6.546    7.215                3013.0 040573-6
+  EOL DELTA 8 I                          7.215       34.8  MA              ESTABILIZADA    6.546    7.215                3013.0 040574-4
+  EOL DIAMANTE II                        7.806       17.5  BA              USINA LEILÃO    7.452                         1639.0 032347-0
+  EOL DIAMANTE III                       7.806       17.5  BA              USINA LEILÃO    7.452                         1639.0 032348-9
+  EOL DOIS RIACHOS                      12.848       29.1  BA              USINA LEILÃO    7.409                         4487.0 031121-9
+  EOL DOS ARACAS                         3.241       30.0  BA              USINA LEILÃO    7.145                         1167.0 030495-6
+  EOL DOS INDIOS 2                       5.679       29.9  RS              ESTABILIZADA    9.019    5.679                2038.0 030734-3
+  EOL DOS INDIOS 3                       6.188       23.0  RS              ESTABILIZADA    9.019    6.188                1708.0 030894-3
+  EOL DOS INDIOS(V.DO SUL)               5.557       50.0  RS              ESTABILIZADA    9.019    5.557                3334.0 028864-0
+  EOL DOURADOS                           7.355       28.1  BA              USINA LEILÃO    7.145                         2480.0 030778-5
+  EOL DREEN BOA VISTA                    3.819       13.6  RN              USINA LEILÃO    6.967                          623.0 030512-0
+  EOL DREEN CUTIA                        6.387       22.6  RN              USINA LEILÃO    7.114                         1732.0 030701-7
+  EOL DREEN GUAJIRU                      6.384       20.5  RN              USINA LEILÃO    7.114                         1570.0 030699-1
+  EOL DREEN OLHO DAGUA                   6.226       29.4  RN              USINA LEILÃO    6.967                         2197.0 030549-9
+  EOL EMBUACA                            6.640       26.0  CE              ESTABILIZADA    6.876    6.640                2072.0 030336-4
+  EOL EMILIANA                           7.348       27.4  BA              USINA LEILÃO    7.145                         2416.0 030807-2
+  EOL ENACEL(VENTOS)                     7.054       30.4  CE              ESTABILIZADA    7.072    7.054                2573.0 028770-9
+  EOL ESPERANCA                         11.246       27.2  BA              USINA LEILÃO    7.409                         3671.0 031355-6
+  EOL ESPERANCA DO NORDESTE              6.392       26.8  RN              USINA LEILÃO    7.114                         2056.0 032354-3
+  EOL ESPIGAO                            7.295       10.1  BA              USINA LEILÃO    7.134                          884.0 030803-0
+  EOL ESTRELA                            5.012       28.8  CE              USINA LEILÃO    6.876                         1732.0 032010-2
+  EOL EURUS I                            7.784       29.6  RN              USINA LEILÃO    6.967                         2765.0 030503-0
+  EOL EURUS II                           7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030499-9
+  EOL EURUS III                          7.784       29.6  RN              USINA LEILÃO    6.967                         2765.0 030504-9
+  EOL EURUS IV                           7.511       25.8  RN              ESTABILIZADA    6.967    7.511                2325.0 030509-0
+  EOL EURUS VI                          11.760        7.8  RN              USINA LEILÃO    7.092                         1101.0 030351-8
+  EOL FACHEIO                            5.651       16.1  BA              ESTABILIZADA    6.759    5.651                1092.0 032101-0
+  EOL FAISA I                            8.604       28.5  CE              USINA LEILÃO    6.876                         2943.0 030352-6
+  EOL FAISA II                           8.604       26.4  CE              USINA LEILÃO    6.876                         2726.0 030331-3
+  EOL FAISA III                          8.604       24.3  CE              USINA LEILÃO    6.876                         2509.0 030332-1
+  EOL FAISA IV                           8.604       24.3  CE              USINA LEILÃO    6.876                         2509.0 030329-1
+  EOL FAISA V                            8.604       28.5  CE              USINA LEILÃO    6.876                         2943.0 030309-7
+  EOL FAROL                              6.754       19.5  RN              ESTABILIZADA    6.967    6.754                1580.0 030502-2
+  EOL FAROL DE TOUROS                    9.328       24.4  RN              USINA LEILÃO    7.114                         2731.0 037999-9
+  EOL FIGUEIRA BRANCA                    9.319       10.5  RN              USINA LEILÃO    7.114                         1174.0 038002-4
+  EOL FLEIXEIRAS I                       6.640       28.4  CE              ESTABILIZADA    6.876    6.640                2263.0 030670-3
+  EOL FOLHA DE SERRA                     5.812       20.5  BA              USINA LEILÃO    7.134                         1430.0 031407-2
+  EOL GALPOES                            6.666        7.9  RS              USINA LEILÃO   10.207                          632.0 031477-3
+  EOL GAMELEIRA                          9.324       17.4  RN              USINA LEILÃO    7.114                         1947.0 038006-7
+  EOL GARROTE                            6.546       22.5  RN              ESTABILIZADA    7.788    6.546                1767.0 035197-0
+  EOL GE JANGADA                         6.392       26.8  RN              USINA LEILÃO    7.114                         2056.0 030700-9
+  EOL GE MARIA HELENA                    6.392       26.8  RN              USINA LEILÃO    7.114                         2056.0 030702-5
+  EOL GOIABEIRA                          6.472       22.2  CE              USINA LEILÃO    7.072                         1724.0 030920-6
+  EOL GUAJIRU                            6.640       28.4  CE              ESTABILIZADA    6.876    6.640                2263.0 030663-0
+  EOL GUANAMBI                           6.899       21.8  BA              USINA LEILÃO    7.145                         1805.0 030328-3
+  EOL GUIRAPA                            6.899       30.0  BA              USINA LEILÃO    7.145                         2484.0 030342-9
+  EOL IBIRAPUITA I                       8.884       24.1  RS              USINA LEILÃO   10.207                         2569.0 030750-5
+  EOL ICARAI I                           8.584       26.2  CE              USINA LEILÃO    6.472                         2699.0 030372-0
+  EOL ICARAI II                          8.584       36.4  CE              USINA LEILÃO    6.472                         3749.0 030356-9
+  EOL ICARAIZINHO                        7.435       53.0  CE              ESTABILIZADA    6.472    7.435                4729.0 028699-0
+  EOL IGAPORA                            6.899       30.0  BA              USINA LEILÃO    7.145                         2484.0 030321-6
+  EOL ILHA GRANDE (EOLOS)                7.435       28.2  CE              ESTABILIZADA    6.472    7.435                2516.0 030691-6
+  EOL ILHEUS                             6.899       11.8  BA              USINA LEILÃO    7.145                          977.0 030315-1
+  EOL IMBURANA MACHO                     5.651       15.8  BA              ESTABILIZADA    6.759    5.651                1071.0 032102-8
+  EOL INHAMBU                            3.047       30.0  BA              USINA LEILÃO    7.134                         1097.0 030751-3
+  EOL INHAMBU 2                          7.874       15.9  BA              ESTABILIZADA    7.134    7.874                1502.0 032487-6
+  EOL ITAREMA I                          6.335       26.4  CE              USINA LEILÃO    6.586                         2007.0 031485-4
+  EOL ITAREMA II                         6.340       26.4  CE              USINA LEILÃO    6.586                         2009.0 031483-8
+  EOL ITAREMA III                        6.299       14.6  CE              USINA LEILÃO    6.586                         1104.0 031484-6
+  EOL ITAREMA IV                         8.686       20.6  CE              USINA LEILÃO    6.586                         2147.0 031813-2
+  EOL ITAREMA IX                         8.714       29.4  CE              USINA LEILÃO    6.586                         3074.0 031814-0
+  EOL ITAREMA V                          6.330       20.5  CE              USINA LEILÃO    6.586                         1557.0 031482-0
+  EOL ITAREMA VI                         8.695       23.5  CE              USINA LEILÃO    6.586                         2452.0 031815-9
+  EOL ITAREMA VII                        8.686       20.6  CE              USINA LEILÃO    6.586                         2147.0 031816-7
+  EOL ITAREMA VIII                       8.686       20.6  CE              USINA LEILÃO    6.586                         2147.0 031817-5
+  EOL JABUTICABA                         5.801        8.8  BA              USINA LEILÃO    7.134                          613.0 031405-6
+  EOL JACARANDA DO CERRADO               5.812       20.5  BA              USINA LEILÃO    7.134                         1430.0 031408-0
+  EOL JANDAIA                            6.542       26.2  CE              USINA LEILÃO    7.072                         2057.0 030929-0
+  EOL JANDAIA I                          6.472       23.3  CE              USINA LEILÃO    7.072                         1810.0 030907-9
+  EOL JATAI                              5.651       15.8  BA              ESTABILIZADA    6.759    5.651                1071.0 032104-4
+  EOL JERICO                             6.711       30.0  RN              USINA LEILÃO    6.967                         2416.0 031802-7
+  EOL JOANA                              7.345       27.4  BA              USINA LEILÃO    7.145                         2415.0 030801-3
+  EOL JUAZEIRO                           5.651       18.4  BA              ESTABILIZADA    6.759    5.651                1248.0 032106-0
+  EOL JUNCO I                            6.645       23.7  RN              USINA LEILÃO    7.634                         1890.0 030902-8
+  EOL JUNCO II                           6.645       23.7  RN              USINA LEILÃO    7.634                         1890.0 030914-1
+  EOL JUREMAS                            7.390       15.8  RN              USINA LEILÃO    6.967                         1401.0 030660-6
+  EOL LANCHINHA                          4.067       27.5  RN              USINA LEILÃO    7.535                         1342.0 030860-9
+  EOL LARANJEIRAS I                      7.826       27.5  BA              USINA LEILÃO    7.452                         2583.0 032349-7
+  EOL LARANJEIRAS II                     7.830       30.0  BA              USINA LEILÃO    7.452                         2819.0 032350-0
+  EOL LARANJEIRAS III                    7.348       25.0  BA              USINA LEILÃO    7.482                         2204.0 033626-2
+  EOL LARANJEIRAS IX                     7.347       25.0  BA              USINA LEILÃO    7.482                         2204.0 033627-0
+  EOL LARANJEIRAS V                      7.822       25.0  BA              USINA LEILÃO    7.452                         2347.0 032351-9
+  EOL LICINIO DE ALMEIDA                 6.899       25.2  BA              USINA LEILÃO    7.145                         2086.0 030317-8
+  EOL MACACOS                            7.399       20.3  RN              USINA LEILÃO    6.967                         1802.0 030661-4
+  EOL MACAMBIRA I                        5.580       17.0  RN              USINA LEILÃO    7.535                         1138.0 031025-5
+  EOL MACAMBIRA II                       5.572       17.7  RN              USINA LEILÃO    7.535                         1183.0 031026-3
+  EOL MACAUBAS                           5.934       30.0  BA              USINA LEILÃO    7.573                         2136.0 030283-0
+  EOL MALHADINHA I                       9.161       22.1  CE              USINA LEILÃO    6.466                         2429.0 030841-2
+  EOL MANICOBA                          11.246       29.1  BA              USINA LEILÃO    7.409                         3927.0 031337-8
+  EOL MANINEIRO                          5.651       14.0  BA              ESTABILIZADA    6.759    5.651                 949.0 032245-8
+  EOL MAR E TERRA                       12.787       22.9  RN              USINA LEILÃO    7.634                         3514.0 030389-5
+  EOL MARON                              7.355       29.8  BA              USINA LEILÃO    7.145                         2630.0 030768-8
+  EOL MIASSABA III                      14.240       66.4  RN              USINA LEILÃO    7.846                        11346.0 030339-9
+  EOL MINUANO I                          6.035       21.3  RS              USINA LEILÃO    9.859                         1543.0 030844-7
+  EOL MINUANO II                         6.037       23.3  RS              USINA LEILÃO    9.859                         1688.0 030791-2
+  EOL MODELO I                           7.818       29.6  RN              USINA LEILÃO    7.092                         2777.0 030787-4
+  EOL MODELO II                          7.800       25.9  RN              USINA LEILÃO    7.092                         2424.0 030788-2
+  EOL MORRAO                             6.985       30.0  BA              ESTABILIZADA    7.145    6.985                2515.0 030506-5
+  EOL MORRO BRANCO I                     6.844       30.0  BA              USINA LEILÃO    7.900                         2464.0 031336-0
+  EOL MORRO DOS VENTOS I                10.989       27.9  RN              USINA LEILÃO    7.092                         3679.0 030301-1
+  EOL MORRO DOS VENTOS II                6.709       28.2  RN              USINA LEILÃO    6.967                         2270.0 030889-7
+  EOL MORRO DOS VENTOS III              10.989       28.2  RN              USINA LEILÃO    7.092                         3719.0 030310-0
+  EOL MORRO DOS VENTOS IV               10.989       28.2  RN              USINA LEILÃO    7.092                         3719.0 030311-9
+  EOL MORRO DOS VENTOS IX               10.989       28.7  RN              USINA LEILÃO    7.092                         3785.0 030302-0
+  EOL MORRO DOS VENTOS VI               10.989       27.4  RN              USINA LEILÃO    7.092                         3613.0 030300-3
+  EOL MUNDAU                             5.179       28.3  CE              ESTABILIZADA    6.876    5.179                1759.0 030656-8
+  EOL MUSSAMBE                           6.844       30.0  BA              USINA LEILÃO    7.900                         2464.0 031352-1
+  EOL N.S.DA CONCEICAO                   6.899       30.0  BA              USINA LEILÃO    7.145                         2484.0 030318-6
+  EOL NOSSA SENHORA DE FATIMA            6.542       29.1  CE              USINA LEILÃO    7.072                         2284.0 030930-3
+  EOL NOVO HORIZONTE                     5.934       30.0  BA              USINA LEILÃO    7.573                         2136.0 030305-4
+  EOL OSORIO 2 (V.LITORAL)               3.672       27.6  RS              USINA LEILÃO    9.019                         1216.0 030286-4
+  EOL OSORIO 3 (V.LITORAL)               3.807       29.9  RS              USINA LEILÃO    9.019                         1366.0 030449-2
+  EOL OSORIO(V.DO SUL)                   5.557       50.0  RS              ESTABILIZADA    9.019    5.557                3334.0 028810-1
+  EOL OURO VERDE                         5.197       28.8  CE              ESTABILIZADA    6.876    5.197                1796.0 032012-9
+  EOL PAJEU DO VENTO                     6.899       26.9  BA              USINA LEILÃO    7.145                         2227.0 030319-4
+  EOL PALMAS (B. DO CORREGO)             5.530       23.1  CE              ESTABILIZADA    6.472    5.530                1533.0 030697-5
+  EOL PAPAGAIO                           5.794        9.7  BA              USINA LEILÃO    7.134                          674.0 031511-7
+  EOL PARAISO VENTOS DO NE               6.392       26.8  RN              USINA LEILÃO    7.114                         2056.0 032355-1
+  EOL PAU D'AGUA                         5.651       17.5  BA              ESTABILIZADA    6.759    5.651                1187.0 032246-6
+  EOL PAU FERRO                          5.930       29.6  PE              USINA LEILÃO    7.577                         2106.0 030805-6
+  EOL PAU SANTO                          6.625       18.7  BA              USINA LEILÃO    7.134                         1487.0 032363-2
+  EOL PEDRA BRANCA                       6.392       29.3  BA              USINA LEILÃO    7.900                         2247.0 030443-3
+  EOL PEDRA CHEIROSA                     5.593       24.7  CE              USINA LEILÃO    6.472                         1658.0 031736-5
+  EOL PEDRA CHEIROSA II                  5.591       22.6  CE              USINA LEILÃO    6.472                         1516.0 031698-9
+  EOL PEDRA DO GERONIMO                  5.930       29.6  PE              USINA LEILÃO    7.577                         2106.0 030806-4
+  EOL PEDRA PRETA                        7.399       20.3  RN              USINA LEILÃO    6.967                         1802.0 030671-1
+  EOL PEDRA RAJADA                       6.308       19.3  RN              USINA LEILÃO    7.535                         1461.0 032352-7
+  EOL PEDRA RAJADA II                    6.308       19.3  RN              USINA LEILÃO    7.535                         1461.0 032353-5
+  EOL PELADO                             4.052       19.5  RN              USINA LEILÃO    7.535                          948.0 030856-0
+  EOL PELOURINHO                         7.332       21.8  BA              USINA LEILÃO    7.134                         1918.0 030793-9
+  EOL PILOES                             7.355       29.8  BA              USINA LEILÃO    7.145                         2630.0 030776-9
+  EOL PINDAI                             6.899       25.2  BA              USINA LEILÃO    7.145                         2086.0 030324-0
+  EOL PITOMBEIRA                         6.527       26.2  CE              USINA LEILÃO    7.072                         2052.0 030926-5
+  EOL PLANALTINA                         6.899       28.6  BA              USINA LEILÃO    7.145                         2368.0 030322-4
+  EOL PONTAL 2A                          4.931       21.6  RS              USINA LEILÃO    7.652                         1278.0 031509-5
+  EOL PONTAL 2B                          3.322       11.2  RS              USINA LEILÃO    7.652                          446.0 030460-3
+  EOL PONTAL 3B                          5.311       27.0  RS              USINA LEILÃO    7.652                         1721.0 030901-0
+  EOL PORTO SEGURO                       6.899        6.7  BA              USINA LEILÃO    7.145                          555.0 030323-2
+  EOL POTIGUAR                           6.392       26.8  RN              USINA LEILÃO    7.114                         2056.0 032356-0
+  EOL PRAIA DO MORGADO                   6.932       27.1  CE              ESTABILIZADA    6.586    6.932                2254.0 028440-8
+  EOL PRAIA FORMOSA                      6.864      100.0  CE              ESTABILIZADA    6.472    6.864                8237.0 028631-1
+  EOL PRIMAVERA                          5.101       29.4  BA              USINA LEILÃO    7.409                         1800.0 030726-2
+  EOL REDUTO                             7.645       26.5  RN              USINA LEILÃO    7.114                         2431.0 030843-9
+  EOL REI DOS VENTOS 1                  14.240       56.7  RN              USINA LEILÃO    7.846                         9689.0 030416-6
+  EOL REI DOS VENTOS 3                  14.240       58.3  RN              USINA LEILÃO    7.846                         9962.0 030417-4
+  EOL RENASCENCA I                       7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030515-4
+  EOL RENASCENCA II                      7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030516-2
+  EOL RENASCENCA III                     7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030527-8
+  EOL RENASCENCA IV                      7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030551-0
+  EOL RENASCENCA V                       7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030497-2
+  EOL RIBEIRAO (EOLOS)                   7.435       20.5  CE              ESTABILIZADA    6.472    7.435                1829.0 030695-9
+  EOL RIO VERDE                          6.899       30.0  BA              USINA LEILÃO    7.145                         2484.0 030341-0
+  EOL SABIU                              5.651       13.2  BA              ESTABILIZADA    6.759    5.651                 895.0 032108-7
+  EOL SANGRADOURO 2(V.LAGOA)             3.672       29.9  RS              USINA LEILÃO    9.019                         1318.0 030381-0
+  EOL SANGRADOURO 3(V.LAGOA)             3.672       27.6  RS              USINA LEILÃO    9.019                         1216.0 030330-5
+  EOL SANGRADOURO(V.DO SUL)              5.557       50.0  RS              ESTABILIZADA    9.019    5.557                3334.0 028811-0
+  EOL SANTA CATARINA                     6.453       18.1  CE              USINA LEILÃO    7.072                         1402.0 030924-9
+  EOL SANTA CLARA I                     11.760       29.2  RN              USINA LEILÃO    7.092                         4121.0 030292-9
+  EOL SANTA CLARA II                    11.760       29.2  RN              USINA LEILÃO    7.092                         4121.0 030308-9
+  EOL SANTA CLARA III                   11.760       29.2  RN              USINA LEILÃO    7.092                         4121.0 030293-7
+  EOL SANTA CLARA IV                    11.760       29.2  RN              USINA LEILÃO    7.092                         4121.0 030307-0
+  EOL SANTA CLARA V                     11.760       29.2  RN              USINA LEILÃO    7.092                         4121.0 030378-0
+  EOL SANTA CLARA VI                    11.760       29.2  RN              USINA LEILÃO    7.092                         4121.0 030304-6
+  EOL SANTA EDWIGES (BRITE)              6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031270-3
+  EOL SANTA HELENA                       6.574       28.5  RN              USINA LEILÃO    6.967                         2248.0 030834-0
+  EOL SANTA MONICA                       5.639       28.8  RN              ESTABILIZADA    6.967    5.639                1949.0 031427-7
+  EOL SANTA MONICA I                     5.197       18.3  CE              ESTABILIZADA    6.876    5.197                1141.0 032013-7
+  EOL SANTA URSULA                       5.639       26.9  RN              ESTABILIZADA    6.967    5.639                1820.0 031425-0
+  EOL SANTA VERIDIANA                    5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031685-7
+  EOL SANTA VERONICA                     5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031686-5
+  EOL SANTANA I                          7.939       29.0  RN              USINA LEILÃO    7.535                         2763.0 031810-8
+  EOL SANTANA II                         7.931       23.2  RN              USINA LEILÃO    7.535                         2208.0 031811-6
+  EOL SANTO AMARO DO PIAUI               5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031691-1
+  EOL SANTO ANASTACIO                    5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031690-3
+  EOL SANTO ANTONIO DE PADUA             5.943       14.2  CE              USINA LEILÃO    6.876                         1013.0 030916-8
+  EOL SANTO CRISTO                       7.818       26.1  RN              USINA LEILÃO    7.114                         2449.0 030849-8
+  EOL SANTO INACIO III                   6.571       29.0  RN              ESTABILIZADA    7.788    6.571                2287.0 035217-9
+  EOL SANTO INACIO IV                    6.571       22.8  RN              ESTABILIZADA    7.788    6.571                1798.0 031866-3
+  EOL SAO BASILIO                        5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031689-0
+  EOL SAO BENTO DO NORTE                 6.754       29.3  RN              ESTABILIZADA    6.967    6.754                2375.0 030536-7
+  EOL SAO BENTO DO NORTE I               6.556       22.6  RN              USINA LEILÃO    7.092                         1778.0 033640-8
+  EOL SAO BENTO DO NORTE II              6.556       22.6  RN              USINA LEILÃO    7.092                         1778.0 033642-4
+  EOL SAO BENTO DO NORTE III             6.556       22.6  RN              USINA LEILÃO    7.092                         1778.0 033643-2
+  EOL SAO CLEMENTE                       6.472       20.4  CE              USINA LEILÃO    7.072                         1584.0 030927-3
+  EOL SAO CRISTOVAO                      5.951       25.6  CE              USINA LEILÃO    6.876                         1828.0 030912-5
+  EOL SAO DOMINGOS                       5.639       24.7  RN              ESTABILIZADA    6.967    5.639                1671.0 032215-6
+  EOL SAO FELIX                          5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031688-1
+  EOL SAO FERNANDO 1                     8.015       75.6  RN              ESTABILIZADA    7.054    8.015                7271.0 037073-8
+  EOL SAO FERNANDO 2                     9.479       70.0  RN              USINA LEILÃO    7.054                         7962.0 037075-4
+  EOL SAO JANUARIO                       6.472       20.4  CE              USINA LEILÃO    7.072                         1584.0 030921-4
+  EOL SAO JOAO                           7.818       27.0  RN              USINA LEILÃO    7.114                         2533.0 030804-8
+  EOL SAO JORGE                          5.949       24.2  CE              USINA LEILÃO    6.876                         1728.0 030911-7
+  EOL SAO JUDAS                          5.101       29.1  BA              USINA LEILÃO    7.409                         1781.0 030725-4
+  EOL SAO MIGUEL I                       6.556       20.5  RN              USINA LEILÃO    7.114                         1613.0 033644-0
+  EOL SAO MIGUEL II                      6.556       20.5  RN              USINA LEILÃO    7.114                         1613.0 033645-9
+  EOL SAO MIGUEL III                     6.556       20.5  RN              USINA LEILÃO    7.114                         1613.0 033647-5
+  EOL SAO MOISES                         5.998       28.7  PI              ESTABILIZADA    7.738    5.998                2066.0 031687-3
+  EOL SAO PEDRO DO LAGO                  6.392       29.3  BA              USINA LEILÃO    7.900                         2247.0 030456-5
+  EOL SAO RAIMUNDO                       6.571       22.9  RN              ESTABILIZADA    7.788    6.571                1806.0 035219-5
+  EOL SAO SALVADOR                       8.380       18.4  BA              USINA LEILÃO    7.145                         1850.0 031120-0
+  EOL SEABRA                             5.934       30.0  BA              USINA LEILÃO    7.573                         2136.0 030306-2
+  EOL SERAIMA                            5.285       30.0  BA              USINA LEILÃO    7.145                         1903.0 030546-4
+  EOL SERRA DA BABILONIA A              10.481       20.0  BA              USINA LEILÃO    7.409                         2515.0 037083-5
+  EOL SERRA DA BABILONIA B               8.322       30.0  BA              ESTABILIZADA    7.409    8.322                2996.0 040608-2
+  EOL SERRA DA BABILONIA C              10.483       25.0  BA              USINA LEILÃO    7.409                         3145.0 040609-0
+  EOL SERRA DA BABILONIA D               8.289       30.0  BA 0.667        ESTABILIZADA    7.409    8.222    8.322       2984.0 040610-4
+  EOL SERRA DA BABILONIA E              10.485       25.0  BA              USINA LEILÃO    7.409                         3146.0 040611-2
+  EOL SERRA DA BABILONIA F              10.480       20.0  BA              USINA LEILÃO    7.409                         2515.0 040612-0
+  EOL SERRA DA BABILONIA II              6.937       28.2  BA              USINA LEILÃO    7.409                         2347.0 032462-0
+  EOL SERRA DA BABILONIA IX              6.934       28.2  BA              USINA LEILÃO    7.409                         2346.0 032465-5
+  EOL SERRA DA BABILONIA VI              6.934       25.9  BA              USINA LEILÃO    7.409                         2155.0 032466-3
+  EOL SERRA DA BABILONIA VII             6.934       28.2  BA              USINA LEILÃO    7.409                         2346.0 032467-1
+  EOL SERRA DA BABILONIA VIII            6.934       28.2  BA              USINA LEILÃO    7.409                         2346.0 032468-0
+  EOL SERRA DA BABILONIA X               6.934       28.2  BA              USINA LEILÃO    7.409                         2346.0 032469-8
+  EOL SERRA DA BABILONIA XI              6.936       28.2  BA              USINA LEILÃO    7.409                         2347.0 032470-1
+  EOL SERRA DA BABILONIA XII             6.936       28.2  BA              USINA LEILÃO    7.409                         2347.0 032471-0
+  EOL SERRA DAS VACAS I                  5.396       23.4  PE              USINA LEILÃO    6.449                         1515.0 031537-0
+  EOL SERRA DAS VACAS II                 5.396       21.8  PE              USINA LEILÃO    6.449                         1412.0 031540-0
+  EOL SERRA DAS VACAS III                5.396       21.7  PE              USINA LEILÃO    6.449                         1405.0 031560-5
+  EOL SERRA DAS VACAS IV                 5.396       21.8  PE              USINA LEILÃO    6.449                         1412.0 031574-5
+  EOL SERRA DAS VACAS V                  5.986       25.3  PE              USINA LEILÃO    6.449                         1817.0 032360-8
+  EOL SERRA DAS VACAS VII                5.986       25.3  PE              USINA LEILÃO    6.449                         1817.0 032361-6
+  EOL SERRA DE SANTANA I                 7.323       19.9  RN              ESTABILIZADA    7.535    7.323                1749.0 030625-8
+  EOL SERRA DE SANTANA II                7.323       29.1  RN              ESTABILIZADA    7.535    7.323                2557.0 030609-6
+  EOL SERRA DE SANTANA III               7.323       29.8  RN              ESTABILIZADA    7.535    7.323                2619.0 030615-0
+  EOL SERRA DO ESPINHACO                 7.321       18.5  BA              USINA LEILÃO    7.134                         1625.0 030802-1
+  EOL SERRA DO FOGO                      8.191       30.7  BA              ESTABILIZADA    7.650    8.191                3018.0 035222-5
+  EOL SERRA DO SALTO                     6.899       20.2  BA              USINA LEILÃO    7.145                         1672.0 030314-3
+  EOL SERRA DO VENTO                     8.191       30.7  BA              ESTABILIZADA    7.650    8.191                3018.0 035229-2
+  EOL SERROTE I                          7.295       24.3  CE              ESTABILIZADA    6.876    7.295                2127.0 040878-6
+  EOL SERROTE II                         7.295       24.3  CE              ESTABILIZADA    6.876    7.295                2127.0 040879-4
+  EOL SERROTE III                        7.295       20.3  CE              ESTABILIZADA    6.876    7.295                1777.0 040880-8
+  EOL SERROTE IV                         7.295       16.2  CE              ESTABILIZADA    6.876    7.295                1418.0 040881-6
+  EOL SERROTE V                          7.295       28.4  CE              ESTABILIZADA    6.876    7.295                2486.0 040882-4
+  EOL SERROTE VI                         7.295       28.4  CE              ESTABILIZADA    6.876    7.295                2486.0 040883-2
+  EOL SERROTE VII                        7.295       28.4  CE              ESTABILIZADA    6.876    7.295                2486.0 040884-0
+  EOL SERROTE VIII                       7.295       28.4  CE              ESTABILIZADA    6.876    7.295                2486.0 040885-9
+  EOL SETE GAMELEIRAS                    6.392       29.3  BA              USINA LEILÃO    7.900                         2247.0 030455-7
+  EOL SM                                 6.574       28.5  RN              USINA LEILÃO    6.967                         2248.0 030864-1
+  EOL TABOQUINHA                         5.558       21.1  BA              USINA LEILÃO    7.033                         1407.0 031406-4
+  EOL TABUA                              5.807       14.6  BA              USINA LEILÃO    7.134                         1017.0 031403-0
+  EOL TACAICO                            5.922       18.2  PE              USINA LEILÃO    7.577                         1293.0 030789-0
+  EOL TAIBA AGUIA                        8.604       22.6  CE              USINA LEILÃO    6.876                         2333.0 028857-8
+  EOL TAIBA ANDORINHA                    8.604       14.3  CE              USINA LEILÃO    6.876                         1476.0 030373-9
+  EOL TAMANDUA MIRIM                     3.038       29.3  BA              USINA LEILÃO    7.134                         1068.0 030753-0
+  EOL TAMANDUA MIRIM 2                   6.334       15.6  BA              USINA LEILÃO    7.134                         1186.0 031606-7
+  EOL TANQUE                             5.272       30.0  BA              USINA LEILÃO    7.145                         1898.0 030544-8
+  EOL TEIU                               2.999       16.5  BA              USINA LEILÃO    7.134                          594.0 030731-9
+  EOL TEIU 2                             5.805        7.8  BA              USINA LEILÃO    7.134                          543.0 031431-5
+  EOL TEIU 3                             8.307       23.0  BA              ESTABILIZADA    7.134    8.307                2293.0 037093-2
+  EOL TERRAL                             6.038       30.0  RN              USINA LEILÃO    7.634                         2174.0 030898-6
+  EOL TRAIRI                             6.640       24.7  CE              ESTABILIZADA    6.876    6.640                1968.0 030662-2
+  EOL U.VENTOS 1(POTIGUAR)               7.202       21.4  RN              ESTABILIZADA    7.092    7.202                1849.0 030562-6
+  EOL U.VENTOS 10(P.NORDESTE)            7.202       14.1  RN              ESTABILIZADA    7.092    7.202                1219.0 030571-5
+  EOL U.VENTOS 2(T.DE PEDRAS)            7.202       21.6  RN              ESTABILIZADA    7.092    7.202                1867.0 030563-4
+  EOL U.VENTOS 3(P.V.LESTE)              7.202       21.6  RN              ESTABILIZADA    7.092    7.202                1867.0 030564-2
+  EOL U.VENTOS 4(T.S.MIGUEL)             7.202       10.8  RN              ESTABILIZADA    7.092    7.202                 933.0 030565-0
+  EOL U.VENTOS 5(M.DOS VENTOS)           7.202       23.0  RN              ESTABILIZADA    7.092    7.202                1988.0 030566-9
+  EOL U.VENTOS 6(C.DA ILHA)              7.202       12.3  RN              ESTABILIZADA    7.092    7.202                1063.0 030567-7
+  EOL U.VENTOS 7(C.POTIGUAR)             7.202       14.0  RN              ESTABILIZADA    7.092    7.202                1210.0 030568-5
+  EOL U.VENTOS 8(E.DOS VENTOS)           7.381       15.2  RN 0.667        ESTABILIZADA    7.092    7.741    7.202       1346.0 030569-3
+  EOL U.VENTOS 9(I.DOS VENTOS)           7.202       11.0  RN              ESTABILIZADA    7.092    7.202                 951.0 030570-7
+  EOL UBATUBA                            6.432       12.1  CE              USINA LEILÃO    7.072                          934.0 030918-4
+  EOL UMBURANA DE CHEIRO                 8.191       30.7  BA              ESTABILIZADA    7.650    8.191                3018.0 035233-0
+  EOL UMBURANAS 1                        6.396       24.5  BA              USINA LEILÃO    7.703                         1880.0 031738-1
+  EOL UMBURANAS 10                       6.389       19.6  BA              USINA LEILÃO    7.703                         1503.0 031742-0
+  EOL UMBURANAS 11                       6.382       14.7  BA              USINA LEILÃO    7.703                         1126.0 031744-6
+  EOL UMBURANAS 13                       6.387       19.6  BA              USINA LEILÃO    7.703                         1502.0 031752-7
+  EOL UMBURANAS 15                       6.387       19.6  BA              USINA LEILÃO    7.703                         1502.0 031754-3
+  EOL UMBURANAS 16                       6.396       24.5  BA              USINA LEILÃO    7.703                         1880.0 031755-1
+  EOL UMBURANAS 17                       7.361       22.1  BA              USINA LEILÃO    7.703                         1952.0 033634-3
+  EOL UMBURANAS 18                       6.373        7.4  BA              USINA LEILÃO    7.703                          566.0 031756-0
+  EOL UMBURANAS 19                       7.363       24.5  BA              USINA LEILÃO    7.703                         2165.0 033635-1
+  EOL UMBURANAS 2                        6.396       24.5  BA              USINA LEILÃO    7.703                         1880.0 031740-3
+  EOL UMBURANAS 21                       7.361       22.1  BA              USINA LEILÃO    7.703                         1952.0 033636-0
+  EOL UMBURANAS 23                       7.356       14.7  BA              USINA LEILÃO    7.703                         1298.0 033637-8
+  EOL UMBURANAS 25                       7.356       17.2  BA              USINA LEILÃO    7.703                         1518.0 033639-4
+  EOL UMBURANAS 3                        6.387       19.6  BA              USINA LEILÃO    7.703                         1502.0 031741-1
+  EOL UMBURANAS 5                        6.387       17.2  BA              USINA LEILÃO    7.703                         1318.0 031737-3
+  EOL UMBURANAS 6                        6.390       19.6  BA              USINA LEILÃO    7.703                         1503.0 031796-9
+  EOL UMBURANAS 8                        6.393       24.5  BA              USINA LEILÃO    7.703                         1880.0 031832-9
+  EOL UMBURANAS 9                        6.386       17.2  BA              USINA LEILÃO    7.703                         1318.0 031743-8
+  EOL UMBUZEIRO                          5.651       21.1  BA              ESTABILIZADA    6.759    5.651                1431.0 032111-7
+  EOL UMBUZEIROS                         6.711       30.0  RN              USINA LEILÃO    6.967                         2416.0 031826-4
+  EOL UNIAO DOS VENTOS 12                7.186       24.6  RN              USINA LEILÃO    7.092                         2121.0 031645-8
+  EOL UNIAO DOS VENTOS 13                7.176       18.5  RN              USINA LEILÃO    7.092                         1593.0 031697-0
+  EOL UNIAO DOS VENTOS 14                7.179       20.5  RN              USINA LEILÃO    7.092                         1766.0 031643-1
+  EOL UNIAO DOS VENTOS 15                7.191       30.0  RN              USINA LEILÃO    7.092                         2589.0 031642-3
+  EOL UNIAO DOS VENTOS 16                7.191       28.6  RN              USINA LEILÃO    7.092                         2468.0 031652-0
+  EOL V. DE SANTA FATIMA                 6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031273-8
+  EOL V. DE SANTA REGINA                 6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031276-2
+  EOL V. DE SANTO ADRIANO(COLIBRI)       6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031271-1
+  EOL V. DE SANTO ALBANO                 6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031272-0
+  EOL V. DE SANTO DIMAS                  6.617       28.8  RN              ESTABILIZADA    6.967    6.617                2287.0 031372-6
+  EOL V. DE SAO BENEDITO                 7.548       28.8  RN              ESTABILIZADA    6.967    7.548                2609.0 031373-4
+  EOL V.DE SAO MIGUEL                    7.784       29.7  RN              USINA LEILÃO    6.967                         2774.0 030514-6
+  EOL V.DE TIANGUA                       5.365       24.8  CE              USINA LEILÃO    6.466                         1597.0 030585-5
+  EOL V.DE TIANGUA NORTE                 5.365       26.4  CE              USINA LEILÃO    6.466                         1700.0 030584-7
+  EOL V.DO PARAZINHO                     5.365       26.4  CE              USINA LEILÃO    6.466                         1700.0 030596-0
+  EOL V.MORRO DO CHAPEU                  5.365       24.8  CE              USINA LEILÃO    6.466                         1597.0 030582-0
+  EOL VAQUETA                            5.815       22.8  BA              USINA LEILÃO    7.134                         1591.0 031424-2
+  EOL VELLOZIA                           5.651       21.4  BA              ESTABILIZADA    6.759    5.651                1451.0 032113-3
+  EOL VENTO FORMOSO                      5.365       24.8  CE              USINA LEILÃO    6.466                         1597.0 030595-2
+  EOL VENTOS CAMPO FORMOSO I             8.305       29.9  BA              USINA LEILÃO    8.319                         2980.0 030943-5
+  EOL VENTOS CAMPO FORMOSO II            8.305       29.9  BA              USINA LEILÃO    8.319                         2980.0 031010-7
+  EOL VENTOS DA ANDORINHA                8.305       29.9  BA              USINA LEILÃO    8.319                         2980.0 030944-3
+  EOL VENTOS DA BAHIA I                  6.937       28.6  BA              USINA LEILÃO    7.409                         2381.0 032526-0
+  EOL VENTOS DA BAHIA III                6.937       30.8  BA              USINA LEILÃO    7.409                         2564.0 032527-9
+  EOL VENTOS DA BAHIA IX                 6.937       28.6  BA              USINA LEILÃO    7.409                         2381.0 032531-7
+  EOL VENTOS DA BAHIA XVIII              6.934       28.6  BA              USINA LEILÃO    7.409                         2380.0 034883-0
+  EOL VENTOS DA SANTA DULCE              7.047       27.6  BA              USINA LEILÃO    7.409                         2334.0 033648-3
+  EOL VENTOS DA SANTA ESPERANCA          7.047       27.6  BA              USINA LEILÃO    7.409                         2334.0 033649-1
+  EOL VENTOS DE GUARAS I                 8.942       30.0  BA              USINA LEILÃO    8.319                         3219.0 031563-0
+  EOL VENTOS DE HORIZONTE                6.438       16.1  CE              USINA LEILÃO    7.072                         1244.0 030925-7
+  EOL VENTOS DE MORRINHOS                8.305       29.9  BA              USINA LEILÃO    8.319                         2980.0 030945-1
+  EOL VENTOS DE S.ANGELINA               6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031275-4
+  EOL VENTOS DE S.BARBARA                6.860       28.7  PI              ESTABILIZADA    7.738    6.860                2363.0 031274-6
+  EOL VENTOS DE SANTA ANGELA 01         10.094       30.8  PI              USINA LEILÃO    7.638                         3731.0 033005-1
+  EOL VENTOS DE SANTA ANGELA 02         10.094       30.8  PI              USINA LEILÃO    7.638                         3731.0 033006-0
+  EOL VENTOS DE SANTA ANGELA 03         10.094       30.8  PI              USINA LEILÃO    7.638                         3731.0 033007-8
+  EOL VENTOS DE SANTA ANGELA 04         10.094       30.8  PI              USINA LEILÃO    7.638                         3731.0 033008-6
+  EOL VENTOS DE SANTA ANGELA 05         10.094       30.6  PI              USINA LEILÃO    7.638                         3707.0 033009-4
+  EOL VENTOS DE SANTA ANGELA 06         10.094       30.6  PI              USINA LEILÃO    7.638                         3707.0 033010-8
+  EOL VENTOS DE SANTA ANGELA 07         10.094       24.5  PI              USINA LEILÃO    7.638                         2968.0 033011-6
+  EOL VENTOS DE SANTA ANGELA 08         10.094       30.6  PI              USINA LEILÃO    7.638                         3707.0 033012-4
+  EOL VENTOS DE SANTA ANGELA 09         10.094       43.3  PI              USINA LEILÃO    7.638                         5245.0 033013-2
+  EOL VENTOS DE SANTA ANGELA 10         10.094       40.3  PI              USINA LEILÃO    7.638                         4881.0 033014-0
+  EOL VENTOS DE SANTA ANGELA 11         10.094       43.5  PI              USINA LEILÃO    7.638                         5269.0 033015-9
+  EOL VENTOS DE SANTA ANGELA 12          8.263       29.4  PI              ESTABILIZADA    7.638    8.263                2915.0 033016-7
+  EOL VENTOS DE SANTA ANGELA 13          8.263       27.8  PI              ESTABILIZADA    7.638    8.263                2757.0 033017-5
+  EOL VENTOS DE SANTA ANGELA 14         10.094       42.1  PI              USINA LEILÃO    7.638                         5099.0 033018-3
+  EOL VENTOS DE SANTA ANGELA 15         10.094       42.7  PI              USINA LEILÃO    7.638                         5172.0 033019-1
+  EOL VENTOS DE SANTA ANGELA 16          8.263       30.8  PI              ESTABILIZADA    7.638    8.263                3054.0 033020-5
+  EOL VENTOS DE SANTA ANGELA 17         10.094       46.5  PI              USINA LEILÃO    7.638                         5632.0 033021-3
+  EOL VENTOS DE SANTA ANGELA 18          8.263       30.8  PI              ESTABILIZADA    7.638    8.263                3054.0 033022-1
+  EOL VENTOS DE SANTA ANGELA 19         10.094       29.5  PI              USINA LEILÃO    7.638                         3573.0 033023-0
+  EOL VENTOS DE SANTA ANGELA 20         10.094       29.5  PI              USINA LEILÃO    7.638                         3573.0 033024-8
+  EOL VENTOS DE SANTA ANGELA 21         10.094       26.6  PI              USINA LEILÃO    7.638                         3222.0 033025-6
+  EOL VENTOS DE SANTA APARECIDA          6.936       26.5  BA              USINA LEILÃO    7.409                         2206.0 034736-1
+  EOL VENTOS DE SANTA AURORA             6.936       26.6  BA              USINA LEILÃO    7.409                         2214.0 034742-6
+  EOL VENTOS DE SANTA BEATRIZ            6.936       26.6  BA              USINA LEILÃO    7.409                         2214.0 034738-8
+  EOL VENTOS DE SANTA BRIGIDA I          5.411       14.2  PE              USINA LEILÃO    6.428                          922.0 031365-3
+  EOL VENTOS DE SANTA BRIGIDA II         5.418       28.4  PE              USINA LEILÃO    6.428                         1846.0 031363-7
+  EOL VENTOS DE SANTA BRIGIDA III        5.418       30.0  PE              USINA LEILÃO    6.428                         1950.0 031354-8
+  EOL VENTOS DE SANTA BRIGIDA IV         5.418       28.4  PE              USINA LEILÃO    6.428                         1846.0 031370-0
+  EOL VENTOS DE SANTA BRIGIDA V          5.418       30.0  PE              USINA LEILÃO    6.428                         1950.0 031346-7
+  EOL VENTOS DE SANTA BRIGIDA VI         5.418       30.0  PE              USINA LEILÃO    6.428                         1950.0 031353-0
+  EOL VENTOS DE SANTA BRIGIDA VII        5.418       28.4  PE              USINA LEILÃO    6.428                         1846.0 031422-6
+  EOL VENTOS DE SANTA EMILIA             6.936       26.5  BA              USINA LEILÃO    7.409                         2206.0 034717-5
+  EOL VENTOS DE SANTA JOANA I            5.604       28.9  PI              USINA LEILÃO    7.738                         1943.0 031581-8
+  EOL VENTOS DE SANTA JOANA II           5.633       29.9  PI              USINA LEILÃO    7.738                         2021.0 031361-0
+  EOL VENTOS DE SANTA JOANA III          5.604       29.6  PI              USINA LEILÃO    7.738                         1991.0 031580-0
+  EOL VENTOS DE SANTA JOANA IV           5.604       27.2  PI              USINA LEILÃO    7.738                         1829.0 031520-6
+  EOL VENTOS DE SANTA JOANA IX           3.963       29.6  PI              USINA LEILÃO    6.459                         1408.0 031417-0
+  EOL VENTOS DE SANTA JOANA V            5.604       28.9  PI              USINA LEILÃO    7.738                         1943.0 031538-9
+  EOL VENTOS DE SANTA JOANA VI           5.633       29.8  PI              USINA LEILÃO    7.738                         2014.0 031367-0
+  EOL VENTOS DE SANTA JOANA VII          5.604       28.9  PI              USINA LEILÃO    7.738                         1943.0 031597-4
+  EOL VENTOS DE SANTA JOANA VIII         5.633       29.8  PI              USINA LEILÃO    7.738                         2014.0 031366-1
+  EOL VENTOS DE SANTA JOANA X            3.963       29.6  PI              USINA LEILÃO    6.459                         1408.0 031393-9
+  EOL VENTOS DE SANTA JOANA XI           3.963       29.6  PI              USINA LEILÃO    6.459                         1408.0 031388-2
+  EOL VENTOS DE SANTA JOANA XII          3.963       28.9  PI              USINA LEILÃO    6.459                         1374.0 031414-5
+  EOL VENTOS DE SANTA JOANA XIII         3.963       29.6  PI              USINA LEILÃO    6.459                         1408.0 031394-7
+  EOL VENTOS DE SANTA JOANA XIV          5.633       29.9  PI              USINA LEILÃO    7.738                         2021.0 031368-8
+  EOL VENTOS DE SANTA JOANA XV           3.963       28.9  PI              USINA LEILÃO    6.459                         1374.0 031416-1
+  EOL VENTOS DE SANTA JOANA XVI          3.963       28.9  PI              USINA LEILÃO    6.459                         1374.0 031392-0
+  EOL VENTOS DE SANTA MARTINA 01         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038310-4
+  EOL VENTOS DE SANTA MARTINA 09         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038318-0
+  EOL VENTOS DE SANTA MARTINA 10         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038319-8
+  EOL VENTOS DE SANTA MARTINA 11         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038320-1
+  EOL VENTOS DE SANTA MARTINA 12         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038321-0
+  EOL VENTOS DE SANTA MARTINA 13         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038322-8
+  EOL VENTOS DE SANTA MARTINA 14         1.369       61.7  RN              USINA LEILÃO    6.866                         1014.0 038323-6
+  EOL VENTOS DE SANTO ABRAAO             7.271       27.6  BA              ESTABILIZADA    7.409    7.271                2408.0 032884-7
+  EOL VENTOS DE SANTO AUGUSTO I          5.915       18.4  PI              USINA LEILÃO    7.738                         1306.0 031746-2
+  EOL VENTOS DE SANTO AUGUSTO II         5.916       27.0  PI              USINA LEILÃO    7.738                         1917.0 031747-0
+  EOL VENTOS DE SANTO AUGUSTO III        5.604       29.6  PI              USINA LEILÃO    7.738                         1991.0 031662-8
+  EOL VENTOS DE SANTO AUGUSTO IV         5.604       28.9  PI              USINA LEILÃO    7.738                         1943.0 031603-2
+  EOL VENTOS DE SANTO AUGUSTO V          5.604       29.6  PI              USINA LEILÃO    7.738                         1991.0 031661-0
+  EOL VENTOS DE SANTO AUGUSTO VI         5.916       29.8  PI              USINA LEILÃO    7.738                         2116.0 031766-7
+  EOL VENTOS DE SANTO AUGUSTO VII        5.915       18.4  PI              USINA LEILÃO    7.738                         1306.0 031749-7
+  EOL VENTOS DE SANTO AUGUSTO VIII       5.915       18.4  PI              USINA LEILÃO    7.738                         1306.0 031767-5
+  EOL VENTOS DE SANTO ESTEVAO I          5.916       24.8  PI              USINA LEILÃO    7.738                         1761.0 031761-6
+  EOL VENTOS DE SANTO ESTEVAO II         5.916       24.8  PI              USINA LEILÃO    7.738                         1761.0 031762-4
+  EOL VENTOS DE SANTO ESTEVAO III        5.916       29.3  PI              USINA LEILÃO    7.738                         2080.0 031763-2
+  EOL VENTOS DE SANTO ESTEVAO IV         6.697       29.3  PI              USINA LEILÃO    7.738                         2355.0 032365-9
+  EOL VENTOS DE SANTO ESTEVAO V          5.916       27.0  PI              USINA LEILÃO    7.738                         1917.0 031764-0
+  EOL VENTOS DE SANTO ONOFRE I           5.633       29.9  PI              USINA LEILÃO    7.738                         2021.0 031364-5
+  EOL VENTOS DE SANTO ONOFRE II          5.633       29.7  PI              USINA LEILÃO    7.738                         2008.0 031362-9
+  EOL VENTOS DE SANTO ONOFRE III         5.633       29.9  PI              USINA LEILÃO    7.738                         2021.0 031886-8
+  EOL VENTOS DE SANTO ONOFRE IV          6.697       27.0  PI              USINA LEILÃO    7.738                         2170.0 032366-7
+  EOL VENTOS DE SANTO URIEL              6.561       16.0  RN              USINA LEILÃO    6.967                         1260.0 030828-5
+  EOL VENTOS DE SAO CLEMENTE I           7.197       29.1  PE              USINA LEILÃO    6.449                         2513.0 031818-3
+  EOL VENTOS DE SAO CLEMENTE II          7.197       29.1  PE              USINA LEILÃO    6.449                         2513.0 031819-1
+  EOL VENTOS DE SAO CLEMENTE III         7.197       29.1  PE              USINA LEILÃO    6.449                         2513.0 031820-5
+  EOL VENTOS DE SAO CLEMENTE IV          7.197       29.1  PE              USINA LEILÃO    6.449                         2513.0 031821-3
+  EOL VENTOS DE SAO CLEMENTE V           7.197       28.7  PE              USINA LEILÃO    6.449                         2479.0 031822-1
+  EOL VENTOS DE SAO CLEMENTE VI          7.195       25.7  PE              USINA LEILÃO    6.449                         2219.0 031823-0
+  EOL VENTOS DE SAO CLEMENTE VII         7.194       24.0  PE              USINA LEILÃO    6.449                         2072.0 031824-8
+  EOL VENTOS DE SAO CLEMENTE VIII        7.191       20.5  PE              USINA LEILÃO    6.449                         1769.0 031825-6
+  EOL VENTOS DE SAO JANUARIO 01          9.281       33.6  BA              USINA LEILÃO    8.020                         3742.0 033508-8
+  EOL VENTOS DE SAO JANUARIO 03         10.021       29.4  BA              USINA LEILÃO    8.020                         3535.0 033521-5
+  EOL VENTOS DE SAO JANUARIO 04          9.281       29.4  BA              USINA LEILÃO    8.020                         3274.0 032641-0
+  EOL VENTOS DE SAO JANUARIO 05          1.097       42.0  BA              USINA LEILÃO    8.020                          553.0 032644-5
+  EOL VENTOS DE SAO JANUARIO 06          1.097       37.8  BA              USINA LEILÃO    8.020                          498.0 033523-1
+  EOL VENTOS DE SAO JANUARIO 13          1.097       42.0  BA              USINA LEILÃO    8.020                          553.0 033532-0
+  EOL VENTOS DE SAO JANUARIO 14          1.097       42.0  BA              USINA LEILÃO    8.020                          553.0 033533-9
+  EOL VENTOS DE SAO JANUARIO 20          1.098       49.4  BA              USINA LEILÃO    8.020                          651.0 037102-5
+  EOL VENTOS DE SAO JANUARIO 21          1.098       49.4  BA              USINA LEILÃO    8.020                          651.0 037103-3
+  EOL VENTOS DE SAO JANUARIO 22          1.098       49.4  BA              USINA LEILÃO    8.020                          651.0 037104-1
+  EOL VENTOS DE SAO JANUARIO 23          1.098       57.6  RN              USINA LEILÃO    6.866                          759.0 040625-2
+  EOL VENTOS DE SAO MARTINHO             5.639       14.7  RN              ESTABILIZADA    6.967    5.639                 995.0 031412-9
+  EOL VENTOS DE SAO VICENTE 08           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033144-9
+  EOL VENTOS DE SAO VICENTE 09           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033143-0
+  EOL VENTOS DE SAO VICENTE 10           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033136-8
+  EOL VENTOS DE SAO VICENTE 11           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033141-4
+  EOL VENTOS DE SAO VICENTE 12           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033140-6
+  EOL VENTOS DE SAO VICENTE 13           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033139-2
+  EOL VENTOS DE SAO VICENTE 14           5.879       29.1  PI              USINA LEILÃO    7.973                         2053.0 033138-4
+  EOL VENTOS DE SAO VIRGILIO 01          6.697       29.8  PI              USINA LEILÃO    7.738                         2395.0 032367-5
+  EOL VENTOS DE SAO VIRGILIO 02          6.793       29.3  PI              USINA LEILÃO    7.738                         2388.0 033667-0
+  EOL VENTOS DE SAO VIRGILIO 03          6.695       19.8  PI              USINA LEILÃO    7.738                         1591.0 032368-3
+  EOL VENTOS DE VILA CEARA I             9.443       30.6  RN              USINA LEILÃO    6.994                         3467.0 036974-8
+  EOL VENTOS DE VILA CEARA II            9.443       30.6  RN              USINA LEILÃO    6.994                         3467.0 036976-4
+  EOL VENTOS DO NORDESTE                 3.177       23.5  BA              USINA LEILÃO    7.145                          896.0 030476-0
+  EOL VENTOS DO SAO GABRIEL              6.936       26.6  BA              USINA LEILÃO    7.409                         2214.0 034739-6
+  EOL VENTOS DO SAO MARIO                7.047       29.6  BA              USINA LEILÃO    7.409                         2503.0 033650-5
+  EOL VENTOS DO SAO PAULO                7.047       27.6  BA              USINA LEILÃO    7.409                         2334.0 033652-1
+  EOL VENTOS DO SERTAO                   8.305       29.9  BA              USINA LEILÃO    8.319                         2980.0 030946-0
+  EOL VERACE 24                          6.906       19.4  RS              USINA LEILÃO    9.859                         1608.0 031561-3
+  EOL VERACE 25                          6.896        7.1  RS              USINA LEILÃO    9.859                          588.0 031541-9
+  EOL VERACE 26                          6.902       14.1  RS              USINA LEILÃO    9.859                         1168.0 031559-1
+  EOL VERACE 27                          6.903       15.9  RS              USINA LEILÃO    9.859                         1317.0 031600-8
+  EOL VERACE 28                          6.900       12.4  RS              USINA LEILÃO    9.859                         1027.0 031578-8
+  EOL VERACE 29                          6.905       17.6  RS              USINA LEILÃO    9.859                         1458.0 031557-5
+  EOL VERACE 30                          6.905       17.6  RS              USINA LEILÃO    9.859                         1458.0 031602-4
+  EOL VERACE 31                          6.897        8.8  RS              USINA LEILÃO    9.859                          728.0 031558-3
+  EOL VERACE 34                          6.902       14.1  RS              USINA LEILÃO    9.859                         1168.0 031601-6
+  EOL VERACE 35                          6.900       12.4  RS              USINA LEILÃO    9.859                         1027.0 031539-7
+  EOL VERACE 36                          6.908       21.2  RS              USINA LEILÃO    9.859                         1757.0 031610-5
+  EOL VERACE I                           6.033       19.5  RS              USINA LEILÃO    9.859                         1412.0 030745-9
+  EOL VERACE II                          6.033       19.5  RS              USINA LEILÃO    9.859                         1412.0 030742-4
+  EOL VERACE III                         6.040       25.5  RS              USINA LEILÃO    9.859                         1848.0 030746-7
+  EOL VERACE IV                          6.043       29.4  RS              USINA LEILÃO    9.859                         2132.0 030741-6
+  EOL VERACE IX                          6.043       29.4  RS              USINA LEILÃO    9.859                         2132.0 030748-3
+  EOL VERACE V                           6.043       29.3  RS              USINA LEILÃO    9.859                         2125.0 030829-3
+  EOL VERACE VI                          6.030       17.7  RS              USINA LEILÃO    9.859                         1281.0 030740-8
+  EOL VERACE VII                         6.043       29.5  RS              USINA LEILÃO    9.859                         2139.0 030747-5
+  EOL VERACE VIII                        6.040       25.5  RS              USINA LEILÃO    9.859                         1848.0 030755-6
+  EOL VERACE X                           6.041       27.4  RS              USINA LEILÃO    9.859                         1986.0 030749-1
+  EOL VILA ACRE I                        5.703       26.8  RN              USINA LEILÃO    7.634                         1834.0 033752-8
+  EOL VILA ACRE II                       9.072       29.9  RN              USINA LEILÃO    7.634                         3255.0 033753-6
+  EOL VILA AMAZONAS V                    6.103       23.6  RN              USINA LEILÃO    7.634                         1728.0 031750-0
+  EOL VILA CEARA I                       9.180       31.3  RN              USINA LEILÃO    6.994                         3448.0 036980-2
+  EOL VILA MARANHAO I                    9.180       31.1  RN              USINA LEILÃO    6.994                         3426.0 038325-2
+  EOL VILA MARANHAO II                   9.180       31.0  RN              USINA LEILÃO    6.994                         3415.0 038326-0
+  EOL VILA MARANHAO III                  9.180       31.3  RN              USINA LEILÃO    6.994                         3448.0 038327-9
+  EOL VILA PARA I                        6.103       27.0  RN              USINA LEILÃO    7.634                         1977.0 031759-4
+  EOL VILA PARA II                       6.103       24.0  RN              USINA LEILÃO    7.634                         1758.0 031757-8
+  EOL VILA PARA III                      6.103       24.0  RN              USINA LEILÃO    7.634                         1758.0 031765-9
+  EOL VILA PARAIBA I                     8.326       33.8  RN              USINA LEILÃO    6.994                         3377.0 036981-0
+  EOL VILA PARAIBA II                    8.326       33.8  RN              USINA LEILÃO    6.994                         3377.0 036985-3
+  EOL VILA PIAUI I                       7.844       37.7  RN              ESTABILIZADA    6.994    7.844                3549.0 036975-6
+  EOL VILA PIAUI II                      7.844       37.7  RN              ESTABILIZADA    6.994    7.844                3549.0 036973-0
+  EOL VILA PIAUI III                     7.844       41.9  RN              ESTABILIZADA    6.994    7.844                3944.0 036979-9
+  EOL VILA RIO GRANDE DO NORTE I         7.622       25.1  RN              ESTABILIZADA    6.994    7.622                2296.0 038141-1
+  EOL VILA RIO GRANDE DO NORTE II        7.622       37.7  RN              ESTABILIZADA    6.994    7.622                3448.0 038140-3
+  EOL VILA SERGIPE I                     7.622       37.7  RN              ESTABILIZADA    6.994    7.622                3448.0 038142-0
+  EOL VILA SERGIPE II                    7.844       37.7  RN              ESTABILIZADA    6.994    7.844                3549.0 038143-8
+  EOL VILA SERGIPE III                   7.844       16.8  RN              ESTABILIZADA    6.994    7.844                1581.0 038144-6
+  EOL VOLTA DO RIO(ELETROWIND)           6.932       39.5  CE              ESTABILIZADA    6.586    6.932                3286.0 028441-6
+  EOL ZEUS II                           10.193       28.5  BA              USINA LEILÃO    7.824                         3486.0 035266-7
+  PCH AREADO - RB                        4.251       17.8  MS              USINA LEILÃO   10.432                          908.0 033893-1
+  PCH BANDEIRANTE - RB                   4.903       27.8  MS              USINA LEILÃO   10.432                         1636.0 032163-0
+  PCH INDAIA GRANDE (FIGUEIRA)           7.390       20.0  MS              ESTABILIZADA   10.432    7.390                1774.0 030078-0
+  PCH INDAIAZINHO (GUATAMBU)             7.390       12.5  MS              ESTABILIZADA   10.432    7.390                1108.0 030079-9
+  PCH PASSO DO MEIO                      5.588       29.9  RS              ESTABILIZADA    8.630    5.588                2005.0 001999-2
+  PCH PEZZI                              5.042       18.8  RS              ESTABILIZADA    8.630    5.042                1137.0 028988-4
+  PCH SERRA DOS CAVALINHOS I             6.826       24.4  RS              USINA LEILÃO    8.630                         1999.0 031324-6
+  PCH SERRA DOS CAVALINHOS II            5.042       28.7  RS              ESTABILIZADA    8.630    5.042                1736.0 030337-2
+  UFV APODI I                            5.061       33.0  CE              USINA LEILÃO    7.534                         2004.0 033917-2
+  UFV APODI II                           5.061       33.0  CE              USINA LEILÃO    7.534                         2004.0 033918-0
+  UFV APODI III                          5.061       33.0  CE              USINA LEILÃO    7.534                         2004.0 033919-9
+  UFV APODI IV                           5.061       33.0  CE              USINA LEILÃO    7.534                         2004.0 033920-2
+  UFV CAETITE Va                         6.625        4.0  BA              ESTABILIZADA    6.759    6.625                 318.0 038168-3
+  UFV COREMAS I                          5.178       26.7  PB              USINA LEILÃO    6.111                         1659.0 032311-0
+  UFV COREMAS II                         4.586       26.7  PB              USINA LEILÃO    6.111                         1469.0 032926-6
+  UFV COREMAS III                        5.317       26.7  PB              USINA LEILÃO    6.111                         1704.0 032544-9
+  UFV ETESA S. J. DO PIAUI I             9.353       31.7  PI              USINA LEILÃO    7.638                         3558.0 034785-0
+  UFV ETESA S. J. DO PIAUI II            9.353       31.7  PI              USINA LEILÃO    7.638                         3558.0 034786-8
+  UFV ETESA S. J. DO PIAUI III           9.353       31.7  PI              USINA LEILÃO    7.638                         3558.0 034787-6
+  UFV ETESA S. J. DO PIAUI IV            9.353       28.4  PI              USINA LEILÃO    7.638                         3188.0 034788-4
+  UFV ETESA S. J. DO PIAUI V             9.353       28.4  PI              USINA LEILÃO    7.638                         3188.0 034789-2
+  UFV ETESA S. J. DO PIAUI VI            9.353       31.4  PI              USINA LEILÃO    7.638                         3524.0 034790-6
+  UFV FLORESTA I                         5.708       31.0  RN              USINA LEILÃO    7.634                         2123.0 034310-2
+  UFV FLORESTA II                        5.708       31.0  RN              USINA LEILÃO    7.634                         2123.0 034309-9
+  UFV FLORESTA III                       5.698       21.0  RN              USINA LEILÃO    7.634                         1436.0 033569-0
+  UFV FONTES SOLAR I                     7.028        5.0  PE              ESTABILIZADA    7.577    7.028                 422.0 032372-1
+  UFV FONTES SOLAR II                    7.028        5.0  PE              ESTABILIZADA    7.577    7.028                 422.0 032373-0
+  UFV HORIZONTE MP 1                     6.082       28.3  BA              USINA LEILÃO    7.038                         2065.0 033757-9
+  UFV HORIZONTE MP 11                    6.072       19.7  BA              USINA LEILÃO    7.038                         1435.0 033777-3
+  UFV HORIZONTE MP 2                     6.082       28.3  BA              USINA LEILÃO    7.038                         2065.0 033759-5
+  UFV ITUVERAVA 1                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032316-0
+  UFV ITUVERAVA 2                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032317-9
+  UFV ITUVERAVA 3                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032318-7
+  UFV ITUVERAVA 4                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032319-5
+  UFV ITUVERAVA 5                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032320-9
+  UFV ITUVERAVA 6                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032321-7
+  UFV ITUVERAVA 7                        6.571       28.0  BA              USINA LEILÃO    7.416                         2208.0 032322-5
+  UFV JUAZEIRO SOLAR I                   6.660       30.0  BA              USINA LEILÃO    7.824                         2398.0 033928-8
+  UFV JUAZEIRO SOLAR II                  6.660       30.0  BA              USINA LEILÃO    7.824                         2398.0 033929-6
+  UFV JUAZEIRO SOLAR III                 6.660       30.0  BA              USINA LEILÃO    7.824                         2398.0 033930-0
+  UFV JUAZEIRO SOLAR IV                  6.660       30.0  BA              USINA LEILÃO    7.824                         2398.0 033931-8
+  UFV LAPA 2                             6.082       30.0  BA              USINA LEILÃO    7.038                         2190.0 034437-0
+  UFV LAPA 3                             6.082       30.0  BA              USINA LEILÃO    7.038                         2190.0 034333-1
+  UFV NOVA OLINDA 10                     5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033129-5
+  UFV NOVA OLINDA 11                     5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033130-9
+  UFV NOVA OLINDA 12                     5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033131-7
+  UFV NOVA OLINDA 13                     5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033132-5
+  UFV NOVA OLINDA 14                     5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033133-3
+  UFV NOVA OLINDA 8                      5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033127-9
+  UFV NOVA OLINDA 9                      5.771       30.0  PI              USINA LEILÃO    7.638                         2078.0 033128-7
+  UFV SAO GONCALO 1                      9.253       45.7  PI              USINA LEILÃO    7.719                         5074.0 033841-9
+  UFV SAO GONCALO 10                     9.253       50.0  PI              USINA LEILÃO    7.719                         5552.0 037577-2
+  UFV SAO GONCALO 11                     8.374       34.5  PI              ESTABILIZADA    7.719    8.374                3467.0 037578-0
+  UFV SAO GONCALO 12                     8.374       34.5  PI              ESTABILIZADA    7.719    8.374                3467.0 037579-9
+  UFV SAO GONCALO 2                      9.253       50.0  PI              USINA LEILÃO    7.719                         5552.0 033842-7
+  UFV SAO GONCALO 21                     9.253       50.0  PI              USINA LEILÃO    7.719                         5552.0 037588-8
+  UFV SAO GONCALO 22                     9.253       50.0  PI              USINA LEILÃO    7.719                         5552.0 037589-6
+  UFV SAO GONCALO 3                      9.253       45.7  PI              USINA LEILÃO    7.719                         5074.0 033843-5
+  UFV SAO GONCALO 4                      9.253       50.0  PI              USINA LEILÃO    7.719                         5552.0 033844-3
+  UFV SAO GONCALO 5                      9.253       50.0  PI              USINA LEILÃO    7.719                         5552.0 033845-1
+  UFV SAO GONCALO 6                      8.374       45.7  PI              ESTABILIZADA    7.719    8.374                4592.0 033846-0
+  UFV SAO GONCALO 7                      8.374       34.5  PI              ESTABILIZADA    7.719    8.374                3467.0 033847-8
+  UFV SAO GONCALO 8                      8.374       34.5  PI              ESTABILIZADA    7.719    8.374                3467.0 033849-4
+  UHE 14 DE JULHO (CERAN)                5.651       98.0  RS              ESTABILIZADA    8.992    5.651                6646.0 000012-4
+  UHE AGUA VERMELHA                      6.635     1387.6  SP              ESTABILIZADA    9.360    6.635              110481.0 000041-8
+  UHE AIMORES                            3.715      326.7  MG              ESTABILIZADA    5.232    3.715               14564.0 000042-6
+  UHE APOLONIO SALES (MOXOTO)            7.635      398.6  BA              ESTABILIZADA    7.635    7.635               36520.0 001510-5
+  UHE B.DOS COQUEIROS (GERDAU)           7.542       89.5  GO              ESTABILIZADA   10.464    7.542                8100.0 028757-1
+  UHE BAGUARI                            3.924      137.9  MG              ESTABILIZADA    5.257    3.924                6493.0 029453-5
+  UHE BAIXO IGUACU                       6.323      344.5  PR              USINA LEILÃO    9.510                        26139.0 030923-0
+  UHE BALBINA                            4.123      245.0  AM              ESTABILIZADA    5.185    4.123               12122.0 000190-2
+  UHE BARRA GRANDE                       6.374      687.0  SC              ESTABILIZADA    9.950    6.374               52547.0 027556-5
+  UHE BELO MONTE                         8.252    10932.0  PA              USINA LEILÃO    7.484                      1082530.0 030354-2
+  UHE BOA ESPERANCA                      6.552      236.6  PI              ESTABILIZADA    6.552    6.552               18602.0 000267-4
+  UHE CACHOEIRA CALDEIRAO                5.894      216.9  AP              USINA LEILÃO    6.771                        15341.0 031186-3
+  UHE CACHOEIRA DOURADA - RB             7.818      513.9  GO              ESTABILIZADA   10.179    7.818               48212.0 000528-2
+  UHE CACU (GERDAU)                      8.254       64.6  GO              ESTABILIZADA   10.464    8.254                6399.0 028756-3
+  UHE CAMPOS NOVOS                       6.283      874.0  SC              ESTABILIZADA    9.784    6.283               65896.0 027401-1
+  UHE CANA BRAVA                         6.302      438.5  GO              ESTABILIZADA    7.558    6.302               33161.0 000630-0
+  UHE CAPIVARA                           6.542      639.9  SP              ESTABILIZADA    9.617    6.542               50235.0 000657-2
+  UHE CASTRO ALVES (CERAN)               5.651      128.5  RS              ESTABILIZADA    8.992    5.651                8714.0 000718-8
+  UHE CHAVANTES                          5.769      411.6  SP              ESTABILIZADA    8.207    5.769               28494.0 000764-1
+  UHE COLIDER                           15.411      297.0  MT              USINA LEILÃO   11.479                        54925.0 030422-0
+  UHE CORUMBA I                          8.057      373.0  GO              ESTABILIZADA    8.057    8.057               36063.0 000866-4
+  UHE DARDANELOS                        10.028      250.6  MT              ESTABILIZADA   11.901   10.028               30156.0 029597-3
+  UHE DONA FRANCISCA                     6.068      106.3  RS              ESTABILIZADA    9.726    6.068                7740.0 027012-1
+  UHE EMBORCACAO                         5.963     1184.9  MG              ESTABILIZADA    7.852    5.963               84787.0 027115-2
+  UHE ESTREITO                           8.910     1068.1  MA              USINA LEILÃO    6.975                       114201.0 028863-2
+  UHE ESTREITO(L.C.BARRETO)              7.955     1044.0  SP              ESTABILIZADA    7.955    7.955               99660.0 000917-2
+  UHE FERREIRA GOMES                     7.026      244.4  AP              USINA LEILÃO    6.771                        20606.0 030385-2
+  UHE FOZ DO CHAPECO                     7.559      850.0  RS              USINA LEILÃO   10.471                        77102.0 028354-1
+  UHE FOZ DO RIO CLARO                   7.601       67.6  GO              ESTABILIZADA   10.236    7.601                6166.0 029455-1
+  UHE FURNAS                             6.959     1210.0  MG              ESTABILIZADA    6.959    6.959              101045.0 001007-3
+  UHE GARIBALDI                          4.721      189.8  SC              USINA LEILÃO    9.410                        10753.0 030415-8
+  UHE GOV. BENTO MUNHOZ(AREIA)           6.104     1662.0  PR              ESTABILIZADA    9.691    6.104              121738.0 000984-9
+  UHE GOV. PARIGOT SOUZA                 6.076      260.0  PR              ESTABILIZADA    9.043    6.076               18957.0 001042-1
+  UHE GUILMAN AMORIM                     3.420      139.2  MG              ESTABILIZADA    4.920    3.420                5713.0 001079-0
+  UHE HENRY BORDEN - RB                  7.619       49.0  SP              ESTABILIZADA    7.619    7.619                4480.0 001084-7
+  UHE ILHA SOLTEIRA                      7.919     3429.0  SP              ESTABILIZADA    9.776    7.919              325851.0 001120-7
+  UHE IRAPE                              5.244      397.0  MG              ESTABILIZADA    6.774    5.244               24982.0 001146-0
+  UHE ITA                                6.249     1441.6  SC              ESTABILIZADA    9.777    6.249              108103.0 001152-5
+  UHE ITAIPU                             9.039    11215.0  PR              ESTABILIZADA    9.039    9.039             1216469.0 001161-4
+  UHE ITAPARICA (SL GONZAGA)             7.285     1477.6  PE              ESTABILIZADA    7.285    7.285              129172.0 001174-6
+  UHE ITAPEBI                            3.527      447.8  BA              ESTABILIZADA     .397    3.527               18953.0 001175-4
+  UHE ITAUBA                             6.188      496.4  RS              ESTABILIZADA    9.845    6.188               36861.0 027019-9
+  UHE ITIQUIRA(I,II)                     8.105      152.3  MT              ESTABILIZADA   10.125    8.105               14813.0 027244-2
+  UHE ITUMBIARA                          6.390     2079.0  MG              ESTABILIZADA    8.576    6.390              159418.0 001194-0
+  UHE JAGUARA                            8.851      420.3  MG              ESTABILIZADA    7.853    8.851               44641.0 001225-4
+  UHE JIRAU                             21.983     3674.6  RO              USINA LEILÃO   17.497                       969345.0 029736-4
+  UHE JUPIA - RB                         7.872     1319.3  SP              ESTABILIZADA    9.779    7.872              124626.0 001282-3
+  UHE JURUMIRIM (A.A.LAYDNER)            5.028       99.6  SP              ESTABILIZADA    7.221    5.028                6009.0 001285-8
+  UHE LAJEADO                            6.487      895.8  TO              ESTABILIZADA    7.593    6.487               69733.0 001304-8
+  UHE MACHADINHO                         6.145     1134.6  SC              ESTABILIZADA    9.588    6.145               83665.0 001356-0
+  UHE MANSO                              8.504      203.0  MT              ESTABILIZADA   10.497    8.504               20716.0 001401-0
+  UHE MARIMBONDO                         9.085     1435.0  MG              ESTABILIZADA    9.085    9.085              156444.0 001417-6
+  UHE MASCARENHAS DE MORAES (PEIX.       5.632      298.0  MG              ESTABILIZADA    7.621    5.632               20140.0 002038-9
+  UHE MAUA                               5.457      361.0  PR              ESTABILIZADA    8.908    5.457               23640.0 029598-1
+  UHE MONTE CLARO (CERAN)                5.651      128.5  RS              ESTABILIZADA    8.992    5.651                8714.0 027968-4
+  UHE NOVA PONTE                         5.844      505.4  MG              ESTABILIZADA    7.780    5.844               35443.0 001574-1
+  UHE PASSO FUNDO                        6.695      225.1  RS              ESTABILIZADA   10.213    6.695               18085.0 002001-0
+  UHE PASSO REAL                         9.497      158.0  RS              ESTABILIZADA    9.497    9.497               18006.0 002003-6
+  UHE PAULO AFONSO I                     7.205      179.8  BA              ESTABILIZADA    7.205    7.205               15546.0 002012-5
+  UHE PAULO AFONSO II                    7.635      442.5  BA              ESTABILIZADA    7.635    7.635               40542.0 027048-2
+  UHE PAULO AFONSO III                   7.420      792.8  BA              ESTABILIZADA    7.420    7.420               70591.0 027049-0
+  UHE PAULO AFONSO IV                    7.230     2458.8  BA              ESTABILIZADA    7.230    7.230              213325.0 027050-4
+  UHE PEDRA DO CAVALO                    4.827      159.0  BA              ESTABILIZADA    4.600    4.827                9210.0 028565-0
+  UHE PEIXE ANGICAL                      6.249      494.9  TO              ESTABILIZADA    7.516    6.249               37112.0 028353-3
+  UHE PIMENTAL BELO MONTE                7.309      226.2  PA              USINA LEILÃO    4.962                        19840.0 030354-2
+  UHE PIRAJU                             5.456       79.0  SP              ESTABILIZADA    7.785    5.456                5172.0 002077-0
+  UHE PONTE DE PEDRA                     8.105      167.3  MT              ESTABILIZADA   10.125    8.105               16272.0 002103-2
+  UHE PORTO ESTRELA                      3.547      111.7  MG              ESTABILIZADA    5.072    3.547                4754.0 027196-9
+  UHE PORTO PRIMAVERA(S.MOTTA)           8.721     1529.9  SP 0.333        ESTABILIZADA   10.246    9.553    7.055     160110.0 002127-0
+  UHE SA CARVALHO                        2.553         .1  MG              ESTABILIZADA    3.559    2.553                   3.0 002563-1
+  UHE SALTO                              7.802      115.5  GO              ESTABILIZADA   10.464    7.802               10814.0 028758-0
+  UHE SALTO CAXIAS (G.J.RICHA)           6.648     1240.0  PR              ESTABILIZADA   10.538    6.648               98922.0 002591-7
+  UHE SALTO DO RIO VERDINHO              7.763       92.0  GO              ESTABILIZADA   10.236    7.763                8570.0 028760-1
+  UHE SALTO OSORIO                       6.682     1072.1  PR              ESTABILIZADA   10.466    6.682               85965.0 002659-0
+  UHE SALTO SANTIAGO                     6.400     1415.2  PR              ESTABILIZADA   10.157    6.400              108687.0 002672-7
+  UHE SALTO SEGREDO(GOV.N.BRAGA)         6.808     1247.0  PR              ESTABILIZADA   10.076    6.808              101875.0 002715-4
+  UHE SAMUEL                            11.483      215.7  RO              ESTABILIZADA   12.305   11.483               29723.0 002687-5
+  UHE SANTO ANTONIO DO JARI              5.444      371.4  AP              USINA LEILÃO    7.048                        24263.0 026792-9
+  UHE SANTO ANTONIO(AMP)                14.749      413.4  RO              USINA LEILÃO   12.960                        73167.0         
+  UHE SANTO ANTONIO(RO)                 25.668     3119.3  RO              USINA LEILÃO   18.154                       960794.0 029707-0
+  UHE SAO MANOEL                         9.462      698.3  MT              USINA LEILÃO   11.943                        79288.0 031444-7
+  UHE SAO SALVADOR                       7.110      231.9  GO              ESTABILIZADA    7.558    7.110               19786.0 028567-6
+  UHE SAO SIMAO                          9.983     1698.4  MG              ESTABILIZADA    9.213    9.983              203462.0 002704-9
+  UHE SERRA DA MESA                      6.192     1275.0  GO              ESTABILIZADA    7.544    6.192               94738.0 002731-6
+  UHE SINOP                              8.913      395.7  MT              USINA LEILÃO   11.479                        42322.0 031428-5
+  UHE SOBRADINHO                         6.682     1048.9  BA              ESTABILIZADA    7.650    6.682               84105.0 002755-3
+  UHE TAQUARUCU                          6.760      521.6  SP              ESTABILIZADA    9.838    6.760               42312.0 002821-5
+  UHE TELES PIRES                       14.135     1807.0  MT              USINA LEILÃO   11.943                       306503.0 030557-0
+  UHE TRES IRMAOS                        9.908      803.3  SP              ESTABILIZADA    9.908    9.908               95509.0 002873-8
+  UHE TRES MARIAS                        6.295      386.7  MG              ESTABILIZADA    6.862    6.295               29211.0 027113-6
+  UHE TUCURUI                            6.481     8358.0  PA              ESTABILIZADA    7.138    6.481              650018.0 002889-4
+  UHE VOLTA GRANDE                       9.286      380.0  MG              ESTABILIZADA    8.348    9.286               42344.0 003045-7
+  UHE XINGO                              7.022     3155.9  AL              ESTABILIZADA    7.022    7.022              265929.0 027053-9
+  UTE AGUA EMENDADA                      8.942       45.0  GO 0.667        ESTABILIZADA   10.641    9.101    8.863       4829.0 030039-0
+  UTE ALTO TAQUARI(BRENCO)               8.942       50.0  GO 0.667        ESTABILIZADA   10.641    9.101    8.863       5365.0 030038-1
+  UTE AMANDINA                           6.747       45.0  MS              ESTABILIZADA    9.498    6.747                3643.0 030115-9
+  UTE AMANDINA II                       10.684       42.0  MS              ESTABILIZADA    9.498   10.684                5385.0 038375-9
+  UTE ARAUCARIA                          4.879      475.0  PR              ESTABILIZADA    7.812    4.879               27810.0 027733-9
+  UTE BAIXADA FLUMINENSE                 4.535      515.0  RJ              USINA LEILÃO    5.619                        28026.0 030769-6
+  UTE BERNECK                            5.206       13.6  PR 0.667        ESTABILIZADA    7.256    6.642    4.489        850.0 029993-6
+  UTE BOA VISTA                          9.497       45.0  GO 0.667        ESTABILIZADA   10.739   10.013    9.240       5129.0 029588-4
+  UTE CACU I                            10.151       72.0  GO 0.333        ESTABILIZADA   10.464   10.537    9.377       8770.0 030025-0
+  UTE CAMACARI MURICY (ECM)              5.376      141.0  BA              ESTABILIZADA    4.804    5.376                9096.0 029554-0
+  UTE CAMACARI POLO (AREMBEPE)           5.376      143.8  BA              ESTABILIZADA    4.804    5.376                9277.0 029555-8
+  UTE CAMPINA GRANDE                     6.514      166.5  MS 0.333        ESTABILIZADA    9.769    8.069    3.398      13014.0 000612-2
+  UTE CANDIOTA III (CGTEE)               6.666      325.0  RS              ESTABILIZADA   10.607    6.666               25997.0 029767-4
+  UTE CARAMURU ITUMBIARA                 7.533        8.0  GO              ESTABILIZADA    8.645    7.533                 723.0 035527-5
+  UTE CELSO FURTADO(TERMOBAHIA)          5.128      150.0  BA              ESTABILIZADA    4.939    5.128                9230.0 027263-9
+  UTE CMPC                               5.700       30.0  RS              ESTABILIZADA    8.237    5.700                2052.0 030666-5
+  UTE COSTA RICA                         8.715       55.0  MS 0.667        ESTABILIZADA   10.432    8.984    8.581       5752.0 030037-3
+  UTE CRISTIANO ROCHA                    4.824       80.0  AM 0.333        ESTABILIZADA    4.968    5.207    4.056       4631.0 029499-3
+  UTE CSP                                7.785       55.0  CE 0.667        ESTABILIZADA    6.876    7.295    8.030       5138.0 031241-0
+  UTE DO ATLANTICO (CSA)                 5.644      260.0  RJ              ESTABILIZADA    5.327    5.644               17609.0 029587-6
+  UTE ELDORADO                           8.254       70.0  MS              ESTABILIZADA    9.765    8.254                6933.0 029193-5
+  UTE ERB CANDEIAS                       4.982       12.3  BA              USINA LEILÃO    4.939                          735.0 030979-6
+  UTE EUZEBIO ROCHA (CUBATAO)            4.430      191.0  SP              ESTABILIZADA    7.643    4.430               10154.0 028014-3
+  UTE FERNANDO GASPARIAN - RB            4.739      183.3  SP              ESTABILIZADA    7.773    4.739               10424.0 028191-3
+  UTE FORTALEZA                          5.971      318.7  CE              ESTABILIZADA    6.141    5.971               22835.0 028357-6
+  UTE GERAMAR I                          7.569      162.9  MA 0.333        ESTABILIZADA    5.590    6.617    9.475      14795.0 029705-4
+  UTE GERAMAR II                         5.610      162.9  MA              ESTABILIZADA    5.590    5.610               10966.0 029668-6
+  UTE GLOBAL I (CANDEIAS)                5.128      143.0  BA              ESTABILIZADA    4.939    5.128                8800.0 029653-8
+  UTE GLOBAL II (CANDEIAS)               5.128      143.0  BA              ESTABILIZADA    4.939    5.128                8800.0 029639-2
+  UTE GOIANIA II (BRENTECH)              5.950      139.5  GO              ESTABILIZADA    7.620    5.950                9960.0 029460-8
+  UTE IACO                               7.418       45.0  MS              USINA LEILÃO   10.432                         4006.0 030269-4
+  UTE J.S.PEREIRA(TERMOACU)              6.822      316.5  RN              ESTABILIZADA    7.846    6.822               25910.0 028225-1
+  UTE JATAI (COSAN)                      8.942       67.0  GO 0.667        ESTABILIZADA   10.641    9.101    8.863       7190.0 030043-8
+  UTE JORGE LACERDA A - RB               5.115      121.3  SC              ESTABILIZADA    8.363    5.115                7445.0 001260-2
+  UTE JORGE LACERDA B                    5.115      241.5  SC              ESTABILIZADA    8.390    5.115               14823.0 027093-8
+  UTE JORGE LACERDA C                    5.115      323.4  SC              ESTABILIZADA    8.390    5.115               19850.0 027094-6
+  UTE KLABIN CELULOSE                    5.868      160.0  PR              ESTABILIZADA    8.704    5.868               11267.0 031098-0
+  UTE MARANHAO III                       5.490      505.9  MA              USINA LEILÃO    6.702                        33329.0 030800-5
+  UTE MARANHAO IV                        2.049      333.8  MA              USINA LEILÃO    6.702                         8207.0 030202-3
+  UTE MARANHAO V                         5.989      333.8  MA              ESTABILIZADA    6.702    5.989               23990.0 030203-1
+  UTE MARIO LAGO(TERMOMACAE)             4.531      893.4  RJ              ESTABILIZADA    5.864    4.531               48576.0 028029-1
+  UTE MAUA 3                             3.634      570.4  AM              USINA LEILÃO    4.563                        24874.0 031888-4
+  UTE MC2 NOVA VENECIA II                5.989      177.5  MA              ESTABILIZADA    6.702    5.989               12757.0 030196-5
+  UTE MORRO VERMELHO(BRENCO)             8.942       50.0  GO 0.667        ESTABILIZADA   10.641    9.101    8.863       5365.0 030040-3
+  UTE NARDINI - RB                       8.017       40.0  MS              ESTABILIZADA   10.432    8.017                3848.0 030105-1
+  UTE NORTE FLUMINENSE                   4.531      840.0  RJ              ESTABILIZADA    5.864    4.531               45672.0 001544-0
+  UTE NOVO TEMPO GNA II                  6.380     1324.0  RJ              USINA LEILÃO    5.608                       101365.0 032955-0
+  UTE PALMEIRAS DE GOIAS                 6.632      170.0  GO              ESTABILIZADA    8.403    6.632               13529.0 001946-1
+  UTE PAMPA SUL                          7.272      316.3  RS              USINA LEILÃO   10.607                        27602.0 032282-2
+  UTE PARNAIBA IV                        5.996       55.1  MA              ESTABILIZADA    6.702    5.996                3965.0 031193-6
+  UTE PAU FERRO I (EPESA)                5.713       93.7  PE              ESTABILIZADA    5.541    5.713                6424.0 029561-2
+  UTE PERNAMBUCO III                     6.042      194.7  PE              USINA LEILÃO    5.541                        14117.0 030120-5
+  UTE PIRATININGA - RB                   4.739      184.9  SP              ESTABILIZADA    7.773    4.739               10515.0 002082-6
+  UTE PORTO DAS AGUAS                    8.715       85.0  MS 0.667        ESTABILIZADA   10.432    8.984    8.581       8890.0 029999-5
+  UTE PORTO DE SERGIPE I                 6.868     1515.6  SE              USINA LEILÃO    6.595                       124910.0 032228-8
+  UTE PORTO DO ITAQUI                    5.915      330.0  MA              USINA LEILÃO    5.924                        23423.0 029700-3
+  UTE PORTO PECEM I                     10.649      660.0  CE              USINA LEILÃO    6.876                        84340.0 029720-8
+  UTE PORTO PECEM II                     7.629      337.5  CE              USINA LEILÃO    6.876                        30897.0 030098-5
+  UTE PROSPERIDADE I                     4.723       28.0  BA              USINA LEILÃO    5.028                         1587.0 032545-7
+  UTE QUIRINOPOLIS (UJS)                 7.623       32.0  GO              ESTABILIZADA   10.739    7.623                2927.0 029268-0
+  UTE SANTA LUZIA I                      8.255       72.0  MS 0.667        ESTABILIZADA    9.765    8.406    8.180       7133.0 030006-3
+  UTE SEPE TIARAJU (CANOAS)              5.402      241.4  RS              ESTABILIZADA    8.622    5.402               15649.0 028038-0
+  UTE SUAPE II                           7.057      371.4  PE              USINA LEILÃO    5.590                        31452.0 029719-4
+  UTE SUZANO                             5.931      100.0  MA              ESTABILIZADA    6.372    5.931                7117.0 030959-1
+  UTE TERMOCEARA                         5.973      215.9  CE              ESTABILIZADA    6.141    5.973               15475.0 028358-4
+  UTE TERMOIRAPE I                       4.238       45.5  MG              USINA LEILÃO    5.954                         2314.0 033467-7
+  UTE TERMOMANAUS (EPESA)                5.713      142.2  PE              ESTABILIZADA    5.541    5.713                9749.0 029562-0
+  UTE TERMONORDESTE(EPASA)               4.732      162.3  PB 0.333        ESTABILIZADA    4.349    5.097    4.002       9217.0 029641-4
+  UTE TERMONORTE II                      7.584      340.0  RO              ESTABILIZADA   12.960    7.584               30943.0 028033-0
+  UTE TERMOPARAIBA(EPASA)                4.082      162.3  PB 0.333        ESTABILIZADA    4.349    5.097    2.049       7950.0 029638-4
+  UTE TERMOPERNAMBUCO                    6.041      520.0  PE              ESTABILIZADA    5.615    6.041               37696.0 028031-3
+  UTE TROPICAL BIOENERGIA                5.901       50.0  GO              USINA LEILÃO    8.637                         3541.0 030080-2
+  UTE TROPICAL BIOENERGIA II             9.951       28.0  GO              ESTABILIZADA    8.637    9.951                3344.0 031769-1
+  UTE U-50 (RNEST)                       6.051       24.4  PE              ESTABILIZADA    5.590    6.051                1772.0 030438-7
+  UTE VERACEL                            3.495       27.0  BA              ESTABILIZADA     .397    3.495                1132.0 029014-9
+  UTE VIANA                              4.508      171.6  ES 0.333        ESTABILIZADA    4.716    6.445    0.628       9283.0 029664-3
+  UTN ANGRA I                            5.556      625.0  RJ              ESTABILIZADA    5.556    5.556               41670.0 000100-7
+  UTN ANGRA II                           5.556     1307.0  RJ              ESTABILIZADA    5.556    5.556               87140.0 000101-5
+ X--------------------------------X-----------X----------X---X-----------X-------------X--------X--------X--------X------------X--------X
+                                                                                                                      13091060.

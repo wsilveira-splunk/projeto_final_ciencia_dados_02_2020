@@ -1,0 +1,94 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2020-2021 * (30/07/2020 - 15:14:54)                                                    
+                                                             
+ SUMÁRIO DA REDE ELÉTRICA
+
+ BARRAS:                   8046
+ CIRCUITOS:               11202
+ ELEMENTOS NA TRANSMISSÃO: 1677
+ USINAS:                   1399
+
+
+ CAPACIDADE INSTALADA (MW) :  134577.1
+ DEMANDA CONTRATADA   (MW) :   98173.7 /   105726.1  (ponta / fora ponta)
+
+
+ SUMÁRIO NO CÁLCULO DA TUST-RB -------------
+
+ Receita anual a ser recuperada com a TUST-RB( 1000 R$ ) =   27992260.
+ Proporção de rateio da receita = Geração ( 50.0%)  Carga ( 50.0%)
+ Ponderação de Beta pelo fluxo GER. ( % ) = Mínima  (   .0 ) Máxima (100.0 )
+ Ponderação de Beta pelo fluxo CAR. ( % ) = Mínima  (   .0 ) Máxima (100.0 )
+
+ 
+ SUMÁRIO NO CÁLCULO DA TUSDg ---------------
+
+ 
+ Consideradas TUSDg de usinas existentes. IGP-M utilizado na atualização:    6.50900 %
+ Receita anual com a TUSDg   ( 1000 R$ ) = 6165813.00
+ Elementos no cálculo da TUSDg : 4089
+ Definido como RU exportadora aquela com fluxo líquido nas barras de fronteira saindo desta RU.
+ Carga total:                            98173.73 (MW)
+
+  Parcela TUSDg-ONS    72135.
+  Parcela TUSDg-T      79604.
+
+ Encargos devidos à REN 267/07 (TUST Longo Prazo ):   -471709.26 (1000R$/ano)
+
+ Encargos devidos à REN 559/13 (TUST Estabilizada):      3546.25 (1000R$/ano)
+ 
+
+
+ Totais de MUST e MUSD considerados no cálculo, agregados por Distribuidora conforme arquivo (.DC), em MW
+
+ --------------------------------------------------------------------
+ Distribuidora                        MUST-hp      MUSD    Diferença
+ --------------------------------------------------------------------
+                                          .00      258.17     -258.17
+ AMAZONAS ENERGIA                     1366.40     1366.40         .00
+ CEA                                   300.58      303.84       -3.26
+ CEB-DIS                               510.50     1482.24     -971.74
+ CEEE-D                               2168.00     2113.33       54.67
+ CELESC-DIS                           5467.50     5623.07     -155.57
+ CELPA                                2709.52     2603.61      105.91
+ CELPE                                2502.21     2491.21       11.00
+ CEMIG-D                              9403.40     9023.01      380.39
+ CEMIRIM                                16.35       16.35         .00
+ CERILUZ                                47.30       47.30         .00
+ CERON                                 748.16      752.96       -4.80
+ CERTEL                                 80.00       80.00         .00
+ COELBA                               4605.14     4504.01      101.13
+ CONSUMIDOR LIVRE                     7430.31     6909.91      520.40
+ COPEL-DIS                            6271.06     5748.88      522.18
+ COPREL                                 57.09       56.37         .72
+ COSERN                                963.55      961.73        1.82
+ CPFL PAULISTA                        6080.81     7033.49     -952.68
+ CPFL PIRATININGA                     2121.28     2268.17     -146.89
+ CPFL SANTA CRUZ                       651.24      651.24         .00
+ EDP ES                               2126.30     2106.77       19.53
+ EDP SP                               1423.29     2610.69    -1187.40
+ ELEKTRO                              4342.22     5150.22     -808.00
+ ELFSM                                    .00      176.30     -176.30
+ ENEL GOIAS                           3574.81     2608.06      966.75
+ ENEL-CE                              2100.76     2100.76         .00
+ ENEL-RJ                              4643.98     3041.30     1602.68
+ ENEL-SP                              9153.88     9118.68       35.20
+ ENERGISA ACRE                         178.68      178.68         .00
+ ENERGISA BORBOREMA - EBO              180.40      180.40         .00
+ ENERGISA M.G. DO SUL - EMS            967.00     1163.10     -196.10
+ ENERGISA MATO GROSSO - EMT           1701.42     1699.68        1.74
+ ENERGISA MINAS GERAIS - EMG           126.00      278.40     -152.40
+ ENERGISA NOVA FRIBURGO - ENF             .00       75.04      -75.04
+ ENERGISA PARAIBA - EPB                684.20      684.20         .00
+ ENERGISA SERGIPE - ESE                475.17      475.17         .00
+ ENERGISA SUL SUDESTE - ESS            772.80      945.95     -173.15
+ ENERGISA TOCANTINS - ETO              574.38     1036.38     -462.00
+ EQUATORIAL ALAGOAS                   1423.07     1423.07         .00
+ EQUATORIAL MARANHÃO                  1854.26     1750.86      103.40
+ EQUATORIAL PIAUI                      637.92      629.96        7.96
+ LIGHT                                3864.40     5062.53    -1198.13
+ RGE SUL                              3800.44     3726.45       73.99
+ SULGIPE                                68.00       68.00         .00
+ --------------------------------------------------------------------
+                                     98173.78   100586.00    -2412.17

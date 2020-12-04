@@ -1,0 +1,564 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2020-2021 * (30/07/2020 - 15:14:54)                                                    
+                                                             
+ RELATÓRIO DE TUSDg MÉDIA DE USINAS POR DISTRIBUIDORA (R$/kW/mês)
+
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+          Distribuidora/UF                          Usina                  MUSD        Componentes da TUSDg (R$/kW.mês)
+                                                                            MW        T          D/DIT     ONS       TOTAL
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CEA                              AP UHE COARACY NUNES                   78.000                   1.084    0.162       1.246
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CEB-DIS                          GO UHE CORUMBA III                     86.500                   2.823    0.162       2.985
+                                   GO UHE CORUMBA IV                     124.500                   2.901    0.162       3.062
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CEEE-D                           RS EOL CORREDOR DO SENANDES II         20.800                  10.919    0.162      11.081
+                                   RS EOL CORREDOR DO SENANDES III        26.050                  10.919    0.162      11.081
+                                   RS EOL CORREDOR DO SENANDES IV         28.660                  10.919    0.162      11.081
+                                   RS EOL FAZENDA ROSARIO                  9.200                   6.231    0.162       6.393
+                                   RS EOL FAZENDA ROSARIO 2               23.000                   6.231    0.162       6.393
+                                   RS EOL FAZENDA ROSARIO 3               16.100                   6.231    0.162       6.393
+                                   RS EOL PALMARES                         9.200                   6.231    0.162       6.393
+                                   RS EOL VENTO ARAGANO I                 28.660                  10.919    0.162      11.081
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CELESC-DIS                       SC EOL AGUA DOCE                        3.983                   2.613    0.162       2.775
+                                   SC EOL AMPARO                          22.500                   2.720    0.162       2.882
+                                   SC EOL AQUIBATA                        30.000                   2.720    0.162       2.882
+                                   SC EOL BOM JARDIM                      30.000                   2.687    0.162       2.849
+                                   SC EOL CAMPO BELO                      10.500                   2.720    0.162       2.882
+                                   SC EOL CASCATA                          6.000                   2.720    0.162       2.882
+                                   SC EOL CRUZ ALTA                       30.000                   2.720    0.162       2.882
+                                   SC EOL HIPERION                         1.983                   2.613    0.162       2.775
+                                   SC EOL PULPITO                         30.000                   2.687    0.162       2.849
+                                   SC EOL QUINTA DO GOMARIZ                3.983                   2.613    0.162       2.775
+                                   SC EOL RIO DO OURO                     30.000                   2.687    0.162       2.849
+                                   SC EOL SALTO                           30.000                   2.720    0.162       2.882
+                                   SC EOL SANTO ANTONIO                    3.000                   2.687    0.162       2.849
+                                   SC PCH ADO POPINHAKI                   22.600                   2.374    0.162       2.536
+                                   SC PCH ALTO BENEDITO NOVO I            15.000                   2.467    0.162       2.629
+                                   SC PCH ANGELINA                        26.270                   1.852    0.162       2.013
+                                   SC PCH CAPIVARI                        12.483                   1.753    0.162       1.915
+                                   SC PCH COQUEIRAL                        3.164                   1.852    0.162       2.013
+                                   SC PCH JOAO BORGES                     19.000                   2.862    0.162       3.023
+                                   SC PCH MOINHO                          13.500                   2.786    0.162       2.948
+                                   SC PCH NOVA FATIMA                      4.100                   1.753    0.162       1.915
+                                   SC PCH OURO                            16.000                   2.786    0.162       2.948
+                                   SC PCH PERY                            25.600                   2.374    0.162       2.536
+                                   SC PCH RABO DO MACACO                   5.700                   1.745    0.162       1.907
+                                   SC PCH RIO DAS PACAS                    2.100                   1.745    0.162       1.907
+                                   SC PCH RIO FORTUNA                      6.850                   1.753    0.162       1.915
+                                   SC PCH RIO NATAL I                      8.480                   1.745    0.162       1.907
+                                   SC PCH RIO VERMELHO 1                   3.000                   1.745    0.162       1.907
+                                   SC PCH RIO VERMELHO 2                   2.150                   1.745    0.162       1.907
+                                   SC PCH RIO VERMELHO 3                   2.400                   1.745    0.162       1.907
+                                   SC PCH RUDOLF                           9.000                   2.606    0.162       2.767
+                                   SC PCH SALTO GOES                      20.000                   1.878    0.162       2.040
+                                   SC PCH SANTA ANA                        6.304                   1.852    0.162       2.013
+                                   SC PCH SANTA ROSA - SC                  6.500                   1.753    0.162       1.915
+                                   SC PCH TAMANDUA                        16.000                   0.968    0.162       1.130
+                                   SC UHE QUEBRA QUEIXO                  120.000                   3.146    0.162       3.307
+                                   SC UHE SALTO PILAO                    188.000                   2.613    0.162       2.774
+                                   SC UTE COGERACAO LAGES                 26.000                   2.241    0.162       2.403
+                                   SC UTE JORGE LACERDA A                 90.090                   2.793    0.162       2.954
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CELPA                            MT PCH SALTO BURITI                    10.000                   5.024    0.162       5.186
+                                   MT PCH SALTO CURUA                     30.000                   5.024    0.162       5.186
+                                   MT PCH SALTO TRES DE MAIO              20.000                   5.124    0.162       5.285
+                                   PA UHE CURUA-UNA                       30.300                   9.583    0.162       9.745
+                                   PA UTE FLORAPLAC                       15.900                   4.911    0.162       5.072
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CELPE                            PE UFV BRIGIDA 1                       31.500                  16.406    0.162      16.567
+                                   PE UFV BRIGIDA 2                       31.500                  16.406    0.162      16.567
+                                   PE UFV SOLAR SALGUEIRO                 30.000                  14.741    0.162      14.903
+                                   PE UFV SOLAR SALGUEIRO II              30.000                  14.741    0.162      14.903
+                                   PE UFV SOLAR SALGUEIRO III             30.000                  14.741    0.162      14.903
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CEMIG-D                          MG PCH BOA VISTA II                    29.701                   4.172    0.162       4.334
+                                   MG PCH CABOCLO                          3.815                   1.484    0.162       1.645
+                                   MG PCH CACHOEIRA DOS PRAZERES           1.750                   1.484    0.162       1.645
+                                   MG PCH CARANGOLA                       15.000                   0.297    0.162       0.458
+                                   MG PCH DORES DE GANHAES                13.181                   2.961    0.162       3.122
+                                   MG PCH FORTUNA II                       8.456                   2.961    0.162       3.122
+                                   MG PCH FUMACA                           9.700                   1.484    0.162       1.645
+                                   MG PCH FUNIL                            3.550                   1.484    0.162       1.645
+                                   MG PCH FURQUIM                          5.875                   1.484    0.162       1.645
+                                   MG PCH JACARE                           8.856                   2.961    0.162       3.122
+                                   MG PCH MALAGONE                        19.000       1.194       5.511    0.162       6.867
+                                   MG PCH MATA VELHA                      24.000       1.082       7.008    0.162       8.251
+                                   MG PCH MUCURI                          18.810                   3.307    0.162       3.469
+                                   MG PCH NINHO DA AGUIA                  10.000                   1.286    0.162       1.448
+                                   MG PCH PAIOL                           20.000                   2.735    0.162       2.897
+                                   MG PCH SALTO - MG                       4.210                   1.484    0.162       1.645
+                                   MG PCH SENHORA DO PORTO                11.616                   2.961    0.162       3.122
+                                   MG PCH SERRA DAS AGULHAS               29.774       1.024       3.874    0.162       5.059
+                                   MG PCH UNAI BAIXO                      26.000       1.082       7.008    0.162       8.251
+                                   MG UFV ARAXA 1                         44.220       1.105       4.647    0.162       5.914
+                                   MG UFV ARAXA 2                         44.220       1.105       4.647    0.162       5.914
+                                   MG UFV FRANCISCO SA 1                  29.990       0.981       4.937    0.162       6.080
+                                   MG UFV FRANCISCO SA 2                  29.990       0.981       4.937    0.162       6.080
+                                   MG UFV FRANCISCO SA 3                  29.990       0.981       4.937    0.162       6.080
+                                   MG UFV GUIMARANIA 1                    31.000       1.104       3.545    0.162       4.810
+                                   MG UFV GUIMARANIA 2                    31.000       1.104       3.545    0.162       4.810
+                                   MG UFV PARACATU 1                      32.900       1.082       5.506    0.162       6.749
+                                   MG UFV PARACATU 2                      32.900       1.082       5.506    0.162       6.749
+                                   MG UFV PARACATU 3                      32.900       1.082       5.506    0.162       6.749
+                                   MG UFV PARACATU 4                      32.900       1.082       5.506    0.162       6.749
+                                   MG UFV PIRAPORA 10                     30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 2                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 3                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 4                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 5                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 6                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 7                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV PIRAPORA 9                      30.000       1.029       4.819    0.162       6.009
+                                   MG UFV SOLAR JAIBA 3                   33.000       0.953       5.654    0.162       6.768
+                                   MG UFV SOLAR JAIBA 4                   33.000       0.953       5.654    0.162       6.768
+                                   MG UFV SOLAR JAIBA 9                   22.500       0.953       5.654    0.162       6.768
+                                   MG UFV VAZANTE 1                       27.000       1.029       4.819    0.162       6.009
+                                   MG UFV VAZANTE 2                       27.000       1.029       4.819    0.162       6.009
+                                   MG UFV VAZANTE 3                       27.000       1.029       4.819    0.162       6.009
+                                   MG UHE AMADOR AGUIAR I (C.BRANCO I)   230.800       1.136       4.683    0.162       5.981
+                                   MG UHE AMADOR AGUIAR II(C.BRANCO II   207.200       1.167       6.028    0.162       7.356
+                                   MG UHE BATALHA                         49.450       1.076       4.523    0.162       5.761
+                                   MG UHE CAMARGOS                        44.744                   2.408    0.162       2.570
+                                   MG UHE FUNIL - MG                     180.000                   2.772    0.162       2.933
+                                   MG UHE IGARAPAVA                      207.720       1.148       5.941    0.162       7.251
+                                   MG UHE ITUTINGA                        50.672                   2.408    0.162       2.570
+                                   MG UHE MASCARENHAS DE MORAES(PEIX.)   150.000       1.091       4.390    0.162       5.642
+                                   MG UHE MIRANDA                        403.713       1.178       6.469    0.162       7.809
+                                   MG UHE PICADA                          49.000                   2.085    0.162       2.247
+                                   MG UHE PORTO COLOMBIA                 316.000                   4.132    0.162       4.294
+                                   MG UHE QUEIMADO                       105.000       1.082       8.545    0.162       9.788
+                                   MG UHE RETIRO BAIXO                    79.000       1.024       4.873    0.162       6.058
+                                   MG UHE RISOLETA NEVES (CANDONGA)      140.000                   1.848    0.162       2.010
+                                   MG UHE SALTO GRANDE - MG              101.004                   1.912    0.162       2.074
+                                   MG UHE SANTA CLARA - MG                60.000                   3.322    0.162       3.483
+                                   MG UHE SOBRAGI                         59.500                   2.305    0.162       2.466
+                                   MG UTE AURELIANO CHAVES (IBIRITE)     230.000                   1.479    0.162       1.641
+                                   MG UTE BEVAP                           30.000       1.028       6.124    0.162       7.313
+                                   MG UTE CERRADAO                         8.800                   4.434    0.162       4.596
+                                   MG UTE CERRADAO 2                      40.000                   4.434    0.162       4.596
+                                   MG UTE DELTA                           62.500       1.149       6.047    0.162       7.358
+                                   MG UTE DVPA                            20.000       1.028       6.170    0.162       7.360
+                                   MG UTE ENERGETICA TUPACIGUARA          21.000       1.235       5.290    0.162       6.686
+                                   MG UTE ENERVALE                        30.000       1.028       6.124    0.162       7.313
+                                   MG UTE IGARAPE                        124.308                   1.309    0.162       1.471
+                                   MG UTE ITUIUTABA                       36.000       1.299       5.499    0.162       6.960
+                                   MG UTE JUIZ DE FORA - CEMIG            41.500                   1.982    0.162       2.143
+                                   MG UTE LDC BIOENERGIA LAGOA DA PRAT    30.000                   1.371    0.162       1.532
+                                   MG UTE REGAP                           10.000                   1.480    0.162       1.641
+                                   MG UTE SANTA JULIANA                   30.000       1.128       4.633    0.162       5.922
+                                   MG UTE SANTA VITORIA                   20.000       1.299       6.031    0.162       7.492
+                                   MG UTE SANTO ANGELO                    30.000                   4.193    0.162       4.354
+                                   MG UTE SAO JUDAS TADEU                 30.000       0.961       5.241    0.162       6.363
+                                   MG UTE UT UGPU ITABIRITO                3.300                   4.131    0.162       4.292
+                                   MG UTE VALE DO PONTAL                  23.500       1.299       6.663    0.162       8.124
+                                   MG UTE VALE DO TIJUCO I                30.000       1.163       6.271    0.162       7.595
+                                   MG UTE VALE DO TIJUCO II               30.000       1.163       6.271    0.162       7.595
+                                   MG UTE WD                              30.000       1.042       3.679    0.162       4.882
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CERON                            RO PCH CESAR FILHO                      7.000       6.357       2.055    0.162       8.573
+                                   RO PCH PRIMAVERA                       18.200       6.357       2.055    0.162       8.573
+                                   RO UHE RONDON II                       73.500       6.357       2.319    0.162       8.838
+                                   RO UTE RONDON II                       20.000       6.357       2.319    0.162       8.838
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  COELBA                           BA EOL VENTOS DA BAHIA II              26.210                   5.682    0.162       5.844
+                                   BA EOL VENTOS DA BAHIA IV              11.650                   5.682    0.162       5.844
+                                   BA EOL VENTOS DA BAHIA VIII            26.210                   5.682    0.162       5.844
+                                   BA PCH BOA SORTE - TO                  15.900                  15.100    0.162      15.262
+                                   BA PCH CACHOEIRA DA LIXA - BA          14.800                   2.882    0.162       3.043
+                                   BA PCH COLINO 1 - BA                   11.000                   2.882    0.162       3.043
+                                   BA PCH COLINO 2 - BA                   16.000                   2.882    0.162       3.043
+                                   BA PCH DOIDO                            6.000                  14.970    0.162      15.132
+                                   BA PCH LAGOA GRANDE - TO               24.300                  15.100    0.162      15.262
+                                   BA PCH PORTO FRANCO - TO               29.710                  15.100    0.162      15.262
+                                   BA PCH RIACHO PRETO - TO                9.300                  15.100    0.162      15.262
+                                   BA UHE FUNIL - BA                      29.961                   3.092    0.162       3.253
+                                   BA UTE SUZANO MUCURI                   40.000                   2.970    0.162       3.132
+                                   BA UTE SYKUE I                         28.500                  13.639    0.162      13.801
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  COPEL-DIS                        PR INT IMPORTACAO ANDE                   .030                   3.623    0.162       3.785
+                                   PR PCH ARTURO ANDREOLI                 29.072                   4.199    0.162       4.360
+                                   PR PCH CANHADAO                        10.000                   5.574    0.162       5.735
+                                   PR PCH CANTU 2                         19.550                   4.138    0.162       4.299
+                                   PR PCH CAVERNOSO II                    19.000                   4.766    0.162       4.927
+                                   PR PCH CONFLUENCIA                     27.000                   4.034    0.162       4.196
+                                   PR PCH LUDESA                          30.000                   4.125    0.162       4.287
+                                   PR PCH MACACOS                          9.900                   4.448    0.162       4.609
+                                   PR PCH NOVO HORIZONTE                  23.000                   4.577    0.162       4.739
+                                   PR PCH SANTA LUZIA ALTO                28.500                   4.125    0.162       4.287
+                                   PR PCH VICTOR BAPTISTA ADAMI           25.000                   4.188    0.162       4.350
+                                   PR UHE FUNDAO                         120.168                   5.846    0.162       6.008
+                                   PR UHE SANTA BRANCA (COPEL)            60.570                   5.631    0.162       5.793
+                                   PR UHE SANTA CLARA                    120.168                   5.959    0.162       6.121
+                                   PR UHE TIBAGI MONTANTE                 36.000                   5.631    0.162       5.793
+                                   PR UTE ALTO ALEGRE - UJU               20.000                   4.022    0.162       4.183
+                                   PR UTE BIO COOPCANA                    30.000                   3.069    0.162       3.230
+                                   PR UTE FIGUEIRA                        18.000                   4.520    0.162       4.681
+                                   PR UTE SANTA TEREZINHA                 29.940                   3.914    0.162       4.075
+                                   PR UTE SANTA TEREZINHA PARANACITY      26.000                   3.627    0.162       3.789
+                                   PR UTE UFL                             30.000                   4.593    0.162       4.755
+                                   PR UTE USACIGA                         23.300                   3.622    0.162       3.784
+                                   PR UTE USI                             30.000                   4.593    0.162       4.755
+                                   PR UTE USI BIO                         10.000                   4.594    0.162       4.755
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  COSERN                           RN EOL MANGUE SECO I                   25.300       1.069       0.932    0.162       2.162
+                                   RN EOL MANGUE SECO II                  25.460       1.069       0.932    0.162       2.162
+                                   RN EOL MANGUE SECO III                 25.700       1.069       0.932    0.162       2.162
+                                   RN EOL MANGUE SECO V                   25.420       1.069       0.932    0.162       2.162
+                                   RN EOL SANTA ROSA E MUNDO NOVO I       32.390       0.922       0.808    0.162       1.892
+                                   RN EOL SANTA ROSA E MUNDO NOVO II      28.460       0.922       0.808    0.162       1.892
+                                   RN EOL SANTA ROSA E MUNDO NOVO III     32.090       0.922       0.808    0.162       1.892
+                                   RN EOL SANTA ROSA E MUNDO NOVO IV      32.090       0.922       0.808    0.162       1.892
+                                   RN EOL SANTA ROSA E MUNDO NOVO V       24.320       0.922       0.808    0.162       1.892
+                                   RN UFV ASSU V                          30.000       1.069       0.873    0.162       2.103
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CPFL PAULISTA                    SP PCH ANHANGUERA                      22.680                   4.071    0.162       4.232
+                                   SP PCH ELOY CHAVES                     18.935                   3.039    0.162       3.201
+                                   SP PCH PALMEIRAS                       16.000                   3.883    0.162       4.044
+                                   SP PCH PINHAL                           6.777                   2.937    0.162       3.099
+                                   SP PCH RETIRO                          15.600                   4.019    0.162       4.181
+                                   SP UFV GUAIMBE 1                       30.000                   3.917    0.162       4.079
+                                   SP UFV GUAIMBE 2                       30.000                   3.917    0.162       4.079
+                                   SP UFV GUAIMBE 3                       30.000                   3.917    0.162       4.079
+                                   SP UFV GUAIMBE 4                       30.000                   3.917    0.162       4.079
+                                   SP UFV GUAIMBE 5                       30.000                   3.917    0.162       4.079
+                                   SP UHE BARIRI (A.S.LIMA)              135.280                   3.686    0.162       3.848
+                                   SP UHE BARRA BONITA                   139.230                   3.688    0.162       3.850
+                                   SP UHE IBITINGA                       129.940                   3.435    0.162       3.597
+                                   SP UHE PROMISSAO                      261.060                   3.899    0.162       4.060
+                                   SP UTE ALTA MOGIANA                    29.750                   4.074    0.162       4.236
+                                   SP UTE BARRA BIOENERGIA                83.700                   3.730    0.162       3.891
+                                   SP UTE BARRA GRANDE (SP)               46.000                   3.979    0.162       4.141
+                                   SP UTE BIOGAS BONFIM                   20.900                   3.807    0.162       3.969
+                                   SP UTE BIOLINS                         18.000                   3.959    0.162       4.121
+                                   SP UTE BONFIM                          84.100                   3.807    0.162       3.969
+                                   SP UTE BROTAS                          30.000                   4.998    0.162       5.160
+                                   SP UTE BROTAS II                       30.000                   4.998    0.162       5.160
+                                   SP UTE CEVASA                          28.000                   3.427    0.162       3.588
+                                   SP UTE CLEALCO QUEIROZ                 29.000                   3.059    0.162       3.221
+                                   SP UTE COLOMBO ARIRANHA                14.000                   4.321    0.162       4.482
+                                   SP UTE COLOMBO ARIRANHA 2              30.000                   4.321    0.162       4.482
+                                   SP UTE COLORADO                        30.000                   4.127    0.162       4.289
+                                   SP UTE COSTA PINTO                     49.500                   5.057    0.162       5.218
+                                   SP UTE DA MATA                         30.000                   4.395    0.162       4.557
+                                   SP UTE DA MATA II                      30.000                   4.395    0.162       4.557
+                                   SP UTE DA PEDRA                        50.000                   3.657    0.162       3.819
+                                   SP UTE EQUIPAV I                        7.000                   3.956    0.162       4.118
+                                   SP UTE EQUIPAV II                      29.000                   3.957    0.162       4.118
+                                   SP UTE ESTER                           28.000                   3.108    0.162       3.269
+                                   SP UTE GUAIRA - SP                     30.000                   3.967    0.162       4.128
+                                   SP UTE GUARANI - TANABI                30.000                   3.355    0.162       3.517
+                                   SP UTE GUARANI - TANABI 2              29.000                   3.355    0.162       3.517
+                                   SP UTE GUARANI CRUZ ALTA               29.000                   3.708    0.162       3.870
+                                   SP UTE GUARANI CRUZ ALTA 2             19.000                   3.708    0.162       3.870
+                                   SP UTE IBITIUVA                        30.000                   4.272    0.162       4.434
+                                   SP UTE LWARCEL                          9.000                   1.682    0.162       1.844
+                                   SP UTE MANDU                           59.000                   4.050    0.162       4.212
+                                   SP UTE MOGIANA BIOENERGIA              29.500                   4.074    0.162       4.236
+                                   SP UTE NARDINI                         31.000                   4.296    0.162       4.458
+                                   SP UTE PITANGUEIRAS                    41.000                   4.000    0.162       4.162
+                                   SP UTE POTIRENDABA                     26.000                   3.375    0.162       3.537
+                                   SP UTE RAFARD                          33.500                   3.008    0.162       3.170
+                                   SP UTE RUETTE                          18.000                   4.468    0.162       4.630
+                                   SP UTE SANTA ADELIA                    23.500                   3.950    0.162       4.112
+                                   SP UTE SANTA CANDIDA I                 21.500                   4.251    0.162       4.413
+                                   SP UTE SANTA CANDIDA II                30.000                   4.251    0.162       4.413
+                                   SP UTE SANTA CRUZ AB                   50.000                   3.677    0.162       3.839
+                                   SP UTE SANTA ELISA                     30.000                   4.210    0.162       4.372
+                                   SP UTE SANTA FE                        12.500                   3.838    0.162       3.999
+                                   SP UTE SAO FRANCISCO                   19.000                   3.929    0.162       4.090
+                                   SP UTE SAO JOSE COLINA                 53.000                   4.135    0.162       4.296
+                                   SP UTE SAO JOSE MACATUBA               53.000                   3.979    0.162       4.141
+                                   SP UTE SAO MARTINHO                    30.000                   4.118    0.162       4.279
+                                   SP UTE SAO MARTINHO ENERGIA            30.000                   4.118    0.162       4.279
+                                   SP UTE UNIVALEM BIOENERGIA             29.000                   4.155    0.162       4.316
+                                   SP UTE VALE DO ROSARIO                 63.000                   4.594    0.162       4.756
+                                   SP UTE VERTENTE                        27.500                   3.708    0.162       3.870
+                                   SP UTE VIRALCOOL                       20.000                   4.283    0.162       4.445
+                                   SP UTE VIRALCOOL 2                     29.000                   4.283    0.162       4.445
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CPFL PIRATININGA                 SP UHE HENRY BORDEN                    49.000                   2.187    0.162       2.348
+                                   SP UTE NEGRO DE FUMO                   18.000                   2.185    0.162       2.347
+                                   SP UTE PETROCOQUE                      11.800                   4.094    0.162       4.256
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  CPFL SANTA CRUZ                  SP UHE CACONDE                         79.500                   3.257    0.162       3.418
+                                   SP UHE EUCLIDES DA CUNHA              107.590                   3.042    0.162       3.204
+                                   SP UHE LIMOEIRO (A.S.OLIVEIRA)         31.640                   3.055    0.162       3.216
+                                   SP UHE OURINHOS                        41.000                   3.640    0.162       3.802
+                                   SP UTE BIOENERGIA MOCOCA               35.000                   2.753    0.162       2.915
+                                   SP UTE FURLAN AVARE                    15.000                   3.605    0.162       3.766
+                                   SP UTE IPAUSSU BIOENERGIA              51.500                   3.754    0.162       3.915
+                                   SP UTE RIO PARDO                       25.000                   3.622    0.162       3.784
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  EDP ES                           ES PCH FRANCISCO GROSS                 28.970                   3.519    0.162       3.681
+                                   ES PCH SAO JOAQUIM                     21.000                   4.069    0.162       4.231
+                                   ES PCH SAO PEDRO                       30.000                   4.242    0.162       4.404
+                                   ES PCH SAO SIMAO                       27.000                   3.519    0.162       3.681
+                                   ES UHE MASCARENHAS - ENERGEST         196.420                   3.587    0.162       3.749
+                                   ES UHE SUICA                           33.870                   3.087    0.162       3.249
+                                   ES UTE ALCON                           30.000                   2.813    0.162       2.975
+                                   ES UTE ARCEL                           29.999                   2.980    0.162       3.142
+                                   ES UTE LASA                            15.200                   4.058    0.162       4.220
+                                   ES UTE LUIZ OSCAR ROD. DE MELO        198.800                   3.625    0.162       3.787
+                                   ES UTE SOL                             90.000                   3.847    0.162       4.009
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  EDP SP                           SP PCH LAVRINHAS                       30.000                  14.638    0.162      14.799
+                                   SP PCH QUELUZ                          30.000                  14.986    0.162      15.148
+                                   SP UHE JAGUARI                         27.300                   1.621    0.162       1.783
+                                   SP UHE SANTA BRANCA                    57.000                   4.968    0.162       5.130
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ELEKTRO                          SP PCH SAN JUAN                         4.870                   2.144    0.162       2.305
+                                   SP UFV AGUA VERMELHA IV                15.000                   3.612    0.162       3.774
+                                   SP UFV AGUA VERMELHA V                 30.000                   3.612    0.162       3.774
+                                   SP UFV AGUA VERMELHA VI                30.000                   3.612    0.162       3.774
+                                   SP UFV BOA HORA 1                      23.040                   3.749    0.162       3.911
+                                   SP UFV BOA HORA 2                      23.040                   3.749    0.162       3.911
+                                   SP UFV BOA HORA 3                      23.040                   3.749    0.162       3.911
+                                   SP UFV DRACENA 1                       27.000                   4.363    0.162       4.524
+                                   SP UFV DRACENA 2                       27.000                   4.363    0.162       4.524
+                                   SP UFV DRACENA 4                       27.000                   4.363    0.162       4.524
+                                   SP UFV PEREIRA BARRETO I               41.490                   4.439    0.162       4.601
+                                   SP UFV PEREIRA BARRETO II              41.490                   4.439    0.162       4.601
+                                   SP UFV PEREIRA BARRETO III             41.490                   4.439    0.162       4.601
+                                   SP UFV PEREIRA BARRETO IV              41.490                   4.439    0.162       4.601
+                                   SP UFV PEREIRA BARRETO V               36.480                   4.439    0.162       4.601
+                                   SP UFV VALE DO PARANA                  30.000                   3.736    0.162       3.898
+                                   SP UHE JUPIA                          219.800                   4.746    0.162       4.908
+                                   SP UHE NOVA AVANHANDAVA               341.160                   3.847    0.162       4.009
+                                   SP UHE PARAIBUNA                       84.300                   1.801    0.162       1.962
+                                   SP UHE ROSANA                         351.600                   4.961    0.162       5.123
+                                   SP UTE ALCIDIA                         27.000                   4.007    0.162       4.169
+                                   SP UTE BALDIN                          28.500                   2.753    0.162       2.915
+                                   SP UTE COCAL II                        80.000                   3.987    0.162       4.149
+                                   SP UTE COLOMBO SANTA ALBERTINA         21.000                   3.105    0.162       3.266
+                                   SP UTE CONQUISTA DO PONTAL             70.000                   4.120    0.162       4.282
+                                   SP UTE CRESCIUMAL                      20.000                   3.055    0.162       3.217
+                                   SP UTE ELDORADO BRASIL                 50.000                   4.579    0.162       4.740
+                                   SP UTE FBA GASA - ANDRADINA            50.000                   4.439    0.162       4.601
+                                   SP UTE FERRARI - PIRASSUNUNGA          55.000                   2.910    0.162       3.071
+                                   SP UTE FIBRIA 2                       140.000                   4.739    0.162       4.901
+                                   SP UTE INTERLAGOS                      27.000                   4.033    0.162       4.194
+                                   SP UTE IPE                             25.000                   4.404    0.162       4.565
+                                   SP UTE L.CARLOS PRESTES (T.LAGOAS)    360.000                   4.796    0.162       4.957
+                                   SP UTE MERIDIANO                       28.580                   3.094    0.162       3.256
+                                   SP UTE MOEMA                           30.000                   3.421    0.162       3.582
+                                   SP UTE MOGI                             4.500                   3.005    0.162       3.167
+                                   SP UTE NOBLE ENERGIA                   28.580                   3.094    0.162       3.256
+                                   SP UTE NOBLE ENERGIA II                28.000                   3.094    0.162       3.256
+                                   SP UTE NOROESTE PAULISTA               28.580                   3.094    0.162       3.256
+                                   SP UTE ONCA PINTADA                    50.000                   4.579    0.162       4.740
+                                   SP UTE PARANAPANEMA                    30.000                   4.120    0.162       4.282
+                                   SP UTE PIONEIROS                       17.000                   3.866    0.162       4.028
+                                   SP UTE PIONEIROS II                    19.000                   3.866    0.162       4.028
+                                   SP UTE RIO VERMELHO                    30.000                   4.656    0.162       4.817
+                                   SP UTE RIO VERMELHO 2                  30.000                   4.656    0.162       4.817
+                                   SP UTE RIO VERMELHO 3                  14.200                   4.656    0.162       4.817
+                                   SP UTE SAO JOAO DA BOA VISTA           50.000                   3.219    0.162       3.381
+                                   SP UTE SAO LUIZ                        50.000                   3.000    0.162       3.161
+                                   SP UTE TERMOVERDE CAIEIRAS             27.500                   2.983    0.162       3.145
+                                   SP UTE VCP-MS                          50.000                   4.739    0.162       4.901
+                                   SP UTE VIRALCOOL CASTILHO              28.000                   4.363    0.162       4.524
+                                   SP UTE VISTA ALEGRE - ELEKTRO          30.000                   1.285    0.162       1.447
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENEL GOIAS                       GO PCH GALHEIROS I                     11.550                   3.257    0.162       3.418
+                                   GO PCH MOSQUITAO                       30.000                   3.447    0.162       3.609
+                                   GO PCH QUEIXADA                        30.000                   8.045    0.162       8.207
+                                   GO PCH RENIC                           15.832                   3.505    0.162       3.667
+                                   GO PCH SANTO ANTONIO DO CAIAPO         30.000                   3.447    0.162       3.609
+                                   GO PCH SAO DOMINGOS II                 24.000                   3.257    0.162       3.418
+                                   GO PCH TAMBORIL 29648                  15.800                   3.505    0.162       3.667
+                                   GO PCH TAMBORIL 35113                  15.800                   2.759    0.162       2.921
+                                   GO PCH VERDE 8                         30.000                   7.065    0.162       7.226
+                                   GO PCH YPE                             30.000                   7.065    0.162       7.226
+                                   GO UHE CACHOEIRA DOURADA              141.410                   6.873    0.162       7.035
+                                   GO UHE ESPORA                          32.010                   8.045    0.162       8.207
+                                   GO UHE SERRA DO FACAO                 202.400       1.136       5.572    0.162       6.870
+                                   GO UTE BOA VISTA - CELG                28.500                   7.363    0.162       7.525
+                                   GO UTE CACHOEIRA DOURADA               29.000                   6.873    0.162       7.035
+                                   GO UTE DAIA (ANAPOLIS)                 44.300                   5.632    0.162       5.793
+                                   GO UTE ITUMBIARA (CIBA)                39.600                   6.873    0.162       7.035
+                                   GO UTE QUIRINOPOLIS - CELG             25.000                   7.415    0.162       7.577
+                                   GO UTE XAVANTES(ARUANA)                53.598                   2.975    0.162       3.137
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENEL-RJ                          RJ UHE SIMPLICIO                      322.500                   1.233    0.162       1.394
+                                   RJ UTE CAMPOS                          31.000                   2.720    0.162       2.881
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENEL-SP                          SP PCH PIRAPORA                        25.000                   3.210    0.162       3.372
+                                   SP PCH RASGAO                          22.000                   3.237    0.162       3.398
+                                   SP UTE FERNANDO GASPARIAN (N.PIRAT)   185.000                   0.344    0.162       0.505
+                                   SP UTE SAO JOAO BIOGAS                 21.500                   1.300    0.162       1.461
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENERGISA M.G. DO SUL - EMS       MS PCH ALTO SUCURIU                    29.000                   8.820    0.162       8.981
+                                   MS PCH BURITI                          30.000                   8.820    0.162       8.981
+                                   MS PCH COSTA RICA                      15.810                   7.917    0.162       8.079
+                                   MS PCH PARAISO I                       21.380                   8.820    0.162       8.981
+                                   MS PCH PLANALTO                        16.830                   7.903    0.162       8.065
+                                   MS PCH PORTO DAS PEDRAS                28.030                   8.820    0.162       8.981
+                                   MS PCH RETIRO VELHO                    18.000                   7.903    0.162       8.065
+                                   MS PCH VERDE 4                         18.550                   6.503    0.162       6.664
+                                   MS PCH VERDE 4A                        27.440                   6.503    0.162       6.664
+                                   MS UHE MIMOSO                          29.350                   6.503    0.162       6.664
+                                   MS UHE SAO DOMINGOS                    47.400                   7.844    0.162       8.005
+                                   MS UTE ANGELICA                        70.000                   6.663    0.162       6.824
+                                   MS UTE CAARAPO                         57.000                   6.432    0.162       6.593
+                                   MS UTE LDC BIOENERGIA RIO BRILHANTE    56.000                   6.648    0.162       6.810
+                                   MS UTE MONTEVERDE                      14.500                   6.432    0.162       6.594
+                                   MS UTE PASSA TEMPO                     50.000                   6.577    0.162       6.738
+                                   MS UTE VISTA ALEGRE I                  30.000                   6.245    0.162       6.407
+                                   MS UTE VISTA ALEGRE II                 29.200                   6.897    0.162       7.059
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENERGISA MATO GROSSO - EMT       MT PCH AGUA BRAVA                      13.050                   7.606    0.162       7.768
+                                   MT PCH AGUA PRATA                      13.300                   7.606    0.162       7.768
+                                   MT PCH ANTONIO BRENNAND(ALTO JAURU)    20.000       6.893       4.160    0.162      11.214
+                                   MT PCH BARUITO                         18.000                   8.380    0.162       8.541
+                                   MT PCH BOCAIUVA                        29.500                   7.265    0.162       7.426
+                                   MT PCH BRACO NORTE III                 14.037                   5.124    0.162       5.285
+                                   MT PCH BRACO NORTE IV                  13.977                   5.100    0.162       5.262
+                                   MT PCH CABECA DE BOI                   30.000                   5.490    0.162       5.652
+                                   MT PCH CASCA III                       12.420                   5.126    0.162       5.288
+                                   MT PCH CIDEZAL                         16.773      10.803       1.127    0.162      12.092
+                                   MT PCH DA FAZENDA                      26.487                   5.490    0.162       5.652
+                                   MT PCH DIVISA                          10.800      10.803       1.127    0.162      12.092
+                                   MT PCH ESTIVADINHO 3                    9.900       6.893       3.946    0.162      11.000
+                                   MT PCH FIGUEIROPOLIS                   19.300       6.893       4.057    0.162      11.111
+                                   MT PCH GARGANTA JARARACA               29.300                   8.388    0.162       8.549
+                                   MT PCH ILHA COMPRIDA                   19.910      10.803       1.127    0.162      12.092
+                                   MT PCH INDIAVAI                        28.000       6.893       4.160    0.162      11.214
+                                   MT PCH INXU                            21.550                   8.380    0.162       8.541
+                                   MT PCH JOSE GELASIO                    23.166                   6.541    0.162       6.702
+                                   MT PCH JUI 117                         25.000                   7.140    0.162       7.301
+                                   MT PCH LAJARI                          20.880                   5.371    0.162       5.533
+                                   MT PCH NOVA GUAPORE                    13.958       6.893       4.058    0.162      11.112
+                                   MT PCH OMBREIRAS                       26.000       6.893       4.160    0.162      11.214
+                                   MT PCH PAMPEANA                        28.000                   7.085    0.162       7.246
+                                   MT PCH PARANATINGA II                  29.020                   7.644    0.162       7.806
+                                   MT PCH PARECIS                         15.171      10.803       1.127    0.162      12.092
+                                   MT PCH RECANTO                          9.110                   7.173    0.162       7.334
+                                   MT PCH RONDON                          12.772      10.803       1.127    0.162      12.092
+                                   MT PCH RONDONOPOLIS                    26.210                   6.541    0.162       6.702
+                                   MT PCH SACRE II                        30.000                   7.670    0.162       7.832
+                                   MT PCH SALTO - MT                      19.000       6.893       4.057    0.162      11.111
+                                   MT PCH SALTO CORGAO                    27.000       6.893       3.923    0.162      10.978
+                                   MT PCH SANTA GABRIELA                  24.000                   7.134    0.162       7.295
+                                   MT PCH SAO LOURENCO                    29.100                   8.335    0.162       8.496
+                                   MT PCH SAO TADEU                       17.890                   7.057    0.162       7.218
+                                   MT PCH SAPEZAL                         15.771      10.803       1.127    0.162      12.092
+                                   MT PCH SEGREDO                         25.868      10.803       1.127    0.162      12.092
+                                   MT PCH SETE QUEDAS                     22.000                   8.335    0.162       8.496
+                                   MT PCH TELEGRAFICA                     29.772      10.803       1.127    0.162      12.092
+                                   MT PCH TERRA SANTA                     27.400                   7.085    0.162       7.246
+                                   MT UHE GUAPORE                        120.000       6.893       4.119    0.162      11.173
+                                   MT UHE JAURU (CINCO ESTRELAS)           8.000       6.893       4.107    0.162      11.161
+                                   MT UHE JAURU (QUEIROZ GALVAO)         103.500       6.893       4.107    0.162      11.161
+                                   MT UHE JUBA I                          42.000                   7.393    0.162       7.554
+                                   MT UHE JUBA II                         42.000                   7.085    0.162       7.246
+                                   MT UHE SALTO APIACAS                   44.145                   5.490    0.162       5.652
+                                   MT UTE F&S AGRI SOLUTIONS               3.500                   5.650    0.162       5.812
+                                   MT UTE INPASA                          10.000                   4.419    0.162       4.580
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENERGISA MINAS GERAIS - EMG      MG PCH ANNA MARIA                       1.640                   3.260    0.162       3.421
+                                   MG PCH GUARY                            5.320                   3.260    0.162       3.421
+                                   MG PCH IVAN BOTELHO I (PONTE)          25.000                   3.587    0.162       3.748
+                                   MG PCH IVAN BOTELHO II (PALESTINA)     12.600                   3.440    0.162       3.602
+                                   MG PCH IVAN BOTELHO III (TRIUNFO)      24.400                   2.939    0.162       3.101
+                                   MG PCH JOAO CAMILO PENA                22.000                   3.657    0.162       3.818
+                                   MG PCH TULIO CORDEIRO DE MELO          16.500                   3.467    0.162       3.629
+                                   MG PCH ZE TUNIN                         8.100                   3.215    0.162       3.377
+                                   MG UHE BARRA DO BRAUNA                 39.500                   2.475    0.162       2.637
+                                   MG UTE JUIZ DE FORA - EMG              42.500                   3.260    0.162       3.421
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENERGISA SUL SUDESTE - ESS       SP UHE CANOAS I                        81.400                   4.438    0.162       4.600
+                                   SP UHE CANOAS II                       71.000                   4.368    0.162       4.530
+                                   SP UHE SALTO GRANDE (LN GARCEZ-GP)     73.300                   4.088    0.162       4.249
+                                   SP UTE AGUA BONITA                     15.000                   3.690    0.162       3.852
+                                   SP UTE CANAA                           20.000                   3.849    0.162       4.010
+                                   SP UTE CATANDUVA                       28.580                   2.985    0.162       3.147
+                                   SP UTE COCAL                           25.000                   3.849    0.162       4.010
+                                   SP UTE DECASA                          23.000                   4.058    0.162       4.219
+                                   SP UTE MARACAI                         29.500                   3.911    0.162       4.072
+                                   SP UTE QUATA                           20.000                   3.572    0.162       3.734
+                                   SP UTE SANTA ISABEL                    24.000                   3.504    0.162       3.665
+                                   SP UTE SAO JOSE ESTIVA                 25.000                   3.525    0.162       3.687
+                                   SP UTE UFA                             15.000                   3.700    0.162       3.861
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  ENERGISA TOCANTINS - ETO         TO PCH AGROTRAFO                       14.031                   3.445    0.162       3.607
+                                   TO PCH AGUA LIMPA                      14.000                   3.459    0.162       3.621
+                                   TO PCH AREIA                           11.400                   3.463    0.162       3.625
+                                   TO UTE PEDRO AFONSO                    62.000                   5.584    0.162       5.746
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  EQUATORIAL PIAUI                 PI EOL DELTA DO PARNAIBA               30.000       0.259       8.060    0.162       8.481
+                                   PI EOL PORTO DAS BARCAS                20.000       0.259       8.060    0.162       8.481
+                                   PI EOL PORTO DO DELTA                  30.000       0.259       8.060    0.162       8.481
+                                   PI EOL PORTO SALGADO                   20.000       0.259       8.060    0.162       8.481
+                                   PI EOL TESTA BRANCA I                  22.000       0.259       8.060    0.162       8.481
+                                   PI EOL TESTA BRANCA III                22.000       0.259       8.060    0.162       8.481
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  LIGHT                            RJ PCH BONFANTE                        19.000                   2.732    0.162       2.893
+                                   RJ PCH LAJES (FONTES VELHA)            16.700                   3.490    0.162       3.652
+                                   RJ PCH MONTE SERRAT                    25.000                   2.732    0.162       2.893
+                                   RJ PCH PARACAMBI                       25.000                   3.228    0.162       3.389
+                                   RJ PCH SANTA FE                        30.000                   2.732    0.162       2.893
+                                   RJ UHE FONTES NOVA                    129.171                   3.490    0.162       3.652
+                                   RJ UHE FUNIL - RJ                     204.000                   3.956    0.162       4.118
+                                   RJ UHE ILHA DOS POMBOS                185.125                   3.242    0.162       3.403
+                                   RJ UHE ITAOCARA I                     150.000                   3.242    0.162       3.403
+                                   RJ UHE NILO PECANHA                   376.923                   3.369    0.162       3.530
+                                   RJ UHE PEREIRA PASSOS                  99.212                   3.589    0.162       3.750
+                                   RJ UTE BARBOSA L.S. (ELETROBOLT)      379.000                   3.484    0.162       3.646
+                                   RJ UTE GOV.LEONEL BRIZOLA (TERMORIO  1036.400                   3.537    0.162       3.698
+                                   RJ UTE SANTA CRUZ                     691.000                   3.555    0.162       3.716
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+  RGE SUL                          RS PCH AUTODROMO                       24.000                   6.961    0.162       7.123
+                                   RS PCH BOA FE                          24.000                   7.131    0.162       7.292
+                                   RS PCH CAZUZA FERREIRA                  9.100                   8.008    0.162       8.170
+                                   RS PCH HENRIQUE KOTZIAN                13.000                   0.930    0.162       1.092
+                                   RS PCH JARDIM                           9.000                   7.622    0.162       7.784
+                                   RS PCH JORGE DREHER                    17.870                   0.930    0.162       1.092
+                                   RS PCH LINHA APARECIDA                 24.920                   7.847    0.162       8.009
+                                   RS PCH LINHA JACINTO                   17.407                   7.847    0.162       8.009
+                                   RS PCH MORRO GRANDE                     9.800                   7.622    0.162       7.784
+                                   RS PCH SANTA CAROLINA                  10.500                   7.622    0.162       7.784
+                                   RS PCH SAO PAULO                       16.000                   7.100    0.162       7.262
+                                   RS UHE CANASTRA                        44.000                   5.483    0.162       5.644
+                                   RS UHE JACUI                          180.000                   1.275    0.162       1.437
+                                   RS UHE MONJOLINHO                      74.000                   7.575    0.162       7.737
+ X-----------------------------------X--------------------------------X---------X-----------X-----------X--------X-----------X
+
+
+ X--------------------------------X---------X-----------X-----------X
+          Distribuidora                MUSD     EUSD     TUSDg média 
+                                        MW    1000R$/mês (R$/kW.mês)
+ X--------------------------------X---------X-----------X-----------X
+
+  CEA                                 78.000      97.183       1.246
+  CEB-DIS                            211.000     639.414       3.023
+  CEEE-D                             161.670    1521.892       8.737
+  CELESC-DIS                         902.240    2475.948       2.465
+  CELPA                              106.200     689.053       6.095
+  CELPE                              153.000    2384.962      15.568
+  CEMIG-D                           4389.515   23046.830       4.988
+  CERON                              118.700    1042.386       8.706
+  COELBA                             289.541    2417.379       8.788
+  COPEL-DIS                          775.198    3912.581       4.637
+  COSERN                             281.230     565.920       2.021
+  CPFL PAULISTA                     2527.452   10286.190       4.071
+  CPFL PIRATININGA                    78.800     207.540       2.984
+  CPFL SANTA CRUZ                    386.230    1328.801       3.502
+  EDP ES                             701.259    2634.577       3.739
+  EDP SP                             144.300    1239.504       9.215
+  ELEKTRO                           2986.730   12875.330       3.975
+  ENEL GOIAS                         828.800    5139.116       5.641
+  ENEL-RJ                            353.500     538.997       2.138
+  ENEL-SP                            253.500     283.941       2.184
+  ENERGISA M.G. DO SUL - EMS         588.490    4329.525       7.509
+  ENERGISA MATO GROSSO - EMT        1216.537   10955.720       8.770
+  ENERGISA MINAS GERAIS - EMG        197.560     659.344       3.418
+  ENERGISA SUL SUDESTE - ESS         450.780    1865.579       3.972
+  ENERGISA TOCANTINS - ETO           101.431     498.846       4.149
+  EQUATORIAL PIAUI                   144.000    1221.240       8.481
+  LIGHT                             3366.531   12297.600       3.474
+  RGE SUL                            473.597    2216.724       6.158
+ X--------------------------------X---------X-----------X-----------X
+

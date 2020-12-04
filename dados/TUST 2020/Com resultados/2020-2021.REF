@@ -1,0 +1,1662 @@
+PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2020-2021 * (30/07/2020 - 15:14:54)                                                    
+
+ ENCARGOS ANUAIS FR POR EMPRESA DE TRANSMISSÃO (1000R$)
+
+ ET CEMIG                            115692.57
+ ---------------------------------------------
+  CEMIG-D                            110933.90
+  ENEL GOIAS                           3310.48
+  RIMA                                 1448.19
+
+ ET CHESF                            480640.99
+ ---------------------------------------------
+  SULGIPE                              6722.53
+  EQUATORIAL MARANHÃO                  3067.33
+  EQUATORIAL ALAGOAS                  24878.74
+  COELBA                             129290.60
+  ENEL-CE                             83550.09
+  COSERN                              47311.25
+  ENERGISA SERGIPE - ESE              14365.94
+  ENERGISA PARAIBA - EPB              44094.94
+  CELPE                               74806.78
+  EQUATORIAL PIAUI                    47098.71
+  ENERGISA BORBOREMA - EBO             5454.01
+
+ ET COPEL - GT                       212073.18
+ ---------------------------------------------
+  COPEL-DIS                          209126.60
+  ENERGISA M.G. DO SUL - EMS           2946.54
+
+ ET CTEEP                           1276682.96
+ ---------------------------------------------
+  CPFL PAULISTA                      214272.60
+  COPEL-DIS                               9.91
+  ENERGISA M.G. DO SUL - EMS           9140.73
+  ENEL-SP                            256959.60
+  EDP SP                              85754.26
+  ELEKTRO                            438910.30
+  CPFL PIRATININGA                    80878.68
+  CEMIRIM                              2647.61
+  ENERGISA SUL SUDESTE - ESS         108471.60
+  CPFL SANTA CRUZ                     79637.20
+
+ ET ELETRONORTE                      239525.84
+ ---------------------------------------------
+  ENEL GOIAS                          10873.03
+  ENERGISA TOCANTINS - ETO            11767.62
+  ENERGISA MATO GROSSO - EMT          54889.46
+  EQUATORIAL MARANHÃO                 47318.00
+  CELPA                               79635.04
+  ENERGISA ACRE                       11607.48
+  CERON                               23435.21
+
+ ET ELETROSUL                         93593.20
+ ---------------------------------------------
+  ELETROCAR                            1622.41
+  COPEL-DIS                            1050.51
+  CEEE-D                               1435.08
+  CELESC-DIS                          69773.58
+  ENERGISA M.G. DO SUL - EMS           6440.02
+  RGE SUL                             13271.59
+
+ ET MARECHAL RONDON                   10307.65
+ ---------------------------------------------
+  CPFL PAULISTA                        2220.38
+  ENERGISA M.G. DO SUL - EMS            106.05
+  ENEL-SP                                72.37
+  EDP SP                                411.11
+  ELEKTRO                              5110.90
+  CPFL PIRATININGA                      163.70
+  CEMIRIM                                30.86
+  ENERGISA SUL SUDESTE - ESS           1264.16
+  CPFL SANTA CRUZ                       928.13
+
+ ET FURNAS                           439893.71
+ ---------------------------------------------
+  CEMIG-D                             23251.63
+  CPFL PAULISTA                       29984.68
+  LIGHT                              150888.30
+  ENEL-RJ                             60681.79
+  EDP ES                              38522.80
+  ENEL GOIAS                          68883.73
+  CEB-DIS                             49000.13
+  ENERGISA M.G. DO SUL - EMS              5.15
+  ENEL-SP                                 3.52
+  EDP SP                                 19.98
+  ELEKTRO                               248.42
+  CPFL PIRATININGA                        7.96
+  ENERGISA MATO GROSSO - EMT          14163.56
+  CEMIRIM                                 1.50
+  ENERGISA SUL SUDESTE - ESS             61.44
+  CPFL SANTA CRUZ                        45.11
+  DMED                                 3520.85
+  ALCOA                                 603.13
+
+ ET CEEE - GT                        229207.77
+ ---------------------------------------------
+  COOPERLUZ                             587.47
+  ELETROCAR                             347.12
+  CEEE-D                              71861.34
+  RGE SUL                            140938.60
+  DEMEI                                5589.11
+  HIDROPAN                             2465.46
+  CERILUZ                              2694.23
+  COPREL                               3867.47
+  CERTAJA                               856.94
+
+ ET STC                               10650.37
+ ---------------------------------------------
+  CELESC-DIS                          10650.37
+
+ ET CELG                              93628.85
+ ---------------------------------------------
+  ENEL GOIAS                          91073.48
+  ENERGISA MATO GROSSO - EMT            997.55
+  CHESP                                1557.81
+
+ ET SMTE                              11158.42
+ ---------------------------------------------
+  CEMIG-D                             11158.42
+
+ ET TRANSIRAPE                        10064.13
+ ---------------------------------------------
+  CEMIG-D                             10064.13
+
+ ET AFLUENTE                           8040.85
+ ---------------------------------------------
+  COELBA                               8040.85
+
+ ET COPEL - GT (P.PAULISTA II)         5405.12
+ ---------------------------------------------
+  CPFL PAULISTA                        1164.32
+  ENERGISA M.G. DO SUL - EMS             55.61
+  ENEL-SP                                37.95
+  EDP SP                                215.58
+  ELEKTRO                              2680.05
+  CPFL PIRATININGA                       85.84
+  CEMIRIM                                16.18
+  ENERGISA SUL SUDESTE - ESS            662.90
+  CPFL SANTA CRUZ                       486.69
+
+ ET CASTELO ENERGETICA S.A             3014.42
+ ---------------------------------------------
+  EDP ES                               1727.85
+  ELFSM                                1286.57
+
+ ET LIGHT ENERGIA                      2097.32
+ ---------------------------------------------
+  LIGHT                                2097.32
+
+ ET ETAU (TREZEGUET)                  11970.10
+ ---------------------------------------------
+  RGE SUL                             11970.10
+
+ ET CHESF (TAUA-MILAGRES)              3687.33
+ ---------------------------------------------
+  ENEL-CE                              3687.33
+
+ ET CEMIG ITAJUBA                     10422.01
+ ---------------------------------------------
+  CEMIG-D                             10422.01
+
+ ET PORTO PRIMAVERA (PPTE)             9514.65
+ ---------------------------------------------
+  ENERGISA M.G. DO SUL - EMS           9514.65
+
+ ET CNTE - ATE VI                      5090.29
+ ---------------------------------------------
+  CELESC-DIS                           5090.29
+
+ ET ATE VII                            3500.30
+ ---------------------------------------------
+  COPEL-DIS                            3500.30
+
+ ET LONDRINA - ATE V                   2634.90
+ ---------------------------------------------
+  CPFL PAULISTA                         567.59
+  ENERGISA M.G. DO SUL - EMS             27.11
+  ENEL-SP                                18.50
+  EDP SP                                105.09
+  ELEKTRO                              1306.48
+  CPFL PIRATININGA                       41.85
+  CEMIRIM                                 7.89
+  ENERGISA SUL SUDESTE - ESS            323.15
+  CPFL SANTA CRUZ                       237.25
+
+ ET SPTE                               4297.69
+ ---------------------------------------------
+  CEMIG-D                              4297.69
+
+ ET CHESF (IBICOARA/BRUMADO)           1373.48
+ ---------------------------------------------
+  COELBA                               1373.48
+
+ ET BRASNORTE                           838.66
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT            838.66
+
+ ET IE PINHEIROS (ATIBAIA)             3491.75
+ ---------------------------------------------
+  CPFL PAULISTA                         752.16
+  ENERGISA M.G. DO SUL - EMS             35.92
+  ENEL-SP                                24.52
+  EDP SP                                139.27
+  ELEKTRO                              1731.33
+  CPFL PIRATININGA                       55.45
+  CEMIRIM                                10.45
+  ENERGISA SUL SUDESTE - ESS            428.24
+  CPFL SANTA CRUZ                       314.41
+
+ ET IE PINHEIROS (ARARAS)             21401.73
+ ---------------------------------------------
+  CPFL PAULISTA                       14527.57
+  ENERGISA M.G. DO SUL - EMS             90.14
+  ENEL-SP                                61.51
+  EDP SP                                349.45
+  ELEKTRO                              4344.26
+  CPFL PIRATININGA                      139.15
+  CEMIRIM                                26.23
+  ENERGISA SUL SUDESTE - ESS           1074.53
+  CPFL SANTA CRUZ                       788.90
+
+ ET ETES                               5484.05
+ ---------------------------------------------
+  EDP ES                               5484.05
+
+ ET IE SUL (SCHARLAU)                  2224.56
+ ---------------------------------------------
+  RGE SUL                              2224.56
+
+ ET PEDRAS                            10701.28
+ ---------------------------------------------
+  ENEL-RJ                             10701.28
+
+ ET ESDE                               3729.76
+ ---------------------------------------------
+  CEMIG-D                              3729.76
+
+ ET ELETRONORTE (S.LUIS III)           3468.18
+ ---------------------------------------------
+  EQUATORIAL MARANHÃO                  3468.18
+
+ ET MACAPA                             5445.29
+ ---------------------------------------------
+  CELPA                                2459.29
+  CEA                                  2986.00
+
+ ET MANAUS TR                          2559.70
+ ---------------------------------------------
+  AMAZONAS ENERGIA                     2559.70
+
+ ET NARANDIBA                          5957.46
+ ---------------------------------------------
+  COELBA                               5957.46
+
+ ET ELETROSUL (MISSOES)                2314.08
+ ---------------------------------------------
+  CERMISSOES                            769.76
+  RGE SUL                              1544.33
+
+ ET ELETRONORTE (BALSAS)               4912.45
+ ---------------------------------------------
+  EQUATORIAL MARANHÃO                  4433.33
+  EQUATORIAL PIAUI                      479.12
+
+ ET IEJAPI                            27638.31
+ ---------------------------------------------
+  ENEL-SP                             15833.24
+  CPFL PIRATININGA                    11805.07
+
+ ET IE SUL (FORQUILHINHA)              4397.42
+ ---------------------------------------------
+  CELESC-DIS                           3307.85
+  COOPERA                              1089.57
+
+ ET IE PINHEIROS (PIRATININGA)         4980.00
+ ---------------------------------------------
+  ENEL-SP                              4980.00
+
+ ET EBTE                                754.57
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT            754.57
+
+ ET CHESF (PENEDO)                      452.97
+ ---------------------------------------------
+  EQUATORIAL ALAGOAS                    376.64
+  ENERGISA SERGIPE - ESE                 76.33
+
+ ET CHESF (NATAL III)                 11686.35
+ ---------------------------------------------
+  EQUATORIAL ALAGOAS                    738.55
+  COELBA                                386.83
+  COSERN                               5763.17
+  ENERGISA SERGIPE - ESE                178.43
+  ENERGISA PARAIBA - EPB               4351.78
+  CELPE                                 267.59
+
+ ET CHESF (SUAPE III)                  2522.81
+ ---------------------------------------------
+  CELPE                                2522.81
+
+ ET TSP (ITATIBA)                     14539.63
+ ---------------------------------------------
+  CPFL PAULISTA                       10269.13
+  CPFL PIRATININGA                     4270.50
+
+ ET RS ENERGIA (IJUI)                 12037.28
+ ---------------------------------------------
+  RGE SUL                             10486.83
+  DEMEI                                 734.86
+  HIDROPAN                              325.90
+  CERILUZ                               208.22
+  COPREL                                281.47
+
+ ET LTC                                1543.47
+ ---------------------------------------------
+  ENERGISA M.G. DO SUL - EMS           1543.47
+
+ ET MONTES CLAROS                      3667.67
+ ---------------------------------------------
+  ENERGISA MINAS GERAIS - EMG          3667.67
+
+ ET SLTE                               3188.09
+ ---------------------------------------------
+  CEMIG-D                              3188.09
+
+ ET TDG                                5816.24
+ ---------------------------------------------
+  ENEL-CE                              5816.24
+
+ ET CHESF (ARAPIRACA)                  1948.79
+ ---------------------------------------------
+  EQUATORIAL ALAGOAS                   1948.79
+
+ ET CHESF (POLO)                       3771.85
+ ---------------------------------------------
+  COELBA                               3771.85
+
+ ET ATLANTICO                          5178.80
+ ---------------------------------------------
+  CELPA                                5178.80
+
+ ET ELETRONORTE (LRV)                  1545.40
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT           1545.40
+
+ ET CALDAS NOVAS                       3280.78
+ ---------------------------------------------
+  ENEL GOIAS                           3280.78
+
+ ET ELETRONORTE (NOBRES)               1380.06
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT           1380.06
+
+ ET ENCRUZO                            2318.61
+ ---------------------------------------------
+  EQUATORIAL MARANHÃO                  2318.61
+
+ ET ETVG                               8859.44
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT           8859.44
+
+ ET RS ENERGIA (F.CHAPECO)             3395.58
+ ---------------------------------------------
+  CELESC-DIS                           2989.37
+  RGE SUL                               406.21
+
+ ET ETSE                               5149.73
+ ---------------------------------------------
+  CELESC-DIS                           5149.73
+
+ ET COPEL GT (CERQUILHO)               4116.61
+ ---------------------------------------------
+  CPFL PAULISTA                         886.76
+  ENERGISA M.G. DO SUL - EMS             42.35
+  ENEL-SP                                28.90
+  EDP SP                                164.19
+  ELEKTRO                              2041.16
+  CPFL PIRATININGA                       65.38
+  CEMIRIM                                12.32
+  ENERGISA SUL SUDESTE - ESS            504.87
+  CPFL SANTA CRUZ                       370.67
+
+ ET TESB                               7685.58
+ ---------------------------------------------
+  CEEE-D                               6150.11
+  RGE SUL                              1535.47
+
+ ET ELETRONORTE (MIRAMAR)              3182.85
+ ---------------------------------------------
+  CELPA                                3182.85
+
+ ET LTTE                               2223.42
+ ---------------------------------------------
+  LIGHT                                2223.42
+
+ ET IE PINHEIROS (ITAPETI)             4010.82
+ ---------------------------------------------
+  EDP SP                               4010.82
+
+ ET COSTA OESTE                        2090.81
+ ---------------------------------------------
+  COPEL-DIS                            2090.81
+
+ ET SUL BRASILEIRA                     2031.59
+ ---------------------------------------------
+  CEEE-D                               2031.59
+
+ ET CHESF (N.S.SOCORRO)                7006.07
+ ---------------------------------------------
+  EQUATORIAL ALAGOAS                    995.73
+  COELBA                               3235.98
+  ENERGISA SERGIPE - ESE               2774.37
+
+ ET ELETRONORTE (LECHUGA)              4781.55
+ ---------------------------------------------
+  AMAZONAS ENERGIA                     4781.55
+
+ ET CAIUA                             10088.82
+ ---------------------------------------------
+  COPEL-DIS                           10088.82
+
+ ET NARANDIBA (EXTREMOZ)               1363.74
+ ---------------------------------------------
+  COSERN                               1363.74
+
+ ET LUZIANIA NIQUELANDIA               9964.48
+ ---------------------------------------------
+  ENEL GOIAS                           9964.48
+
+ ET FURNAS (ZONA OESTE)                5951.84
+ ---------------------------------------------
+  LIGHT                                5951.84
+
+ ET CHESF (MIRUEIRA II)                6905.75
+ ---------------------------------------------
+  CELPE                                6905.75
+
+ ET SAO GOTARDO                        3664.83
+ ---------------------------------------------
+  CEMIG-D                              3664.83
+
+ ET CHESF (T.FREITAS II)               2504.32
+ ---------------------------------------------
+  COELBA                               2504.32
+
+ ET AMAZONAS GT                       32529.78
+ ---------------------------------------------
+  AMAZONAS ENERGIA                    32529.78
+
+ ET SAO PEDRO                          5346.62
+ ---------------------------------------------
+  COELBA                               3196.32
+  EQUATORIAL PIAUI                     2150.30
+
+ ET COPEL GT (CBA NORTE)               3338.41
+ ---------------------------------------------
+  COPEL-DIS                            3338.41
+
+ ET FOTE                               4203.28
+ ---------------------------------------------
+  CELESC-DIS                           2589.21
+  RGE SUL                              1614.07
+
+ ET CHESF (TERESINA III)               5310.96
+ ---------------------------------------------
+  EQUATORIAL PIAUI                     5310.96
+
+ ET TSLE                               2495.14
+ ---------------------------------------------
+  CEEE-D                               2495.14
+
+ ET BRILHANTE II                       3313.95
+ ---------------------------------------------
+  ENERGISA M.G. DO SUL - EMS           3313.95
+
+ ET NARANDIBA (BRUMADO)                1528.46
+ ---------------------------------------------
+  COELBA                               1528.46
+
+ ET CPFL-T (PIRACICABA)                6775.36
+ ---------------------------------------------
+  CPFL PAULISTA                        6775.36
+
+ ET VSBTE                              9121.29
+ ---------------------------------------------
+  CEB-DIS                              9121.29
+
+ ET ELETROSUL (IVINHEMA 2)             2138.95
+ ---------------------------------------------
+  ENERGISA M.G. DO SUL - EMS           2138.95
+
+ ET FURNAS (LINHARES)                  1286.77
+ ---------------------------------------------
+  EDP ES                               1286.77
+
+ ET PANTANAL (C.GRANDE II)             6812.32
+ ---------------------------------------------
+  ENERGISA M.G. DO SUL - EMS           6812.32
+
+ ET COPEL - GT (REALEZA)               1290.22
+ ---------------------------------------------
+  COPEL-DIS                            1290.22
+
+ ET MORRO AGUDO                        8953.84
+ ---------------------------------------------
+  CPFL PAULISTA                        8953.84
+
+ ET ODOYA                              2056.14
+ ---------------------------------------------
+  COELBA                               2056.14
+
+ ET AGUA AZUL                         25999.47
+ ---------------------------------------------
+  CPFL PAULISTA                        5563.60
+  ENERGISA M.G. DO SUL - EMS            265.72
+  ENEL-SP                               181.33
+  EDP SP                               1201.70
+  ELEKTRO                             12806.40
+  CPFL PIRATININGA                      410.19
+  CEMIRIM                                77.32
+  ENERGISA SUL SUDESTE - ESS           3167.60
+  CPFL SANTA CRUZ                      2325.61
+
+ ET CANARANA                           4377.77
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT           4377.77
+
+ ET ETC                               16759.59
+ ---------------------------------------------
+  EDP ES                              16759.59
+
+ ET OURILANDIA DO NORTE                5950.77
+ ---------------------------------------------
+  CELPA                                5950.77
+
+ ET PARANAITA                          6576.21
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT           6576.21
+
+ ET Z3                                 4882.68
+ ---------------------------------------------
+  COELBA                               4882.68
+
+ ET COPEL GT (ANDIRA)                 21114.88
+ ---------------------------------------------
+  COPEL-DIS                           21114.88
+
+ ET ARCOVERDE                          8057.16
+ ---------------------------------------------
+  CELPE                                8057.16
+
+ ET VINEYARDS                          4716.12
+ ---------------------------------------------
+  RGE SUL                              2429.23
+  CERTEL                               2286.89
+
+ ET EQTLT07                           16973.76
+ ---------------------------------------------
+  CELPA                               16973.76
+
+ ET MIRACEMA                           7317.58
+ ---------------------------------------------
+  ENERGISA TOCANTINS - ETO             7317.58
+
+ ETE MANTIQUEIRA                       6485.31
+ ---------------------------------------------
+  CEMIG-D                              6485.31
+
+ ETE IE ITAUNAS                        1539.16
+ ---------------------------------------------
+  EDP ES                               1539.16
+
+ ETE EDP                               4142.45
+ ---------------------------------------------
+  EDP ES                               4142.45
+
+ ETE MA I                              2657.68
+ ---------------------------------------------
+  EQUATORIAL MARANHÃO                  2657.68
+
+ ETE ARTEON                            4489.42
+ ---------------------------------------------
+  ENEL-RJ                              4489.42
+
+ ETE RIALMA I                          3250.52
+ ---------------------------------------------
+  COSERN                               3250.52
+
+ ETE ENERGISA PARÁ I                   6119.71
+ ---------------------------------------------
+  ENERGISA MATO GROSSO - EMT           4633.13
+  CELPA                                1486.58
+
+ ETE Z2                               10138.83
+ ---------------------------------------------
+  EQUATORIAL MARANHÃO                  3882.78
+  EQUATORIAL PIAUI                     6256.05
+
+ ETE IE AGUAPEÍ                        6855.04
+ ---------------------------------------------
+  CPFL PAULISTA                        1505.67
+  ENERGISA M.G. DO SUL - EMS             70.14
+  ENEL-SP                                47.87
+  EDP SP                                271.93
+  ELEKTRO                              3380.63
+  CPFL PIRATININGA                      108.28
+  CEMIRIM                                20.41
+  ENERGISA SUL SUDESTE - ESS            836.18
+  CPFL SANTA CRUZ                       613.91
+
+ ETE EQTLT08                          11655.45
+ ---------------------------------------------
+  CELPA                               11655.45
+
+ ETE ARGO III                           716.29
+ ---------------------------------------------
+  CERON                                 716.29
+
+ ETE SITE                              1251.77
+ ---------------------------------------------
+  EQUATORIAL PIAUI                     1251.77
+
+ ETE LYON II                           2458.14
+ ---------------------------------------------
+  ENERGISA TOCANTINS - ETO             2458.14
+
+ ETE CPFL SUL II                       3775.80
+ ---------------------------------------------
+  CEEE-D                               1328.69
+  COPREL                               2447.10
+
+ ETE IE TIBAGI                        11231.92
+ ---------------------------------------------
+  CPFL PAULISTA                        2319.26
+  COPEL-DIS                             457.06
+  ENERGISA M.G. DO SUL - EMS            110.77
+  ENEL-SP                                75.59
+  EDP SP                                429.42
+  ELEKTRO                              5346.68
+  CPFL PIRATININGA                      170.99
+  CEMIRIM                                32.23
+  ENERGISA SUL SUDESTE - ESS           1320.46
+  CPFL SANTA CRUZ                       969.46
+
+ ETE MA II                             4933.45
+ ---------------------------------------------
+  EQUATORIAL MARANHÃO                  4933.45
+
+ ------------------------------------------------------------
+ TOTAL                                             3875251.93
+ ------------------------------------------------------------
+
+
+ ENCARGOS ANUAIS FR POR EMPRESA DE DISTRIBUIÇÃO (1000R$)
+
+
+ COOPERLUZ                              587.47
+ ---------------------------------------------
+  ET CEEE - GT                          587.47
+
+ CEMIG-D                             187195.80
+ ---------------------------------------------
+  ET CEMIG                           110933.90
+  ET FURNAS                           23251.63
+  ET SMTE                             11158.42
+  ET TRANSIRAPE                       10064.13
+  ET CEMIG ITAJUBA                    10422.01
+  ET SPTE                              4297.69
+  ET ESDE                              3729.76
+  ET SLTE                              3188.09
+  ET SAO GOTARDO                       3664.83
+  ETE MANTIQUEIRA                      6485.31
+
+ ELETROCAR                             1969.53
+ ---------------------------------------------
+  ET ELETROSUL                         1622.41
+  ET CEEE - GT                          347.12
+
+ CPFL PAULISTA                       299762.80
+ ---------------------------------------------
+  ET CTEEP                           214272.60
+  ET MARECHAL RONDON                   2220.38
+  ET FURNAS                           29984.68
+  ET COPEL - GT (P.PAULISTA II)        1164.32
+  ET LONDRINA - ATE V                   567.59
+  ET IE PINHEIROS (ATIBAIA)             752.16
+  ET IE PINHEIROS (ARARAS)            14527.57
+  ET TSP (ITATIBA)                    10269.13
+  ET COPEL GT (CERQUILHO)               886.76
+  ET CPFL-T (PIRACICABA)               6775.36
+  ET MORRO AGUDO                       8953.84
+  ET AGUA AZUL                         5563.60
+  ETE IE AGUAPEÍ                       1505.67
+  ETE IE TIBAGI                        2319.26
+
+ CERMISSOES                             769.76
+ ---------------------------------------------
+  ET ELETROSUL (MISSOES)                769.76
+
+ LIGHT                               161160.90
+ ---------------------------------------------
+  ET FURNAS                          150888.30
+  ET LIGHT ENERGIA                     2097.32
+  ET LTTE                              2223.42
+  ET FURNAS (ZONA OESTE)               5951.84
+
+ ENEL-RJ                              75872.48
+ ---------------------------------------------
+  ET FURNAS                           60681.79
+  ET PEDRAS                           10701.28
+  ETE ARTEON                           4489.42
+
+ EDP ES                               69462.67
+ ---------------------------------------------
+  ET FURNAS                           38522.80
+  ET CASTELO ENERGETICA S.A            1727.85
+  ET ETES                              5484.05
+  ET FURNAS (LINHARES)                 1286.77
+  ET ETC                              16759.59
+  ETE IE ITAUNAS                       1539.16
+  ETE EDP                              4142.45
+
+ ENEL GOIAS                          187386.00
+ ---------------------------------------------
+  ET CEMIG                             3310.48
+  ET ELETRONORTE                      10873.03
+  ET FURNAS                           68883.73
+  ET CELG                             91073.48
+  ET CALDAS NOVAS                      3280.78
+  ET LUZIANIA NIQUELANDIA              9964.48
+
+ CEB-DIS                              58121.42
+ ---------------------------------------------
+  ET FURNAS                           49000.13
+  ET VSBTE                             9121.29
+
+ ENERGISA TOCANTINS - ETO             21543.35
+ ---------------------------------------------
+  ET ELETRONORTE                      11767.62
+  ET MIRACEMA                          7317.58
+  ETE LYON II                          2458.14
+
+ COPEL-DIS                           252067.50
+ ---------------------------------------------
+  ET COPEL - GT                      209126.60
+  ET CTEEP                                9.91
+  ET ELETROSUL                         1050.51
+  ET ATE VII                           3500.30
+  ET COSTA OESTE                       2090.81
+  ET CAIUA                            10088.82
+  ET COPEL GT (CBA NORTE)              3338.41
+  ET COPEL - GT (REALEZA)              1290.22
+  ET COPEL GT (ANDIRA)                21114.88
+  ETE IE TIBAGI                         457.06
+
+ CEEE-D                               85301.95
+ ---------------------------------------------
+  ET ELETROSUL                         1435.08
+  ET CEEE - GT                        71861.34
+  ET TESB                              6150.11
+  ET SUL BRASILEIRA                    2031.59
+  ET TSLE                              2495.14
+  ETE CPFL SUL II                      1328.69
+
+ CELESC-DIS                           99550.39
+ ---------------------------------------------
+  ET ELETROSUL                        69773.58
+  ET STC                              10650.37
+  ET CNTE - ATE VI                     5090.29
+  ET IE SUL (FORQUILHINHA)             3307.85
+  ET RS ENERGIA (F.CHAPECO)            2989.37
+  ET ETSE                              5149.73
+  ET FOTE                              2589.21
+
+ ENERGISA M.G. DO SUL - EMS           42659.59
+ ---------------------------------------------
+  ET COPEL - GT                        2946.54
+  ET CTEEP                             9140.73
+  ET ELETROSUL                         6440.02
+  ET MARECHAL RONDON                    106.05
+  ET FURNAS                               5.15
+  ET COPEL - GT (P.PAULISTA II)          55.61
+  ET PORTO PRIMAVERA (PPTE)            9514.65
+  ET LONDRINA - ATE V                    27.11
+  ET IE PINHEIROS (ATIBAIA)              35.92
+  ET IE PINHEIROS (ARARAS)               90.14
+  ET LTC                               1543.47
+  ET COPEL GT (CERQUILHO)                42.35
+  ET BRILHANTE II                      3313.95
+  ET ELETROSUL (IVINHEMA 2)            2138.95
+  ET PANTANAL (C.GRANDE II)            6812.32
+  ET AGUA AZUL                          265.72
+  ETE IE AGUAPEÍ                         70.14
+  ETE IE TIBAGI                         110.77
+
+ ENEL-SP                             278325.00
+ ---------------------------------------------
+  ET CTEEP                           256959.60
+  ET MARECHAL RONDON                     72.37
+  ET FURNAS                               3.52
+  ET COPEL - GT (P.PAULISTA II)          37.95
+  ET LONDRINA - ATE V                    18.50
+  ET IE PINHEIROS (ATIBAIA)              24.52
+  ET IE PINHEIROS (ARARAS)               61.51
+  ET IEJAPI                           15833.24
+  ET IE PINHEIROS (PIRATININGA)        4980.00
+  ET COPEL GT (CERQUILHO)                28.90
+  ET AGUA AZUL                          181.33
+  ETE IE AGUAPEÍ                         47.87
+  ETE IE TIBAGI                          75.59
+
+ EDP SP                               93072.84
+ ---------------------------------------------
+  ET CTEEP                            85754.26
+  ET MARECHAL RONDON                    411.11
+  ET FURNAS                              19.98
+  ET COPEL - GT (P.PAULISTA II)         215.58
+  ET LONDRINA - ATE V                   105.09
+  ET IE PINHEIROS (ATIBAIA)             139.27
+  ET IE PINHEIROS (ARARAS)              349.45
+  ET COPEL GT (CERQUILHO)               164.19
+  ET IE PINHEIROS (ITAPETI)            4010.82
+  ET AGUA AZUL                         1201.70
+  ETE IE AGUAPEÍ                        271.93
+  ETE IE TIBAGI                         429.42
+
+ ELEKTRO                             477906.40
+ ---------------------------------------------
+  ET CTEEP                           438910.30
+  ET MARECHAL RONDON                   5110.90
+  ET FURNAS                             248.42
+  ET COPEL - GT (P.PAULISTA II)        2680.05
+  ET LONDRINA - ATE V                  1306.48
+  ET IE PINHEIROS (ATIBAIA)            1731.33
+  ET IE PINHEIROS (ARARAS)             4344.26
+  ET COPEL GT (CERQUILHO)              2041.16
+  ET AGUA AZUL                        12806.40
+  ETE IE AGUAPEÍ                       3380.63
+  ETE IE TIBAGI                        5346.68
+
+ RGE SUL                             186421.00
+ ---------------------------------------------
+  ET ELETROSUL                        13271.59
+  ET CEEE - GT                       140938.60
+  ET ETAU (TREZEGUET)                 11970.10
+  ET IE SUL (SCHARLAU)                 2224.56
+  ET ELETROSUL (MISSOES)               1544.33
+  ET RS ENERGIA (IJUI)                10486.83
+  ET RS ENERGIA (F.CHAPECO)             406.21
+  ET TESB                              1535.47
+  ET FOTE                              1614.07
+  ET VINEYARDS                         2429.23
+
+ CPFL PIRATININGA                     98203.09
+ ---------------------------------------------
+  ET CTEEP                            80878.68
+  ET MARECHAL RONDON                    163.70
+  ET FURNAS                               7.96
+  ET COPEL - GT (P.PAULISTA II)          85.84
+  ET LONDRINA - ATE V                    41.85
+  ET IE PINHEIROS (ATIBAIA)              55.45
+  ET IE PINHEIROS (ARARAS)              139.15
+  ET IEJAPI                           11805.07
+  ET TSP (ITATIBA)                     4270.50
+  ET COPEL GT (CERQUILHO)                65.38
+  ET AGUA AZUL                          410.19
+  ETE IE AGUAPEÍ                        108.28
+  ETE IE TIBAGI                         170.99
+
+ ENERGISA MATO GROSSO - EMT           99015.80
+ ---------------------------------------------
+  ET ELETRONORTE                      54889.46
+  ET FURNAS                           14163.56
+  ET CELG                               997.55
+  ET BRASNORTE                          838.66
+  ET EBTE                               754.57
+  ET ELETRONORTE (LRV)                 1545.40
+  ET ELETRONORTE (NOBRES)              1380.06
+  ET ETVG                              8859.44
+  ET CANARANA                          4377.77
+  ET PARANAITA                         6576.21
+  ETE ENERGISA PARÁ I                  4633.13
+
+ SULGIPE                               6722.53
+ ---------------------------------------------
+  ET CHESF                             6722.53
+
+ CERTEL                                2286.89
+ ---------------------------------------------
+  ET VINEYARDS                         2286.89
+
+ EQUATORIAL MARANHÃO                  72079.36
+ ---------------------------------------------
+  ET CHESF                             3067.33
+  ET ELETRONORTE                      47318.00
+  ET ELETRONORTE (S.LUIS III)          3468.18
+  ET ELETRONORTE (BALSAS)              4433.33
+  ET ENCRUZO                           2318.61
+  ETE MA I                             2657.68
+  ETE Z2                               3882.78
+  ETE MA II                            4933.45
+
+ CELPA                               126522.50
+ ---------------------------------------------
+  ET ELETRONORTE                      79635.04
+  ET MACAPA                            2459.29
+  ET ATLANTICO                         5178.80
+  ET ELETRONORTE (MIRAMAR)             3182.85
+  ET OURILANDIA DO NORTE               5950.77
+  ET EQTLT07                          16973.76
+  ETE ENERGISA PARÁ I                  1486.58
+  ETE EQTLT08                         11655.45
+
+ AMAZONAS ENERGIA                     39871.02
+ ---------------------------------------------
+  ET MANAUS TR                         2559.70
+  ET ELETRONORTE (LECHUGA)             4781.55
+  ET AMAZONAS GT                      32529.78
+
+ CEA                                   2986.00
+ ---------------------------------------------
+  ET MACAPA                            2986.00
+
+ EQUATORIAL ALAGOAS                   28938.45
+ ---------------------------------------------
+  ET CHESF                            24878.74
+  ET CHESF (PENEDO)                     376.64
+  ET CHESF (NATAL III)                  738.55
+  ET CHESF (ARAPIRACA)                 1948.79
+  ET CHESF (N.S.SOCORRO)                995.73
+
+ COELBA                              166225.00
+ ---------------------------------------------
+  ET CHESF                           129290.60
+  ET AFLUENTE                          8040.85
+  ET CHESF (IBICOARA/BRUMADO)          1373.48
+  ET NARANDIBA                         5957.46
+  ET CHESF (NATAL III)                  386.83
+  ET CHESF (POLO)                      3771.85
+  ET CHESF (N.S.SOCORRO)               3235.98
+  ET CHESF (T.FREITAS II)              2504.32
+  ET SAO PEDRO                         3196.32
+  ET NARANDIBA (BRUMADO)               1528.46
+  ET ODOYA                             2056.14
+  ET Z3                                4882.68
+
+ ENEL-CE                              93053.66
+ ---------------------------------------------
+  ET CHESF                            83550.09
+  ET CHESF (TAUA-MILAGRES)             3687.33
+  ET TDG                               5816.24
+
+ COSERN                               57688.68
+ ---------------------------------------------
+  ET CHESF                            47311.25
+  ET CHESF (NATAL III)                 5763.17
+  ET NARANDIBA (EXTREMOZ)              1363.74
+  ETE RIALMA I                         3250.52
+
+ CEMIRIM                               2883.00
+ ---------------------------------------------
+  ET CTEEP                             2647.61
+  ET MARECHAL RONDON                     30.86
+  ET FURNAS                               1.50
+  ET COPEL - GT (P.PAULISTA II)          16.18
+  ET LONDRINA - ATE V                     7.89
+  ET IE PINHEIROS (ATIBAIA)              10.45
+  ET IE PINHEIROS (ARARAS)               26.23
+  ET COPEL GT (CERQUILHO)                12.32
+  ET AGUA AZUL                           77.32
+  ETE IE AGUAPEÍ                         20.41
+  ETE IE TIBAGI                          32.23
+
+ ENERGISA SERGIPE - ESE               17395.07
+ ---------------------------------------------
+  ET CHESF                            14365.94
+  ET CHESF (PENEDO)                      76.33
+  ET CHESF (NATAL III)                  178.43
+  ET CHESF (N.S.SOCORRO)               2774.37
+
+ ENERGISA PARAIBA - EPB               48446.71
+ ---------------------------------------------
+  ET CHESF                            44094.94
+  ET CHESF (NATAL III)                 4351.78
+
+ CELPE                                92560.09
+ ---------------------------------------------
+  ET CHESF                            74806.78
+  ET CHESF (NATAL III)                  267.59
+  ET CHESF (SUAPE III)                 2522.81
+  ET CHESF (MIRUEIRA II)               6905.75
+  ET ARCOVERDE                         8057.16
+
+ EQUATORIAL PIAUI                     62546.90
+ ---------------------------------------------
+  ET CHESF                            47098.71
+  ET ELETRONORTE (BALSAS)               479.12
+  ET SAO PEDRO                         2150.30
+  ET CHESF (TERESINA III)              5310.96
+  ETE Z2                               6256.05
+  ETE SITE                             1251.77
+
+ DEMEI                                 6323.98
+ ---------------------------------------------
+  ET CEEE - GT                         5589.11
+  ET RS ENERGIA (IJUI)                  734.86
+
+ HIDROPAN                              2791.36
+ ---------------------------------------------
+  ET CEEE - GT                         2465.46
+  ET RS ENERGIA (IJUI)                  325.90
+
+ ENERGISA SUL SUDESTE - ESS          118115.20
+ ---------------------------------------------
+  ET CTEEP                           108471.60
+  ET MARECHAL RONDON                   1264.16
+  ET FURNAS                              61.44
+  ET COPEL - GT (P.PAULISTA II)         662.90
+  ET LONDRINA - ATE V                   323.15
+  ET IE PINHEIROS (ATIBAIA)             428.24
+  ET IE PINHEIROS (ARARAS)             1074.53
+  ET COPEL GT (CERQUILHO)               504.87
+  ET AGUA AZUL                         3167.60
+  ETE IE AGUAPEÍ                        836.18
+  ETE IE TIBAGI                        1320.46
+
+ CERILUZ                               2902.45
+ ---------------------------------------------
+  ET CEEE - GT                         2694.23
+  ET RS ENERGIA (IJUI)                  208.22
+
+ CHESP                                 1557.81
+ ---------------------------------------------
+  ET CELG                              1557.81
+
+ CPFL SANTA CRUZ                      86717.33
+ ---------------------------------------------
+  ET CTEEP                            79637.20
+  ET MARECHAL RONDON                    928.13
+  ET FURNAS                              45.11
+  ET COPEL - GT (P.PAULISTA II)         486.69
+  ET LONDRINA - ATE V                   237.25
+  ET IE PINHEIROS (ATIBAIA)             314.41
+  ET IE PINHEIROS (ARARAS)              788.90
+  ET COPEL GT (CERQUILHO)               370.67
+  ET AGUA AZUL                         2325.61
+  ETE IE AGUAPEÍ                        613.91
+  ETE IE TIBAGI                         969.46
+
+ ENERGISA BORBOREMA - EBO              5454.01
+ ---------------------------------------------
+  ET CHESF                             5454.01
+
+ COPREL                                6596.04
+ ---------------------------------------------
+  ET CEEE - GT                         3867.47
+  ET RS ENERGIA (IJUI)                  281.47
+  ETE CPFL SUL II                      2447.10
+
+ CERTAJA                                856.94
+ ---------------------------------------------
+  ET CEEE - GT                          856.94
+
+ COOPERA                               1089.57
+ ---------------------------------------------
+  ET IE SUL (FORQUILHINHA)             1089.57
+
+ RIMA                                  1448.19
+ ---------------------------------------------
+  ET CEMIG                             1448.19
+
+ DMED                                  3520.85
+ ---------------------------------------------
+  ET FURNAS                            3520.85
+
+ ELFSM                                 1286.57
+ ---------------------------------------------
+  ET CASTELO ENERGETICA S.A            1286.57
+
+ ENERGISA MINAS GERAIS - EMG           3667.67
+ ---------------------------------------------
+  ET MONTES CLAROS                     3667.67
+
+ ENERGISA ACRE                        11607.48
+ ---------------------------------------------
+  ET ELETRONORTE                      11607.48
+
+ CERON                                24151.50
+ ---------------------------------------------
+  ET ELETRONORTE                      23435.21
+  ETE ARGO III                          716.29
+
+ ALCOA                                  603.13
+ ---------------------------------------------
+  ET FURNAS                             603.13
+
+ ------------------------------------------------------------
+ TOTAL                                             3875251.93
+ ------------------------------------------------------------
+
+
+
+ RESUMO POR GRUPO DE FRONTEIRA
+
+ X------------------------------------------X------------------------------------------------------------------------------X
+ X  Grupo de fronteira                    T |            RAP  (1000R$/ano)           |     MUST (MW)   | TUST (R$/kW/mês)
+ X                                        R |     Grupo        ponta         fora    |  ponta     fora |  ponta       fora
+ X------------------------------------------X------------X-------------X-------------X--------X--------X---------X---------X
+   629 GRP DITC 138 kV ITARARE II SP  ... 3     111.19130      53.24497      57.94632  6702.50  7294.30  0.000662  0.000662
+   377 GRP EQP 138/88 kV SP           ... 3     501.00780     239.91219     261.09565  6702.50  7294.30  0.002983  0.002983
+   541 GRP 138 kV ANGRA RJ            ... 3     251.70020     122.09412     129.60609   392.68   416.84  0.025910  0.025910
+   542 GRP 138 kV POCOS CALDAS MG     ... 3     347.30080     173.76613     173.53469   375.40   374.90  0.038574  0.038574
+   543 GRP 138 kV ADRIANOPOLIS RJ     ... 3      98.92792      48.81291      50.11501   746.00   765.90  0.005453  0.005453
+   544 GRP 138 kV BRAS. SUL DF        ... 3     104.77730      51.80954      52.96778   648.60   663.10  0.006657  0.006657
+   545 GRP 138 kV CAMPOS RJ           ... 3     605.12070     302.50608     302.61465   836.00   836.30  0.030154  0.030154
+   546 GRP 138 kV RIO VERDE GO        ... 3     799.64400     367.83699     431.80699   273.88   321.51  0.111922  0.111922
+   547 GRP 138 kV SAO JOSE RJ         ... 3    5417.90100    2710.17069    2707.73019  2221.00  2219.00  0.101687  0.101687
+   548 GRP 138 kV M.MORAES MG         ... 3     540.41940     254.37502     286.04442   399.20   448.90  0.053101  0.053101
+   550 GRP 138 kV SANTA CRUZ RJ       ... 3    1076.65800     521.35771     555.29988   330.09   351.58  0.131620  0.131620
+   551 GRP 138 kV RIO VERDE FUR / RIO ... 3   32101.95000   14919.45125   17182.49992   123.48   142.21 10.068740 10.068740
+   552 GRP LT 138 kV ANGRA / S.CRUZ   ... 3   18735.31000    9072.33335    9662.97329   330.09   351.58  2.290368  2.290369
+   587 GRP 138 kV PORTO COLOMBIA MG   ... 3     216.14280     108.07142     108.07142   440.00   440.00  0.020468  0.020468
+   670 GRP 138 kV SAMAMBAIA DF        ... 3      59.43436      29.33097      30.10339   550.60   565.10  0.004439  0.004439
+   493 GRP 69 kV ABAIXADORA / ZEBU    ... 3    6090.79700    2770.94115    3319.85622    52.55    62.96  4.394135  4.394134
+   496 GRP 69 kV C.GRANDE II PB       ... 3    2927.94200    1421.80538    1506.13651   180.40   191.10  0.656784  0.656784
+   498 GRP 138 kV SANTA CRUZ II / ACU ... 3   29389.79000   14658.55354   14731.23552   133.11   133.77  9.176968  9.176968
+   664 GRP 69 kV ANGELIM PE           ... 3     957.00020     480.03435     476.96590   168.96   167.88  0.236759  0.236759
+   690 GRP 69 kV TERESINA PI          ... 3    3153.35300    1566.86778    1586.48500   432.91   438.33  0.301615  0.301615
+   691 GRP 138 kV PENEDO AL           ... 3    1387.73500     655.74279     731.99195   193.50   216.00  0.282404  0.282404
+   694 GRP 69 kV JUAZEIRO II BA       ... 3     179.27940      74.50939     104.77005   212.00   298.10  0.029288  0.029288
+   697 GRP 69 kV ICO CE               ... 3     407.79710     202.56358     205.23357   113.80   115.30  0.148333  0.148333
+   698 GRP 69 kV GOIANINHA PE         ... 3    2437.19300    1230.66723    1206.52539   219.20   214.90  0.467863  0.467863
+   750 GRP 69 kV UB.ESPERANCA PI      ... 3     466.43620     227.56439     238.87180    69.43    72.88  0.273126  0.273126
+   377 GRP EQP 138/88 kV SP           ... 3  585469.30000  280357.33603  305111.97647  6702.50  7294.30  3.485733  3.485733
+   489 GRP 138 kV AGUA VERMELHA SP    ... 3      56.45638      27.03349      29.42289  6707.00  7299.80  0.000336  0.000336
+   491 GRP 138 kV ARARAQUARA SP       ... 3     960.01880     460.45972     499.55908  7092.00  7694.20  0.005411  0.005411
+   497 GRP 88 kV ASSIS SP             ... 3      56.59713      27.10205      29.49508  6702.50  7294.30  0.000337  0.000337
+   501 GRP 138 kV BAURU SP            ... 3    2091.67700    1001.99998    1089.67702  6980.50  7591.30  0.011962  0.011962
+   505 GRP 88 kV BOTUCATU SP          ... 3    2374.13600    1137.81280    1236.32319  6835.50  7427.30  0.013871  0.013871
+   508 GRP 138 kV CABREUVA SP         ... 3     288.51770     138.17816     150.33951  6749.75  7343.80  0.001706  0.001706
+   512 GRP 138 kV CAPAO BONITO SP     ... 3    2308.34300    1103.40736    1204.93590  6839.30  7468.60  0.013444  0.013444
+   519 GRP 88 kV CHAVANTES SP         ... 3     197.83610      94.73564     103.10049  6702.50  7294.30  0.001178  0.001178
+   521 GRP 138 kV JUPIA SP            ... 3      56.93818      27.24394      29.69424  6889.20  7508.80  0.000330  0.000330
+   526 GRP 138 kV JURUMIRIM SP        ... 3      50.75296      24.30352      26.44944  6702.50  7294.30  0.000302  0.000302
+   527 GRP 138 kV MOGI MIRIM 3 SP     ... 3    2415.00800    1156.44870    1258.55936  6702.50  7294.30  0.014378  0.014378
+   528 GRP 138 kV RIBEIRAO PRETO SP   ... 3     269.46470     129.02681     140.43788  7112.30  7741.30  0.001512  0.001512
+   530 GRP 138 kV SALTO GRANDE SP     ... 3      56.84912      27.22272      29.62640  6702.50  7294.30  0.000338  0.000338
+   531 GRP 138 kV SANTA BARBARA SP    ... 3    1339.68800     641.76366     697.92445  7202.70  7833.00  0.007425  0.007425
+   534 GRP 138 kV SANTO ANGELO SP     ... 3     314.06470     150.39274     163.67193  6702.50  7294.30  0.001870  0.001870
+   539 GRP 138 kV TAUBATE SP          ... 3     345.08910     165.47026     179.61883  7097.90  7704.80  0.001943  0.001943
+   540 GRP 138 kV EMBU-GUACU SP       ... 3     553.58620     264.94227     288.64392  6975.30  7599.30  0.003165  0.003165
+   549 GRP 138 kV CAPIVARA SP         ... 3      56.84137      27.22740      29.61397  6759.70  7352.21  0.000336  0.000336
+   553 GRP 88 kV NORDESTE SP          ... 3    5748.88100    2864.47910    2884.40176   718.90   723.90  0.332044  0.332044
+   554 GRP 88 kV NORTE SP             ... 3   12835.88000    6402.27806    6433.60377   919.70   924.20  0.580106  0.580106
+   555 GRP 138 kV COXIPO MT           ... 3    8458.20300    3930.96820    4527.23493   123.48   142.21  2.652905  2.652905
+   561 GRP 69 kV IMPERATRIZ MA        ... 3     397.70660     189.26572     208.44091   159.90   176.10  0.098638  0.098638
+   909 GRP 138 kV PORTO FRANCO MA     ... 3      80.57697      37.11508      43.46189   134.50   157.50  0.022996  0.022996
+   407 GRP LT 69 kV UTE CHARQUEADAS / ... 3     154.02780      75.14162      78.88622    15.05    15.80  0.416067  0.416067
+   727 GRP 69 kV CHARQUEADAS RS       ... 3      43.16967      21.18062      21.98905    72.05    74.80  0.024498  0.024498
+  1347 GRP 69 kV TAPERA 2 RS          ... 3      29.27845      14.49387      14.78458   104.70   106.80  0.011536  0.011536
+   251 GRP 138 kV CRUZ ALTA 1 RS      ... 3    1753.68700     826.90965     926.77699   199.55   223.65  0.345323  0.345323
+   252 GRP 69 kV CRUZ ALTA 1 RS       ... 3    2156.35600    1016.77900    1139.57720   199.55   223.65  0.424613  0.424613
+   253 GRP 23 kV CRUZ ALTA 1 RS       ... 3    1596.82700     690.46198     906.36492    32.30    42.40  1.781378  1.781378
+   306 GRP 23 kV IJUI RS              ... 3    3437.79600    1637.54028    1800.25586    47.30    52.00  2.885025  2.885025
+   307 GRP 69 kV IJUI RS              ... 3    1678.44800     791.43241     887.01510   199.55   223.65  0.330507  0.330507
+   308 GRP 69 kV PANAMBI RS           ... 3     807.65370     380.83011     426.82364   199.55   223.65  0.159037  0.159037
+   309 GRP 13,8 kV PANAMBI RS         ... 3    1607.06700     739.25088     867.81625    17.25    20.25  3.571260  3.571260
+   326 GRP 69 kV GRAVATAI 2 RS        ... 3      49.58214      24.17895      25.40320   158.00   166.00  0.012753  0.012753
+   332 GRP 138 kV PASSO REAL RS       ... 3     294.21160     138.72856     155.48305   199.55   223.65  0.057934  0.057934
+   344 GRP 69 kV SANTO ANGELO 2 RS    ... 3    2141.67500    1009.85657    1131.81873   199.55   223.65  0.421722  0.421722
+   346 GRP 69 kV SANTA MARTA RS       ... 3     155.64240      76.23082      79.41161    70.70    73.65  0.089852  0.089852
+   347 GRP 138 kV SANTA MARTA RS      ... 3     104.52440      50.27754      54.24682   114.00   123.00  0.036753  0.036753
+   356 GRP 69 kV SANTA ROSA 1 RS      ... 3      50.12799      23.93450      26.19349   133.50   146.10  0.014940  0.014940
+   391 GRP LT 138 kV JACUI / PASSO RE ... 3    2262.60900    1066.87996    1195.72893   199.55   223.65  0.445536  0.445536
+   407 GRP LT 69 kV UTE CHARQUEADAS / ... 3     218.12250     106.40984     111.71266    15.05    15.80  0.589202  0.589202
+  1045 GRP 138/13,8 kV SANTA MARTA RS ... 3     759.72360     364.59179     395.13185   115.80   125.50  0.262372  0.262372
+  1175 GRP 23 kV JACUI RS             ... 3     335.84450     166.10361     169.74093    13.70    14.00  1.010363  1.010363
+  1000 GRP 138 kV EMBORCACAO MG       ... 3     328.97830     157.03592     171.94238   348.70   381.80  0.037529  0.037529
+   537 GRP 138 kV U.MASCARENHAS ES    ... 3     208.84150     100.16144     108.68005   184.60   200.30  0.045216  0.045216
+  1060 GRP 69 kV LARANJAL AP          ... 3      72.96621      36.63310      36.33311    21.98    21.80  0.138888  0.138888
+   873 GRP 69 kV FORQUILHINHA SC      ... 3      26.66128      12.17717      14.48411   208.50   248.00  0.004867  0.004867
+   377 GRP EQP 138/88 kV SP           ... 3    1109.50300     531.29563     578.20730  6702.50  7294.30  0.006606  0.006606
+   377 GRP EQP 138/88 kV SP           ... 3    1894.12700     907.02002     987.10693  6702.50  7294.30  0.011277  0.011277
+  1033 GRP 69 kV MISSOES RS           ... 3      38.43125      17.40213      21.02912    32.77    39.60  0.044253  0.044253
+   493 GRP 69 kV ABAIXADORA / ZEBU    ... 3     109.91820      50.00607      59.91212    52.55    62.96  0.079299  0.079299
+  1078 GRP 138 kV ITATIBA SP          ... 3     151.54190      74.35977      77.18218   685.00   711.00  0.009046  0.009046
+  1083 GRP 69 kV IJUI 2 RS            ... 3     150.05780      70.92439      79.13341   182.30   203.40  0.032421  0.032421
+  1096 GRP 138 kV CERQUILHO III SP    ... 3     796.63200     381.47450     415.15746  6702.50  7294.30  0.004743  0.004743
+  1125 GRP 138 kV FOZ DO CHAPECO RS   ... 3     125.25780      58.52902      66.72874   103.50   118.00  0.047125  0.047125
+   377 GRP EQP 138/88 kV SP           ... 3    3024.16400    1448.14874    1576.01556  6702.50  7294.30  0.018005  0.018005
+   377 GRP EQP 138/88 kV SP           ... 3     644.37400     308.56440     335.80963  6702.50  7294.30  0.003836  0.003836
+   377 GRP EQP 138/88 kV SP           ... 3    4780.51100    2289.19153    2491.31970  6702.50  7294.30  0.028462  0.028462
+  1407 GRP 138 kV SANTANA DO ARAGUAIA ... 3     965.07680     476.65857     488.41821    48.64    49.84  0.816644  0.816644
+  1417 GRP 69 kV B. ESPERANCA PI      ... 3     338.98180     165.38197     173.59984    69.43    72.88  0.198500  0.198500
+   262 VIDEIRA 2-230/138 kV           ... 2    5090.28700    2370.01900    2720.26811   203.00   233.00  0.972914  0.972914
+   335 IBICOARA-230/138 kV            ... 2    1373.47900     621.89620     751.58304    37.26    45.03  1.390893  1.390893
+   292 ITARARE II-230/138 kV          ... 2    2523.71000    1208.50172    1315.20849  6702.50  7294.30  0.015026  0.015026
+   327 PIRAPORA 2-345/138 kV          ... 2    4297.68600    2116.69372    2180.99183   411.50   424.00  0.428654  0.428654
+   344 VERONA-230/138 kV              ... 2    5484.05100    2745.64471    2738.40656   113.80   113.50  2.010577  2.010577
+   258 LAGES-230/138 kV               ... 2    4964.31000    2213.81377    2750.49628   198.00   246.00  0.931740  0.931740
+   260 RIO DO SUL-230/138 kV          ... 2    5686.06100    2443.67506    3242.38597   257.00   341.00  0.792372  0.792372
+    91 PARACATU 4-500/138 kV          ... 2   11158.42000    5192.40265    5966.01825   198.00   227.50  2.185355  2.185355
+    70 ARACUAI 2-230/138 kV           ... 2   10064.13000    5284.33154    4779.79737   199.00   180.00  2.212869  2.212869
+   102 IMBIRUSSU-230/138 kV           ... 2    9514.64600    4432.96029    5081.68619   205.00   235.00  1.802016  1.802016
+    38 TAUA II-230/69 kV              ... 2    3687.32900    1859.30189    1828.02745    60.64    59.62  2.555110  2.555110
+   214 L.VERMELHA 2-230/138 kV        ... 2   11970.10000    5710.50530    6259.59235   104.00   114.00  4.575726  4.575726
+    45 AGUAS LINDAS-230/69 kV         ... 2    4068.43500    2007.59037    2060.84420    51.27    52.63  3.263101  3.263101
+    46 ANHANGUERA GO-230/138 kV       ... 2    9073.17600    4258.22346    4814.95232   283.00   320.00  1.253894  1.253894
+    47 ANHANGUERA GO-230/69 kV        ... 2    5411.64400    2482.21880    2929.42475    39.02    46.05  5.301168  5.301167
+    48 FIRMINOPOLIS-230/138 kV        ... 2   11458.52000    5387.32653    6071.19691   109.50   123.40  4.099944  4.099944
+    49 GOIANIA LESTE-230/13,8 kV      ... 2    7941.89500    3625.82311    4316.07191   135.00   160.70  2.238162  2.238162
+    50 ITAPACI-230/69 kV              ... 2    5331.32100    2665.81007    2665.51073    89.01    89.00  2.495796  2.495796
+    51 PALMEIRAS-230/69 kV            ... 2    3716.83200    1716.74291    2000.08888    50.47    58.80  2.834593  2.834593
+    52 PLANALTO-230/69 kV             ... 2     649.24790     326.92032     322.32754    62.64    61.76  0.434920  0.434920
+    53 PARANAIBA-230/69 kV            ... 2    8998.05500    4364.05346    4634.00123    67.09    71.24  5.420646  5.420645
+    54 PIRINEUS CELG-230/138 kV       ... 2    4911.48500    2315.02736    2596.45799   222.10   249.10  0.868613  0.868613
+    57 C. DOURADA-230/138 kV          ... 2    4258.21700    2010.79850    2247.41829   171.66   191.86  0.976154  0.976154
+    59 XAVANTES-230/138 kV            ... 2   21032.68000    9767.00617   11265.67352   380.60   439.00  2.138511  2.138510
+   325 CARAJAS GO-230/138 kV          ... 2    6777.34200    3382.06779    3395.27401   281.70   282.80  1.000493  1.000493
+    39 BRAS. GERAL-230/34,5 kV        ... 2    8185.25800    3951.50377    4233.75404   168.00   180.00  1.960071  1.960071
+    40 BRAS. SUL-345/138 kV           ... 2   38825.39000   19198.09851   19627.28821   648.60   663.10  2.466607  2.466607
+    41 SAMAMBAIA-345/138 kV           ... 2    8879.09000    4381.84715    4497.24269   550.60   565.10  0.663193  0.663193
+    43 VIANA-345/138 kV               ... 2    7193.99900    3601.59825    3592.40028   548.20   546.80  0.547489  0.547489
+    44 VITORIA-345/138 kV             ... 2   25635.91000   12813.88681   12822.01944   788.00   788.50  1.355106  1.355107
+    55 BARRO ALTO-230/69 kV           ... 2    6563.44000    3228.96698    3334.47296    67.33    69.53  3.996444  3.996444
+    56 RIO VERDE FUR-230/138 kV       ... 2   16735.51000    7698.34865    9037.15721   273.88   321.51  2.342373  2.342373
+    57 C. DOURADA-230/138 kV          ... 2    5831.10800    2753.54323    3077.56517   171.66   191.86  1.336723  1.336723
+    58 UHE S.DA MESA-230/138 kV       ... 2   13961.84000    6939.79778    7022.04011    57.38    58.06 10.078710 10.078710
+    72 BARREIRO 1-345/138 kV          ... 2    1551.96900     769.39645     782.57266   817.50   831.50  0.078430  0.078430
+    94 POCOS CALDAS-345/138 kV        ... 2   15822.38000    7916.46000    7905.91597   375.40   374.90  1.757339  1.757339
+    98 M. MORAES-345/138 kV           ... 2   17542.94000    8257.45007    9285.49329   399.20   448.90  1.723750  1.723750
+   181 ADRIANOPOLIS-345/138 kV        ... 2   10708.14000    5283.60051    5424.54305   746.00   765.90  0.590215  0.590214
+   182 CAMPOS-345/138 kV              ... 2   27563.58000   13779.31825   13784.26378   836.00   836.30  1.373537  1.373537
+   183 GRAJAU-500/138 kV              ... 2   38797.45000   18508.87486   20288.57436  1300.00  1425.00  1.186466  1.186466
+   184 JACAREPAGUA-345/138 kV         ... 2   19017.77000    9460.37538    9557.39415   516.80   522.10  1.525473  1.525473
+   185 SAO JOSE-500/138 kV            ... 2   51456.58000   25739.87838   25716.69974  2221.00  2219.00  0.965777  0.965777
+   186 ANGRA FUR-500/138 kV           ... 2   21384.12000   10372.95436   11011.16088   392.68   416.84  2.201316  2.201317
+   315 CAMPINAS-345/138 kV            ... 2   11010.69000    5204.16839    5806.52302   352.50   393.30  1.230300  1.230300
+   316 C. PAULISTA-500/138 kV         ... 2   22149.74000   11074.87207   11074.87207   202.50   202.50  4.557561  4.557561
+   489 P.COLOMBIA-345/138 kV          ... 2   10220.53000    5110.26660    5110.26660   440.00   440.00  0.967854  0.967854
+     1 MACEIO-230/69 kV               ... 2   10400.20000    4886.18952    5514.00580   308.20   347.80  1.321163  1.321163
+     2 PENEDO-230/69 kV               ... 2    2678.75800    1265.78677    1412.97128   193.50   216.00  0.545128  0.545128
+     3 RIO LARGO II-230/69 kV         ... 2    6537.03900    3223.19306    3313.84552   256.00   263.20  1.049217  1.049217
+     4 ABAIXADORA-230/69 kV           ... 2    3456.82800    1648.57384    1808.25380   124.82   136.91  1.100634  1.100634
+     6 B.JESUS LAPA-230/69 kV         ... 2    9269.99300    4419.69864    4850.29452   108.80   119.40  3.385186  3.385186
+     7 BARREIRAS-230/69 kV            ... 2    3716.51000    1859.27741    1857.23309    81.85    81.76  1.892972  1.892972
+     8 BARREIRAS-230/138 kV           ... 2    1105.62400     271.60750     834.01640    51.65   158.60  0.438218  0.438218
+     9 CIC. DANTAS-230/69 kV          ... 2    5803.44100    2850.08248    2953.35844    51.33    53.19  4.627058  4.627058
+    10 CAMACARI II-230/69 kV          ... 2    4791.55000    2297.46366    2494.08663   151.90   164.90  1.260404  1.260404
+    11 COTEGIPE-230/69 kV             ... 2    5961.64800    2879.59832    3082.05012   229.00   245.10  1.047889  1.047889
+    12 CATU-230/69 kV                 ... 2    6923.29600    3427.67591    3495.61999   187.67   191.39  1.522032  1.522032
+    13 STO.A.JESUS-230/69 kV          ... 2    7457.07100    3726.20079    3730.87050   159.60   159.80  1.945593  1.945594
+    14 EUNAPOLIS-230/138 kV           ... 2    8596.81700    4211.43810    4385.37928   205.80   214.30  1.705312  1.705312
+    15 FUNIL-230/138 kV               ... 2   13187.60000    6605.96156    6581.63512   344.88   343.61  1.596198  1.596198
+    16 G.MANGABEIRA-230/69 kV         ... 2    6161.25500    3009.54448    3151.71041    83.83    87.79  2.991714  2.991714
+    17 IRECE-230/138 kV               ... 2    5743.59500    2916.97276    2826.62246    89.43    86.66  2.718116  2.718115
+    18 IRECE-230/69 kV                ... 2    4792.16800    2302.88008    2489.28837    99.82   107.90  1.922527  1.922527
+    19 JACARACANGA-230/69 kV          ... 2    3778.02000    1818.87729    1959.14273   119.30   128.50  1.270521  1.270521
+    20 JUAZEIRO II-230/69 kV          ... 2   10612.91000    4410.77531    6202.13289   212.00   298.10  1.733796  1.733795
+    21 MATATU-230/69 kV               ... 2    5872.98300    2738.46848    3134.51443   242.70   277.80  0.940279  0.940279
+    22 MATATU-230/11 kV               ... 2    5300.32600    2598.87677    2701.44940    45.86    47.67  4.722483  4.722484
+    23 OLINDINA-230/13,8 kV           ... 2     268.13080     133.38378     134.74699    12.72    12.85  0.873846  0.873846
+    24 PITUACU-230/69 kV              ... 2   11601.50000    5687.25648    5914.23961   358.30   372.60  1.322741  1.322741
+    25 SR.BONFIM II-230/69 kV         ... 2    1857.02400     827.25564    1029.76878    59.15    73.63  1.165477  1.165477
+    26 SR.BONFIM II-230/138 kV        ... 2    7744.79800    3850.58693    3894.21141   132.40   133.90  2.423582  2.423582
+    29 BANABUIU-230/69 kV             ... 2    4730.11200    2352.96869    2377.14313    99.28   100.30  1.975028  1.975027
+    30 CAUIPE-230/69 kV               ... 2    5676.22300    2862.08382    2814.13884   137.30   135.00  1.737123  1.737123
+    31 DELM. GOUVEIA-230/69 kV        ... 2   13560.28000    6378.65039    7181.63379   296.30   333.60  1.793973  1.793973
+    32 FORTALEZA-230/69 kV            ... 2   12427.10000    5786.81136    6640.29021   302.40   347.00  1.594690  1.594690
+    33 ICO-230/69 kV                  ... 2    3830.58100    1902.75055    1927.83074   113.80   115.30  1.393344  1.393344
+    34 MILAGRES-230/69 kV             ... 2   13894.50000    6622.95075    7271.55315   183.80   201.80  3.002789  3.002789
+    35 PICI II-230/69 kV              ... 2   12382.69000    5888.15557    6494.53877   311.70   343.80  1.574205  1.574205
+    36 RUSSAS II-230/69 kV            ... 2    7267.14800    3122.97160    4144.17684    87.34   115.90  2.979707  2.979707
+    37 SOBRAL II-230/69 kV            ... 2   10597.38000    5251.94482    5345.43213   252.80   257.30  1.731258  1.731258
+   120 C.GRANDE II-230/138 kV         ... 2    4395.36200    2192.24597    2203.11585   133.11   133.77  1.372453  1.372453
+   121 C.GRANDE II-230/69 kV          ... 2    6880.40700    3341.11823    3539.28900   180.40   191.10  1.543384  1.543384
+   122 COREMAS-230/69 kV              ... 2    4837.08600    2320.87099    2516.21494   149.70   162.30  1.291957  1.291957
+   123 MUSSURE II-230/69 kV           ... 2    6289.87400    3056.84661    3233.02741   267.20   282.60  0.953358  0.953358
+   124 ANGELIM-230/69 kV              ... 2    7434.69300    3729.26569    3705.42767   168.96   167.88  1.839324  1.839324
+   125 BONGI-230/13,8 kV              ... 2    4452.28700    2093.24532    2359.04130    51.19    57.69  3.407641  3.407641
+   126 BONGI-230/69 kV                ... 2    6918.58200    3188.04677    3730.53477   257.40   301.20  1.032131  1.032131
+   127 BOM NOME-230/138 kV            ... 2    4166.74200    1957.64443    2209.09776   137.80   155.50  1.183868  1.183868
+   128 BOM NOME-230/69 kV             ... 2    2965.46800    1402.29388    1563.17414    41.49    46.25  2.816530  2.816530
+   129 GOIANINHA-230/69 kV            ... 2    9356.91800    4724.80190    4632.11607   219.20   214.90  1.796229  1.796229
+   130 MIRUEIRA-230/69 kV             ... 2    5333.14900    2629.77296    2703.37596   303.70   312.20  0.721593  0.721593
+   131 PAU FERRO-230/69 kV            ... 2    3274.38700    1605.71597    1668.67148   232.10   241.20  0.576517  0.576517
+   132 PIRAPAMA II-230/69 kV          ... 2    7003.02500    3370.65386    3632.37153   202.20   217.90  1.389159  1.389159
+   133 RIBEIRAO-230/69 kV             ... 2   10291.15000    5184.12313    5107.02433   168.10   165.60  2.569960  2.569960
+   134 TACAIMBO-230/69 kV             ... 2    8368.90400    4096.15531    4272.74899   201.80   210.50  1.691508  1.691508
+   135 JOAIRAM-230/69 kV              ... 2    1494.12100     721.28708     772.83389   195.90   209.90  0.306826  0.306826
+   136 ELISEU MARTINS-230/69 kV       ... 2     774.48710     369.60403     404.88303    24.62    26.97  1.251029  1.251029
+   137 PICOS-230/69 kV                ... 2    8833.42700    4276.62543    4556.80132    94.79   101.00  3.759737  3.759737
+   138 PIRIPIRI-230/69 kV             ... 2    8593.53100    4243.59136    4349.93989    81.80    83.85  4.323137  4.323137
+   139 PIRIPIRI-230/138 kV            ... 2    8785.14700    4388.62433    4396.52313    66.67    66.79  5.485506  5.485506
+   140 S.JOAO PIAUI-230/69 kV         ... 2    7701.17000    3838.99887    3862.17154    49.70    50.00  6.436953  6.436953
+   141 TERESINA-230/69 kV             ... 2    8675.99700    4311.01155    4364.98552   432.91   438.33  0.829851  0.829851
+   143 UB.ESPERANCA-230/69 kV         ... 2    2845.81100    1388.41099    1457.39955    69.43    72.88  1.666392  1.666392
+   187 ACU II-230/69 kV               ... 2    7740.86900    3406.16943    4334.69971    50.99    64.89  5.566728  5.566728
+   188 ACU II-230/138 kV              ... 2    1588.37900     791.05061     797.32854   157.51   158.76  0.418519  0.418519
+   189 MOSSORO II-230/69 kV           ... 2   13633.48000    5769.71529    7863.76811   182.40   248.60  2.636018  2.636018
+   190 NATAL II-230/69 kV             ... 2    8556.59900    3969.32844    4587.27019   251.80   291.00  1.313651  1.313651
+   265 ITABAIANA-230/69 kV            ... 2    4025.28200    1960.04843    2065.23404   152.80   161.00  1.068962  1.068962
+   266 ITABAIANINHA-230/69 kV         ... 2    6722.53400    3312.55283    3409.98086    68.00    70.00  4.059501  4.059501
+   267 JARDIM-230/69 kV               ... 2    7619.93000    3642.60175    3977.32794   185.00   202.00  1.640812  1.640812
+   357 PARAISO-230/138 kV             ... 2    5363.08500    2674.91117    2688.17427   133.11   133.77  1.674624  1.674624
+   437 TERESINA-230/13,8 kV           ... 2     336.68580     163.93257     172.75322    52.41    55.23  0.260657  0.260657
+   144 APUCARANA-230/138 kV           ... 2   12549.08000    5869.67499    6679.40704   166.00   188.90  2.946624  2.946624
+   145 AREIA-230/138 kV               ... 2   10123.89000    4786.14248    5337.74912   201.30   224.50  1.981347  1.981347
+   146 BATEIAS-230/138 kV             ... 2    1316.61900     645.29614     671.32288   156.20   162.50  0.344268  0.344268
+   147 C.COMPRIDO-230/13,8 kV         ... 2    7082.13100    3315.53475    3766.59611    35.65    40.50  7.750198  7.750198
+   148 C.COMPRIDO-230/69 kV           ... 2   13532.43000    6591.53800    6940.89559   128.30   135.10  4.281332  4.281332
+   149 CASCAVEL-230/138 kV            ... 2   15245.08000    7159.06565    8086.01833   295.80   334.10  2.016866  2.016866
+   150 C.I.CURITIBA-230/13,8 kV       ... 2     829.65590     373.32703     456.32885    51.50    62.95  0.604089  0.604089
+   151 C.I.CURITIBA-230/69 kV         ... 2     968.94600     476.44864     492.49740   142.50   147.30  0.278625  0.278625
+   154 C.MOURAO-230/138 kV            ... 2    8177.76100    3945.73522    4232.02601   170.90   183.30  1.923998  1.923998
+   155 CAMPO ASSOBIO-230/138 kV       ... 2     816.56510     402.14537     414.41969   124.50   128.30  0.269174  0.269174
+   156 CAMPO ASSOBIO-230/13 kV        ... 2     831.40370     369.86703     461.53666    23.20    28.95  1.328545  1.328545
+   157 D.S.J.PINHAIS-230/13,8 kV      ... 2    1459.65400     710.41673     749.23732    18.30    19.30  3.235049  3.235049
+   158 FOZ DO CHOPIM-230/138 kV       ... 2    1192.73000     575.90084     616.82914   218.10   233.60  0.220045  0.220045
+   159 FIGUEIRA-230/138 kV            ... 2    8740.81100    4312.00360    4428.80695   119.61   122.85  3.004210  3.004210
+   160 PARIGOT SOUZA-230/138 kV       ... 2   12031.75000    6151.97878    5879.76732   101.70    97.20  5.040953  5.040953
+   161 GUAIRA-230/138 kV              ... 2   10394.96000    4854.65340    5540.30168   220.20   251.30  1.837214  1.837214
+   162 IBIPORA-230/138 kV             ... 2    9126.30200    4282.63259    4843.66917   283.20   320.30  1.260191  1.260191
+   163 JAGUARIAIVA-230/138 kV         ... 2   11089.54000    4481.16024    6608.38176   160.10   236.10  2.332480  2.332480
+   164 LONDRINA COT-230/138 kV        ... 2    9978.12300    4382.73561    5595.38744   229.50   293.00  1.591407  1.591407
+   165 MARINGA-230/138 kV             ... 2   12106.27000    5610.80994    6495.46252   233.40   270.20  2.003289  2.003289
+   166 POSTO FISCAL-230/138 kV        ... 2    1177.67800     574.89160     602.78638   131.90   138.30  0.363212  0.363212
+   167 PONTA G NORTE-230/138 kV       ... 2    5841.29600    2814.96655    3026.32984   146.50   157.50  1.601233  1.601233
+   168 PONTA G NORTE-230/34,5 kV      ... 2    4618.56500    2031.63460    2586.93035    38.05    48.45  4.449484  4.449484
+   169 PONTA G SUL-230/34,5 kV        ... 2    4819.88700    2286.43513    2533.45159    56.00    62.05  3.402433  3.402433
+   170 PONTA G SUL-230/138 kV         ... 2     676.60830     356.10965     320.49869    95.00    85.50  0.312377  0.312377
+   171 PILARZINHO-230/69 kV           ... 2    8373.18400    3998.70699    4374.47660   154.30   168.80  2.159595  2.159595
+   172 PATO BRANCO-230/138 kV         ... 2    9057.97600    4509.58339    4548.39220   116.20   117.20  3.234067  3.234067
+   173 SARANDI-230/138 kV             ... 2    2725.36200    1233.14068    1492.22090   122.80   148.60  0.836822  0.836822
+   174 SANTA MONICA-230/69kV          ... 2    1146.82700     536.87701     609.94990   141.80   161.10  0.315513  0.315513
+   175 S.MATEUS SUL-230/34,5 kV       ... 2    2493.18300    1304.07968    1189.10294    21.55    19.65  5.042845  5.042845
+   176 S.MATEUS SUL-230/13 kV         ... 2    3161.45700    1544.42803    1617.02925    11.70    12.25 11.000200 11.000200
+   178 UBERABA-230/69 kV              ... 2    5007.25100    2403.14826    2604.10271   144.70   156.80  1.383983  1.383983
+   179 UMBARA-230/69 kV               ... 2    9701.79000    4845.01983    4856.77020   123.70   124.00  3.263959  3.263959
+   374 D.S.J.PINHAIS-230/69 kV        ... 2    1120.96600     539.04798     581.91784   135.80   146.60  0.330785  0.330785
+   390 UBERABA-230/13,8 kV            ... 2    4557.44300    2306.14584    2251.29703    46.25    45.15  4.155218  4.155218
+   268 AGUA VERMELHA-440/138 kV       ... 2    7381.09500    3534.35263    3846.74259  6707.00  7299.80  0.043914  0.043914
+   269 ANHANGUERA SP-345/88 kV        ... 2    3418.26800    1655.93533    1762.33249   549.40   584.70  0.251173  0.251173
+   270 APARECIDA-230/88 kV            ... 2    9068.81300    4597.04378    4471.76872    84.40    82.10  4.538945  4.538945
+   271 ARARAQUARA-440/138 kV          ... 2   21486.30000   10305.60843   11180.69626  7092.00  7694.20  0.121094  0.121094
+   273 ASSIS-230/88 kV                ... 2    2085.40200     998.61376    1086.78810  6702.50  7294.30  0.012416  0.012416
+   275 BANDEIRANTES-345/88 kV         ... 2   26646.85000   12588.23583   14058.61573   839.00   937.00  1.250322  1.250322
+   276 BANDEIRANTES-345/34,5 kV       ... 2    8393.71900    3775.26948    4618.44927   208.20   254.70  1.511075  1.511075
+   277 BAURU-440/138 kV               ... 2   11451.51000    5485.74644    5965.76039  6980.50  7591.30  0.065489  0.065489
+   278 BOM JARDIM-440/138 kV          ... 2     896.25140     429.32182     466.92958  6755.96  7347.76  0.005296  0.005296
+   279 BOM JARDIM-440/88 kV           ... 2   27369.92000   12658.58698   14711.33099   370.00   430.00  2.851033  2.851033
+   280 BOTUCATU-230/138 kV            ... 2    2107.16900    1009.86816    1097.30127  6835.50  7427.30  0.012312  0.012312
+   281 B. SANTISTA-345/88 kV          ... 2   10616.21000    5250.63764    5365.56842   580.20   592.90  0.754142  0.754142
+   282 B. SANTISTA-230/138 kV         ... 2   10785.65000    5164.80689    5620.84253  6702.50  7294.30  0.064215  0.064215
+   283 CABREUVA-440/138 kV            ... 2    8891.33000    4258.27508    4633.05500  6749.75  7343.80  0.052573  0.052573
+   284 CAPAO BONITO-230/138 kV        ... 2    3290.69800    1572.98090    1717.71661  6839.30  7468.60  0.019166  0.019166
+   285 CHAVANTES-230/88 kV            ... 2    5218.72100    2499.03215    2719.68855  6702.50  7294.30  0.031071  0.031071
+   286 CAPIVARA-440/138 kV            ... 2    1411.64200     676.18588     735.45572  6759.70  7352.21  0.008336  0.008336
+   287 CENTRO-CTR-230/88 kV           ... 2    1652.39800     753.17598     899.22221   206.80   246.90  0.303504  0.303504
+   288 CENTRO-CTR-230/20 kV           ... 2    4396.55600    2040.15501    2356.40066   138.70   160.20  1.225760  1.225760
+   289 EMBU-GUACU-440/138 kV          ... 2   29884.05000   14302.28638   15581.76440  6975.30  7599.30  0.170868  0.170868
+   290 EDGARD SOUZA-230/88 kV         ... 2   10506.02000    5144.14874    5361.87177   297.70   310.30  1.439970  1.439970
+   293 JUPIA-440/138 kV               ... 2    1679.08600     803.41385     875.67221  6889.20  7508.80  0.009718  0.009718
+   294 JURUMIRIM-230/138 kV           ... 2     751.68290     359.95024     391.73268  6702.50  7294.30  0.004475  0.004475
+   295 LESTE-345/88 kV                ... 2    3923.82700    1961.77342    1962.05324   700.90   701.00  0.233245  0.233245
+   296 M. FORNASARO-345/88 kV         ... 2   40133.00000   19174.12352   20958.88039   677.90   741.00  2.357049  2.357049
+   297 MOGI-230/88 kV                 ... 2    5184.16000    2578.28487    2605.87529   186.90   188.90  1.149583  1.149583
+   298 MOGI MIRIM 3-440/138 kV        ... 2   32636.52000   15628.29780   17008.22564  6702.50  7294.30  0.194309  0.194309
+   299 MIGUEL REALE-345/20 kV         ... 2   17040.99000    7901.49442    9139.49581    80.10    92.65  8.220448  8.220449
+   300 MIGUEL REALE-345/138/88 kV     ... 2    2559.08100    1228.21060    1330.86997   232.10   251.50  0.440977  0.440977
+   302 NORDESTE-345/88 kV             ... 2   12346.29000    6151.75160    6194.53746   718.90   723.90  0.713098  0.713098
+   303 NORTE-345/88 kV                ... 2   47118.64000   23501.82232   23616.81439   919.70   924.20  2.129483  2.129483
+   304 OESTE-440/88 kV                ... 2   28780.28000   14027.05781   14753.22344   732.10   770.00  1.596669  1.596669
+   305 PIRATININGA-230/88 kV          ... 2    2064.79300    1020.17162    1044.62159   287.90   294.80  0.295291  0.295291
+   307 PIRITUBA-230/88 kV             ... 2    2278.08700    1095.94626    1182.14041   325.50   351.10  0.280580  0.280580
+   308 RIBEIRAO PRETO-440/138 kV      ... 2   31442.62000   15055.55866   16387.06439  7112.30  7741.30  0.176403  0.176403
+   309 RAM REBERT F-345/88 kV         ... 2   42802.13000   20695.18247   22106.95034   640.60   684.30  2.692162  2.692161
+   310 SANTO ANGELO-440/138 kV        ... 2   26973.73000   12916.61758   14057.11288  6702.50  7294.30  0.160595  0.160595
+   311 SALTO GRANDE-230/88 kV         ... 2    4605.63600    2205.45104    2400.18519  6702.50  7294.30  0.027421  0.027421
+   312 SANTA BARBARA-440/138 kV       ... 2   25238.60000   12090.28962   13148.31194  7202.70  7833.00  0.139882  0.139882
+   313 SANTA CABECA-230/88 kV         ... 2    3750.70100    1910.35698    1840.34394   114.60   110.40  1.389149  1.389149
+   314 S.JOSE CAMPOS-230/88 kV        ... 2    6816.88400    3271.60601    3545.27826  7110.60  7705.40  0.038342  0.038342
+   317 SUL 1-345/88 kV                ... 2   36737.77000   18029.19158   18708.58186   889.00   922.50  1.690026  1.690026
+   318 SUMARE-440/138 kV              ... 2   18272.49000    9099.62579    9172.86249   397.60   400.80  1.907199  1.907199
+   319 TAQUARUCU-440/138 kV           ... 2   14190.44000    6795.63728    7394.80022  6714.50  7306.50  0.084340  0.084340
+   320 TAUBATE-440/138 kV             ... 2   22181.26000   10635.91670   11545.34307  7097.90  7704.80  0.124872  0.124872
+   321 TRES IRMAOS-440/138 kV         ... 2   22369.79000   10710.69028   11659.10464  6708.30  7302.30  0.133053  0.133053
+    60 COELHO NETO-230/69 kV          ... 2    4014.26100    2001.13345    2013.12754    63.40    63.78  2.630301  2.630301
+    61 IMPERATRIZ-230/69 kV           ... 2    4199.33500    1998.43348    2200.90197   159.90   176.10  1.041502  1.041502
+    62 SAO LUIS I-230/69 kV           ... 2    7897.86200    3922.77896    3975.08285   277.50   281.20  1.178012  1.178012
+    64 MIRANDA II-230/138 kV          ... 2    4794.31400    2399.97633    2394.33812   127.70   127.40  1.566155  1.566155
+    65 MIRANDA II-230/69 kV           ... 2    6332.43300    3124.03006    3208.40256    83.68    85.94  3.111088  3.111088
+    66 P.DUTRA-230/69 kV              ... 2    4067.29200    2007.28463    2060.00785    73.86    75.80  2.264740  2.264740
+    67 PORTO FRANCO-230/69 kV         ... 2    6294.02000    3057.44099    3236.57903    55.64    58.90  4.579201  4.579201
+    68 PORTO FRANCO-230/138 kV        ... 2    7758.47200    3573.67982    4184.79235   134.50   157.50  2.214176  2.214176
+    69 PERITORO-230/69 kV             ... 2    7764.14200    3799.37363    3964.76846   128.87   134.48  2.456852  2.456851
+   103 BARRA PEIXE-230/138 kV         ... 2   17485.47000    8539.34721    8946.12740   112.52   117.88  6.324318  6.324318
+   104 COXIPO-230/138 kV              ... 2   12402.26000    5730.12262    6672.14007   521.48   607.21  0.915683  0.915683
+   106 NOVA MUTUM-230/69 kV           ... 2    3737.68500    1633.64337    2104.04193    34.59    44.55  3.935731  3.935731
+   107 RONDONOPOLIS-230/138 kV        ... 2   12108.70000    5630.27076    6478.43237   323.48   372.21  1.450443  1.450443
+   108 SINOP-230/138 kV               ... 2    6744.42000    3011.23591    3733.18450   161.00   199.60  1.558611  1.558611
+   109 SORRISO-230/69 kV              ... 2    4825.74200    2137.50393    2688.23826    39.20    49.30  4.544014  4.544014
+   110 ALTAMIRA-230/69 kV             ... 2    8883.36300    4384.45228    4498.91100    70.10    71.93  5.212141  5.212141
+   111 GUAMA-230/69 kV                ... 2    6328.75800    3061.05242    3267.70588   284.40   303.60  0.896933  0.896933
+   112 MARABA-230/69 kV               ... 2    5149.52400    2484.31113    2665.21328    42.16    45.23  4.910482  4.910482
+   113 RUROPOLIS-230/138 kV           ... 2   14547.66000    7078.80931    7468.85182   139.02   146.68  4.243280  4.243280
+   114 SANTA MARIA-230/69 kV          ... 2    1738.46700     857.52200     880.94456   197.70   203.10  0.361458  0.361458
+   115 SANTA MARIA-230/138 kV         ... 2    9631.27200    4651.91203    4979.36043   130.70   139.90  2.966024  2.966024
+   116 TUCURUI-500/69 kV              ... 2    5370.05200    2653.96780    2716.08396    52.98    54.22  4.174481  4.174480
+   117 TRANSAMAZONICA-230/34,5 kV     ... 2    6393.38600    3098.41878    3294.96745    16.71    17.77 15.451920 15.451920
+   118 UTINGA-230/69 kV               ... 2    9258.48100    4536.86692    4721.61453   365.90   380.80  1.033267  1.033267
+   119 VILA DO CONDE-230/69 kV        ... 2    8707.89600    4320.86770    4387.02878   169.80   172.40  2.120567  2.120567
+   322 MIRACEMA-500/138 kV            ... 2    5485.20300    2520.66055    2964.54258   118.23   139.05  1.776665  1.776665
+   352 ABUNA-230/138 kV               ... 2    2776.02700    1352.41382    1423.61328    36.09    37.99  3.122781  3.122781
+   354 JI-PARANA-230/138 kV           ... 2    1012.80400     482.08964     530.71419   116.00   127.70  0.346329  0.346329
+   355 JI-PARANA-230/69 kV            ... 2    4716.09300    2275.54017    2440.55261   111.70   119.80  1.697658  1.697658
+   356 PIMENTA BUENO-230/138 kV       ... 2    1068.45500     495.12795     573.32664    25.20    29.18  1.637328  1.637328
+   358 RIO BRANCO 1-230/138 kV        ... 2    5224.63000    2550.42119    2674.20918    12.98    13.61 16.374040 16.374050
+   359 RIO BRANCO 1-230/69 kV         ... 2    6382.85400    3138.39433    3244.45967   165.70   171.30  1.578352  1.578352
+   360 ARIQUEMES-230/69 kV            ... 2    2707.08500    1265.22013    1441.86459    69.19    78.85  1.523847  1.523848
+   363 JARU-230/69 kV                 ... 2    5442.41400    2533.53740    2908.87666    27.00    31.00  7.819561  7.819561
+   366 PORTO VELHO-230/69 kV          ... 2    4870.81700    2392.71002    2478.10737   302.60   313.40  0.658931  0.658931
+   370 VILHENA-230/69 kV              ... 2     841.51040     369.37014     472.14023    42.95    54.90  0.716667  0.716667
+   389 TUCURUI-230/69 kV              ... 2    3626.18100    1792.11817    1834.06273    52.98    54.22  2.818860  2.818859
+   100 ANASTACIO-230/138 kV           ... 2    2159.64200     998.15391    1161.48818    55.00    64.00  1.512354  1.512354
+   101 DOURADOS-230/138 kV            ... 2    4280.38100    2071.15203    2209.22883   225.00   240.00  0.767093  0.767093
+   145 AREIA-230/138 kV               ... 2     952.86450     450.47354     502.39096   201.30   224.50  0.186485  0.186485
+   154 C.MOURAO-230/138 kV            ... 2      97.64963      47.11553      50.53410   170.90   183.30  0.022974  0.022974
+   192 ATLANTIDA 2-230/69 kV          ... 2    1088.07800     577.38666     510.69183   151.50   134.00  0.317594  0.317594
+   196 CAXIAS SUL 5-230/69 kV         ... 2     756.27560     355.61550     400.66013    75.00    84.50  0.395128  0.395128
+   197 CAXIAS SUL 5-230/13,8 kV       ... 2     329.58390     148.20215     181.38177    67.00    82.00  0.184331  0.184331
+   200 CHARQUEADAS-230/69 kV          ... 2     400.87690     196.68492     204.19197    72.05    74.80  0.227487  0.227487
+   205 FARROUPILHA-230/69 kV          ... 2    4500.67000    2026.07496    2474.59545    91.70   112.00  1.841217  1.841217
+   209 GRAVATAI 3-230/69 kV           ... 2     760.21830     363.93430     396.28402    90.00    98.00  0.336976  0.336976
+   228 PASSO FUNDO-230/138 kV         ... 2    2928.46200    1464.23120    1464.23120    77.50    77.50  1.574442  1.574442
+   243 TAPERA 2-230/69 kV             ... 2    5338.43800    2642.71628    2695.72220   104.70   106.80  2.103404  2.103404
+   249 BLUMENAU-230/138 kV            ... 2    7945.10500    3482.56382    4462.54165   430.00   551.00  0.674916  0.674916
+   250 CANOINHAS ESU-230/138 kV       ... 2    4284.67300    2038.52299    2246.15035   216.00   238.00  0.786467  0.786467
+   251 C.NOVOS-230/138 kV             ... 2    6243.84600    2889.14769    3354.69801   211.00   245.00  1.141054  1.141054
+   252 DESTERRO-230/138 kV            ... 2    4139.18600    2069.59277    2069.59277   285.00   285.00  0.605144  0.605144
+   253 ITAJAI-230/138 kV              ... 2    3737.39800    1726.17131    2011.22713   436.00   508.00  0.329926  0.329926
+   254 J.LACERDA-A-230/138 kV         ... 2    1400.91600     649.85469     751.06157   122.00   141.00  0.443890  0.443890
+   255 J.LACERDA-A-230/69 kV          ... 2    2092.11000    1000.57452    1091.53584   110.00   120.00  0.758011  0.758011
+   256 JOINVILLE-230/138 kV           ... 2    5763.61700    2618.22832    3145.38838   298.00   358.00  0.732167  0.732167
+   257 JOINVILLE-230/69 kV            ... 2    1782.21500     825.65902     956.55619    82.00    95.00  0.839084  0.839084
+   259 PALHOCA ESU-230/138 kV         ... 2    5279.93800    2599.46762    2680.47086   353.00   364.00  0.613661  0.613661
+   261 SIDEROPOL.ESU-230/69 kV        ... 2    4191.32900    1867.11669    2324.21192   241.00   300.00  0.645614  0.645614
+   263 XANXERE ESU-230/138 kV         ... 2    1969.49100     949.41805    1020.07255   430.00   462.00  0.183996  0.183996
+   324 BIGUACU-230/138 kV             ... 2   11293.19000    5250.74971    6042.43779   451.00   519.00  0.970205  0.970205
+   333 JOINV.NORTE-230/138 kV         ... 2    9650.56800    4390.06247    5260.50589   348.00   417.00  1.051260  1.051260
+   191 ALEGRETE 2-230/69 kV           ... 2    4987.90100    2296.38140    2691.51948    40.10    47.00  4.772198  4.772198
+   193 BAGE 2-230/69 kV               ... 2    4890.82500    2301.04991    2589.77480    65.75    74.00  2.916413  2.916413
+   194 CAMAQUA-230/69 kV              ... 2    3682.14900    1749.29069    1932.85823    81.00    89.50  1.799682  1.799682
+   195 CAXIAS SUL 2-230/69 kV         ... 2    4180.09000    1870.04041    2310.04992    51.00    63.00  3.055621  3.055621
+   197 CAXIAS SUL 5-230/13,8 kV       ... 2    2591.05200    1165.10368    1425.94808    67.00    82.00  1.449134  1.449134
+   198 CAMPO BOM-230/23 kV            ... 2    2962.24900    1346.47681    1615.77246    40.00    48.00  2.805160  2.805161
+   199 CAMPO BOM-230/69 kV            ... 2    5339.19600    2246.69151    3092.50478    85.00   117.00  2.202639  2.202639
+   201 C.INDUSTRIAL-230/23 kV         ... 2    2517.96200    1165.02727    1352.93489    62.00    72.00  1.565897  1.565897
+   202 C.INDUSTRIAL-230/138 kV        ... 2    3030.33400    1391.41174    1638.92249   208.00   245.00  0.557457  0.557457
+   203 CANOAS 1-230/23 kV             ... 2    6196.47400    3010.08073    3186.39290    47.12    49.88  5.323431  5.323431
+   204 ELDORADO SUL-230/23 kV         ... 2    2521.37800    1215.66427    1305.71366    27.00    29.00  3.752050  3.752051
+   207 GRAVATAI 2-230/69 kV           ... 2    7505.16900    3659.92807    3845.24088   158.00   166.00  1.930342  1.930342
+   208 GRAVATAI 2-230/23 kV           ... 2    1312.65700     653.22173     659.43562    43.10    43.51  1.262997  1.262996
+   210 GUARITA-230/69 kV              ... 2    8010.73100    3990.90592    4019.82553   138.00   139.00  2.409967  2.409967
+   211 GUAIBA 2-230/69 kV             ... 2    4533.41300    2158.76814    2374.64495    65.00    71.50  2.767652  2.767652
+   212 LAJEADO 2-230/69 kV            ... 2   10857.10000    5126.96370    5730.13590   153.00   171.00  2.792464  2.792464
+   213 LIVRAMENTO 2-230/69 kV         ... 2    2899.98900    1420.09769    1479.89132    28.50    29.70  4.152333  4.152332
+   215 MACAMBARA-230/69 kV            ... 2    5919.40200    2684.92761    3234.47473    85.50   103.00  2.616889  2.616889
+   216 NOVA PRATA 2-230/69 kV         ... 2    8719.46400    4076.63246    4642.83141    90.00   102.50  3.774660  3.774660
+   217 OSORIO 2-230/69 kV             ... 2    6892.04300    3561.85439    3330.18907   123.00   115.00  2.413181  2.413181
+   218 PORTO ALEGRE 10-230/69 kV      ... 2     507.34200     249.04196     258.30008    80.70    83.70  0.257169  0.257169
+   219 PORTO ALEGRE 10-230/13,8 kV    ... 2    4382.58000    2191.28979    2191.28979    43.00    43.00  4.246686  4.246686
+   220 PORTO ALEGRE 13-230/13,8 kV    ... 2    4002.90600    2001.45276    2001.45276    75.75    75.75  2.201818  2.201818
+   221 PORTO ALEGRE 4-230/13,8 kV     ... 2    6051.95900    2584.10839    3467.85108   115.50   155.00  1.864436  1.864436
+   222 PORTO ALEGRE 6-230/13,8 kV     ... 2     588.46660     294.23328     294.23328    43.00    43.00  0.570220  0.570220
+   224 PORTO ALEGRE 8-230/69 kV       ... 2    3724.20000    1810.60970    1913.59001   117.80   124.50  1.280850  1.280850
+   225 PORTO ALEGRE 9-230/69 kV       ... 2     937.24820     427.41988     509.82835   108.40   129.30  0.328582  0.328582
+   226 PORTO ALEGRE 9-230/13,8 kV     ... 2    2706.91300    1142.52835    1564.38498    32.50    44.50  2.929560  2.929560
+   227 PELOTAS 3-230/138 kV           ... 2    4895.30000    2306.89048    2588.40932   147.50   165.50  1.303328  1.303328
+   229 P.PETROQUIMIC-230/69 kV        ... 2    2945.22600    1303.60686    1641.61897    60.55    76.25  1.794119  1.794119
+   230 QUINTA-230/69 kV               ... 2    6070.39000    2982.63758    3087.75256   113.50   117.50  2.189895  2.189896
+   231 QUINTA-230/138 kV              ... 2    9217.39300    2710.36532    6507.02725    12.60    30.25 17.925700 17.925700
+   232 SANTO ANGELO 2-230/69 kV       ... 2    3368.08200    1556.58683    1811.49471   226.55   263.65  0.572569  0.572569
+   233 SAO BORJA 2-230/69 kV          ... 2    5226.29900    2333.16934    2893.12998    50.00    62.00  3.888616  3.888616
+   234 SCHARLAU-230/23 kV             ... 2    2320.27300     949.53049    1370.74222    25.00    36.09  3.165102  3.165102
+   236 SANTA CRUZ 1-230/69 kV         ... 2    3812.74500    1856.20462    1956.54001   129.50   136.50  1.194469  1.194469
+   237 SANTA MARIA 3-230/69 kV        ... 2    5923.63200    2799.90815    3123.72369   115.00   128.30  2.028919  2.028919
+   238 SANTA MARTA-230/138 kV         ... 2    2919.98400    1401.30198    1518.68215   115.80   125.50  1.008421  1.008421
+   239 SANTA MARTA-230/69 kV          ... 2    3597.44000    1761.96063    1835.47980    70.70    73.65  2.076804  2.076804
+   240 SANTA ROSA 1-230/69 kV         ... 2    4756.61300    2271.12944    2485.48336   133.50   146.10  1.417684  1.417684
+   241 S.VICENTE SUL-230/69 kV        ... 2    9617.13700    4733.43441    4883.70231    59.85    61.75  6.590692  6.590691
+   242 TAQUARA-230/138 kV             ... 2    5841.16800    2720.24951    3120.91894   164.30   188.50  1.379717  1.379717
+   244 P.MEDICI-230/138 kV            ... 2    1071.30800     482.67733     588.63089    41.00    50.00  0.981052  0.981052
+   245 PASSO REAL-230/138 kV          ... 2    6648.52800    3134.95678    3513.57105   199.55   223.65  1.309178  1.309178
+   246 URUGUAIANA 5-230/69 kV         ... 2    6052.83300    2674.50783    3378.32566    94.05   118.80  2.369757  2.369757
+   247 V.AIRES-230/69 kV              ... 2    1997.28600     927.31148    1069.97478    78.00    90.00  0.990717  0.990717
+   343 SANTA CRUZ 1-230/13,8 kV       ... 2    1065.04000     514.76941     550.27075    29.00    31.00  1.479222  1.479222
+    82 ITAJUBA 3-500/138 kV           ... 2   10422.01000    5148.78634    5273.22831   331.00   339.00  1.296270  1.296270
+    72 BARREIRO 1-345/138 kV          ... 2    6206.34700    3076.82766    3129.51951   817.50   831.50  0.313642  0.313642
+    73 CONSE. PENA-230/13,8 kV        ... 2    1489.43700     759.32077     730.11612    26.00    25.00  2.433720  2.433720
+    74 EMBORCACAO-500/138 kV          ... 2    9832.13300    4693.31257    5138.82024   348.70   381.80  1.121621  1.121621
+    75 G.VALADARES 2-230/138 kV       ... 2    5169.37500    2584.68726    2584.68726   250.00   250.00  0.861562  0.861562
+    76 G.VALADARES 2-230/13,8 kV      ... 2    2411.93000    1215.17105    1196.75937    66.00    65.00  1.534307  1.534307
+    78 IPATINGA 1-230/138 kV          ... 2     464.98560     237.24897     227.73663   212.00   203.50  0.093258  0.093258
+    79 IPATINGA 1-230/13,8 kV         ... 2    2398.06500    1199.03235    1199.03235    44.00    44.00  2.270895  2.270895
+    81 ITABIRA 2-230/13,8 kV          ... 2     230.59790     115.29893     115.29893    30.50    30.50  0.315024  0.315024
+    83 ITUTINGA-SE-345/138 kV         ... 2    5440.57600    2720.28809    2720.28809   415.00   415.00  0.546243  0.546243
+    84 JUIZ DE FORA 1-345/138 kV      ... 2    6604.46800    3189.29839    3415.16938   353.00   378.00  0.752903  0.752903
+    87 LAFAIETE 1-345/138 kV          ... 2    3585.95500    1768.67513    1817.27995   327.50   336.50  0.450045  0.450045
+    88 MONTES CLAROS 2-345/138 kV     ... 2    8579.46600    4295.81764    4283.64818   353.00   352.00  1.014121  1.014121
+    89 NEVES 1-500/138 kV             ... 2    6496.38800    3266.78151    3229.60619   703.00   695.00  0.387243  0.387243
+    90 OURO PRETO 2-500/138 kV        ... 2   15845.67000    7922.83350    7922.83350   403.00   403.00  1.638303  1.638303
+    92 PIMENTA-345/138 kV             ... 2    3706.47300    1820.90254    1885.57011   267.50   277.00  0.567259  0.567259
+    93 S. G. DO PARA-500/138 kV       ... 2   14194.21000    7097.10547    7097.10547   630.00   630.00  0.938771  0.938771
+    95 TAQUARIL-345/138 kV            ... 2    2473.41900    1236.70947    1236.70947   252.00   252.00  0.408965  0.408965
+    96 TIMOTEO-230/13,8 kV            ... 2    2058.58200    1053.79785    1004.78418    43.00    41.00  2.042244  2.042244
+    97 TRES MARIAS-289/138 kV         ... 2    2973.99300    1302.12663    1671.86629   162.00   208.00  0.669818  0.669818
+    99 VARZEA PALMA 1-345/138 kV      ... 2    8768.03600    4307.86854    4460.16760   198.00   205.00  1.813076  1.813076
+   342 JAGUARA-US-345/138 kV          ... 2    4314.74700    2035.43502    2279.31205   217.00   243.00  0.781657  0.781657
+   442 CONSE. PENA-230/69 kV          ... 2    2118.74300    1080.14370    1038.59971    26.00    25.00  3.461999  3.461999
+   180 NILO PECANHA-230/138 kV        ... 2    2097.32300     999.63652    1097.68696    83.60    91.80  0.996448  0.996448
+    42 U.MASCARENHAS-230/138 kV       ... 2    2805.58000    1345.57033    1460.00950   184.60   200.30  0.607426  0.607426
+     5 BRUMADO II-230/69 kV           ... 2    2618.00900    1272.68588    1345.32316   124.40   131.50  0.852550  0.852550
+    28 TOMBA-230/69 kV                ... 2    5422.83600    2587.56039    2835.27604   278.90   305.60  0.773145  0.773145
+   328 F.IGUACUNORTE-230/138 kV       ... 2    3500.30100    1695.37514    1804.92540   191.90   204.30  0.736223  0.736223
+     2 PENEDO-230/69 kV               ... 2     452.97000     214.04077     238.92923   193.50   216.00  0.092179  0.092179
+   345 SAO LUIS III-230/69 kV         ... 2    3468.18400    1757.90798    1710.27561   195.60   190.30  0.748938  0.748938
+   338 BRASNORTE-230/138 kV           ... 2     838.65590     382.94312     455.71276    37.10    44.15  0.860160  0.860160
+   340 JUINA-230/138 kV               ... 2     754.57240     338.01294     416.55944    41.14    50.70  0.684680  0.684680
+   348 MACAPA-230/69 kV               ... 2    1990.31700    1024.01182     966.30544   278.60   262.90  0.306297  0.306297
+   349 LARANJAL-230/69 kV             ... 2    1394.58500     700.15956     694.42576    21.98    21.80  2.654533  2.654533
+   350 ORIXIMINA-500/138 kV           ... 2    1987.42600     958.30742    1029.11836    32.48    34.88  2.458712  2.458712
+   347 SILVES-500/138 kV              ... 2    2559.69500    1279.84766    1279.84766    21.60    21.60  4.937684  4.937684
+   346 TEIX. FREITAS II-230/138 kV    ... 2    2504.32100    1204.98776    1299.33280   100.90   108.80  0.995200  0.995200
+   331 FORQUILHINHA-230/69 kV         ... 2    4370.75500    1996.28126    2374.47363   208.50   248.00  0.797874  0.797874
+   341 VENDA PEDRAS-345/138 kV        ... 2   10701.28000    5309.16341    5392.11881   454.40   461.50  0.973658  0.973658
+   323 ATIBAIA 2-345/138 kV           ... 2    2382.24400    1140.75928    1241.48461  6702.50  7294.30  0.014183  0.014183
+   326 SCHARLAU-230/138 kV            ... 2    2224.56200    1008.00444    1216.55708   232.00   280.00  0.362071  0.362071
+   306 PIRATININGA 2-345/88 kV        ... 2    4980.00300    2504.17469    2475.82824   565.40   559.00  0.369086  0.369086
+   330 GETULINA-440/138 kV            ... 2    5292.17700    2531.46236    2760.71439   156.80   171.00  1.345377  1.345377
+   334 MIRASSOL II-440/138 kV         ... 2    7348.08000    3674.03979    3674.03979   304.00   304.00  1.007138  1.007138
+   336 ARARAS-440/138 kV              ... 2    6867.35100    3288.49388    3578.85719  6702.50  7294.30  0.040886  0.040886
+   361 BALSAS-230/69 kV               ... 2    4433.32900    1947.01215    2486.31695    43.07    55.00  3.767147  3.767147
+   367 RIB.GONCALVES-230/69 kV        ... 2     479.11660     250.68618     228.43046     8.11     7.39  2.575896  2.575896
+   364 NARANDIBA-230/69 kV            ... 2    5957.46400    2868.56864    3088.89572   199.20   214.50  1.200037  1.200037
+   351 MISSOES-230/69 kV              ... 2    2275.65200    1030.44241    1245.20944    32.77    39.60  2.620391  2.620390
+   369 SUAPE III-230/69 kV            ... 2    2522.81400    1231.80130    1291.01242   116.50   122.10  0.881117  0.881117
+   365 NATAL III-230/69 kV            ... 2    5763.17200    2745.93377    3017.23860   167.00   183.50  1.370226  1.370227
+   368 SANTA RITA II-230/69 kV        ... 2    4351.77900    2099.80935    2251.96946   200.10   214.60  0.874483  0.874483
+   373 ZEBU-230/69 kV                 ... 2    1461.48000     689.89144     771.58903   142.88   159.80  0.402372  0.402372
+   377 ITATIBA-500/138 kV             ... 2   14388.09000    7060.05745    7328.03044   685.00   711.00  0.858888  0.858888
+   371 SANTOS DUMONT-345/138 kV       ... 2    3729.76100    1823.10098    1906.66001   240.00   251.00  0.633021  0.633021
+   375 JANDIRA-440/88 kV              ... 2   15833.24000    8014.16043    7819.08078   554.60   541.10  1.204195  1.204195
+   378 SALTO-440/88 kV                ... 2   11805.07000    5765.56916    6039.50408   267.30   280.00  1.797472  1.797472
+   376 PADRE FIALHO-345/138 kV        ... 2    3667.67100    1833.83557    1833.83557   126.00   126.00  1.212854  1.212854
+   381 AQUIRAZ II-230/69 kV           ... 2    5816.24300    2790.66035    3025.58282   255.40   276.90  0.910552  0.910552
+   380 LINHARES-230/138 kV            ... 2    1286.76700     643.96573     642.80112    94.00    93.83  0.570892  0.570892
+   379 L.GRANDE-230/138 kV            ... 2    2476.10600    1179.09826    1297.00818    38.00    41.80  2.585742  2.585742
+   382 IJUI 2-230/69 kV               ... 2    3171.33500    1504.13083    1667.20462   248.30   275.22  0.504810  0.504810
+   383 CAXIAS SUL 6-230/69 kV         ... 2    3342.86400    1538.12750    1804.73627   112.50   132.00  1.139354  1.139354
+   385 N. PETROPOLIS 2-230/69 kV      ... 2    2896.91300    1326.29767    1570.61566    38.00    45.00  2.908547  2.908547
+   387 CERQUILHO III-230/138 kV       ... 2    3319.97700    1589.80138    1730.17567  6702.50  7294.30  0.019766  0.019766
+   384 ARAPIRACA III-230/69 kV        ... 2    1948.79200     891.42287    1057.36937   144.50   171.40  0.514085  0.514085
+   386 POLO-230/69 kV                 ... 2    3771.84700    1838.52312    1933.32380   182.30   191.70  0.840429  0.840429
+   392 XINGUARA 2-230/138 kV          ... 2    2989.77400    1475.43386    1514.34007   147.90   151.80  0.831324  0.831324
+   393 CARAJAS PA-230/138 kV          ... 2    2189.02700    1070.00410    1119.02276    90.37    94.51  0.986688  0.986688
+   397 ENCRUZO NOVO-230/69 kV         ... 2    2318.61100    1148.00915    1170.60193    54.37    55.44  1.759563  1.759563
+   407 VARZEA GRANDE-230/138 kV       ... 2    8859.44000    4346.14059    4513.29984   260.00   270.00  1.392994  1.392994
+   395 FOZ DO CHAPECO-230/138 kV      ... 2    3270.32300    1528.11944    1742.20380   103.50   118.00  1.230370  1.230370
+   417 CORUMBA-345/138 kV             ... 2    3280.78200    1602.81574    1677.96600    68.25    71.45  1.957040  1.957040
+   403 CORUMBA 2-230/138 kV           ... 2    1543.47100     668.06962     875.40157    58.00    76.00  0.959870  0.959870
+   396 SETE LAGOAS 4-345/138 kV       ... 2    3188.09000    1571.02157    1617.06876   290.00   298.50  0.451443  0.451443
+   398 LUCAS RIO VERDE-230/138 kV     ... 2    1545.39700     736.40943     808.98791    57.53    63.20  1.066704  1.066704
+   409 CANDELARIA 2-230/69 kV         ... 2    1535.46900     775.45027     760.01836    60.30    59.10  1.071656  1.071656
+   410 JARDIM BOTANICO-230/69 kV      ... 2    3902.68700    1941.77810    1960.90892   101.50   102.50  1.594235  1.594235
+   413 RESTINGA-230/69 kV             ... 2     942.96780     471.48392     471.48392    91.50    91.50  0.429402  0.429402
+   416 VIAMAO 3-230/69 kV             ... 2    1304.45200     652.22607     652.22607   127.50   127.50  0.426292  0.426292
+   394 TUCURUI-230/138 kV             ... 2    1153.81800     567.40452     586.41372    79.10    81.75  0.597771  0.597771
+   411 MIRAMAR-230/69 kV              ... 2    2029.03000     962.72406    1066.30560   230.50   255.30  0.348056  0.348056
+   399 NOBRES-230/138 kV              ... 2    1380.05500     594.85136     785.20382    71.25    94.05  0.695733  0.695733
+   415 TERESINA III-230/69 kV         ... 2    5310.96200    2619.04899    2691.91292   129.40   133.00  1.686662  1.686662
+   418 NOVA IGUACU-500/138 kV         ... 2    2223.42200    1111.71106    1111.71106   860.00   860.00  0.107724  0.107724
+   372 ITAPETI-345/88 kV              ... 2    4010.82000    2019.22140    1991.59867   292.40   288.40  0.575474  0.575473
+   406 UMUARAMA SUL-230/138 kV        ... 2    2090.81000     995.43847    1095.37183   153.40   168.80  0.540764  0.540764
+   425 CAMAQUA 3-230/69 kV            ... 2    2031.59300     965.23632    1066.35646    26.25    29.00  3.064242  3.064243
+   422 POCOES II-230/138 kV           ... 2    3235.97600    1613.09130    1622.88453   115.30   116.00  1.165865  1.165865
+   427 MACEIO II-230/69 kV            ... 2     995.72850     463.51748     532.21097   283.40   325.40  0.136297  0.136297
+   429 N.S.SOCORRO-230/69 kV          ... 2    2774.36800    1338.60577    1435.76264   124.00   133.00  0.899601  0.899601
+   405 LECHUGA-230/138 kV             ... 2    4781.55000    2490.76938    2290.78042   123.30   113.40  1.683407  1.683407
+   404 GASPAR 2-230/138 kV            ... 2    5149.72500    2451.91550    2697.80960   349.00   384.00  0.585462  0.585462
+   419 SANT.QUITERIA-230/13,8 kV      ... 2    2954.18000    1431.83586    1522.34382    39.55    42.05  3.016932  3.016932
+   421 CASCAVEL NORTE-230/138 kV      ... 2    2580.71900    1219.69855    1361.02069   191.60   213.80  0.530488  0.530488
+   423 SANT.QUITERIA-230/69 kV        ... 2    4553.91900    2106.60878    2447.31016   168.80   196.10  1.039992  1.039992
+   426 EXTREMOZ II-230/69 kV          ... 2    1363.74000     670.03173     693.70777   169.80   175.80  0.328834  0.328834
+   428 NIQUELANDIA-230/69 kV          ... 2    1083.73700     521.96136     561.77607    10.75    11.57  4.046213  4.046213
+   433 LUZIANIA-500/138 kV            ... 2    8880.74000    3952.52249    4928.21775   103.30   128.80  3.188546  3.188546
+   434 ZONA OESTE-500/138 kV          ... 2    5951.83700    2945.41856    3006.41835   676.00   690.00  0.363094  0.363094
+   430 JABOATAO II-230/69 kV          ... 2    3119.79600    1504.74710    1615.04880    92.63    99.42  1.353726  1.353726
+   431 MIRUEIRA II-230/69 kV          ... 2    3785.94900    1839.79685    1946.15261   115.90   122.60  1.322833  1.322833
+   435 STA V.PALMAR-500/138 kV        ... 2    2495.13900     712.89683    1782.24208    21.00    52.50  2.828956  2.828956
+   424 SIDROLANDIA 2-230/138 kV       ... 2    3313.95000    1598.21712    1715.73308    68.00    73.00  1.958599  1.958600
+   420 BRUMADO II-230/138 kV          ... 2    1528.46400     756.39980     772.06468    82.57    84.28  0.763392  0.763393
+   436 SAO GOTARDO 2-345/138 kV       ... 2    3664.83400    1832.41699    1832.41699   175.00   175.00  0.872580  0.872580
+   462 PARAGUACU PAULISTA II-230/138  ... 2    2380.95400    1140.14154    1240.81232  6702.50  7294.30  0.014176  0.014176
+   441 PIRACICABA-440/138 kV          ... 2    6775.35800    2958.67179    3816.68661   300.00   387.00  0.821853  0.821853
+   474 BRASILIA LESTE-500/138 kV      ... 2    9121.28700    4527.59541    4593.69170   342.50   347.50  1.101605  1.101605
+   454 RIO GRANDE II-230/138 kV       ... 2    3196.32500    1195.29130    2001.03365    52.04    87.12  1.914059  1.914059
+   456 BOM JESUS II-230/69 kV         ... 2    1315.89400     677.63770     638.25647    24.09    22.69  2.344118  2.344118
+   457 GILBUES II-230/69 kV           ... 2     834.40110     370.84488     463.55618    20.00    25.00  1.545187  1.545187
+   459 CAMPO GRANDE 2-230/138 kV      ... 2    6812.32000    3179.08258    3633.23724   140.00   160.00  1.892311  1.892311
+   449 CURITIBA NORTE-230/138 kV      ... 2    3338.41200    1418.03460    1920.37727    60.55    82.00  1.951603  1.951603
+   451 SANTA MARIA 3-230/138 kV       ... 2    1614.07400     780.29200     833.78246    58.35    62.35  1.114385  1.114385
+   464 PINHALZINHO-230/138 kV         ... 2    2589.20700    1273.29285    1315.91369   239.00   247.00  0.443965  0.443965
+   458 IVINHEMA 2-230/138 kV          ... 2    2138.95000    1069.47510    1069.47510   130.00   130.00  0.685561  0.685561
+   475 MARECHAL RONDON-440/138 kV     ... 2    9663.27700    4627.34875    5035.92859  6702.50  7294.30  0.057533  0.057533
+   401 PRES FIGUEIREDO-230/13,8 kV    ... 2     481.87180     240.93588     240.93588    14.00    14.00  1.434142  1.434142
+   408 MANAUS-230/69 kV               ... 2    5904.17500    2867.74228    3036.43301   382.50   405.00  0.624780  0.624780
+   438 MAUA III-230/138 kV            ... 2   10662.75000    5221.44926    5441.29976   475.00   495.00  0.916044  0.916044
+   439 MANAUS-230/138 kV              ... 2    6445.18800    3130.51987    3314.66812   382.50   405.00  0.682030  0.682030
+   440 JORGE TEIXEIRA-230/138 kV      ... 2    9035.79300    4454.26414    4581.52883   350.00   360.00  1.060539  1.060539
+   470 JUAZEIRO III-230/69 kV         ... 2    2056.14500     857.55628    1198.58874    37.92    53.00  1.884573  1.884574
+   465 REALEZA-230/138 kV             ... 2    1290.21900     654.39140     635.82711   141.00   137.00  0.386756  0.386756
+   488 MORRO AGUDO-500/138 kV         ... 2    8953.84000    4259.37117    4694.46867   353.40   389.50  1.004379  1.004379
+   486 ANDIRA LESTE 230/138 kV        ... 2    6863.10400    3244.00038    3619.10411   125.40   139.90  2.155769  2.155769
+   496 CURITIBA CENTRO-230/138 kV     ... 2    6079.91700    2837.29482    3242.62266   133.00   152.00  1.777754  1.777754
+   498 MEDIANEIRA-230/138 kV          ... 2    8171.85800    3830.55862    4341.29977   142.50   161.50  2.240093  2.240093
+   483 J.MONLEVADE 4-230/69 kV        ... 2     949.82200     481.87244     467.94958    20.42    19.83  1.966505  1.966505
+   497 JANAUBA 3-230/138 kV           ... 2    5535.48700    2492.58785    3042.89945    77.00    94.00  2.697606  2.697606
+   507 PARANAITA-500/138 kV           ... 2    6576.21200    3133.89869    3442.31371    94.50   103.80  2.763579  2.763579
+   506 AGUA AZUL-440/138 kV           ... 2   21218.96000   10164.52266   11054.44218  6759.55  7351.35  0.125311  0.125311
+   490 PALMAS-230/138 kV              ... 2    7317.58300    3330.09278    3987.48974   154.50   185.00  1.796167  1.796167
+   503 RIO NOVO DO SUL-345/138 kV     ... 2   16759.59000    8241.32302    8518.26878   282.70   292.20  2.429349  2.429349
+   495 CANARANA-230/138 kV            ... 2    4377.77200    2175.78296    2201.98950    70.57    71.42  2.569296  2.569296
+   447 ONCA PUMA-230/138 kV           ... 2    5950.77400    2907.57228    3043.20213   102.90   107.70  2.354691  2.354691
+   502 JOAO NEIVA 2-345/138 kV        ... 2    1539.15900     769.57941     769.57941    53.00    53.00  1.210031  1.210031
+   446 MARITUBA-230/69 kV             ... 2   16973.76000    8315.75736    8658.00046   228.40   237.80  3.034062  3.034062
+   499 SAO MATEUS 2-230/138 kV        ... 2    4142.45100    2057.45365    2084.99704    62.00    62.83  2.765394  2.765394
+   516 TAPAJOS-230/138 kV             ... 2   11655.45000    5744.41304    5911.03325   144.80   149.00  3.305947  3.305947
+   518 ARCOVERDE II-230/69 kV         ... 2    4183.40800    2032.12092    2151.28729    58.15    61.56  2.912183  2.912183
+   522 GARANHUNS II-230/69 kV         ... 2    3873.75000    1881.39324    1992.35701    52.73    55.84  2.973313  2.973312
+   509 SANTANA DO ARAGUAIA-230/138 kV ... 2    5154.63300    2545.91133    2608.72148    48.64    49.84  4.361827  4.361827
+   512 BAGUACU-440/138 kV             ... 2    6855.03700    3283.04067    3571.99644  6739.78  7332.98  0.040593  0.040593
+   468 CURR. NOVOS II-230/69 kV       ... 2    3250.52100    1430.19549    1820.32501    51.25    65.23  2.325521  2.325521
+   450 LAJEADO 3-230/69 kV            ... 2    2286.88800    1143.44421    1143.44421    80.00    80.00  1.191088  1.191088
+   479 VINHEDOS-230/69 kV             ... 2    2429.23200    1065.45260    1363.77933    50.00    64.00  1.775754  1.775754
+   515 JARU-230/138 kV                ... 2     716.29430     381.01827     335.27598     7.58     6.67  4.188856  4.188856
+   508 ROSANA-230/138 kV              ... 2   11231.92000    5388.18883    5843.73012  7004.70  7596.90  0.064102  0.064102
+   517 RESENDE-500/138 kV             ... 2    4489.41700    2226.44254    2262.97494   219.40   223.00  0.845656  0.845656
+   482 SAO LUIS IV-230/69 kV          ... 2    2657.67800    1257.42878    1400.24895    57.58    64.12  1.819829  1.819829
+   484 TERESINA II-230/69 kV          ... 2    3655.29000    1827.64514    1827.64514    59.85    59.85  2.544758  2.544758
+   519 B. ESPERANCA-230/69 kV         ... 2    3181.94300    1552.40203    1629.54133    69.43    72.88  1.863270  1.863270
+   520 CAXIAS II-230/69 kV            ... 2    2962.61500    1455.56110    1507.05414    41.27    42.73  2.939102  2.939103
+   466 CHAPADINHA II-230/69 kV        ... 2    4933.45400    2462.85394    2470.60016    63.59    63.79  3.227517  3.227517
+   527 PARNAIBA III-230/138 kV        ... 2    1251.76700     642.25526     609.51183    26.48    25.13  2.021196  2.021196
+   526 ITABUNA III-230/138 kV         ... 2    4882.67800    2514.40535    2368.27287   108.40   102.10  1.932968  1.932969
+   537 COLINAS-500/138 kV             ... 2    2458.14000    1126.14302    1331.99712    69.75    82.50  1.345452  1.345452
+   481 PORTO ALEGRE 1-230/69 kV       ... 2    1328.69300     585.32724     743.36551    19.00    24.13  2.567225  2.567225
+   500 VILA MARIA-230/138 kV          ... 2    2447.10500    1201.57250    1245.53248     5.74     5.95 17.444430 17.444430
+ X------------------------------------------X------------X-------------X-------------X--------X--------X---------X---------X
+                                                                                                                           

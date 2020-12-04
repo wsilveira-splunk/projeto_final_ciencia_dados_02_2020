@@ -1,0 +1,271 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4           
+
+ TUST-LP * CICLO 2020-2021 * JUN/20                                            
+                                                             
+ RELATÓRIO DE ENCARGOS E TARIFAS DE USO DO SISTEMA ELÉTRICO DAS USINAS
+
+ X--------------------------------X-----------X-----------X----------X
+               USINA                              TUST        MUST    
+                                                R$/kW/mês      MW
+ X--------------------------------X-----------X-----------X----------X
+(
+(REH 474/07 - COM CUST                           
+(
+  UHE ESTREITO                                       8.910                     (028863-2)
+  UHE FOZ DO CHAPECO                                 7.559                     (028354-1)                                                                                   
+  UTE PORTO DO ITAQUI                                5.915                     (029700-3)
+  UTE PORTO PECEM I                                 10.649                     (029720-8)
+  UTE SUAPE II                                       7.057                     (029719-4)
+(                                                                
+(REH 561/07 - COM CUST                                           
+(                                                                
+  UHE SANTO ANTONIO(RO)                             25.668                     (029707-0)
+(                                                                
+(REH 630/08 - COM CUST                                           
+(                                                                
+  UHE JIRAU                                         21.983                     (029736-4)
+(                                                                
+(REH 681/08 - COM CUST                                           
+(                                                                
+( UTE AGUA EMENDADA                                  8.892                     (030039-0)
+( UTE ALTO TAQUARI(BRENCO)                           8.892                     (030038-1)
+( UTE BOA VISTA                                      9.438                     (029588-4)
+( UTE COSTA RICA                                     8.668                     (030037-3)
+( UTE JATAI (COSAN)                                  8.892                     (030043-8)
+( UTE MORRO VERMELHO(BRENCO)                         8.892                     (030040-3)
+( UTE PORTO DAS AGUAS                                8.668                     (029999-5)
+( UTE SANTA LUZIA I                                  8.214                     (030006-3)
+(                                                                
+(REH 690/08 - COM CUST                                           
+(                                                                
+  UTE MARANHAO IV                                    2.049                     (030202-3)
+  UTE PERNAMBUCO III                                 6.042                     (030120-5)
+  UTE PORTO PECEM II                                 7.629                     (030098-5)
+  UHE BAIXO IGUACU                                   6.323                     (030923-0)  
+(                                                                
+(REH 907/09 - COM CUST                                           
+(                                                                
+  EOL ALVORADA                                       6.899                     (030320-8)                                      
+  EOL BELA VISTA (AREIA BRANCA)                     12.787                     (030340-2)
+  EOL BURITI                                         8.584                     (030279-1)
+  EOL CAJUCOCO                                       8.584                     (030294-5)
+  EOL CANDIBA                                        6.899                     (030316-0)
+  EOL CERRO CHATO I                                  6.596                     (030348-8)
+  EOL CERRO CHATO II                                 6.596                     (030349-6)
+  EOL CERRO CHATO III                                6.596                     (030350-0)
+  EOL COLONIA                                        8.604                     (030295-3)
+  EOL COQUEIROS                                      8.584                     (030282-1)
+  EOL EURUS VI                                      11.760                     (030351-8)
+  EOL FAISA I                                        8.604                     (030352-6)
+  EOL FAISA II                                       8.604                     (030331-3)
+  EOL FAISA III                                      8.604                     (030332-1)
+  EOL FAISA IV                                       8.604                     (030329-1)
+  EOL FAISA V                                        8.604                     (030309-7)
+  EOL GUANAMBI                                       6.899                     (030328-3)
+  EOL GUIRAPA                                        6.899                     (030342-9)
+  EOL ICARAI I                                       8.584                     (030372-0)
+  EOL ICARAI II                                      8.584                     (030356-9)
+  EOL IGAPORA                                        6.899                     (030321-6)
+  EOL ILHEUS                                         6.899                     (030315-1)
+  EOL LICINIO DE ALMEIDA                             6.899                     (030317-8)
+  EOL MACAUBAS                                       5.934                     (030283-0)
+  EOL MAR E TERRA                                   12.787                     (030389-5)
+  EOL MIASSABA III                                  14.240                     (030339-9)
+  EOL MORRO DOS VENTOS I                            10.989                     (030301-1)
+  EOL MORRO DOS VENTOS III                          10.989                     (030310-0)
+  EOL MORRO DOS VENTOS IV                           10.989                     (030311-9)
+  EOL MORRO DOS VENTOS VI                           10.989                     (030300-3)
+  EOL MORRO DOS VENTOS IX                           10.989                     (030302-0)
+  EOL N.S.DA CONCEICAO                               6.899                     (030318-6)
+  EOL NOVO HORIZONTE                                 5.934                     (030305-4)
+  EOL OSORIO 2 (V.LITORAL)                           3.672                     (030286-4)
+  EOL PAJEU DO VENTO                                 6.899                     (030319-4)
+  EOL PINDAI                                         6.899                     (030324-0)
+  EOL PLANALTINA                                     6.899                     (030322-4)
+  EOL PORTO SEGURO                                   6.899                     (030323-2)
+  EOL REI DOS VENTOS 1                              14.240                     (030416-6)
+  EOL REI DOS VENTOS 3                              14.240                     (030417-4)
+  EOL RIO VERDE                                      6.899                     (030341-0)
+  EOL SANGRADOURO 2(V.LAGOA)                         3.672                     (030381-0)
+  EOL SANGRADOURO 3(V.LAGOA)                         3.672                     (030330-5)
+  EOL SANTA CLARA I                                 11.760                     (030292-9)
+  EOL SANTA CLARA II                                11.760                     (030308-9)
+  EOL SANTA CLARA III                               11.760                     (030293-7)
+  EOL SANTA CLARA IV                                11.760                     (030307-0)
+  EOL SANTA CLARA V                                 11.760                     (030378-0)
+  EOL SANTA CLARA VI                                11.760                     (030304-6)
+  EOL SEABRA                                         5.934                     (030306-2)
+  EOL SERRA DO SALTO                                 6.899                     (030314-3)
+  EOL TAIBA AGUIA                                    8.604                     (028857-8)
+  EOL TAIBA ANDORINHA                                8.604                     (030373-9)
+(                                                         
+(REH 953/10 - COM CUST                                           
+(                                                                
+  UHE PIMENTAL BELO MONTE                            7.309                     (030354-2)                                                               
+  UHE BELO MONTE                                     8.252                     (030354-2) 
+(                                                                        
+(REH 1028/10 - COM CUST                                                  
+(                                                                        
+  UHE FERREIRA GOMES                                 7.026                     (030385-2)
+  UHE GARIBALDI                                      4.721                     (030415-8) 
+  UHE COLIDER                                       15.411                     (030422-0)
+(                                                                
+(REH 1031/10 - COM CUST                                          
+(                                                                
+  EOL ASA BRANCA II                                  7.784                     (030547-2)
+  EOL ASA BRANCA III                                 7.784                     (030548-0)
+  EOL ASA BRANCA IV                                  7.784                     (030498-0)
+  EOL ASA BRANCA VI                                  7.784                     (030520-0)
+  EOL ASA BRANCA VIII                                7.784                     (030508-1)
+  EOL ATLANTICA I                                    3.819                     (030457-3)
+  EOL ATLANTICA II                                   3.819                     (030462-0)
+  EOL ATLANTICA IV                                   3.819                     (030461-1)
+  EOL ATLANTICA V                                    3.819                     (030480-8)                                    
+  EOL CAETITE 2                                      6.126                     (030437-9)
+  EOL CAETITE 3                                      6.126                     (030448-4)
+  EOL COSTA BRANCA                                   7.399                     (030672-0)
+  EOL CRISTAL                                        5.101                     (030727-0)
+  EOL DA PRATA                                       5.263                     (030490-5)
+  EOL DOS ARACAS                                     3.241                     (030495-6)
+  EOL DREEN BOA VISTA                                3.819                     (030512-0)
+  EOL DREEN OLHO DAGUA                               6.226                     (030549-9)
+  EOL EURUS I                                        7.784                     (030503-0)
+  EOL EURUS II                                       7.784                     (030499-9)
+  EOL EURUS III                                      7.784                     (030504-9)
+  EOL JUREMAS                                        7.390                     (030660-6)
+  EOL MACACOS                                        7.399                     (030661-4)
+  EOL OSORIO 3 (V.LITORAL)                           3.807                     (030449-2)
+  EOL PEDRA BRANCA                                   6.392                     (030443-3)
+  EOL PEDRA PRETA                                    7.399                     (030671-1)
+  EOL PONTAL 2B                                      3.322                     (030460-3)
+  EOL PRIMAVERA                                      5.101                     (030726-2)
+  EOL RENASCENCA I                                   7.784                     (030515-4)
+  EOL RENASCENCA II                                  7.784                     (030516-2)
+  EOL RENASCENCA III                                 7.784                     (030527-8)
+  EOL RENASCENCA IV                                  7.784                     (030551-0)
+  EOL RENASCENCA V                                   7.784                     (030497-2)
+  EOL SAO JUDAS                                      5.101                     (030725-4)
+  EOL SAO PEDRO DO LAGO                              6.392                     (030456-5)
+  EOL SERAIMA                                        5.285                     (030546-4)
+  EOL SETE GAMELEIRAS                                6.392                     (030455-7)
+  EOL TANQUE                                         5.272                     (030544-8)
+  EOL VENTOS DO NORDESTE                             3.177                     (030476-0)
+  EOL V.DE SAO MIGUEL                                7.784                     (030514-6)
+  EOL V.DE TIANGUA                                   5.365                     (030585-5)
+  EOL V.DE TIANGUA NORTE                             5.365                     (030584-7)
+  EOL V.DO PARAZINHO                                 5.365                     (030596-0)
+  EOL V.MORRO DO CHAPEU                              5.365                     (030582-0)
+  EOL VENTO FORMOSO                                  5.365                     (030595-2)
+(                                                                
+(REH 1086/10 - COM CUST                                          
+(                                                                
+  UHE SANTO ANTONIO DO JARI                          5.444                     (026792-9)
+  UHE TELES PIRES                                   14.135                     (030557-0)
+(                                                             
+(LEILAO 02/2011 - REH 1179/11 - COM CUST                         
+(                                                                
+  EOL AMETISTA                                       7.355                     (030779-3)
+  UTE BAIXADA FLUMINENSE                             4.535                     (030769-6)
+  EOL BORGO                                          7.324                     (030837-4)
+  EOL CAETITE                                        7.355                     (030792-0)
+  EOL CHUI I                                         6.037                     (030767-0)
+  EOL CHUI II                                        6.035                     (030790-4)
+  EOL CHUI IV                                        6.035                     (030754-8)
+  EOL CHUI V                                         6.043                     (030760-2)
+  EOL DOURADOS                                       7.355                     (030778-5)
+  EOL EMILIANA                                       7.348                     (030807-2)
+  EOL ESPIGAO                                        7.295                     (030803-0)
+  EOL IBIRAPUITA I                                   8.884                     (030750-5)
+  EOL JOANA                                          7.345                     (030801-3)
+  UTE MARANHAO III                                   5.490                     (030800-5)
+  EOL MARON                                          7.355                     (030768-8)
+  EOL MINUANO I                                      6.035                     (030844-7)
+  EOL MINUANO II                                     6.037                     (030791-2)
+  EOL MODELO I                                       7.818                     (030787-4)
+  EOL MODELO II                                      7.800                     (030788-2)
+  EOL PAU FERRO                                      5.930                     (030805-6)
+  EOL PEDRA DO GERONIMO                              5.930                     (030806-4)
+  EOL PELOURINHO                                     7.332                     (030793-9)
+  EOL PILOES                                         7.355                     (030776-9)
+  EOL SANTO ANTONIO DE PADUA                         5.943                     (030916-8)
+  EOL SAO CRISTOVAO                                  5.951                     (030912-5)
+  EOL SAO JORGE                                      5.949                     (030911-7)
+  EOL SERRA DO ESPINHACO                             7.321                     (030802-1)
+  EOL TACAICO                                        5.922                     (030789-0)
+  EOL VERACE I                                       6.033                     (030745-9)
+  EOL VERACE II                                      6.033                     (030742-4)
+  EOL VERACE III                                     6.040                     (030746-7)
+  EOL VERACE IV                                      6.043                     (030741-6)
+  EOL VERACE IX                                      6.043                     (030748-3)
+  EOL VERACE V                                       6.043                     (030829-3)
+  EOL VERACE VI                                      6.030                     (030740-8)
+  EOL VERACE VII                                     6.043                     (030747-5)
+  EOL VERACE VIII                                    6.040                     (030755-6)
+  EOL VERACE X                                       6.041                     (030749-1)
+(                                                                     
+(LEILAO 03/2011 - REH 1180/11 - COM CUST                              
+(                                                                     
+  EOL ANGICAL                                        2.991                     (030732-7)
+  EOL CAITITU                                        3.018                     (030739-4)
+  EOL COQUEIRINHO                                    3.028                     (030738-6)
+  EOL CORRUPIAO                                      3.028                     (030752-1)
+  UTE IACO                                           7.418                     (030269-4)
+  EOL INHAMBU                                        3.047                     (030751-3)
+  EOL TAMANDUA MIRIM                                 3.038                     (030753-0)
+  EOL TEIU                                           2.999                     (030731-9)   
+  EOL LANCHINHA                                      4.067                     (030860-9)
+  EOL PELADO                                         4.052                     (030856-0)  
+  EOL VENTOS DE SANTO URIEL                          6.561                     (030828-5)             
+  EOL SANTA HELENA                                   6.574                     (030834-0)
+  EOL SM                                             6.574                     (030864-1)
+  UTE TROPICAL BIOENERGIA                            5.901                     (030080-2)    
+  EOL CARCARA I                                      6.992                     (030832-3)
+  EOL CARNAUBAS                                      7.811                     (030831-5)
+  EOL REDUTO                                         7.645                     (030843-9)
+  EOL SANTO CRISTO                                   7.818                     (030849-8)
+  EOL SAO JOAO                                       7.818                     (030804-8)
+  EOL MALHADINHA I                                   9.161                     (030841-2)     
+(                                                                
+(LEILAO 07/2011 - REH 1223/11 - COM CUST                             
+(                                                                
+  EOL BAIXA DO FEIJAO I                              6.711                     (030932-0)     
+  EOL BAIXA DO FEIJAO II                             6.711                     (030933-8)     
+  EOL BAIXA DO FEIJAO III                            6.711                     (030934-6)     
+  EOL BAIXA DO FEIJAO IV                             6.711                     (030931-1)
+  EOL CABECO PRETO III                               6.709                     (031015-8)      
+  EOL CABECO PRETO V                                 6.709                     (030876-5)      
+  EOL CABECO PRETO VI                                6.701                     (030900-1) 
+  EOL CAICARA I                                      6.645                     (030895-1) 
+  EOL CAICARA II                                     6.611                     (030915-0) 
+  EOL CARCARA II                                     6.038                     (030897-8)
+  EOL JUNCO I                                        6.645                     (030902-8)    
+  EOL JUNCO II                                       6.645                     (030914-1)
+  EOL MACAMBIRA I                                    5.580                     (031025-5)   
+  EOL MACAMBIRA II                                   5.572                     (031026-3)
+  EOL MORRO DOS VENTOS II                            6.709                     (030889-7)    
+  EOL PONTAL 3B                                      5.311                     (030901-0) 
+  EOL TERRAL                                         6.038                     (030898-6)
+  EOL VENTOS CAMPO FORMOSO I                         8.305                     (030943-5)    
+  EOL VENTOS CAMPO FORMOSO II                        8.305                     (031010-7)
+  EOL VENTOS DA ANDORINHA                            8.305                     (030944-3)  
+  EOL VENTOS DE MORRINHOS                            8.305                     (030945-1) 
+  EOL VENTOS DO SERTAO                               8.305                     (030946-0) 
+  EOL GOIABEIRA                                      6.472                     (030920-6)
+  EOL PITOMBEIRA                                     6.527                     (030926-5) 
+  EOL SANTA CATARINA                                 6.453                     (030924-9) 
+  EOL UBATUBA                                        6.432                     (030918-4) 
+  EOL VENTOS DE HORIZONTE                            6.438                     (030925-7) 
+  EOL JANDAIA                                        6.542                     (030929-0) 
+  EOL JANDAIA I                                      6.472                     (030907-9) 
+  EOL NOSSA SENHORA DE FATIMA                        6.542                     (030930-3)
+  EOL SAO CLEMENTE                                   6.472                     (030927-3) 
+  EOL SAO JANUARIO                                   6.472                     (030921-4)     
+(                                                                
+(LEILAO 06/2012 - REH 1379/12 - COM CUST                         
+(                                                                
+  EOL DOIS RIACHOS                                  12.848                     (031121-9)                                         
+  EOL SAO SALVADOR                                   8.380                     (031120-0)
+  UHE CACHOEIRA CALDEIRAO                            5.894                     (031186-3)
+( 
+ X--------------------------------X-----------X------
+

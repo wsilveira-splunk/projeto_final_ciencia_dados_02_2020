@@ -1,0 +1,2356 @@
+((( Nome da Usina              )    MUST)*DOSI( % )MMCodANEEL(ONS)****BUS01%%%%1BUS02%%%%2BUS03%%%%3BUS04%%%%4BUS05%%%%5BUS06%%%%6BUS07%%%%7BUS08%%%%8BUS09%%%%9BUS10%%%10
+EOL ABIL                            23.11            031402-1         59354
+EOL ACACIA                          15.80            031418-8         59349
+EOL ACARI (RIACHAO I)               28.72            030870-6         57475
+EOL ACAUA                            5.87            031433-1         59373
+EOL ACAUA I                         25.20            033597-5         59389
+EOL ACAUA II                        21.00            033598-3         59389
+EOL AFONSO BEZERRA I                28.83            035158-0           251
+EOL AFONSO BEZERRA II               28.83            035159-8           251
+EOL AFONSO BEZERRA III              28.83            035160-1           251
+EOL AFONSO BEZERRA IV               16.48            035161-0           251
+EOL AGUA DOCE                        3.98   S        028793-8         45053
+EOL ALBATROZ                         4.80 D                           57851
+EOL ALBUQUERQUE (RIACHAO II)        26.44            030871-4         57476
+EOL ALEGRIA I(NEW ENERGY)           49.20            028444-0         56453
+EOL ALEGRIA II(NEW ENERGY)          98.38            028443-2         56454
+EOL ALTO DOS VENTOS II A            22.40                             56768
+EOL ALTO DOS VENTOS II B            28.80                             56769
+EOL ALVORADA                         8.00            030320-8         59335
+EOL AMESCLA                         13.16            032090-0         59464
+EOL AMETISTA                        28.06            030779-3         59318
+EOL AMPARO                          22.50   S        029069-6          6366
+EOL ANEMOI (RIACHAO IV)             28.96            030874-9         57477
+EOL ANGELIM                         21.06            032091-9         59469
+EOL ANGICAL                         12.82            030732-7         59396
+EOL ANGICAL 2                        9.76            031435-8         59374
+EOL ANGICO                           7.90            031404-8         59350
+EOL ANGICOS I                       24.71            035165-2           251
+EOL ANGICOS II                      28.83            035166-0           251
+EOL APELIOTES(RIACHAO VI)           29.03            030872-2         57478
+EOL AQUIBATA                        30.00   S        029052-1          6366
+EOL ARAPAPA                          3.90            031434-0         59375
+EOL ARARINHA AZUL                   20.77            037001-0         11595
+EOL ARATUA 1                        14.40 D                           56467
+EOL ARENA (RIACHAO VII)             29.08            030873-0         57479
+EOL ARIZONA 1                       28.00 D                           57473
+EOL AROEIRA                         30.00            031801-9         56659
+EOL ASA BRANCA I                    26.50            030505-7         56636
+EOL ASA BRANCA II                   25.80            030547-2         56600
+EOL ASA BRANCA III                  26.50            030548-0         56601
+EOL ASA BRANCA IV                   30.00            030498-0         56602
+EOL ASA BRANCA V                    30.00            030507-3         56603
+EOL ASA BRANCA VI                   30.00            030520-0         56604
+EOL ASA BRANCA VII                  30.00            030513-8         56649
+EOL ASA BRANCA VIII                 30.00            030508-1         56605
+EOL ASSURUA II                      30.00            031343-2         59022
+EOL ASSURUA III                     12.50            032342-0         59023
+EOL ASSURUA IV                      30.00            032343-8         59024
+EOL ASSURUA V                       20.00            031341-6         59025
+EOL ASSURUA VII                     18.00            031356-4         59027
+EOL ATLANTICA                        4.80 D                           57852
+EOL ATLANTICA I                     29.30            030457-3         51063
+EOL ATLANTICA II                    29.30            030462-0         51063
+EOL ATLANTICA IV                    29.30            030461-1         51063
+EOL ATLANTICA V                     29.30            030480-8         51063
+EOL AURA CAETITE 01                 29.40            044959-8         11394
+EOL AURA CAETITE 02                 29.40            044960-1         11394
+EOL AURA CAETITE 03                 29.40            032804-9         11394
+EOL AURA CAETITE 04                 21.20            032805-7         11394
+EOL AURA LAGOA DO BARRO 01          26.87            033621-1         58152
+EOL AURA LAGOA DO BARRO 02          26.87            033622-0         58153
+EOL AURA LAGOA DO BARRO 03          26.87            033619-0         58154
+EOL AURA LAGOA DO BARRO 04          26.87            033620-3         58155
+EOL AURA LAGOA DO BARRO 05          23.88            033623-8         58156
+EOL AURA LAGOA DO BARRO 06          26.87            033624-6         58157
+EOL AURA LAGOA DO BARRO 07          26.87            033618-1         58158
+EOL AURA MANGUEIRA IV               20.90            031700-4          8771
+EOL AURA MANGUEIRA VI               26.87            031696-2          8771
+EOL AURA MANGUEIRA VII              23.88            031805-1          8771
+EOL AURA MANGUEIRA XI                8.96            031719-5          8771
+EOL AURA MANGUEIRA XII              14.93            031653-9          8771
+EOL AURA MANGUEIRA XIII             14.93            031646-6          8771
+EOL AURA MANGUEIRA XV               17.91            031647-4          8771
+EOL AURA MANGUEIRA XVII             14.93            031705-5          8771
+EOL AURA MIRIM II                   29.85            031806-0          8771
+EOL AURA MIRIM IV                   14.93            031663-6          8771
+EOL AURA MIRIM VI                    8.73            031701-2          8771
+EOL AURA MIRIM VIII                  8.96            031699-7          8771
+EOL AURA QUEIMADA NOVA 01           30.00            032863-4           237
+EOL AURA QUEIMADA NOVA 02           29.40            040567-1           237
+EOL AURA QUEIMADA NOVA 03            8.97            033625-4         58159
+EOL AURA TANQUE NOVO 01             21.20            044961-0         11394
+EOL AURA TANQUE NOVO 02             15.90            044962-8         11394
+EOL AURA TANQUE NOVO 03             12.60            035172-5         11394
+EOL AVENTURA I                      27.18            031887-6         56672
+EOL AVENTURA II                     20.62            033002-7         56702
+EOL AVENTURA III                    24.87            033026-4         56677
+EOL AVENTURA IV                     29.02            037949-2         55023
+EOL AVENTURA V                      28.83            037950-6         56701
+EOL AW SANTA REGIA                  35.70            032194-0         56739
+EOL AW SAO JOAO                     23.10            032080-3         56739
+EOL B.VENTOS(VENTOS)                48.00            028887-0         56066
+EOL BAIXA DO FEIJAO I               29.70            030932-0         56551
+EOL BAIXA DO FEIJAO II              29.60            030933-8         56552
+EOL BAIXA DO FEIJAO III             29.76            030934-6         56553
+EOL BAIXA DO FEIJAO IV              29.70            030931-1         56059
+EOL BAIXA DO SITIO                  46.20            033964-4           364
+EOL BANDA DE COURO                  30.00            031607-5         58613
+EOL BARAUNAS I                      30.00            031335-1         58610
+EOL BARAUNAS II                     25.59            031667-9         58614
+EOL BARAUNAS IV                     41.58            038032-6         58612
+EOL BARAUNAS XV                     48.51            038031-8         58612
+EOL BARAUNAS XX                     31.19            036993-4         58612
+EOL BARBATIMAO                      15.80            032093-5         59462
+EOL BARRA DOS COQUEIROS             34.50 D                           58150
+EOL BEBERIBE                        25.20 D                           56077
+EOL BELA VISTA (AREIA BRANCA)       27.27            030340-2         56255
+EOL BOA ESPERANCA I                 30.00            033666-1         56709
+EOL BOA VISTA DA LAGOINHA           29.63            032759-0           355
+EOL BOM JARDIM                      30.00   S        029062-9          6316
+EOL BOM JARDIM SC - CELESC           0.60   S                          6316
+EOL BONS VENTOS CACIMBAS 2          24.80            031644-0         55213
+EOL BONS VENTOS CACIMBAS 3          14.20            031627-0         55214
+EOL BONS VENTOS CACIMBAS 4          10.50            031621-0         55215
+EOL BONS VENTOS CACIMBAS 5          22.60            031579-6         55216
+EOL BONS VENTOS CACIMBAS 7          16.40            031611-3         55217
+EOL BOQUEIRAO I                     41.12            040816-6         56739
+EOL BOQUEIRAO II                    36.56            040818-2         56739
+EOL BORGO                           20.16            030837-4         59367
+EOL BURITI                          29.52            030279-1         55406
+EOL C. SENANDES II                  21.60   S                         50230
+EOL C. SENANDES III                 27.00   S                         50231
+EOL C. SENANDES IV                  29.70   S                         50232
+EOL CABECO PRETO                    19.80 D                           57467
+EOL CABECO PRETO III                25.00            031015-8         56619
+EOL CABECO PRETO IV                 19.80                             56624
+EOL CABECO PRETO V                  25.70            030876-5         56620
+EOL CABECO PRETO VI                 17.75            030900-1         56621
+EOL CABECO VERMELHO                 27.95            031651-2         56664
+EOL CABECO VERMELHO II              16.55            031665-2         56665
+EOL CACIMBAS 1                      18.33            032011-0         55799
+EOL CAETITE                         30.00            030792-0         59364
+EOL CAETITE 1                       29.42            030976-1         59500
+EOL CAETITE 2                       29.46            030437-9         59301
+EOL CAETITE 3                       29.13            030448-4         59302
+EOL CAETITE A                       23.50            031344-0         59305
+EOL CAETITE B                       21.80            031342-4         59306
+EOL CAETITE C                        8.40            031523-0         59307
+EOL CAETITE D                       27.50            037004-5         11394
+EOL CAICARA I                       26.61            030895-1         56277
+EOL CAICARA II                      17.75            030915-0         56278
+EOL CAITITU                         21.98            030739-4         59397
+EOL CAITITU 2                        9.76            031432-3         59376
+EOL CAITITU 3                        9.76            031459-5         59377
+EOL CAJUCOCO                        29.59            030294-5         55405
+EOL CALANGO 1                       29.47            030511-1         57701
+EOL CALANGO 2                       29.50            030519-7         57702
+EOL CALANGO 3                       29.56            030545-6         57703
+EOL CALANGO 4                       29.34            030537-5         57704
+EOL CALANGO 5                       29.29            030552-9         57705
+EOL CALANGO 6                       29.06            031812-4         57743
+EOL CAMPO BELO                      10.50   S        029065-3          6366
+EOL CAMPO DOS VENTOS I              24.70            031072-7         56711
+EOL CAMPO DOS VENTOS II             29.48            030500-6         56650
+EOL CAMPO DOS VENTOS III            24.70            031071-9         56712
+EOL CAMPO DOS VENTOS V              24.70            031069-7         56713
+EOL CAMPO LARGO I                   28.80            034613-6         58826
+EOL CAMPO LARGO II                  28.80            034633-0         58826
+EOL CAMPO LARGO III                 28.80            033628-9         58826
+EOL CAMPO LARGO IV                  28.80            033629-7         58827
+EOL CAMPO LARGO IX                  24.44            034631-4         11261
+EOL CAMPO LARGO V                   28.80            033630-0         58828
+EOL CAMPO LARGO VI                  28.80            033631-9         58829
+EOL CAMPO LARGO VII                 28.80            033632-7         58830
+EOL CAMPO LARGO VIII                32.59            034614-4         11261
+EOL CAMPO LARGO X                   32.59            034630-6         11261
+EOL CAMPO LARGO XI                  16.30            034625-0         11261
+EOL CAMPO LARGO XII                 52.96            034623-3         11261
+EOL CAMPO LARGO XIII                40.74            034622-5         11261
+EOL CAMPO LARGO XIV                 20.37            034634-9         11261
+EOL CAMPO LARGO XIX                 32.59            034645-4         11261
+EOL CAMPO LARGO XV                  28.80            034636-5         43761
+EOL CAMPO LARGO XVI                 28.80            034637-3         58826
+EOL CAMPO LARGO XVII                28.52            034638-1         11261
+EOL CAMPO LARGO XVIII               28.80            034643-8         58826
+EOL CAMPO LARGO XX                  36.67            034647-0         11261
+EOL CAMPO LARGO XXI                 28.80            033633-5         58831
+EOL CAMPO LARGO XXII                32.59            034648-9         11261
+EOL CAMURIM                          4.80 D                           57862
+EOL CANDIBA                         10.08            030316-0         59329
+EOL CANOA QUEBRADA 1                57.00                             56068
+EOL CANOA QUEBRADA(VENTOS)          55.00            028788-1         56069
+EOL CANOAS                          30.00 D                           57870
+EOL CANOAS 2                        34.65            035181-4         58287
+EOL CANOAS 3                        34.65            037952-2         58305
+EOL CANOAS 4                        34.65            037953-0         58288
+EOL CAPAO DO INGLES                  9.80            031510-9         51070
+EOL CAPOEIRAS III                   27.50            032344-6         59043
+EOL CARAVELA                         4.80 D                           57853
+EOL CARCARA                          9.76            031447-1         59382
+EOL CARCARA I                       30.00            030832-3         56250
+EOL CARCARA II                      30.00            030897-8         56251
+EOL CARNAUBAS                       27.00            030831-5         57459
+EOL CASA NOVA A                     27.00            037209-9           506
+EOL CASA NOVA II                    30.00            031519-2         58606
+EOL CASA NOVA III                   28.20            031524-9         58607
+EOL CASCATA                          6.00   S        029054-8          6366
+EOL CATANDUBA RN I                  42.00            043218-0         11565
+EOL CATANDUBA RN II                 46.20            043219-9         11565
+EOL CATAVENTOS ACARAU I             27.00            033756-0         55430
+EOL CEDRO                           12.00            032098-6         59475
+EOL CERRO CHATO I                   29.30            030348-8          7851
+EOL CERRO CHATO II                  29.30            030349-6          7852
+EOL CERRO CHATO III                 29.40            030350-0          7853
+EOL CERRO CHATO IV                  10.00            030784-0         51031
+EOL CERRO CHATO V                   12.00            030786-6         51032
+EOL CERRO CHATO VI                  24.00            030756-4         51033
+EOL CERRO DO TRINDADE                8.00            030762-9         51034
+EOL CHAFARIZ 1                      34.65            034639-0         58291
+EOL CHAFARIZ 2                      34.65            034640-3         58292
+EOL CHAFARIZ 3                      34.65            034642-0         58293
+EOL CHAFARIZ 4                      34.65            034644-6         58306
+EOL CHAFARIZ 5                      34.65            034646-2         58307
+EOL CHAFARIZ 6                      31.19            035184-9         58304
+EOL CHAFARIZ 7                      34.65            037958-1         58295
+EOL CHUI 09                         17.64            031517-6         51066
+EOL CHUI I                          23.80            030767-0         51066
+EOL CHUI II                         21.62            030790-4         51066
+EOL CHUI IV                         21.60            030754-8         51066
+EOL CHUI V                          29.39            030760-2         51066
+EOL COELHOS I                        4.80 D                           57854
+EOL COELHOS II                       4.80 D                           57855
+EOL COELHOS III                      4.80 D                           57856
+EOL COELHOS IV                       4.80 D                           57857
+EOL COLONIA                         18.45            030295-3         55780
+EOL COQUEIRINHO                     29.30            030738-6         59392
+EOL COQUEIRINHO 2                   15.56            031518-4         59380
+EOL COQUEIROS                       26.58            030282-1         55403
+EOL CORREDOR DO SENANDES II         20.80   S        030842-0         51065
+EOL CORREDOR DO SENANDES III        26.05   S        030819-6         51065
+EOL CORREDOR DO SENANDES IV         28.66   S        030840-4         51065
+EOL CORRUPIAO                       27.47            030752-1         59393
+EOL CORRUPIAO 2                     18.36            037019-3         59400
+EOL CORRUPIAO 3                      9.74            031458-7         59378
+EOL COSTA BRANCA                    20.28            030672-0         56594
+EOL COSTA DAS DUNAS                 27.83            037959-0         57487
+EOL COXILHA SECA                    29.40            031487-0         51071
+EOL CRISTAL                         29.21            030727-0         59005
+EOL CRISTALANDIA I                  29.19            032081-1         59457
+EOL CRISTALANDIA II                 29.24            032082-0         59458
+EOL CRISTALANDIA III                29.39            032083-8         59459
+EOL CRUZ ALTA                       30.00   S        029070-0          6366
+EOL CUMARU I                        41.11            032207-5         12321
+EOL CUMARU II                       41.11            032208-3         12321
+EOL CUMARU III                      41.11            032209-1         12321
+EOL CUMARU IV                       41.11            037020-7         12321
+EOL CUMARU V                        37.00            037021-5         12321
+EOL CURRAL DE PEDRAS I              20.00            032345-4         59031
+EOL CURRAL DE PEDRAS II             27.50            032346-2         59032
+EOL CURUPIRA                        25.00            031535-4         51073
+EOL DA PRATA                        21.84            030490-5         59312
+EOL DAMASCENA                       29.10            031338-6         59010
+EOL DELFINA I                       27.30            032357-8         58621
+EOL DELFINA II                      27.30            032358-6         58622
+EOL DELFINA III                     27.30            032521-0         58641
+EOL DELFINA IV                       7.80            032522-8         58642
+EOL DELFINA V                       27.30            032359-4         58623
+EOL DELFINA VI                      29.30            032523-6         58643
+EOL DELFINA VII                     29.30            032524-4         58644
+EOL DELTA 3 I                       27.20            033682-3         40370
+EOL DELTA 3 II                      27.20            033683-1           565
+EOL DELTA 3 III                     27.20            033684-0           565
+EOL DELTA 3 IV                      27.20            033685-8           565
+EOL DELTA 3 V                       27.20            033675-0           565
+EOL DELTA 3 VI                      27.20            033673-4           565
+EOL DELTA 3 VII                     27.20            033680-7           565
+EOL DELTA 3 VIII                    27.20            033686-6           565
+EOL DELTA 5 I                       26.60            037976-0           565
+EOL DELTA 5 II                      26.60            037972-7           565
+EOL DELTA 5I                        27.00 D                           55027
+EOL DELTA 5II                       27.00 D                           55028
+EOL DELTA 6 I                       29.25            037970-0           565
+EOL DELTA 6 II                      23.94            037967-0           565
+EOL DELTA 6I                        29.70                             55029
+EOL DELTA 6II                       24.30 D                           55030
+EOL DELTA 7 I                       26.60            040572-8           565
+EOL DELTA 7 II                      34.80            040573-6           565
+EOL DELTA 8 I                       34.80            040574-4           565
+EOL DELTA DO PARNAIBA               30.00   S        030838-2         55153
+EOL DIAMANTE II                     17.50            032347-0         59033
+EOL DIAMANTE III                    17.50            032348-9         59034
+EOL DOIS RIACHOS                    29.10            031121-9         59013
+EOL DOS ARACAS                      30.00            030495-6         59313
+EOL DOS INDIOS 2                    29.90            030734-3         51035
+EOL DOS INDIOS 3                    23.00            030894-3         51044
+EOL DOS INDIOS(V.DO SUL)            50.00            028864-0         51062
+EOL DOURADOS                        28.08            030778-5         59319
+EOL DREEN BOA VISTA                 13.60            030512-0         56613
+EOL DREEN CUTIA                     22.60            030701-7         56684
+EOL DREEN GUAJIRU                   20.50            030699-1         56685
+EOL DREEN OLHO DAGUA                29.35            030549-9         56614
+EOL DUNAS DE PARACURU               42.00 D                           55764
+EOL ELEBRAS CIDREIRA 1              69.50 D          028712-1          8899
+EOL EMBUACA                         26.05            030336-4         55766
+EOL EMILIANA                        27.35            030807-2         59402
+EOL ENACEL(VENTOS)                  30.40            028770-9         56067
+EOL EOLICA DE TAIBA                  5.00 D                           56097
+EOL ESPERANCA                       27.20            031355-6         59012
+EOL ESPERANCA DO NORDESTE           26.80            032354-3         56688
+EOL ESPIGAO                         10.08            030803-0         59365
+EOL ESTRELA                         28.81            032010-2         55802
+EOL EURUS I                         29.57            030503-0         56608
+EOL EURUS II                        29.75            030499-9         56609
+EOL EURUS III                       29.57            030504-9         56610
+EOL EURUS IV                        25.80            030509-0         56638
+EOL EURUS VI                         7.80            030351-8         56567
+EOL FACHEIO                         16.09            032101-0         59471
+EOL FAISA I                         28.51            030352-6         55767
+EOL FAISA II                        26.41            030331-3         55768
+EOL FAISA III                       24.31            030332-1         55769
+EOL FAISA IV                        24.31            030329-1         55770
+EOL FAISA V                         28.51            030309-7         55771
+EOL FAROL                           19.45            030502-2         56616
+EOL FAROL DE TOUROS                 24.35            037999-9         57488
+EOL FAZENDA ROSARIO                  9.20   S        030343-7         51053
+EOL FAZENDA ROSARIO 2               23.00   S        030478-6         51055
+EOL FAZENDA ROSARIO 3               16.10   S        030334-8         51054
+EOL FAZENDA VERA CRUZ               22.50            031536-2         51074
+EOL FIGUEIRA BRANCA                 10.50            038002-4         57489
+EOL FILGUEIRA I                     38.66            033429-4           224
+EOL FILGUEIRA II                    28.12            033430-8           224
+EOL FLEIXEIRAS I                    28.40            030670-3         55785
+EOL FLORES I                        30.00                             59100
+EOL FLORES II                       30.00                             59101
+EOL FLORES III                      30.00                             59102
+EOL FLORES IV                       30.00                             59103
+EOL FOLHA DE SERRA                  20.48            031407-2         59360
+EOL FOZ DO RIO CHORO                25.20 D                           56076
+EOL FRANCISCO RIBEIRO ALVES         90.00                             56764
+EOL GALPOES                          7.90            031477-3         51072
+EOL GAMELEIRA                       17.40            038006-7         57490
+EOL GARGAU                          28.00 D                            2017
+EOL GARROTE                         22.55            035197-0         56265
+EOL GE JANGADA                      26.80            030700-9         56686
+EOL GE MARIA HELENA                 26.80            030702-5         56687
+EOL GOIABEIRA                       22.18            030920-6         56065
+EOL GRAVATA FRUITRADE                5.00 D                           58100
+EOL GUAJIRU                         28.40            030663-0         55787
+EOL GUANAMBI                        21.84            030328-3         59330
+EOL GUIRAPA                         30.00            030342-9         59325
+EOL HIPERION                         1.98   S                          7850
+EOL IBIRAPUITA I                    24.13            030750-5         51030
+EOL ICARAI                          16.80 D                           55417
+EOL ICARAI I                        26.23            030372-0         55415
+EOL ICARAI II                       36.36            030356-9         55416
+EOL ICARAIZINHO                     53.00            028699-0         55423
+EOL IGAPORA                         30.00            030321-6         59341
+EOL ILHA GRANDE (EOLOS)             28.20            030691-6         55420
+EOL ILHEUS                          11.76            030315-1         59339
+EOL IMBURANA MACHO                  15.80            032102-8         59463
+EOL INHAMBU                         30.00            030751-3         59391
+EOL INHAMBU 2                       15.95            032487-6         59400
+EOL ITAREMA I                       26.40            031485-4         55439
+EOL ITAREMA II                      26.40            031483-8         55440
+EOL ITAREMA III                     14.63            031484-6         55441
+EOL ITAREMA IV                      20.58            031813-2         55458
+EOL ITAREMA IX                      29.40            031814-0         55462
+EOL ITAREMA V                       20.48            031482-0         55442
+EOL ITAREMA VI                      23.52            031815-9         55459
+EOL ITAREMA VII                     20.58            031816-7         55460
+EOL ITAREMA VIII                    20.58            031817-5         55461
+EOL JABUTICABA                       8.78            031405-6         59355
+EOL JACARANDA DO CERRADO            20.48            031408-0         59361
+EOL JANDAIA                         26.19            030929-0         56065
+EOL JANDAIA I                       23.28            030907-9         56065
+EOL JANDAIRA I                      11.00            032870-7           360
+EOL JANDAIRA II                     26.40            035008-7           360
+EOL JANDAIRA III                    28.60            035270-5           360
+EOL JANDAIRA IV                     28.60            035271-3           360
+EOL JATAI                           15.80            032104-4         59466
+EOL JERICO                          30.00            031802-7         56660
+EOL JERUSALEM I                     28.85            037294-3         56725
+EOL JERUSALEM II                    28.90            037295-1         56726
+EOL JERUSALEM III                   28.89            037296-0         56727
+EOL JERUSALEM IV                    28.83            037297-8         56728
+EOL JERUSALEM V                     28.84            037298-6         56729
+EOL JERUSALEM VI                    29.40            037299-4         56730
+EOL JOANA                           27.35            030801-3         59403
+EOL JUAZEIRO                        18.43            032106-0         59465
+EOL JUNCO I                         23.71            030902-8         56281
+EOL JUNCO II                        23.66            030914-1         56282
+EOL JUREMAS                         15.77            030660-6         56595
+EOL LAGOA 1                         30.00 D                           57871
+EOL LAGOA 2                         30.00 D                           57872
+EOL LAGOA 3                         34.65            038029-6         58298
+EOL LAGOA 4                         20.79            038030-0         58299
+EOL LAGOA DO MATO                    3.23 D                           56075
+EOL LANCHINHA                       27.50            030860-9         57710
+EOL LARANJEIRAS I                   27.50            032349-7         59044
+EOL LARANJEIRAS II                  30.00            032350-0         59045
+EOL LARANJEIRAS III                 25.00            033626-2         59050
+EOL LARANJEIRAS IX                  25.00            033627-0         59049
+EOL LARANJEIRAS V                   25.00            032351-9         59046
+EOL LICINIO DE ALMEIDA              25.20            030317-8         59331
+EOL MACACOS                         20.28            030661-4         56596
+EOL MACAMBIRA I                     17.00            031025-5         57708
+EOL MACAMBIRA II                    17.70            031026-3         57709
+EOL MACAUBAS                        30.00            030283-0         59170
+EOL MALHADINHA I                    22.10            030841-2         55201
+EOL MANGUE SECO I                   25.30   S        030285-6         56457
+EOL MANGUE SECO II                  25.46   S        030284-8         56458
+EOL MANGUE SECO III                 25.70   S        030281-3         56459
+EOL MANGUE SECO V                   25.42   S        030290-2         56460
+EOL MANICOBA                        29.10            031337-8         59011
+EOL MANINEIRO                       14.04            032245-8         59474
+EOL MAR E TERRA                     22.90            030389-5         56256
+EOL MARGARIDA I                     78.00                             56765
+EOL MARON                           29.84            030768-8         59310
+EOL MATARACA                         4.80 D                           57858
+EOL MEL 02                          20.00 D                           56259
+EOL MIASSABA II                     14.40 D                           56469
+EOL MIASSABA III                    66.42            030339-9         56450
+EOL MILLENNIUM                      10.20 D                           57861
+EOL MINUANO I                       21.30            030844-7         51066
+EOL MINUANO II                      23.30            030791-2         51066
+EOL MODELO I                        29.60            030787-4         56564
+EOL MODELO II                       25.85            030788-2         56565
+EOL MONTE VERDE I                   65.92            032518-0         56733
+EOL MONTE VERDE II                  66.64            032519-8         56734
+EOL MONTE VERDE III                 57.85            033881-8         56735
+EOL MONTE VERDE IV                  45.52            038035-0         56736
+EOL MONTE VERDE V                   32.97            040584-1         56737
+EOL MONTE VERDE VI                  45.16            040585-0         56739
+EOL MORRAO                          30.00            030506-5         59320
+EOL MORRO BRANCO I                  30.00            031336-0         58611
+EOL MORRO DOS VENTOS I              27.90            030301-1         56557
+EOL MORRO DOS VENTOS II             28.16            030889-7         56633
+EOL MORRO DOS VENTOS III            28.20            030310-0         56558
+EOL MORRO DOS VENTOS IV             28.20            030311-9         56559
+EOL MORRO DOS VENTOS IX             28.70            030302-0         56561
+EOL MORRO DOS VENTOS VI             27.40            030300-3         56560
+EOL MUCURIPE                         2.40 D                           56096
+EOL MULUNGU                         14.70            032362-4         59406
+EOL MUNDAU                          28.30            030656-8         55786
+EOL MUNDO NOVO V                    24.25            033552-5         11666
+EOL MUNDO NOVO VI                   24.26            032405-1         11666
+EOL MUNDO NOVO VII                  24.26            032404-3         11666
+EOL MUSSAMBE                        30.00            031352-1         58612
+EOL N.S.DA CONCEICAO                30.00            030318-6         59340
+EOL NOSSA SENHORA DE FATIMA         29.10            030930-3         56065
+EOL NOVO HORIZONTE                  30.00            030305-4         59171
+EOL OITIS 1                         49.50            044555-0         58316
+EOL OITIS 10                        49.50            044358-1         12312
+EOL OITIS 2                         27.50            044359-0         12312
+EOL OITIS 21                        44.00            044360-3         12312
+EOL OITIS 22                        49.50            044361-1         12312
+EOL OITIS 3                         49.50            044362-0         12312
+EOL OITIS 4                         49.50            044363-8         12312
+EOL OITIS 5                         49.50            044364-6         12312
+EOL OITIS 6                         49.50            044365-4         12312
+EOL OITIS 7                         49.50            044366-2         12312
+EOL OITIS 8                         49.50            044367-0         58317
+EOL OITIS 9                         49.50            044368-9         12312
+EOL OSORIO 2 (V.LITORAL)            27.60            030286-4         51040
+EOL OSORIO 3 (V.LITORAL)            29.90            030449-2         51043
+EOL OSORIO(V.DO SUL)                50.00            028810-1         51060
+EOL OURO BRANCO 1                   33.60 D                           58015
+EOL OURO BRANCO 2                   33.60 D                           58016
+EOL OURO VERDE                      28.81            032012-9         55801
+EOL PAJEU DO VENTO                  26.88            030319-4         59345
+EOL PALMARES                         9.20   S        028855-1         51052
+EOL PALMAS                           2.50   S                         45053
+EOL PALMAS (B. DO CORREGO)          23.10            030697-5         55418
+EOL PAPAGAIO                         9.71            031511-7         59381
+EOL PARACURU                        25.20 D                           55762
+EOL PARAISO VENTOS DO NE            26.80            032355-1         56689
+EOL PAU D'AGUA                      17.55            032246-6         59473
+EOL PAU FERRO                       29.63            030805-6         58750
+EOL PAU FERRO II                    49.50            044553-3         11281
+EOL PAU SANTO                       18.71            032363-2         59409
+EOL PEDRA BRANCA                    29.25            030443-3         58600
+EOL PEDRA CHEIROSA                  24.70            031736-5         55450
+EOL PEDRA CHEIROSA II               22.60            031698-9         55451
+EOL PEDRA DO GERONIMO               29.63            030806-4         58751
+EOL PEDRA DO REINO                  28.00                             58617
+EOL PEDRA DO REINO III              17.00                             58618
+EOL PEDRA DO REINO IV               20.00                             58626
+EOL PEDRA DO REINO V                14.00   S                         58666
+EOL PEDRA DO SAL                    18.00   S                         55150
+EOL PEDRA PRETA                     20.28            030671-1         56597
+EOL PEDRA RAJADA                    19.25            032352-7         57728
+EOL PEDRA RAJADA II                 19.25            032353-5         57729
+EOL PELADO                          19.50            030856-0         57711
+EOL PELOURINHO                      21.84            030793-9         59368
+EOL PILOES                          29.84            030776-9         59311
+EOL PINDAI                          25.20            030324-0         59326
+EOL PIRAUA                           5.00 D                           57865
+EOL PITOMBEIRA                      26.21            030926-5         56065
+EOL PLANALTINA                      28.56            030322-4         59346
+EOL PONTAL 2A                       21.60            031509-5         51077
+EOL PONTAL 2B                       11.20            030460-3         51051
+EOL PONTAL 3B                       27.00            030901-0         51045
+EOL PORTO DAS BARCAS                20.00   S        030827-7         55152
+EOL PORTO DO DELTA                  30.00   S        030639-8         55155
+EOL PORTO SALGADO                   20.00   S        030830-7         55154
+EOL PORTO SEGURO                     6.72            030323-2         59342
+EOL POTIGUAR                        26.80            032356-0         56690
+EOL POTIGUAR B31                    62.37            040600-7         11565
+EOL POTIGUAR B32                    37.80            040601-5         11565
+EOL POTIGUAR B33                    42.00            040602-3         11565
+EOL POVO NOVO                        7.50            031562-1         51075
+EOL PRAIA DO MORGADO                27.06            028440-8         55407
+EOL PRAIA FORMOSA                  100.00            028631-1         55426
+EOL PRAIAS DE PARAJURU              28.80 D                           56074
+EOL PRAINHA                         10.00 D                           56098
+EOL PRESIDENTE                       4.80 D                           57859
+EOL PRIMAVERA                       29.35            030726-2         59006
+EOL PULPITO                         30.00   S        029051-3          6316
+EOL QUATRO VENTOS                   21.00 D                           57867
+EOL QUINA                           10.80            032364-0         59410
+EOL QUINTA DO GOMARIZ                3.98   S        032302-0          7850
+EOL QUIXABA                         25.50 D                           56072
+EOL REB CASSINO I                   22.00 D                           51064
+EOL REB CASSINO II                  20.00 D                           51064
+EOL REB CASSINO III                 22.00 D                           51064
+EOL REDUTO                          26.48            030843-9         57462
+EOL REI DOS VENTOS 1                56.70            030416-6         56463
+EOL REI DOS VENTOS 3                58.32            030417-4         56464
+EOL RENASCENCA I                    29.70            030515-4         56627
+EOL RENASCENCA II                   29.70            030516-2         56628
+EOL RENASCENCA III                  29.70            030527-8         56629
+EOL RENASCENCA IV                   29.70            030551-0         56630
+EOL RENASCENCA V                    29.75            030497-2         56637
+EOL RIBEIRAO (EOLOS)                20.50            030695-9         55419
+EOL RIO DO FOGO(ENERBRASIL)         45.71 D          028424-6         57465
+EOL RIO DO OURO                     30.00   S        029055-6          6316
+EOL RIO VERDE                       30.00            030341-0         59336
+EOL SABIU                           13.16            032108-7         59472
+EOL SALTO                           30.00   S        029056-4          6366
+EOL SANGRADOURO 2(V.LAGOA)          29.90            030381-0         51041
+EOL SANGRADOURO 3(V.LAGOA)          27.60            030330-5         51042
+EOL SANGRADOURO(V.DO SUL)           50.00            028811-0         51061
+EOL SANTA CATARINA                  18.14            030924-9         56065
+EOL SANTA CLARA I                   29.24            030292-9         56568
+EOL SANTA CLARA II                  29.24            030308-9         56569
+EOL SANTA CLARA III                 29.24            030293-7         56570
+EOL SANTA CLARA IV                  29.24            030307-0         56571
+EOL SANTA CLARA V                   29.24            030378-0         56572
+EOL SANTA CLARA VI                  29.24            030304-6         56573
+EOL SANTA EDWIGES (BRITE)           28.70            031270-3         58267
+EOL SANTA HELENA                    28.50            030834-0         56642
+EOL SANTA MARIA                      5.00                             58102
+EOL SANTA MONICA                    28.80            031427-7         56714
+EOL SANTA MONICA I                  18.33            032013-7         55800
+EOL SANTA ROSA E MUNDO NOVO I       32.39   S        035210-1         57735
+EOL SANTA ROSA E MUNDO NOVO II      28.46   S        035211-0         57736
+EOL SANTA ROSA E MUNDO NOVO III     32.09   S        035212-8         57737
+EOL SANTA ROSA E MUNDO NOVO IV      32.09   S        037663-9         57738
+EOL SANTA ROSA E MUNDO NOVO V       24.32   S        037664-7         57739
+EOL SANTA URSULA                    26.85            031425-0         56715
+EOL SANTA VERIDIANA                 28.70            031685-7         58279
+EOL SANTA VERONICA                  28.70            031686-5         58280
+EOL SANTANA I                       29.04            031810-8         57744
+EOL SANTANA II                      23.24            031811-6         57745
+EOL SANTO AMARO DO PIAUI            28.70            031691-1         58274
+EOL SANTO ANASTACIO                 28.70            031690-3         58275
+EOL SANTO ANTONIO                    3.00   S        029053-0          6316
+EOL SANTO ANTONIO DE PADUA          14.20            030916-8         55773
+EOL SANTO CRISTO                    26.12            030849-8         57460
+EOL SANTO INACIO III                29.01            035217-9         56265
+EOL SANTO INACIO IV                 22.84            031866-3         56265
+EOL SAO BASILIO                     28.70            031689-0         58276
+EOL SAO BENTO DO NORTE              29.30            030536-7         56615
+EOL SAO BENTO DO NORTE I            22.60            033640-8         56693
+EOL SAO BENTO DO NORTE II           22.60            033642-4         42582
+EOL SAO BENTO DO NORTE III          22.60            033643-2         56697
+EOL SAO CLEMENTE                    20.37            030927-3         56065
+EOL SAO CRISTOVAO                   25.62            030912-5         55774
+EOL SAO DOMINGOS                    24.70            032215-6         56718
+EOL SAO FELIX                       28.70            031688-1         58277
+EOL SAO FERNANDO 1                  75.63            037073-8         12321
+EOL SAO FERNANDO 10                 16.80                             56763
+EOL SAO FERNANDO 2                  70.00            037075-4         56740
+EOL SAO FERNANDO 3                  24.26            037076-2         56762
+EOL SAO JANUARIO                    20.37            030921-4         56053
+EOL SAO JOAO                        27.00            030804-8         57461
+EOL SAO JORGE                       24.19            030911-7         55772
+EOL SAO JUDAS                       29.08            030725-4         59007
+EOL SAO MIGUEL I                    20.50            033644-0         56700
+EOL SAO MIGUEL II                   20.50            033645-9         56703
+EOL SAO MIGUEL III                  20.50            033647-5         56704
+EOL SAO MOISES                      28.70            031687-3         58278
+EOL SAO PEDRO DO LAGO               29.25            030456-5         58601
+EOL SAO RAIMUNDO                    22.87            035219-5         56265
+EOL SAO SALVADOR                    18.43            031120-0         59322
+EOL SEABRA                          30.00            030306-2         59172
+EOL SERAIMA                         30.00            030546-4         59321
+EOL SERRA DA BABILONIA A            19.99            037083-5         59093
+EOL SERRA DA BABILONIA B            29.99            040608-2           355
+EOL SERRA DA BABILONIA C            24.99            040609-0         59094
+EOL SERRA DA BABILONIA D            29.99            040610-4           355
+EOL SERRA DA BABILONIA E            24.99            040611-2         59095
+EOL SERRA DA BABILONIA F            19.99            040612-0         59096
+EOL SERRA DA BABILONIA II           28.20            032462-0         59068
+EOL SERRA DA BABILONIA IX           28.20            032465-5         59069
+EOL SERRA DA BABILONIA VI           25.85            032466-3         59070
+EOL SERRA DA BABILONIA VII          28.20            032467-1         59071
+EOL SERRA DA BABILONIA VIII         28.20            032468-0         59072
+EOL SERRA DA BABILONIA X            28.20            032469-8         59073
+EOL SERRA DA BABILONIA XI           28.20            032470-1         59074
+EOL SERRA DA BABILONIA XII          28.20            032471-0         59075
+EOL SERRA DA MANGABEIRA             75.60            044878-8           205
+EOL SERRA DAS ALMAS I               32.50            034778-7         11594
+EOL SERRA DAS ALMAS II              32.50            034779-5         11594
+EOL SERRA DAS ALMAS III             32.50            034780-9         11594
+EOL SERRA DAS ALMAS IV              32.50            037084-3         11594
+EOL SERRA DAS ALMAS V               32.50            037086-0         11594
+EOL SERRA DAS ALMAS VI              32.50            034781-7         11594
+EOL SERRA DAS VACAS I               23.40            031537-0         58009
+EOL SERRA DAS VACAS II              21.80            031540-0         58010
+EOL SERRA DAS VACAS III             21.70            031560-5         58011
+EOL SERRA DAS VACAS IV              21.80            031574-5         58012
+EOL SERRA DAS VACAS V               25.30            032360-8         58029
+EOL SERRA DAS VACAS VII             25.30            032361-6         58030
+EOL SERRA DE SANTANA I              19.90            030625-8         57712
+EOL SERRA DE SANTANA II             29.10            030609-6         57713
+EOL SERRA DE SANTANA III            29.80            030615-0         57714
+EOL SERRA DO ESPINHACO              18.48            030802-1         59366
+EOL SERRA DO FOGO                   30.69            035222-5         56753
+EOL SERRA DO MATO I                 21.00            032375-6         58318
+EOL SERRA DO MATO II                21.00            032376-4         58319
+EOL SERRA DO MATO III               21.00            032377-2         58320
+EOL SERRA DO MATO IV                21.00            032378-0         58321
+EOL SERRA DO MATO V                 21.00            032453-1         58322
+EOL SERRA DO MATO VI                16.80            032379-9         58323
+EOL SERRA DO SALTO                  20.16            030314-3         59332
+EOL SERRA DO SERIDO II              17.32            035225-0         11500
+EOL SERRA DO SERIDO III             45.04            035226-8         11500
+EOL SERRA DO SERIDO IV              34.65            035227-6         11500
+EOL SERRA DO SERIDO IX              45.04            040613-9         11500
+EOL SERRA DO SERIDO VI              24.26            038304-0         11500
+EOL SERRA DO SERIDO VII             48.51            038305-8         11500
+EOL SERRA DO VENTO                  30.69            035229-2         56754
+EOL SERROTE I                       24.31            040878-6         55811
+EOL SERROTE II                      24.31            040879-4         55812
+EOL SERROTE III                     20.25            040880-8         55812
+EOL SERROTE IV                      16.20            040881-6         55812
+EOL SERROTE V                       28.36            040882-4         55812
+EOL SERROTE VI                      28.36            040883-2         55812
+EOL SERROTE VII                     28.36            040884-0         55812
+EOL SERROTE VIII                    28.36            040885-9         55812
+EOL SETE GAMELEIRAS                 29.25            030455-7         58602
+EOL SM                              28.50            030864-1         56643
+EOL TABOQUINHA                      21.06            031406-4         59351
+EOL TABUA                           14.63            031403-0         59356
+EOL TACAICO                         18.20            030789-0         58752
+EOL TACAICO II                      49.50            044554-1         11281
+EOL TAIBA AGUIA                     22.56            028857-8         55778
+EOL TAIBA ALBATROZ                  16.50 D                           55782
+EOL TAIBA ANDORINHA                 14.32            030373-9         55779
+EOL TAMANDUA MIRIM                  29.30            030753-0         59394
+EOL TAMANDUA MIRIM 2                15.59            031606-7         59388
+EOL TANQUE                          30.00            030544-8         59314
+EOL TEIU                            16.48            030731-9         59395
+EOL TEIU 2                           7.78            031431-5         59379
+EOL TEIU 3                          23.03            037093-2         59389
+EOL TERRA SANTA I                   59.90            032495-7         56756
+EOL TERRA SANTA II                  31.50            032501-5         56757
+EOL TERRAL                          30.00            030898-6         56252
+EOL TESTA BRANCA I                  22.00   S        031666-0         55220
+EOL TESTA BRANCA III                22.00   S        033479-0         55805
+EOL TRAIRI                          24.70            030662-2         55788
+EOL U.VENTOS 1(POTIGUAR)            21.44            030562-6         56576
+EOL U.VENTOS 10(P.NORDESTE)         14.15            030571-5         56589
+EOL U.VENTOS 2(T.DE PEDRAS)         21.56            030563-4         56577
+EOL U.VENTOS 3(P.V.LESTE)           21.58            030564-2         56578
+EOL U.VENTOS 4(T.S.MIGUEL)          10.80            030565-0         56581
+EOL U.VENTOS 5(M.DOS VENTOS)        23.00            030566-9         56582
+EOL U.VENTOS 6(C.DA ILHA)           12.25            030567-7         56583
+EOL U.VENTOS 7(C.POTIGUAR)          14.00            030568-5         56584
+EOL U.VENTOS 8(E.DOS VENTOS)        15.20            030569-3         56587
+EOL U.VENTOS 9(I.DOS VENTOS)        11.00            030570-7         56588
+EOL UBATUBA                         12.10            030918-4         56065
+EOL UMBURANA DE CHEIRO              30.69            035233-0         56752
+EOL UMBURANAS 1                     24.52            031738-1         58807
+EOL UMBURANAS 10                    19.62            031742-0         58808
+EOL UMBURANAS 11                    14.71            031744-6         58809
+EOL UMBURANAS 13                    19.62            031752-7         58811
+EOL UMBURANAS 15                    19.62            031754-3         58813
+EOL UMBURANAS 16                    24.52            031755-1         58814
+EOL UMBURANAS 17                    22.07            033634-3         58834
+EOL UMBURANAS 18                     7.36            031756-0         58815
+EOL UMBURANAS 19                    24.52            033635-1         58837
+EOL UMBURANAS 2                     24.52            031740-3         58816
+EOL UMBURANAS 21                    22.07            033636-0         58838
+EOL UMBURANAS 23                    14.71            033637-8         58839
+EOL UMBURANAS 25                    17.16            033639-4         58840
+EOL UMBURANAS 3                     19.62            031741-1         58817
+EOL UMBURANAS 5                     17.16            031737-3         58819
+EOL UMBURANAS 6                     19.62            031796-9         58820
+EOL UMBURANAS 8                     24.52            031832-9         58822
+EOL UMBURANAS 9                     17.16            031743-8         58823
+EOL UMBUZEIRO                       21.06            032111-7         59470
+EOL UMBUZEIROS                      30.00            031826-4         56661
+EOL UNIAO DOS VENTOS 12             24.60            031645-8         56674
+EOL UNIAO DOS VENTOS 13             18.45            031697-0         56675
+EOL UNIAO DOS VENTOS 14             20.50            031643-1         56676
+EOL UNIAO DOS VENTOS 15             30.00            031642-3         56679
+EOL UNIAO DOS VENTOS 16             28.59            031652-0         56680
+EOL V. DE SANTA FATIMA              28.70            031273-8         58268
+EOL V. DE SANTA REGINA              28.70            031276-2         58269
+EOL V. DE SANTO ADRIANO(COLIBRI)    28.70            031271-1         58270
+EOL V. DE SANTO ALBANO              28.70            031272-0         58271
+EOL V. DE SANTO DIMAS               28.80            031372-6         56716
+EOL V. DE SAO BENEDITO              28.80            031373-4         56717
+EOL V. VILA MATO GROSSO I           21.00            036984-5         56284
+EOL V.DE SAO MIGUEL                 29.70            030514-6         56639
+EOL V.DE TIANGUA                    24.80            030585-5         55202
+EOL V.DE TIANGUA NORTE              26.40            030584-7         55204
+EOL V.DO PARAZINHO                  26.40            030596-0         55203
+EOL V.MORRO DO CHAPEU               24.80            030582-0         55205
+EOL VAQUETA                         22.82            031424-2         59357
+EOL VELLOZIA                        21.35            032113-3         59468
+EOL VENTO ARAGANO I                 28.66   S        030833-1         51065
+EOL VENTO FORMOSO                   24.80            030595-2         55200
+EOL VENTOS CAMPO FORMOSO I          29.85            030943-5         58801
+EOL VENTOS CAMPO FORMOSO II         29.85            031010-7         58802
+EOL VENTOS DA ANDORINHA             29.85            030944-3         58800
+EOL VENTOS DA BAHIA I               28.60            032526-0         59062
+EOL VENTOS DA BAHIA II              26.21   S        031758-6         59016
+EOL VENTOS DA BAHIA III             30.80            032527-9         59063
+EOL VENTOS DA BAHIA IV              11.65   S        031770-5         59020
+EOL VENTOS DA BAHIA IX              28.60            032531-7         59064
+EOL VENTOS DA BAHIA VIII            26.21   S        031771-3         59017
+EOL VENTOS DA BAHIA XIII            47.70            032535-0         59089
+EOL VENTOS DA BAHIA XIV             31.80            032536-8         59090
+EOL VENTOS DA BAHIA XVIII           28.60            034883-0         59065
+EOL VENTOS DA BAHIA XXIII           47.70            035234-9         59091
+EOL VENTOS DA BAHIA XXVII           25.30            034889-9         59092
+EOL VENTOS DA SANTA BEATRIZ         27.30                             59079
+EOL VENTOS DA SANTA DULCE           27.65            033648-3         59053
+EOL VENTOS DA SANTA ESPERANCA       27.65            033649-1         59054
+EOL VENTOS DE ARAPUA 1              24.25            035240-3         58308
+EOL VENTOS DE ARAPUA 2              34.65            035241-1         58309
+EOL VENTOS DE ARAPUA 3              13.86            035242-0         58310
+EOL VENTOS DE GUARAS I              30.00            031563-0         58805
+EOL VENTOS DE HORIZONTE             16.13            030925-7         56059
+EOL VENTOS DE ICAPUI                21.00 D                           56261
+EOL VENTOS DE MORRINHOS             29.85            030945-1         58803
+EOL VENTOS DE S.ANGELINA            28.70            031275-4         58265
+EOL VENTOS DE S.BARBARA             28.70            031274-6         58266
+EOL VENTOS DE SANTA ANGELA 01       30.75            033005-1         58177
+EOL VENTOS DE SANTA ANGELA 02       30.75            033006-0         58178
+EOL VENTOS DE SANTA ANGELA 03       30.75            033007-8         58179
+EOL VENTOS DE SANTA ANGELA 04       30.75            033008-6         58180
+EOL VENTOS DE SANTA ANGELA 05       30.58            033009-4         58181
+EOL VENTOS DE SANTA ANGELA 06       30.58            033010-8         58182
+EOL VENTOS DE SANTA ANGELA 07       24.46            033011-6         58183
+EOL VENTOS DE SANTA ANGELA 08       30.58            033012-4         58184
+EOL VENTOS DE SANTA ANGELA 09       43.30            033013-2         58185
+EOL VENTOS DE SANTA ANGELA 10       40.25            033014-0         58186
+EOL VENTOS DE SANTA ANGELA 11       43.54            033015-9         58187
+EOL VENTOS DE SANTA ANGELA 12       29.39            033016-7           537
+EOL VENTOS DE SANTA ANGELA 13       27.78            033017-5           537
+EOL VENTOS DE SANTA ANGELA 14       42.06            033018-3         58188
+EOL VENTOS DE SANTA ANGELA 15       42.71            033019-1         58189
+EOL VENTOS DE SANTA ANGELA 16       30.75            033020-5           537
+EOL VENTOS DE SANTA ANGELA 17       46.45            033021-3         58190
+EOL VENTOS DE SANTA ANGELA 18       30.75            033022-1           537
+EOL VENTOS DE SANTA ANGELA 19       29.46            033023-0         58191
+EOL VENTOS DE SANTA ANGELA 20       29.55            033024-8         58192
+EOL VENTOS DE SANTA ANGELA 21       26.59            033025-6         58193
+EOL VENTOS DE SANTA APARECIDA       26.53            034736-1         59078
+EOL VENTOS DE SANTA AURORA          26.56            034742-6         59080
+EOL VENTOS DE SANTA BEATRIZ         26.61            034738-8         59079
+EOL VENTOS DE SANTA BRIGIDA I       14.18            031365-3         58000
+EOL VENTOS DE SANTA BRIGIDA II      28.35            031363-7         58001
+EOL VENTOS DE SANTA BRIGIDA III     30.00            031354-8         58002
+EOL VENTOS DE SANTA BRIGIDA IV      28.35            031370-0         58003
+EOL VENTOS DE SANTA BRIGIDA V       30.00            031346-7         58004
+EOL VENTOS DE SANTA BRIGIDA VI      30.00            031353-0         58005
+EOL VENTOS DE SANTA BRIGIDA VII     28.35            031422-6         58006
+EOL VENTOS DE SANTA EMILIA          26.50            034717-5         59081
+EOL VENTOS DE SANTA ESPERANCA 08    30.00            034661-6           555
+EOL VENTOS DE SANTA ESPERANCA 13    33.35            034692-6         59052
+EOL VENTOS DE SANTA ESPERANCA 15    45.85            034507-5         59085
+EOL VENTOS DE SANTA ESPERANCA 16    30.00            034508-3           555
+EOL VENTOS DE SANTA ESPERANCA 17    41.69            034509-1         59086
+EOL VENTOS DE SANTA ESPERANCA 21    30.00            034511-3           555
+EOL VENTOS DE SANTA ESPERANCA 22    30.00            034512-1           555
+EOL VENTOS DE SANTA ESPERANCA 25    27.00            034513-0           555
+EOL VENTOS DE SANTA ESPERANCA 26    30.00            034514-8           555
+EOL VENTOS DE SANTA EUGENIA 01      30.00            038077-6         11260
+EOL VENTOS DE SANTA EUGENIA 02      30.00            038078-4         11260
+EOL VENTOS DE SANTA EUGENIA 03      30.00            038079-2         11260
+EOL VENTOS DE SANTA EUGENIA 05      30.00            038081-4         11260
+EOL VENTOS DE SANTA EUGENIA 06      30.00            038082-2         11260
+EOL VENTOS DE SANTA EUGENIA 07      30.00            038083-0         11260
+EOL VENTOS DE SANTA EUGENIA 08      30.00            038084-9         11260
+EOL VENTOS DE SANTA EUGENIA 09      30.00            038085-7         11260
+EOL VENTOS DE SANTA EUGENIA 12      30.00            038088-1         11260
+EOL VENTOS DE SANTA EUGENIA 13      30.00            038089-0         11260
+EOL VENTOS DE SANTA JOANA I         28.90            031581-8         58218
+EOL VENTOS DE SANTA JOANA II        29.90            031361-0         58200
+EOL VENTOS DE SANTA JOANA III       29.60            031580-0         58219
+EOL VENTOS DE SANTA JOANA IV        27.20            031520-6         58220
+EOL VENTOS DE SANTA JOANA IX        29.60            031417-0         58209
+EOL VENTOS DE SANTA JOANA V         28.90            031538-9         58221
+EOL VENTOS DE SANTA JOANA VI        29.80            031367-0         58201
+EOL VENTOS DE SANTA JOANA VII       28.90            031597-4         58222
+EOL VENTOS DE SANTA JOANA VIII      29.80            031366-1         58202
+EOL VENTOS DE SANTA JOANA X         29.60            031393-9         58210
+EOL VENTOS DE SANTA JOANA XI        29.60            031388-2         58211
+EOL VENTOS DE SANTA JOANA XII       28.90            031414-5         58212
+EOL VENTOS DE SANTA JOANA XIII      29.60            031394-7         58213
+EOL VENTOS DE SANTA JOANA XIV       29.90            031368-8         58203
+EOL VENTOS DE SANTA JOANA XV        28.90            031416-1         58214
+EOL VENTOS DE SANTA JOANA XVI       28.90            031392-0         58215
+EOL VENTOS DE SANTA LEIA 01          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 02          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 03          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 04          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 05          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 12          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 13          8.40   S                           445
+EOL VENTOS DE SANTA LEIA 14          8.40   S                           445
+EOL VENTOS DE SANTA MARTINA 01      61.74            038310-4         56742
+EOL VENTOS DE SANTA MARTINA 09      61.74            038318-0         56743
+EOL VENTOS DE SANTA MARTINA 10      61.74            038319-8         56744
+EOL VENTOS DE SANTA MARTINA 11      61.74            038320-1         56745
+EOL VENTOS DE SANTA MARTINA 12      61.74            038321-0         56746
+EOL VENTOS DE SANTA MARTINA 13      61.74            038322-8         56747
+EOL VENTOS DE SANTA MARTINA 14      61.74            038323-6         56748
+EOL VENTOS DE SANTO ABRAAO          27.65            032884-7           355
+EOL VENTOS DE SANTO AUGUSTO I       18.35            031746-2         58228
+EOL VENTOS DE SANTO AUGUSTO II      27.05            031747-0         58229
+EOL VENTOS DE SANTO AUGUSTO III     29.60            031662-8         58223
+EOL VENTOS DE SANTO AUGUSTO IV      28.90            031603-2         58224
+EOL VENTOS DE SANTO AUGUSTO V       29.60            031661-0         58225
+EOL VENTOS DE SANTO AUGUSTO VI      29.80            031766-7         58230
+EOL VENTOS DE SANTO AUGUSTO VII     18.35            031749-7         58231
+EOL VENTOS DE SANTO AUGUSTO VIII    18.35            031767-5         58232
+EOL VENTOS DE SANTO ESTEVAO I       24.79            031761-6         58235
+EOL VENTOS DE SANTO ESTEVAO II      24.79            031762-4         58236
+EOL VENTOS DE SANTO ESTEVAO III     29.30            031763-2         58237
+EOL VENTOS DE SANTO ESTEVAO IV      29.30            032365-9         58246
+EOL VENTOS DE SANTO ESTEVAO V       27.05            031764-0         58238
+EOL VENTOS DE SANTO ONOFRE I        29.90            031364-5         58204
+EOL VENTOS DE SANTO ONOFRE II       29.70            031362-9         58205
+EOL VENTOS DE SANTO ONOFRE III      29.90            031886-8         58206
+EOL VENTOS DE SANTO ONOFRE IV       27.05            032366-7         58247
+EOL VENTOS DE SANTO URIEL           16.03            030828-5         56646
+EOL VENTOS DE SAO CLEMENTE I        29.10            031818-3         58019
+EOL VENTOS DE SAO CLEMENTE II       29.10            031819-1         58020
+EOL VENTOS DE SAO CLEMENTE III      29.10            031820-5         58021
+EOL VENTOS DE SAO CLEMENTE IV       29.10            031821-3         58022
+EOL VENTOS DE SAO CLEMENTE V        28.72            031822-1         58023
+EOL VENTOS DE SAO CLEMENTE VI       25.70            031823-0         58024
+EOL VENTOS DE SAO CLEMENTE VII      24.00            031824-8         58025
+EOL VENTOS DE SAO CLEMENTE VIII     20.50            031825-6         58026
+EOL VENTOS DE SAO JANUARIO 01       33.60            033508-8         58648
+EOL VENTOS DE SAO JANUARIO 03       29.40            033521-5         58654
+EOL VENTOS DE SAO JANUARIO 04       29.40            032641-0         58649
+EOL VENTOS DE SAO JANUARIO 05       42.00            032644-5         58655
+EOL VENTOS DE SAO JANUARIO 06       37.80            033523-1         58656
+EOL VENTOS DE SAO JANUARIO 10       42.00            033529-0         58657
+EOL VENTOS DE SAO JANUARIO 11       42.00            033530-4         58658
+EOL VENTOS DE SAO JANUARIO 13       42.00            033532-0         58650
+EOL VENTOS DE SAO JANUARIO 14       42.00            033533-9         58651
+EOL VENTOS DE SAO JANUARIO 15        8.40   S                           103
+EOL VENTOS DE SAO JANUARIO 16        8.40   S                           103
+EOL VENTOS DE SAO JANUARIO 17        8.40   S                           103
+EOL VENTOS DE SAO JANUARIO 18        8.40   S                           103
+EOL VENTOS DE SAO JANUARIO 19        8.40   S                           103
+EOL VENTOS DE SAO JANUARIO 20       49.39            037102-5         58659
+EOL VENTOS DE SAO JANUARIO 21       49.39            037103-3         58660
+EOL VENTOS DE SAO JANUARIO 22       49.39            037104-1         58661
+EOL VENTOS DE SAO JANUARIO 23       57.62            040625-2         58662
+EOL VENTOS DE SAO MARTINHO          14.70            031412-9         56719
+EOL VENTOS DE SAO VICENTE 08        29.13            033144-9         58251
+EOL VENTOS DE SAO VICENTE 09        29.07            033143-0         58252
+EOL VENTOS DE SAO VICENTE 10        29.13            033136-8         58253
+EOL VENTOS DE SAO VICENTE 11        29.15            033141-4         58254
+EOL VENTOS DE SAO VICENTE 12        29.13            033140-6         58255
+EOL VENTOS DE SAO VICENTE 13        29.12            033139-2         58256
+EOL VENTOS DE SAO VICENTE 14        29.07            033138-4         58257
+EOL VENTOS DE SAO VIRGILIO 01       29.80            032367-5         58241
+EOL VENTOS DE SAO VIRGILIO 02       29.30            033667-0         58250
+EOL VENTOS DE SAO VIRGILIO 03       19.75            032368-3         58242
+EOL VENTOS DE VILA CEARA I          30.60            036974-8         56473
+EOL VENTOS DE VILA CEARA II         30.60            036976-4         56476
+EOL VENTOS DE VILA PARAIBA I        32.00                             56475
+EOL VENTOS DE VILA PARAIBA II       32.00                             56474
+EOL VENTOS DO NORDESTE              23.52            030476-0         59315
+EOL VENTOS DO SANTO ABRAAO          28.00                             59051
+EOL VENTOS DO SAO GABRIEL           26.64            034739-6         59082
+EOL VENTOS DO SAO MARIO             29.63            033650-5         59055
+EOL VENTOS DO SAO PAULO             27.65            033652-1         59056
+EOL VENTOS DO SERTAO                29.85            030946-0         58804
+EOL VERACE 24                       19.40            031561-3         51066
+EOL VERACE 25                        7.05            031541-9         51066
+EOL VERACE 26                       14.11            031559-1         51066
+EOL VERACE 27                       15.87            031600-8         51066
+EOL VERACE 28                       12.35            031578-8         51066
+EOL VERACE 29                       17.64            031557-5         51066
+EOL VERACE 30                       17.64            031602-4         51066
+EOL VERACE 31                        8.82            031558-3         51066
+EOL VERACE 34                       14.11            031601-6         51066
+EOL VERACE 35                       12.35            031539-7         51066
+EOL VERACE 36                       21.16            031610-5         51066
+EOL VERACE I                        19.53            030745-9         51066
+EOL VERACE II                       19.51            030742-4         51066
+EOL VERACE III                      25.48            030746-7         51066
+EOL VERACE IV                       29.43            030741-6         51066
+EOL VERACE IX                       29.36            030748-3         51066
+EOL VERACE V                        29.29            030829-3         51066
+EOL VERACE VI                       17.71            030740-8         51066
+EOL VERACE VII                      29.45            030747-5         51066
+EOL VERACE VIII                     25.45            030755-6         51066
+EOL VERACE X                        27.36            030749-1         51066
+EOL VILA ACRE I                     26.77            033752-8         56279
+EOL VILA ACRE II                    29.90            033753-6         56276
+EOL VILA ALAGOAS II                 29.40            036977-2         11565
+EOL VILA AMAZONAS V                 23.62            031750-0         56271
+EOL VILA CEARA I                    31.26            036980-2         56479
+EOL VILA ESPIRITO SANTO I           46.20            040594-9         11565
+EOL VILA ESPIRITO SANTO II          37.80            040595-7         11565
+EOL VILA ESPIRITO SANTO III         46.20            040596-5         11565
+EOL VILA ESPIRITO SANTO IV          29.40            040597-3         11565
+EOL VILA ESPIRITO SANTO V           42.00            040598-1         11565
+EOL VILA MARANHAO I                 31.14            038325-2         56480
+EOL VILA MARANHAO II                31.03            038326-0         56481
+EOL VILA MARANHAO III               31.31            038327-9         56482
+EOL VILA PARA I                     27.00            031759-4         56272
+EOL VILA PARA II                    24.00            031757-8         56273
+EOL VILA PARA III                   24.00            031765-9         56274
+EOL VILA PARAIBA I                  33.80            036981-0         56473
+EOL VILA PARAIBA II                 33.80            036985-3         56474
+EOL VILA PIAUI I                    37.72            036975-6         56484
+EOL VILA PIAUI II                   37.72            036973-0         56485
+EOL VILA PIAUI III                  41.92            036979-9         56485
+EOL VILA RIO GRANDE DO NORTE I      25.15            038141-1         56490
+EOL VILA RIO GRANDE DO NORTE II     37.72            038140-3         56491
+EOL VILA SERGIPE I                  37.72            038142-0         56489
+EOL VILA SERGIPE II                 37.72            038143-8         56486
+EOL VILA SERGIPE III                16.77            038144-6         56487
+EOL VITORIA                          4.50 D                           57860
+EOL VOLTA DO RIO(ELETROWIND)        39.50            028441-6         55409
+EOL XAVANTE                          5.00 D                           58103
+EOL ZEUS II                         28.50            035266-7         58645
+INT IMPORTACAO ANDE                  0.03   S                          7016
+PCH - BOA VISTA 2                    8.00   S                         45057
+PCH - CRISTALINO                     4.00   S                         45057
+PCH - FRUTEIRAS                      5.56   S                         35188
+PCH - MUNIZ FREIRE                  26.00   S                         35070
+PCH - SAO JOAO                      12.95   S                         35013
+PCH - VERDE 4                       19.00   S                         40348
+PCH - VERDE 4A                      28.00   S                         40349
+PCH - VICOSA                         2.52   S                         35103
+PCH (CGH) JOAO FRANCO                1.00   S                          1857
+PCH (CGH) SANTANA DO DESERTO 1       1.60   S                          1698
+PCH ADO POPINHAK                    19.30   S                         43761
+PCH ADO POPINHAKI                   22.60   S        031598-2         43761
+PCH AGROTRAFO                       14.03   S        000031-0          9744
+PCH AGUA BRANCA                     10.00 D                           25740
+PCH AGUA BRAVA                      13.05   S        029045-9         25815
+PCH AGUA CLARA                       4.00 D                           25739
+PCH AGUA LIMPA                      14.00   S        028447-5          9739
+PCH AGUA PRATA                      13.30   S        029044-0         25814
+PCH AGUAS DA SERRA                  22.17   S                          6440
+PCH ALAGOA III                       1.60 D                            1888
+PCH ALEGRE                           2.20 D                           34751
+PCH ALTO ALEGRE                     17.40 D                            6386
+PCH ALTO BENEDITO NOVO I            15.00   S        028802-0          6254
+PCH ALTO FEMEAS                      8.00 D                           18502
+PCH ALTO GUAPORE 2                   7.00 D                           26207
+PCH ALTO IRANI                      22.20 D                            6484
+PCH ALTO SUCURIU                    29.00   S        028817-9          6538
+PCH ANGELINA                        26.27   S        002133-4          6061
+PCH ANHANGUERA                      22.68   S        028734-2          8771
+PCH ANJOS                            0.80   S                         26945
+PCH ANNA MARIA                       1.64   S        000104-0          2151
+PCH ANTONIO BRENNAND(ALTO JAURU)    20.00   S        000077-9         26423
+PCH ANTONIO PRADO                    1.25 D                            2131
+PCH APARECIDA                        3.00   S                         44020
+PCH APUCARANINHA                    10.00   S                         45060
+PCH AREADO - RB                     17.82            033893-1         50202
+PCH AREAL                           10.20 D                           28276
+PCH AREIA                           11.40   S        028446-7          9738
+PCH AREIA BRANCA                    19.80   S                         26902
+PCH ARIPUANA PCH                     0.80 D                           25714
+PCH ARIQUEMES                       54.00 D                            9644
+PCH ARMANDO RIBEIRO                  4.70 D                           16005
+PCH ARROZEIRA MEYER                 20.00 D                            6234
+PCH ARS                              6.70   S                         26378
+PCH ARTURO ANDREOLI                 29.07   S        001278-5          6965
+PCH ARVOREDO                        13.10 D                            6402
+PCH AUTODROMO                       24.00   S        029071-8          8722
+PCH BANDEIRANTE - RB                27.75            032163-0         40350
+PCH BARRA                            5.20   S                         45055
+PCH BARRA DA PACIENCIA              22.00   S                         26910
+PCH BARRA DAS AGUAS                  8.50 D                            6952
+PCH BARRA DO LEAO                    1.79 D                           43856
+PCH BARRA DO RIO CHAPEU             15.20 D                            6503
+PCH BARRINHA                         3.30   S                         50236
+PCH BARUITO                         18.00   S        000233-0         26402
+PCH BELA VISTA                      29.00 D                           50241
+PCH BELEZA                           6.50 D                           25736
+PCH BENJAMIM MARIO BAPTISTA (ANT     9.00   S                          2151
+PCH BOA FE                          24.00   S        029063-7          8725
+PCH BOA SORTE - TO                  15.90   S        029060-2         18523
+PCH BOA VISTA II                    29.70   S        033465-0         40327
+PCH BOCAIUVA                        29.50   S        029184-6         26103
+PCH BOM JESUS                        8.00 D                            1967
+PCH BOM JESUS DO GALHO               1.00   S                         26943
+PCH BONFANTE                        19.00   S        000291-7          4489
+PCH BRACINHO                        15.00   S                          6119
+PCH BRACO NORTE                      5.50   S                         26392
+PCH BRACO NORTE III                 14.04   S        027176-4         26322
+PCH BRACO NORTE IV                  13.98   S        028772-5         26323
+PCH BRECHA                          12.40   S                         26945
+PCH BRITO                            2.90   S                         26945
+PCH BUGRES                          11.50 D                            9137
+PCH BURITI                          30.00   S        028753-9         40338
+PCH BURITI MT                       10.00   S                         26330
+PCH C PAULISTA                       1.69 D                            1937
+PCH CABECA DE BOI                   30.00   S        029733-0         26398
+PCH CABOCLO                          3.82   S        000345-0          1691
+PCH CABUI                           16.00 D                            1689
+PCH CACADOR                         22.50 D                            8186
+PCH CACH. DO POCO PRETO I E II       4.20 D                           30038
+PCH CACHIMBO ALTO                    9.81   S                          9539
+PCH CACHOEIRA ALTA                   0.30   S                          2151
+PCH CACHOEIRA DA LIXA - BA          14.80   S        028999-0         18509
+PCH CACHOEIRA DOS PRAZERES           3.75   S        000526-6          1680
+PCH CACHOEIRA ENCOBERTA             22.70 D                            2169
+PCH CACHOEIRA PRAZERES               3.80   S                          1691
+PCH CACHOEIRAO                      27.00                             26900
+PCH CAJU                            12.30 D                           28257
+PCH CAJURU                           7.20   S                         27503
+PCH CALHEIROS                       19.20 D                            1971
+PCH CANDENGO                        10.75                             18515
+PCH CANHADAO                        10.00   S                          6970
+PCH CANOA QUEBRADA                  28.00   S                         26383
+PCH CANTU 2                         19.55   S        029180-3         50217
+PCH CAPIGUI                          3.80 D                            8294
+PCH CAPIVARI                        12.48   S        000659-9          6530
+PCH CARANGOLA                       15.00   S        027731-2          1655
+PCH CASCA III                       12.42   S        000688-2         26308
+PCH CASTANHAO                        9.00 D                           15510
+PCH CASTRO                           4.00   S                          6881
+PCH CAVEIRAS                         4.07   S                          6309
+PCH CAVERNOSO II                    19.00   S        030458-1         45061
+PCH CAZUZA FERREIRA                  9.10   S        000735-8         29974
+PCH CELSO RAMOS                     13.92 D                            6433
+PCH CESAR FILHO                      7.00   S        031050-6          9637
+PCH CGH BURITIRANA                   1.12   S                         18516
+PCH CGH BURITIZAL                    5.00   S                         26098
+PCH CGH CORRENTAO                    2.70 D                           26444
+PCH CGH FAZENDA MODELO               5.00 D                           25742
+PCH CGH JULIANA I, II, VARGIDO       0.85                             18534
+PCH CGH KONA                         3.00 D                           26415
+PCH CGH PIABANHA                     1.35   S                         18517
+PCH CGH SANTA LUZIA                  1.50   S                         35190
+PCH CGH SAPEZAL                      0.70 D                           26446
+PCH CGH SIRIVERA                     1.80   S                         18518
+PCH CGH SUCURI                       2.75   S                         18519
+PCH CGH TAPUIAS                      1.80   S                         18520
+PCH CGH VALE VERDE                   1.00 D                           17003
+PCH CHALE                            2.10   S                         26927
+PCH CHAMINE                         18.00 D                            6899
+PCH CHOPIM I                         1.98   S                         45056
+PCH CIDEZAL                         16.77   S        028836-5          1372
+PCH CLAIRTO ZONTA                   15.00   S                         45120
+PCH COBRE KM 19                     14.20 D                            7053
+PCH COCAIS GRANDE                   10.00   S                          1659
+PCH COLINO 1 - BA                   11.00   S        029004-1         18507
+PCH COLINO 2 - BA                   16.00   S        028997-3         18506
+PCH COMODRO                         10.00 D                           26449
+PCH CONFLUENCIA                     27.00   S                          7232
+PCH COQUEIRAL                        3.16   S        029769-0          6066
+PCH CORACAO                          4.60   S                         50247
+PCH CORONEL DOMICIANO                5.04 D                            2133
+PCH CORREGPCH034                     3.80   S                          8376
+PCH CORRENTE GRANDE                 14.00   S                         26911
+PCH COSTA RICA                      15.81   S        000872-9          7795
+PCH COTIPORA                        19.50 D                            8188
+PCH COVO                             5.00 D                           50203
+PCH COXILHA RICA                    18.00   S                          8739
+PCH CRIUVA                          24.00 D                            8738
+PCH CUREMAS                          3.50 D                           16501
+PCH DA FAZENDA                      26.49   S        029734-8         26395
+PCH DA ILHA                         26.00 D                            8189
+PCH DAS PEDRAS                       5.60 D                           45078
+PCH DERIVACAO RIO JORDAO             6.50   S                         45055
+PCH DIAMANTINO                      18.36   S                          1360
+PCH DIANOPOLIS                      17.39   S                         20585
+PCH DIVINO                           1.00   S                         26942
+PCH DIVISA                          10.80   S        029048-3          1372
+PCH DOIDO                            6.00   S        031244-4          1680
+PCH DORES DE GANHAES                13.18   S        028781-4         27058
+PCH DURANDE                          3.00   S                         26941
+PCH EDGARD DE SOUZA                 12.00   S                         34452
+PCH ELOY CHAVES                     18.94   S        027108-0         30015
+PCH EMBAUBA                          4.50 D                           25804
+PCH ENXADRISTA                       1.00 D                           50245
+PCH ERNESTINA                        4.90 D                            8288
+PCH ERVALIA                          6.97 D                            2164
+PCH ESMERALDA                       22.20   S                          8346
+PCH ESTIVADINHO 3                    9.90   S        033415-4         26201
+PCH FAGUNDES                         3.60 D                           28277
+PCH FAXINAL DOS GUEDES               1.00 D                            6410
+PCH FAXINAL I                        2.80 D                           25712
+PCH FAXINAL II                      10.00 D                           25712
+PCH FAXINAL II EXPANSAO             20.00 D                           25712
+PCH FAZENDA DO SALTO                 9.85 D                            6910
+PCH FAZENDA VELHA                   16.50   S                         23366
+PCH FIGUEIRA                         1.40   S                         42000
+PCH FIGUEIROPOLIS                   19.30   S        029145-5         26431
+PCH FLOR DO SERTAO                  16.50 D                            6457
+PCH FORQUILHA                        6.00   S                         45082
+PCH FORQUILHA IV                    13.00   S                          8360
+PCH FORTUNA II                       8.46   S        028426-2         27057
+PCH FOZ DO CEDRO                    24.00 D                           26211
+PCH FOZ DO CHOPIM                   27.60   S                          6956
+PCH FOZ DO ESTRELA                  29.50 D                           50255
+PCH FRANCA AMARAL                    4.50 D                           28252
+PCH FRANCISCO GROSS                 28.97   S        028380-0          1325
+PCH FUMACA                           9.70   S        027957-9          1691
+PCH FUMACA IV                        4.50 D                           34751
+PCH FUNDAO                           2.70   S                         45055
+PCH FUNIL                            3.55   S        027066-0          1657
+PCH FURNAS DO SEGREDO                9.80 D                            7598
+PCH FURQUIM                          5.88   S        028175-1          1691
+PCH GAFANHOTO                       13.50   S                          1786
+PCH GALHEIROS I                     11.55   S        030312-7         42611
+PCH GAMELEIRA                       14.00 D                            1226
+PCH GARCIA                           8.90 D                            6095
+PCH GARCIA DE ANGELINA               2.00 D                            6081
+PCH GARGANTA JARARACA               29.30   S        028918-3         26411
+PCH GLORIA                          13.80 D                            2131
+PCH GOIANDIRA                       27.00   S                          1268
+PCH GUARITA                         20.00 D                            8156
+PCH GUARY                            5.32   S        001078-2          2151
+PCH GUSTAVO PAIVA                    0.86 D                           17505
+PCH HENRIQUE KOTZIAN                13.00   S        029246-0          9152
+PCH IBIRAMA                         21.00 D                            6251
+PCH ILHA COMPRIDA                   19.91   S        028835-7          4314
+PCH INDAIA - MS                      3.20 D                            8365
+PCH INDAIA GRANDE (FIGUEIRA)        19.99            030078-0         42583
+PCH INDAIAZINHO (GUATAMBU)          12.49            030079-9         42585
+PCH INDIAVAI                        28.00   S        027370-8         26403
+PCH INGA                             1.26   S                          2151
+PCH INGA MIRIM                       1.00   S                          2151
+PCH INHAPIM                          6.00   S                         26944
+PCH INXU                            21.55   S        030642-8          1411
+PCH IRARA                           30.00   S                          1247
+PCH ITUERE                           4.10   S                          2111
+PCH IVAN BOTELHO I (PONTE)          25.00   S        027534-4          2168
+PCH IVAN BOTELHO II (PALESTINA)     12.60   S        027727-4          2163
+PCH IVAN BOTELHO III (TRIUNFO)      24.40   S        027532-8         55479
+PCH JACARE                           8.86   S        028749-0         27059
+PCH JAGUARI                          3.00 D                           30003
+PCH JARARACA                        28.00 D                            8191
+PCH JARDIM                           9.00   S        030887-0         50224
+PCH JARU                            10.50 D                            9647
+PCH JASPE                            5.10 D                            6442
+PCH JATAI                           30.00   S                          1249
+PCH JESUITA                         22.30   S                          4314
+PCH JOAO BORGES                     19.00   S        029332-6         43842
+PCH JOAO CAMILO PENA                22.00   S        000473-1         55480
+PCH JOASAL                           8.00   S                         27202
+PCH JONAS PINHEIRO                   6.30 D                           25806
+PCH JORGE DREHER                    17.87   S        029245-1         29858
+PCH JOSE FERNANDO                   29.10   S        028825-0          1316
+PCH JOSE GELASIO                    23.17   S        028845-4         26340
+PCH JUI 117                         25.00   S        034966-6         26203
+PCH JUIZ DE FORA I                   9.70   S                          1697
+PCH JULIUS                           0.33 D                            1935
+PCH LACERDOPOLIS                     9.60 D                           50249
+PCH LAGOA GRANDE - TO               24.30   S        029057-2         18529
+PCH LAJARI                          20.88   S        033386-7          1325
+PCH LAJEADO - MS                     8.80 D                            8364
+PCH LAJES (FONTES VELHA)            16.70   S                          4280
+PCH LAMBARI                          4.00   S                         50237
+PCH LAVRINHAS                       30.00   S        029114-5          2963
+PCH LIMEIRA                          1.26 D                            2133
+PCH LINHA 3 LESTE                   13.50 D                            8155
+PCH LINHA APARECIDA                 24.92   S        030636-3         50222
+PCH LINHA EMILIA                    19.50 D                            8187
+PCH LINHA JACINTO                   17.41   S        030637-1         50222
+PCH LINHA RICA                       8.00 D                            6398
+PCH LUCIA CHEROBIM                  28.00 D                           45651
+PCH LUDESA                          30.00   S        028801-2          6800
+PCH MACABU                          18.00 D                           28253
+PCH MACACOS                          9.90   S        035006-0          7196
+PCH MALAGONE                        19.00   S        029646-5         27302
+PCH MAMBAI II                       12.00   S                          1272
+PCH MANOPLA                          5.66 D                           17005
+PCH MANTOVILLIS                      5.20   S                         26205
+PCH MARACANA                        10.50   S                         26107
+PCH MARMELOS                         3.90   S                         27200
+PCH MAROMBAS                         2.00 D                            6307
+PCH MAROMBAS I                       3.30 D                            6306
+PCH MAROMBAS II                      1.80 D                            6306
+PCH MARTINS                          7.60   S                          1750
+PCH MARUMBA                          4.80   S                         45066
+PCH MATA VELHA                      24.00   S        028607-9          1829
+PCH MATIPO                           0.42 D                            2155
+PCH MATRINCHA                       29.70            035325-6          3304
+PCH MEDIO GARCIA                     1.00   S                         50238
+PCH MELISSA                          0.96   S                         45062
+PCH MESTRE                           2.00 D                           25817
+PCH MIGUEL PEREIRA                   0.74 D                            2129
+PCH MIRADOURO                        1.26 D                            2131
+PCH MOINHO                          13.50   S        029725-9          8724
+PCH MONTE SERRAT                    25.00   S        001498-2          4491
+PCH MORRO GRANDE                     9.80   S        030950-8         50225
+PCH MOSQUITAO                       30.00   S        028541-2          1246
+PCH MOURAO I                         8.26 D                            6907
+PCH MUCURI                          18.81   S        028842-0         26912
+PCH NINHO DA AGUIA                  10.00   S        027576-0         27902
+PCH NOVA AURORA                     21.00   S                          1269
+PCH NOVA FATIMA                      4.10   S        029139-0          6504
+PCH NOVA GUAPORE                    13.96   S        034705-1          1344
+PCH NOVA JAGUARIAIVA                 1.22   S                         45058
+PCH NOVA MAURICIO                   29.00 D                            2125
+PCH NOVA MUTUM                      11.90   S                         26094
+PCH NOVA XAVANTINA                   7.00   S                         26333
+PCH NOVO HORIZONTE                  23.00   S        028782-2         45076
+PCH OMBREIRAS                       26.00   S        027216-7         26421
+PCH OURO                            16.00   S        028968-0          8724
+PCH PACIENCIA                        4.08   S                         27201
+PCH PACIFICO MASCARENHAS             5.00 D                            1564
+PCH PAI JOAQUIM                     23.00   S                          1438
+PCH PAIOL                           20.00   S        028670-2         26904
+PCH PALANQUINHO                     24.00 D                            8743
+PCH PALMAS                          11.20 D                           45054
+PCH PALMEIRAS                       16.00   S        028800-4          6238
+PCH PAMPEANA                        28.00   S        029376-8         25705
+PCH PARACAMBI                       25.00   S        001959-3          4278
+PCH PARAISO                          1.00   S                         50239
+PCH PARAISO I                       21.38   S        027587-5          7795
+PCH PARANATINGA II                  29.02   S        028832-2         26409
+PCH PARECIS                         15.17   S        028819-5          4315
+PCH PASSO DO MEIO                   29.87            001999-2          8781
+PCH PASSO FERRAZ                     1.00   S                          6405
+PCH PASSOS MAIA                     22.20   S                          6794
+PCH PEDRA DO GARRAFAO               19.00 D                           35110
+PCH PEDRA FURADA                     6.50 D                           17004
+PCH PEDRINHO I                      16.20   S                          6792
+PCH PEQUI                            6.00 D                           25803
+PCH PERDIDOS                        28.00   S                         26096
+PCH PERY                            25.60   S        002045-1          6302
+PCH PERY II                         30.00   S                          6305
+PCH PESQUEIRO                       12.44 D                            6995
+PCH PETI                             9.85   S                          1597
+PCH PEZZI                           18.80            028988-4          8729
+PCH PIABANHA                        33.00 D                           28256
+PCH PIEDADE                         16.02   S                         27308
+PCH PINHAL                           6.78   S        027228-0         30014
+PCH PIPOCA                          20.00   S                         26901
+PCH PIRA                            20.45 D                            6386
+PCH PIRANHAS                        18.00   S                          1245
+PCH PIRAPANEMA                       1.26 D                            2133
+PCH PIRAPETINGA                     18.00 D                            1974
+PCH PIRAPORA                        25.00   S        029721-6         55478
+PCH PLANALTO                        16.83   S        028737-7          7795
+PCH PLANO ALTO                      16.20 D                            6485
+PCH POCO FUNDO                      14.00   S                         28750
+PCH POCO FUNDO-MG                   30.00   S                         27903
+PCH PONTA GROSSA                     3.31 D                           44654
+PCH PONTAL DO PRATA                 12.00   S                         23335
+PCH PONTE ALTA                      13.00 D                           40344
+PCH PONTE BRANCA                    10.20 D                            2201
+PCH PONTE QUEIMADA I                 0.90   S                         26943
+PCH PONTE QUEIMADA II                0.90   S                         26945
+PCH PONTE SERRADA                    4.10 D                           50240
+PCH PORTO DAS PEDRAS                28.03   S        028995-7          7850
+PCH PORTO FRANCO - TO               29.71   S        029059-9         18525
+PCH PRAZERES                         1.75   S                          1696
+PCH PRESENTE DE DEUS                13.00 D                           26450
+PCH PRESIDENTE GOULART              10.00 D                           18501
+PCH PRIMAVERA                       18.20   S        028840-3         26310
+PCH PUCON                            7.50 D                           26414
+PCH PULO                             8.40   S                         50229
+PCH QUEBRA DENTES                   22.36 D                           50264
+PCH QUEBRADA FUNDA                  16.00                              8719
+PCH QUEIXADA                        30.00   S        030272-4         23337
+PCH QUELUZ                          30.00   S        029115-3          2964
+PCH RABO DO MACACO                   5.70   S        032305-5          7795
+PCH RASGAO                          22.00   S        002187-3         58392
+PCH RECANTO                          9.11   S                         26106
+PCH RENIC                           15.83   S        029663-5         23353
+PCH RETIRO                          15.60   S        028738-5         29991
+PCH RETIRO VELHO                    18.00   S        028771-7          7850
+PCH RIACHAO (ANTIGA SANTA EDWIGE    13.40   S                          1272
+PCH RIACHO PRETO - TO                9.30   S        029058-0         18527
+PCH RINCAO                          10.00   S                         50246
+PCH RIO DAS PACAS                    2.10   S        031735-7          7795
+PCH RIO DE PEDRAS                    8.62   S                          1596
+PCH RIO DOS CEDROS                   8.90 D                            6240
+PCH RIO DOS INDIOS                   1.00   S                          6451
+PCH RIO DOS PATOS                    1.64   S                         45063
+PCH RIO FORTUNA                      6.85   S        029140-4          6538
+PCH RIO NATAL I                      8.48   S        032264-4          7795
+PCH RIO VERMELHO 1                   3.00   S                          7228
+PCH RIO VERMELHO 2                   2.15   S                          7232
+PCH RIO VERMELHO 3                   2.40   S                          7795
+PCH ROCA GRANDE                      0.77   S                          2151
+PCH RODEIO                           9.75   S                          7735
+PCH RODEIO BONITO                   14.50 D                            6429
+PCH ROLI01PCH013/ALTA FLORESTA       5.00   S                          9516
+PCH ROLI01PCH013/ALTO E I E II       1.65   S                          9516
+PCH ROLI01PCH013/MONTE BELO          4.00   S                          9516
+PCH ROLI01PCH013/SANTA LUZIA         3.00   S                          9516
+PCH ROLI02PCH013/RIO BRANCO          6.90   S                          9579
+PCH ROLI02PCH013/SALDANHA            4.80   S                          9579
+PCH RONCADOR                         6.00 D                           50234
+PCH RONDON                          12.77   S        002547-0          1317
+PCH RONDONOPOLIS                    26.21   S        028848-9         26337
+PCH RUDOLF                           9.00   S        031208-8         43556
+PCH SACRE II                        30.00   S        028796-2         25708
+PCH SALGADO                         16.00 D                            1226
+PCH SALTO - MG                       4.21   S        027719-3          1691
+PCH SALTO - MT                      19.00   S        028203-0         26429
+PCH SALTO BANDEIRANTES               4.20   S                          6914
+PCH SALTO BURITI                    10.00   S        028671-0         19587
+PCH SALTO CORGAO                    27.00   S        027326-0         26408
+PCH SALTO CURUA                     30.00   S        028672-9         19586
+PCH SALTO DAS FLORES                 6.70   S                          6455
+PCH SALTO DO GUASSUPI               12.20 D                           50265
+PCH SALTO DO VAU                     0.96   S                         45064
+PCH SALTO GOES                      20.00   S        030338-0          6379
+PCH SALTO GRANDE                     2.00 D                           30002
+PCH SALTO NATAL                     16.00 D                            7210
+PCH SALTO TRES DE MAIO              20.00   S        028653-2         19582
+PCH SALTO WEISS BACH                 6.30 D                            6205
+PCH SAMUEL                          26.82   S                         20501
+PCH SAN JUAN                         4.87   S        002688-3         56090
+PCH SANTA ANA                        6.30   S        029778-0          6068
+PCH SANTA BARBARA                    1.10 D                            2131
+PCH SANTA CAROLINA                  10.50   S        030723-8          8733
+PCH SANTA CECILIA MG                 0.42 D                            2129
+PCH SANTA CECILIA MT                 3.50 D                           25817
+PCH SANTA CLARA                      3.60   S                         45055
+PCH SANTA EDWIGES II                13.00   S                          1272
+PCH SANTA EDWIGES III               11.60   S                          1272
+PCH SANTA FE                        30.00   S        028752-0          4487
+PCH SANTA FE - ES                   20.80   S                         35111
+PCH SANTA GABRIELA                  24.00   S        028996-5         26339
+PCH SANTA LAURA                     15.30 D                            6459
+PCH SANTA LUCIA II                   7.60   S                         26372
+PCH SANTA LUZIA                     15.50 D                           18510
+PCH SANTA LUZIA ALTO                28.50   S        029652-0          6901
+PCH SANTA ROSA - SC                  6.50   S        028844-6          6538
+PCH SANTA ROSA II                   30.00 D                           28255
+PCH SANTANA                          4.30 D                           30040
+PCH SANTO ANTONIO                    8.00 D                           28259
+PCH SANTO ANTONIO DO CAIAPO         30.00   S        029119-6         23338
+PCH SANTO CRISTO                    19.50   S                         50218
+PCH SANTO TESSARO                    1.00 D                           50248
+PCH SAO BARTOLOMEU                  12.00 D                            1226
+PCH SAO BERNARDO                    15.00   S                          8346
+PCH SAO BERNARDO MG                  7.40   S                          1851
+PCH SAO CARLOS                      15.20   S                          6399
+PCH SAO DOMINGOS                    12.00   S                          1272
+PCH SAO DOMINGOS II                 24.00   S        028388-6         42610
+PCH SAO FRANCISCO                   14.00 D                           45069
+PCH SAO GONCALO                     13.00 D                           26909
+PCH SAO JOAO DE CAIANA               1.00   S                         26942
+PCH SAO JOAO II                      7.00   S                          7147
+PCH SAO JOAQUIM                     21.00   S        027985-4         35097
+PCH SAO LOURENCO                    29.10   S                         25810
+PCH SAO LUIZ                        10.50 D                           35017
+PCH SAO PAULO                       16.00   S        029067-0          8726
+PCH SAO PAULO DO PIMENTA BUENO      18.20   S                          9638
+PCH SAO PEDRO                       30.00   S        028986-8         35095
+PCH SAO SEBASTIAO                    1.00 D                            6063
+PCH SAO SEBASTIAO DO ALTO           11.00 D                           28258
+PCH SAO SIMAO                       27.00   S        028171-9         35099
+PCH SAO TADEU                       17.89   S        028806-3         26314
+PCH SAPEZAL                         15.77   S        028821-7         29915
+PCH SEDE II                          7.00 D                           50223
+PCH SEGREDO                         25.87   S        028822-5          4314
+PCH SENHORA DO PORTO                11.62   S        028735-0         27060
+PCH SERRA DAS AGULHAS               29.77   S        031207-0         27778
+PCH SERRA DOS CAVALINHOS I          24.40            031324-6          7784
+PCH SERRA DOS CAVALINHOS II         28.70            030337-2          7783
+PCH SERRA NEGRA                      3.00 D                            1673
+PCH SETE QUEDAS                     22.00   S        028853-5         25809
+PCH SIMONESIA                        3.00   S                          2151
+PCH SINCERIDADE                      1.42   S                          2151
+PCH SITIO GRANDE                    25.20 D                           18514
+PCH SOCORRO                          0.30   S                         30016
+PCH SUCUPIRA                         4.50 D                           25804
+PCH SUMIDOURO                        2.12   S                         26903
+PCH TAMANDUA                        16.00   S        030410-7          6346
+PCH TAMBORIL 29648                  15.80   S        029648-1          1237
+PCH TAMBORIL 35113                  15.80   S        035113-0         23355
+PCH TELEGRAFICA                     29.77   S        028820-9          1317
+PCH TERRA SANTA                     27.40   S        029367-9         25703
+PCH TIGRE                            9.00   S                         45055
+PCH TOTAL NOVA TRENTO                5.20   S                          6222
+PCH TOTAL PRATA                      9.60   S                          6407
+PCH TRONQUEIRAS                      8.50   S                          1656
+PCH TULIO CORDEIRO DE MELO          16.50   S        001047-2          2161
+PCH TUPINAMBA                        3.50 D                           25745
+PCH TUPITINGA                       24.00   S                          8744
+PCH UNAI BAIXO                      26.00   S        028673-7          1838
+PCH USINA DA PEDRA                  19.90   S                         18521
+PCH USINAL DO FUNIL                 29.96   S                         18522
+PCH VARGINHA                         9.00   S                         26907
+PCH VARZEA ALEGRE                    7.00   S                         26908
+PCH VERDE 02                        19.30 D                           23386
+PCH VERDE 02 BAIXO                  22.50 D                           23375
+PCH VERDE 08                        30.00   S                         23363
+PCH VERDE 4                         18.55   S                         40327
+PCH VERDE 4A                        27.44   S        029261-3         40329
+PCH VERDE 8                         30.00   S                         23304
+PCH VICTOR BAPTISTA ADAMI           25.00   S        029072-6          7116
+PCH VILA GALUPO                      5.67   S                          6444
+PCH VILHENA                         38.00 D                            9654
+PCH VILHENAPCH013/APERTADINHO       30.00                             41970
+PCH VILHENAPCH013/CABIXI I           2.70                             41970
+PCH VILHENAPCH013/CABIXI II          2.80                             41970
+PCH VILHENAPCH013/CACHOEIRA         11.20                             41970
+PCH VILHENAPCH013/CASCATA            3.57                             41970
+PCH VILHENAPCH013/CASTAMAN           4.23                             41970
+PCH VILHENAPCH013/MARTINUV           1.10                             41970
+PCH VILHENAPCH013/RIO VERMELHO       2.00                             41970
+PCH WILLY FALLER                     1.00   S                         50235
+PCH XICAO                            1.92   S                          1859
+PCH YPE                             30.00   S        031327-0         23365
+PCH ZE TUNIN                         8.10   S        030597-9          2173
+UFV AC III                          34.00            037403-2         38971
+UFV AC IV                           40.00            037404-0         38971
+UFV AC IX                           40.00            037550-0         38971
+UFV AC V                            40.00            037390-7         38971
+UFV AC VI                           38.00            037405-9         38971
+UFV AC VII                          40.00            037548-9         38971
+UFV AC VIII                         40.00            037549-7         38971
+UFV AC X                            40.00            037551-9         38971
+UFV AC XV                           50.00            037626-4         38971
+UFV AC XVI                          40.00            037627-2         38971
+UFV AC XVII                         50.00            037628-0         38971
+UFV AC XVIII                        40.00            037629-9         38971
+UFV AC XVIX                         34.00            037630-2         38971
+UFV AC XX                           32.00            037631-0         38971
+UFV AC XXI                          40.00            037632-9         38971
+UFV AC XXII                         40.00            037633-7         38971
+UFV AC XXIII                       420.00            037634-5         38971
+UFV AGUA VERMELHA IV                15.00   S        034206-8         60037
+UFV AGUA VERMELHA V                 30.00   S        034207-6         60037
+UFV AGUA VERMELHA VI                30.00   S        034208-4         60037
+UFV ALEX I                          30.00            035699-9         56085
+UFV ALEX III                        30.00            035883-5         56086
+UFV ALEX IV                         30.00            035884-3         56087
+UFV ALEX IX                         30.00            035863-0         56092
+UFV ALEX V                          30.00            035859-2         56088
+UFV ALEX VI                         30.00            035860-6         56089
+UFV ALEX VII                        30.00            035861-4         56090
+UFV ALEX VIII                       30.00            035862-2         56091
+UFV ALEX X                          30.00            035864-9         56093
+UFV ANGICO 1                        27.20 D                           58259
+UFV APODI I                         33.00            033917-2         56293
+UFV APODI II                        33.00            033918-0         56294
+UFV APODI III                       33.00            033919-9         56295
+UFV APODI IV                        33.00            033920-2         56296
+UFV ARAXA 1                         44.22   S        040851-4          1714
+UFV ARAXA 2                         44.22   S        040852-2          1714
+UFV ASSU V                          30.00   S        034184-3           224
+UFV ASSURUA                         30.00 D                           59173
+UFV BELMONTE 1-1                    49.11            040725-9           220
+UFV BELMONTE 1-2                    49.11            040726-7           220
+UFV BELMONTE 1-3                    49.11            040727-5           220
+UFV BELMONTE 1-4                     5.07            040728-3           220
+UFV BJL 11                          20.00            034153-3         59450
+UFV BJL 4                           20.00            034158-4         59456
+UFV BJL II                          29.30 D                           59434
+UFV BOA HORA 1                      23.04   S        034161-4         58388
+UFV BOA HORA 2                      23.04   S        034162-2         58389
+UFV BOA HORA 3                      23.04   S        034163-0         58390
+UFV BOM LUGAR IV                    36.30            035645-0           217
+UFV BOM LUGAR IX                    36.30            035675-1           217
+UFV BOM LUGAR V                     36.30            035680-8           217
+UFV BOM LUGAR VI                    35.20            035672-7           217
+UFV BOM LUGAR VII                   36.30            035676-0           217
+UFV BOM LUGAR VIII                  36.30            035679-4           217
+UFV BRIGIDA                         27.00 D                           58113
+UFV BRIGIDA 1                       31.50   S        034169-0         58114
+UFV BRIGIDA 2                       31.50   S        034234-3         58116
+UFV BRISAS SUAVES                    5.00   S                         60027
+UFV CAETITE Va                       4.00            038168-3         11594
+UFV CASSILANDIA 1                   49.11            035659-0         38853
+UFV CASSILANDIA 2                   49.11            035660-3         38853
+UFV CASSILANDIA 3                   49.11            035661-1         38853
+UFV CASSILANDIA 4                   49.11            035662-0         38853
+UFV CASSILANDIA 5                   49.11            035663-8         38853
+UFV CASSILANDIA 6                    5.07            035664-6         38853
+UFV COREMAS I                       26.70            032311-0         58243
+UFV COREMAS II                      26.70            032926-6         58258
+UFV COREMAS III                     26.70            032544-9         58263
+UFV DELIO BERNARDINO VIII          309.00            040186-2         38900
+UFV DRACENA 1                       27.00   S        032312-8         33129
+UFV DRACENA 2                       27.00   S        032313-6         33129
+UFV DRACENA 4                       27.00   S        032315-2         33129
+UFV EMTEP 3                         85.00            040848-4           206
+UFV ESTADIO PITUACU                  0.40 D                           18536
+UFV ETESA S. J. DO PIAUI I          31.67            034785-0         58387
+UFV ETESA S. J. DO PIAUI II         31.67            034786-8         58388
+UFV ETESA S. J. DO PIAUI III        31.67            034787-6         58389
+UFV ETESA S. J. DO PIAUI IV         28.40            034788-4         58390
+UFV ETESA S. J. DO PIAUI V          28.40            034789-2         58391
+UFV ETESA S. J. DO PIAUI VI         31.38            034790-6         58392
+UFV FAZENDA ESMERALDA               29.00 D                           58763
+UFV FLORESTA I                      31.00            034310-2         56299
+UFV FLORESTA II                     31.00            034309-9         56300
+UFV FLORESTA III                    21.00            033569-0         56301
+UFV FONTE SOLAR I                    5.00                             58748
+UFV FONTE SOLAR II                   5.00                             58749
+UFV FONTES SOLAR I                   5.00            032372-1         58753
+UFV FONTES SOLAR II                  5.00            032373-0         58753
+UFV FRANCISCO SA 1                  29.99   S        033236-4         60043
+UFV FRANCISCO SA 2                  29.99   S        033237-2         60041
+UFV FRANCISCO SA 3                  29.99   S        033238-0         60042
+UFV FRV MASSAPE                      0.10 D                           55454
+UFV GAMELEIRA 1                     30.00            040708-9           221
+UFV GAMELEIRA 2                     30.00            040709-7           221
+UFV GAMELEIRA 3                     30.00            040710-0           221
+UFV GAMELEIRA 4                     30.00            040711-9           221
+UFV GRAVIOLA 1                      75.00            036925-0           237
+UFV GRAVIOLA 2                      75.00            036926-8           237
+UFV GRAVIOLA 3                      75.00            037745-7           237
+UFV GRAVIOLA 4                      75.00            037746-5           237
+UFV GUAIMBE 1                       30.00   S        032326-8         60031
+UFV GUAIMBE 2                       30.00   S        032327-6         60031
+UFV GUAIMBE 3                       30.00   S        032328-4         60031
+UFV GUAIMBE 4                       30.00   S        032329-2         59079
+UFV GUAIMBE 5                       30.00   S        032330-6         60031
+UFV GUIMARANIA 1                    31.00   S        034073-1         60022
+UFV GUIMARANIA 2                    31.00   S        034074-0         60023
+UFV HELIO VALGAS 1                  50.00            042991-0          1524
+UFV HELIO VALGAS 10                 50.00            043001-3          1524
+UFV HELIO VALGAS 2                  50.00            042992-9          1524
+UFV HELIO VALGAS 3                  50.00            042993-7          1524
+UFV HELIO VALGAS 4                  50.00            042994-5          1524
+UFV HELIO VALGAS 5                  50.00            042995-3          1524
+UFV HELIO VALGAS 6                  50.00            042996-1          1524
+UFV HELIO VALGAS 7                  50.00            042997-0          1524
+UFV HELIO VALGAS 8                  50.00            042998-8          1524
+UFV HELIO VALGAS 9                  50.00            042999-6          1524
+UFV HORIZONTE MP 1                  28.30            033757-9         59437
+UFV HORIZONTE MP 11                 19.70            033777-3         59438
+UFV HORIZONTE MP 2                  28.30            033759-5         59439
+UFV ITAPURANGA SOLAR                 9.10   S                         60026
+UFV ITUVERAVA 1                     28.00            032316-0         59413
+UFV ITUVERAVA 2                     28.00            032317-9         59414
+UFV ITUVERAVA 3                     28.00            032318-7         59415
+UFV ITUVERAVA 4                     28.00            032319-5         59416
+UFV ITUVERAVA 5                     28.00            032320-9         59417
+UFV ITUVERAVA 6                     28.00            032321-7         59418
+UFV ITUVERAVA 7                     28.00            032322-5         59419
+UFV JAIBA SE1                       40.00   S                          1710
+UFV JANAUBA 1                       49.11            040857-3         38900
+UFV JANAUBA 10                      49.11            040866-2         38900
+UFV JANAUBA 11                      49.11            040867-0         38900
+UFV JANAUBA 12                      49.11            040868-9         38900
+UFV JANAUBA 13                      49.11            040869-7         38900
+UFV JANAUBA 14                      49.11            040870-0         38900
+UFV JANAUBA 15                      49.11            040871-9         38900
+UFV JANAUBA 16                      49.11            040872-7         38900
+UFV JANAUBA 17                      49.11            040873-5         38900
+UFV JANAUBA 18                      49.11            040874-3         38900
+UFV JANAUBA 19                      49.11            040875-1         38900
+UFV JANAUBA 2                       49.11            040858-1         38900
+UFV JANAUBA 20                      49.11            040876-0         38900
+UFV JANAUBA 3                       49.11            040859-0         38900
+UFV JANAUBA 4                       49.11            040860-3         38900
+UFV JANAUBA 5                       49.11            040861-1         38900
+UFV JANAUBA 6                       49.11            040862-0         38900
+UFV JANAUBA 7                       49.11            040863-8         38900
+UFV JANAUBA 8                       49.11            040864-6         38900
+UFV JANAUBA 9                       49.11            040865-4         38900
+UFV JUAZEIRO SOLAR I                29.99            033928-8         58627
+UFV JUAZEIRO SOLAR II               29.99            033929-6         58628
+UFV JUAZEIRO SOLAR III              29.99            033930-0         58629
+UFV JUAZEIRO SOLAR IV               29.99            033931-8         58630
+UFV JUAZEIRO V                      45.88            043284-9         58630
+UFV JUAZEIRO VI                     45.88            043285-7         58630
+UFV JUAZEIRO VII                    45.88            043286-5         58630
+UFV JUAZEIRO VIII                   14.74            044754-4         58630
+UFV LAPA 2                          30.00            034437-0         59442
+UFV LAPA 3                          30.00            034333-1         59443
+UFV LAVRAS 1                        27.00            037865-8         55476
+UFV LAVRAS 2                        27.00            037866-6         55477
+UFV LAVRAS 3                        27.00            037867-4         55478
+UFV LAVRAS 4                        27.00            037868-2         55479
+UFV LAVRAS 5                        27.00            037869-0         55480
+UFV LEO SILVEIRA 1                  48.11            037830-5         60111
+UFV LEO SILVEIRA 10                 48.11            037839-9         60120
+UFV LEO SILVEIRA 2                  48.11            037831-3         60112
+UFV LEO SILVEIRA 3                  48.11            037832-1         60113
+UFV LEO SILVEIRA 4                  48.11            037833-0         60114
+UFV LEO SILVEIRA 5                  48.11            037834-8         60115
+UFV LEO SILVEIRA 6                  48.11            037835-6         60116
+UFV LEO SILVEIRA 7                  48.11            037836-4         60117
+UFV LEO SILVEIRA 8                  48.11            037837-2         60118
+UFV LEO SILVEIRA 9                  48.11            037838-0         60119
+UFV LUIZ GONZAGA II                 30.00 D                           58112
+UFV LUZEIRO 1                       25.20            046525-9          2871
+UFV LUZEIRO 2                       25.20            046526-7          2871
+UFV LUZEIRO 3                       25.20            046527-5          2871
+UFV LUZEIRO 4                       25.20            046528-3          2871
+UFV LUZEIRO 5                       25.20            046529-1          2871
+UFV LUZEIRO 6                       22.05            046530-5          2871
+UFV MALTA                           27.20 D                           58260
+UFV MAURITI 1                       49.11            038364-3           221
+UFV MAURITI 2                       24.56            038365-1           221
+UFV MAURITI 3                       49.11            038366-0           221
+UFV MAURITI 4                       49.11            038367-8           221
+UFV MAURITI 5                       49.11            038368-6           221
+UFV MAURITI 6                       49.11            038369-4           221
+UFV MAURITI 7                       14.73            038370-8           221
+UFV MAURITI 8                       49.11            038371-6           221
+UFV MAURITI 9                        9.82            038372-4           221
+UFV MILAGRES I                      32.41            044573-8         58836
+UFV MILAGRES II                     32.41            044574-6         58841
+UFV MILAGRES III                    32.41            044575-4         58842
+UFV MILAGRES IV                     32.41            044579-7         58843
+UFV MILAGRES V                      32.41            044576-2         58844
+UFV MONTE VERDE SOLAR I             46.46            045153-3         56739
+UFV MONTE VERDE SOLAR II            49.68            045154-1         56739
+UFV MONTE VERDE SOLAR III           40.25            045155-0         56739
+UFV MONTE VERDE SOLAR IV            49.68            045156-8         56739
+UFV MONTE VERDE SOLAR V             49.45            045020-0         56739
+UFV MONTE VERDE SOLAR VI            37.26            045022-7         56739
+UFV MONTE VERDE SOLAR VII           31.05            045021-9         56739
+UFV MUNDO NOVO I                    44.00            040195-1         11225
+UFV MUNDO NOVO II                   46.00            040196-0         11225
+UFV MUNDO NOVO III                  46.00            040198-6         11225
+UFV MUNDO NOVO IV                   46.00            040197-8         11225
+UFV NOVA OLINDA 10                  30.00            033129-5         58164
+UFV NOVA OLINDA 11                  30.00            033130-9         58165
+UFV NOVA OLINDA 12                  30.00            033131-7         58166
+UFV NOVA OLINDA 13                  30.00            033132-5         58167
+UFV NOVA OLINDA 14                  30.00            033133-3         58168
+UFV NOVA OLINDA 8                   30.00            033127-9         58162
+UFV NOVA OLINDA 9                   30.00            033128-7         58163
+UFV PARACATU 1                      32.90   S        033999-7         60011
+UFV PARACATU 2                      32.90   S        034000-6         60012
+UFV PARACATU 3                      32.90   S        033990-3         60013
+UFV PARACATU 4                      32.90   S        033991-1         60014
+UFV PEDRANOPOLIS 1                  30.00   S                         60048
+UFV PEDRANOPOLIS 2                  30.00   S                         60048
+UFV PEDRANOPOLIS 3                  30.00   S                         60048
+UFV PEREIRA BARRETO I               41.49   S                          2616
+UFV PEREIRA BARRETO II              41.49   S                          2616
+UFV PEREIRA BARRETO III             41.49   S                          2616
+UFV PEREIRA BARRETO IV              41.49   S                          2616
+UFV PEREIRA BARRETO V               36.48   S                          2616
+UFV PIRAPORA 10                     30.00   S        033193-7         60008
+UFV PIRAPORA 2                      30.00   S        033185-6         60001
+UFV PIRAPORA 3                      30.00   S        033186-4         60002
+UFV PIRAPORA 4                      30.00   S        033187-2         60003
+UFV PIRAPORA 5                      30.00   S        033188-0         60004
+UFV PIRAPORA 6                      30.00   S        033189-9         60005
+UFV PIRAPORA 7                      30.00   S        033190-2         60006
+UFV PIRAPORA 9                      30.00   S        033192-9         60007
+UFV RAIOS DO PARNAIBA I             30.00            043203-2           536
+UFV RAIOS DO PARNAIBA II            30.00            044294-1           536
+UFV RAIOS DO PARNAIBA III           30.00            043204-0           536
+UFV RAIOS DO PARNAIBA IV            30.00            043208-3           536
+UFV RAIOS DO PARNAIBA IX            30.00            043205-9           536
+UFV RAIOS DO PARNAIBA V             30.00            043209-1           536
+UFV RAIOS DO PARNAIBA VI            30.00            043206-7           536
+UFV RAIOS DO PARNAIBA VII           30.00            043207-5           536
+UFV RAIOS DO PARNAIBA VIII          30.00            043212-1           536
+UFV RAIOS DO PARNAIBA X             30.00            043213-0           536
+UFV RAIOS DO POETA I                48.00            038283-3           364
+UFV RAIOS DO POETA II               48.00            038284-1           364
+UFV RIBEIRO GONCALVES II            36.85            041905-2           210
+UFV RIBEIRO GONCALVES III           36.85            041906-0           210
+UFV RIBEIRO GONCALVES IV            20.10            041907-9           210
+UFV RIO VERMELHO III                14.20   S                         31102
+UFV SAO GONCALO 1                   45.68            033841-9         59162
+UFV SAO GONCALO 10                  50.00            037577-2         59167
+UFV SAO GONCALO 11                  34.54            037578-0           836
+UFV SAO GONCALO 12                  34.54            037579-9           836
+UFV SAO GONCALO 14                  43.03            037581-0           836
+UFV SAO GONCALO 15                  43.03            037582-9           836
+UFV SAO GONCALO 17                  43.03            037584-5           836
+UFV SAO GONCALO 18                  43.03            037585-3           836
+UFV SAO GONCALO 19                  43.03            037586-1           836
+UFV SAO GONCALO 2                   50.00            033842-7         59163
+UFV SAO GONCALO 21                  50.00            037588-8         23363
+UFV SAO GONCALO 22                  50.00            037589-6         59169
+UFV SAO GONCALO 3                   45.68            033843-5         59164
+UFV SAO GONCALO 4                   50.00            033844-3         59165
+UFV SAO GONCALO 5                   50.00            033845-1         59166
+UFV SAO GONCALO 6                   45.68            033846-0           836
+UFV SAO GONCALO 7                   34.54            033847-8           836
+UFV SAO GONCALO 8                   34.54            033849-4           836
+UFV SAO PEDRO E PAULO I             25.00 D                           58300
+UFV SAO PEDRO E PAULO V             20.95 D                           58301
+UFV SAO PEDRO E PAULO VI            20.95 D                           58302
+UFV SAO PEDRO II                    29.84            033782-0         59446
+UFV SAO PEDRO IV                    29.84            033784-6         59447
+UFV SERRA DO MEL I                  60.00            037811-9         11565
+UFV SERRA DO MEL II                 20.00            037812-7         11565
+UFV SERTAO 1                        30.00 D                           58174
+UFV SERTAO SOLAR BARREIRAS I        28.00            033469-3         59407
+UFV SERTAO SOLAR BARREIRAS II       28.00            033470-7         59408
+UFV SERTAO SOLAR BARREIRAS III      28.00            033471-5         59498
+UFV SERTAO SOLAR BARREIRAS IV       28.00            033473-1         59509
+UFV SERTAO SOLAR BARREIRAS V        28.00                             59099
+UFV SOBRADO1                        30.00                             58633
+UFV SOBRAL I                        90.00            040766-6         58171
+UFV SOL DO SERTAO A                 21.00                             59110
+UFV SOL DO SERTAO II                13.00                             59111
+UFV SOL DO SERTAO III               21.00                             59112
+UFV SOL DO SERTAO VIII              98.80            032066-8           585
+UFV SOL DO SERTAO XII               49.40            032050-1           585
+UFV SOL DO SERTAO XIII              74.10            032052-8           585
+UFV SOL DO SERTAO XIV               15.62            032065-0           585
+UFV SOL DO SERTAO XXXV              18.75            032049-8           585
+UFV SOL DO SERTAO XXXVI             34.37            032067-6           585
+UFV SOL MAIOR 2                      5.00   S                         55023
+UFV SOL TAUA                         1.00 D                           55483
+UFV SOLAR JAIBA 3                   33.00   S                         60044
+UFV SOLAR JAIBA 4                   33.00   S                         60039
+UFV SOLAR JAIBA 9                   22.50   S                         60040
+UFV SOLAR SALGUEIRO                 30.00   S        033606-8         58108
+UFV SOLAR SALGUEIRO II              30.00   S        034160-6         58109
+UFV SOLAR SALGUEIRO III             30.00   S        034105-3         58110
+UFV STEELCONS SOL DO FUTURO I       27.00 D                           55473
+UFV STEELCONS SOL DO FUTURO II      27.00 D                           55474
+UFV STEELCONS SOL DO FUTURO III     27.00 D                           55475
+UFV SURUBIM 1                       40.00            045027-8           221
+UFV SURUBIM 10                      40.00            045038-3           221
+UFV SURUBIM 11                      40.00            045039-1           221
+UFV SURUBIM 12                      40.00            045040-5           221
+UFV SURUBIM 13                      40.00            045042-1           221
+UFV SURUBIM 14                      40.00            045044-8           221
+UFV SURUBIM 15                      40.00            045045-6           221
+UFV SURUBIM 2                       40.00            045028-6           221
+UFV SURUBIM 3                       40.00            045029-4           221
+UFV SURUBIM 4                       40.00            045030-8           221
+UFV SURUBIM 5                       40.00            045031-6           221
+UFV SURUBIM 6                       40.00            045032-4           221
+UFV SURUBIM 7                       40.00            045033-2           221
+UFV SURUBIM 8                       40.00            045034-0           221
+UFV SURUBIM 9                       40.00            045035-9           221
+UFV TERRA DO SOL VII                49.40            032053-6           585
+UFV TERRA SOL XI                    46.57            032059-5           585
+UFV VALE DO PARANA                  30.00   S        035073-7          3168
+UFV VAZANTE 1                       27.00   S        032339-0         60017
+UFV VAZANTE 2                       27.00   S        032340-3         60018
+UFV VAZANTE 3                       27.00   S        032341-1         60019
+UFV VERDE VALE III                  14.30 D                           59453
+UHE 14 DE JULHO (CERAN)             98.00            000012-4          7313
+UHE AGUA VERMELHA                 1387.63            000041-8          1001
+UHE AIMORES                        326.70            000042-6          1421
+UHE AMADOR AGUIAR I (C.BRANCO I)   230.80   S        027483-6          1424
+UHE AMADOR AGUIAR II(C.BRANCO II   207.20   S        027484-4          1425
+UHE ANTA                            28.00   S                         40201
+UHE APOLONIO SALES (MOXOTO)        398.60            001510-5            2850.00   2950.00
+UHE B.DOS COQUEIROS (GERDAU)        89.47            028757-1          4342
+UHE BAGUARI                        137.91            029453-5          1452
+UHE BAIXO IGUACU                   344.52            030923-0          6609
+UHE BALBINA                        245.00            000190-2         1041120.001041220.001041320.001041420.001041520.00
+UHE BARIRI (A.S.LIMA)              135.30   S        000203-8          100967.002150233.00
+UHE BARRA BONITA                   139.23   S        000208-9          1006
+UHE BARRA DO BRAUNA                 39.50   S        000215-1          2165
+UHE BARRA GRANDE                   687.00            027556-5          7303
+UHE BATALHA                         49.45   S        029454-3          3585
+UHE BELO MONTE                   10932.00            030354-2          4941
+UHE BOA ESPERANCA                  236.60            000267-4            4446.00   4654.00
+UHE CACHOEIRA CALDEIRAO            216.85            031186-3         10171
+UHE CACHOEIRA DOURADA              141.40   S        000528-2          108124.00 108237.00 108339.00
+UHE CACHOEIRA DOURADA - RB         513.80            000528-2          108449.00 108551.00
+UHE CACONDE                         79.50   S        000588-6          1007
+UHE CACU (GERDAU)                   64.60            028756-3          4343
+UHE CAMARGOS                        44.74   S        000608-4          1900
+UHE CAMPOS NOVOS                   874.00            027401-1          7301
+UHE CANA BRAVA                     438.55            000630-0          4482
+UHE CANASTRA                        44.00   S        000635-1          903850.00 903950.00
+UHE CANOAS I                        81.40   S        000647-5         59169
+UHE CANOAS II                       71.00   S        027092-0         59164
+UHE CAPIVARA                       639.90            000657-2          3016
+UHE CASTRO ALVES (CERAN)           128.50            000718-8          7311
+UHE CHAVANTES                      411.60            000764-1          3012
+UHE COARACY NUNES                   78.00   S        000783-8         1002061.001002139.00
+UHE COLIDER                        297.00            030422-0          4583
+UHE CORUMBA I                      373.00            000866-4          3593
+UHE CORUMBA III                     86.50   S        028352-5          4373
+UHE CORUMBA IV                     124.50   S        027795-9          4371
+UHE CURUA-UNA                       30.30   S        027130-6         1953533.001953633.001953734.00
+UHE DARDANELOS                     250.60            029597-3          436010.00 436490.00
+UHE DONA FRANCISCA                 106.25            027012-1          9091
+UHE EMBORCACAO                    1184.87            027115-2          1426
+UHE ESPORA                          32.01   S        000908-3         23310
+UHE ESTREITO                      1068.12            028863-2            80
+UHE ESTREITO(L.C.BARRETO)         1044.00            000917-2          3586
+UHE EUCLIDES DA CUNHA              107.59   S        000923-7          1008
+UHE FERREIRA GOMES                 244.36            030385-2         10082
+UHE FONTES NOVA                    129.17   S        000973-3          4060
+UHE FOZ DO CHAPECO                 850.00            028354-1          7305
+UHE FOZ DO RIO CLARO                67.57            029455-1          4341
+UHE FUNDAO                         120.17   S        028360-6          6969
+UHE FUNIL - BA                      29.96   S        027046-6            63
+UHE FUNIL - MG                     180.00   S        001006-5          1427
+UHE FUNIL - RJ                     204.00   S        027118-7          3596
+UHE FURNAS                        1210.00            001007-3          3587
+UHE GARIBALDI                      189.80            030415-8          8730
+UHE GOV. BENTO MUNHOZ(AREIA)      1662.00            000984-9          6979
+UHE GOV. PARIGOT SOUZA             260.00            001042-1          6982
+UHE GUAPORE                        120.00   S        001066-9         26404
+UHE GUARICANA                       36.00 D                            6988
+UHE GUILMAN AMORIM                 139.22            001079-0          1428
+UHE HENRY BORDEN                    49.00   S        001084-7          338210.00 338220.00 338220.00 338220.00 338220.003470010.00
+UHE HENRY BORDEN - RB               49.00            001084-7          3385
+UHE IBITINGA                       129.94   S        001097-9          1003
+UHE IGARAPAVA                      207.72   S        001098-7          1429
+UHE ILHA DOS POMBOS                185.13   S        001113-4          4066
+UHE ILHA SOLTEIRA                 3429.00            001120-7          2041
+UHE IRAPE                          397.00            001146-0          1431
+UHE ITA                           1441.55            001152-5          8975
+UHE ITAIPU                       11184.00            001161-4          358450.00 363750.00
+UHE ITAOCARA I                     150.00   S        027969-2         38079
+UHE ITAPARICA (SL GONZAGA)        1478.00            001174-6            3350.00   3450.00
+UHE ITAPEBI                        447.82            001175-4            95
+UHE ITAUBA                         496.40            027019-9          9141
+UHE ITIQUIRA(I,II)                 152.30            027244-2         2640637.002641263.00
+UHE ITUMBIARA                     2079.00            001194-0          3592
+UHE ITUTINGA                        50.67   S        001197-5          1432
+UHE JACUI                          180.00   S        001217-3          9151
+UHE JAGUARA                        420.35            001225-4          1430
+UHE JAGUARI                         27.30   S        027131-4          2056
+UHE JAURU (CINCO ESTRELAS)           8.00   S        001245-9         26405
+UHE JAURU (QUEIROZ GALVAO)         103.50   S        001245-9          1344
+UHE JIRAU                         3674.60            029736-4          519190.005191110.00
+UHE JUBA I                          42.00   S        001268-8         26401
+UHE JUBA II                         42.00   S        001269-6         26400
+UHE JUPIA                          219.80   S        001282-3         59498
+UHE JUPIA - RB                    1319.30            001282-3          2042
+UHE JURUMIRIM (A.A.LAYDNER)         99.56            001285-8          3011
+UHE LAJEADO                        895.85            001304-8           167
+UHE LIMOEIRO (A.S.OLIVEIRA)         31.64   S        001328-5          1005
+UHE MACHADINHO                    1134.61            001356-0          8718
+UHE MANSO                          203.00            001401-0          3595
+UHE MARIMBONDO                    1435.00            001417-6          3588
+UHE MASCARENHAS - DIST.              9.50 D          001432-0         35000
+UHE MASCARENHAS - ENERGEST         196.42   S        001432-0         35000
+UHE MASCARENHAS DE MORAES (PEIX.   298.00            002038-9          3589
+UHE MASCARENHAS DE MORAES(PEIX.)   150.00   S        002038-9          3590
+UHE MAUA                           361.00            029598-1          6716
+UHE MIMOSO                          29.35   S        028012-7         4034531.004034669.00
+UHE MIRANDA                        403.71   S        001469-9          1433
+UHE MONJOLINHO                      74.00   S        028562-5          8750
+UHE MONTE CLARO (CERAN)            128.50            027968-4          7309
+UHE NILO PECANHA                   376.92   S        001536-9          4057
+UHE NOVA AVANHANDAVA               341.16   S        001552-0         59509
+UHE NOVA PONTE                     505.38            001574-1          1435
+UHE OURINHOS                        41.00   S        027872-6          4483
+UHE PALMEIRAS                       18.33   S                         29991
+UHE PARAIBUNA                       84.30   S        027122-5         56702
+UHE PARANHOS                        66.90   S                          7120
+UHE PARANOA                         25.50 D                           22923
+UHE PASSO FUNDO                    225.08            002001-0          8960
+UHE PASSO REAL                     158.00            002003-6          9251
+UHE PASSO S.JOAO                    75.90 D          029456-0          7730
+UHE PAULO AFONSO I                 179.78            002012-5             1
+UHE PAULO AFONSO II                442.45            027048-2             420.00    520.00    615.00    714.00    814.00    917.00
+UHE PAULO AFONSO III               792.80            027049-0            1050.00   1150.00
+UHE PAULO AFONSO IV               2458.77            027050-4            14
+UHE PEDRA DO CAVALO                159.00            028565-0            48
+UHE PEIXE ANGICAL                  494.89            028353-3          3599
+UHE PEREIRA PASSOS                  99.21   S        002043-5          4062
+UHE PICADA                          49.00   S        002053-2          1437
+UHE PIMENTAL BELO MONTE            226.20            030354-2           195
+UHE PIRAJU                          79.00            002077-0          4494
+UHE PONTE DE PEDRA                 167.29            002103-2         26407
+UHE PORTO COLOMBIA                 316.00   S        002117-2          3591
+UHE PORTO ESTRELA                  111.65            027196-9          1436
+UHE PORTO PRIMAVERA(S.MOTTA)      1529.90            002127-0          2045
+UHE PROMISSAO                      261.06   S        002158-0          1004
+UHE QUEBRA QUEIXO                  120.00   S        002167-9          8759
+UHE QUEIMADO                       105.00   S        002176-8          1440
+UHE RETIRO                          17.78   S                         29992
+UHE RETIRO BAIXO                    79.00   S        029457-8          3583
+UHE RIO BONITO                      16.80 D                           35002
+UHE RISOLETA NEVES (CANDONGA)      140.00   S        000641-6          1423
+UHE RONDON II                       73.50   S        027448-8          9518
+UHE ROSAL                           54.89 D          002553-4         35090
+UHE ROSANA                         351.60   S        002555-0         58298
+UHE ROSANA 2                       177.00   S                         32900
+UHE SA CARVALHO                      0.10            002563-1          1441
+UHE SALTO                          115.50            028758-0          4344
+UHE SALTO APIACAS                   44.15   S        031401-3         26397
+UHE SALTO CAXIAS (G.J.RICHA)      1240.00            002591-7          7190
+UHE SALTO DO RIO VERDINHO           92.00            028760-1          4331
+UHE SALTO GRANDE - MG              101.00   S        027210-8          1443
+UHE SALTO GRANDE (LN GARCEZ-GP)     73.30   S        002648-4         59168
+UHE SALTO OSORIO                  1072.10            002659-0          897267.00 897333.00
+UHE SALTO PILAO                    188.00   S        028564-1          8801
+UHE SALTO SANTIAGO                1415.20            002672-7          8974
+UHE SALTO SEGREDO(GOV.N.BRAGA)    1247.00            002715-4          7195
+UHE SAMUEL                         215.70            002687-5          9501
+UHE SANTA BRANCA                    57.00   S        002696-4          4064
+UHE SANTA BRANCA (COPEL)            60.57   S                          7231
+UHE SANTA CLARA                    120.17   S        028361-4          7193
+UHE SANTA CLARA - MG                60.00   S        002699-9          1442
+UHE SANTO ANTONIO DO JARI          371.43            026792-9         10084
+UHE SANTO ANTONIO(AMP)             413.36            029707-0          9510
+UHE SANTO ANTONIO(RO)             3119.25            029707-0          519290.005192110.00
+UHE SAO DOMINGOS                    47.40   S        028761-0          7795
+UHE SAO JOSE                        49.60 D          029459-4          9327
+UHE SAO MANOEL                     698.32            031444-7          4585
+UHE SAO ROQUE                      141.90            030938-9          8735
+UHE SAO SALVADOR                   231.86            028567-6          4486
+UHE SAO SIMAO                     1698.43            002704-9          1445
+UHE SERRA DA MESA                 1275.00            002731-6          3594
+UHE SERRA DO FACAO                 202.40   S        028355-0          4336
+UHE SIMPLICIO                      322.50   S        029458-6          3600
+UHE SINOP                          395.70            031428-5          4581
+UHE SOBRADINHO                    1048.89            002755-3            21
+UHE SOBRAGI                         59.50   S        002757-0          1444
+UHE STA BRANCA                      62.00   S                         44930
+UHE SUICA                           33.87   S        002781-2         35001
+UHE TABAJARA                       266.67                             41972
+UHE TAQUARUCU                      521.60            002821-5          3017
+UHE TELEMACO BORBA                 118.00   S                          7227
+UHE TELES PIRES                   1806.98            030557-0          4589
+UHE TIBAGI MONTANTE                 36.00   S                          7228
+UHE TRES IRMAOS                    803.30            002873-8          2044
+UHE TRES MARIAS                    386.74            027113-6          1446
+UHE TUCURUI                       8358.00            002889-4            5020.00   5213.00   5416.00   7017.00   7134.00
+UHE VOLTA GRANDE                   380.00            003045-7          1448
+UHE XINGO                         3155.90            027053-9            89
+UTE - CORN PRODUCTS                 30.77   S                          3065
+UTE AGRENCO - MT                    15.00   S                         26325
+UTE AGROVALE                         2.00 D                           18512
+UTE AGROVALE II                      5.00 D                           18513
+UTE AGUA BONITA                     15.00   S        027891-2         56474
+UTE AGUA EMENDADA                   45.00            030039-0         42586
+UTE ALCIDIA                         27.00   S        027913-7         58299
+UTE ALCON                           30.00   S        029150-1         40351
+UTE ALTA MOGIANA                    29.75   S        000060-4         29900
+UTE ALTO ALEGRE - SP                10.00   S                         37550
+UTE ALTO ALEGRE - UJU               20.00   S        028367-3         45065
+UTE ALTO ALEGRE II                  30.00   S                          6791
+UTE ALTO TAQUARI(BRENCO)            50.00            030038-1         42587
+UTE ALTOS                           13.12 D                             348
+UTE AMANDINA                        45.00            030115-9         38858
+UTE AMANDINA II                     42.00            038375-9         26397
+UTE ANGELICA                        70.00   S        029670-8          7795
+UTE ANTONIO PRADO                    1.00   S                          2118
+UTE APARECIDA                      150.00 D                           1031548.001031752.00
+UTE ARACATI                         11.48 D                             352
+UTE ARAGUAIA                        20.00 D          035907-0         40436
+UTE ARAUCARIA                      475.00            027733-9          660467.00 660533.00
+UTE ARCEL                           30.00   S        000127-9         35042
+UTE ARCEL1                          66.50 D                           40364
+UTE ARCEL2                          50.10 D                           40362
+UTE ARCEL3                          75.20 D                           40363
+UTE AURELIANO CHAVES (IBIRITE)     230.00   S        001096-0          439763.00 442337.00
+UTE BAHIA                           30.60 D                             140
+UTE BAHIA PULP (ANTIGA BACELL)      30.00 D                             180
+UTE BAIA FORMOSA                    40.00 D                           16002
+UTE BAIXADA 1                      344.00                              4398
+UTE BAIXADA 2                      186.00                              4398
+UTE BAIXADA FLUMINENSE             515.00            030769-6          4398
+UTE BALDIN                          28.50   S        030169-8         58288
+UTE BARBOSA L.S. (ELETROBOLT)      379.00   S        027952-8          4383
+UTE BARRA                          115.70   S                         29970
+UTE BARRA BIOENERGIA                83.70   S        030047-0          2871
+UTE BARRA GRANDE (SP)               46.00   S        027055-5         29923
+UTE BARRALCOOL                      10.00 D                           26361
+UTE BATURITE                        11.48 D                             343
+UTE BEN BIO                         15.00 D                           17507
+UTE BERNECK                         13.60            029993-6          7002
+UTE BEVAP                           30.00   S        030063-2         27700
+UTE BIO ALVORADA - ARAPORA          50.00   S                         27374
+UTE BIO ALVORADA GUAXUPE            12.00   S                         27900
+UTE BIO BAMBUI                      30.00   S                         27500
+UTE BIO BURITI                      50.00 D                           29857
+UTE BIO COOPCANA                    30.00   S        028148-4          7246
+UTE BIO CORURIPE CAMPO FLORIDO      30.00   S                         27301
+UTE BIO CORURIPE ITURAMA            14.00   S                         27305
+UTE BIO MONTE ALEGRE                12.00   S                         27901
+UTE BIO PEDRA                       66.00   S                         29866
+UTE BIOENERGETICA AROEIRA           30.00   S                         40389
+UTE BIOENERGIA MOCOCA               35.00   S                          2876
+UTE BIOFLEX CAETE                   23.50 D                           17508
+UTE BIOGAS BONFIM                   20.90   S        035109-1         30181
+UTE BIOLINS                         18.00   S        030125-6         29980
+UTE BIOPAV II                       37.00            030053-5          8771
+UTE BOA VISTA                       45.00            029588-4         42600
+UTE BOA VISTA - CELG                28.50   S        029588-4          1156
+UTE BONFIM                          84.10   S        029665-1          8771
+UTE BRACELL                        200.00            043249-0          2628
+UTE BRANCO PERES                    15.00   S                          3138
+UTE BROTAS                          30.00   S        030782-3         29859
+UTE BROTAS II                       30.00   S                         29858
+UTE CAARAPO                         57.00   S        030104-3         40618
+UTE CACHOEIRA DOURADA               29.00   S        030033-0         40632
+UTE CACU I                          72.00            030025-0         42606
+UTE CAMACARI MURICY (ECM)          141.00            029554-0           108
+UTE CAMACARI MURICY II             144.00                             55810
+UTE CAMACARI POLO (AREMBEPE)       143.85            029555-8           109
+UTE CAMBARA                         47.00   S                          9052
+UTE CAMPINA GRANDE                 166.50            000612-2           196
+UTE CAMPO LINDO                     13.00 D                           18001
+UTE CAMPO MAIOR                     13.12 D                             359
+UTE CAMPOS                          31.00   S        027935-8          3846
+UTE CANAA                           20.00   S        029138-2         56475
+UTE CANDIOTA III (CGTEE)           325.00            029767-4          8712
+UTE CARAMURU ITUMBIARA               8.00            035527-5          1162
+UTE CASA DE FORCA                    4.00   S                         33137
+UTE CATANDUVA                       28.58   S        028042-9         59407
+UTE CAUCAIA                         14.76 D                             344
+UTE CELSO FURTADO(TERMOBAHIA)      150.00            027263-9           170
+UTE CEM (ANTIGA CAMEN)              24.00 D                           23307
+UTE CENI 2                          12.00   S                         33111
+UTE CERRADAO                        25.00   S        029709-7         27301
+UTE CERRADAO 2                      40.00   S        038336-8         27309
+UTE CERRADAO 3                      40.00 D                            1719
+UTE CEVASA                          28.00   S        028458-0         29950
+UTE CHAPADAO - SP                   60.00   S        030041-1          2339
+UTE CIA ALCOOLQUIMICA NACIONAL      16.00 D                           17012
+UTE CLEALCO QUEIROZ                 29.00   S        030036-5         29908
+UTE CMPC                            30.00            030666-5          9120
+UTE COCAL                           25.00   S        027974-9         59162
+UTE COCAL II                        80.00   S        029713-5           565
+UTE COCAMAR MARINGA                  8.00   S                          7247
+UTE CODORA                          26.00   S                         23308
+UTE COGERACAO LAGES                 26.00   S        028745-8          6311
+UTE COLOMBO ARIRANHA                14.00   S        000796-0         29927
+UTE COLOMBO ARIRANHA 2              30.00   S        031112-0          2471
+UTE COLOMBO SANTA ALBERTINA         21.00   S        030267-8         56086
+UTE COLORADO                        30.00   S        028094-1         29906
+UTE CONQUISTA DO PONTAL             70.00   S        030024-1         56087
+UTE CORURIPE                        16.00 D                           17511
+UTE COSTA                            8.00   S                         45067
+UTE COSTA PINTO                     49.50   S        028221-9         29964
+UTE COSTA RICA                      55.00            030037-3         42582
+UTE CRATO                           13.12 D                             347
+UTE CRESCIUMAL                      20.00   S        027059-8         56722
+UTE CRISTIANO ROCHA                 80.00            029499-3         1040699.001040701.00
+UTE CSN                            235.20   S                          4385
+UTE CSP                             55.00            031241-0         11003
+UTE CST G1 G2                       97.40   S                         40354
+UTE CST G3 G4                       97.40   S                         40356
+UTE CST TRT (SERRA/ES)              15.50   S                         40358
+UTE DA MATA                         30.00   S        029774-7         29975
+UTE DA MATA II                      30.00   S                         29974
+UTE DA PEDRA                        50.00   S        030453-0         29958
+UTE DAIA (ANAPOLIS)                 44.30   S        028612-5         23318
+UTE DECASA                          23.00   S        028051-8         37351
+UTE DELTA                           50.00   S        028219-7         40329
+UTE DELTA MG                        50.00   S                          1751
+UTE DIAMANTINO                       3.00   S                          1169
+UTE DO ATLANTICO (CSA)             260.00            029587-6          453950.00 454050.00
+UTE DVPA                            20.00   S        030266-0         27704
+UTE ECOLUZ                          10.00   S                          6798
+UTE ELDORADO                        70.00            029193-5         42593
+UTE ELDORADO BRASIL                 50.00   S        030583-9         58292
+UTE ENERGETICA TUPACIGUARA          21.00   S                          1739
+UTE ENERVALE                        30.00   S        030850-1          1801
+UTE EQUIPAV I                        7.00   S        028101-8         29917
+UTE EQUIPAV II                      29.00   S        029765-8         29917
+UTE ERB CANDEIAS                    12.29            030979-6         12094
+UTE ESTER                           28.00   S        000912-1         29967
+UTE EUZEBIO ROCHA (CUBATAO)        191.00            028014-3          437473.00 438427.00
+UTE F&S AGRI SOLUTIONS               3.50   S                         26437
+UTE FARTURA                         22.50 D                           37906
+UTE FBA GASA - ANDRADINA            50.00   S        027950-1         56701
+UTE FERNANDO GASPARIAN - RB        183.28            028191-3          3395
+UTE FERNANDO GASPARIAN (N.PIRAT)   185.00   S        028191-3         55476
+UTE FERRARI - PIRASSUNUNGA          55.00   S        028058-5         58645
+UTE FIBRIA 2                       140.00   S        037624-8         58391
+UTE FIGUEIRA                        18.00   S        000955-5          6799
+UTE FLORAPLAC                       15.90   S        032116-8          4302
+UTE FORTALEZA                      318.70            028357-6           32765.00  33035.00
+UTE FS SORRISO                      55.00            044865-6          3310
+UTE FURLAN AVARE                    15.00   S        031189-8          2193
+UTE GALVANI - CILEM                  3.50   S                         18531
+UTE GEO ELETRICA TAMBOARA            8.00   S                          7242
+UTE GERACAO BEADELL                  4.80 D                           10142
+UTE GERAMAR I                      162.87            029705-4           231
+UTE GERAMAR II                     162.87            029668-6           231
+UTE GIASA II                        11.00 D                           16502
+UTE GLOBAL I (CANDEIAS)            143.00            029653-8           128
+UTE GLOBAL II (CANDEIAS)           143.00            029639-2           129
+UTE GNA PORTO DO ACU III          1672.50            038173-0         4044465.004044535.00
+UTE GOIANIA II (BRENTECH)          139.50            029460-8         35361
+UTE GOIASA                          46.52 D                           23307
+UTE GOV.LEONEL BRIZOLA (TERMORIO   836.40   S        027888-2          439152.00 440023.00 440225.00
+UTE GUACU                           30.00 D                           25710
+UTE GUAIRA - SP                     30.00   S        030026-8         29942
+UTE GUARANI - TANABI                30.00   S        030095-0         30160
+UTE GUARANI - TANABI 2              29.00   S        031445-5           665
+UTE GUARANI CRUZ ALTA               29.00   S        027796-7         29915
+UTE GUARANI CRUZ ALTA 2             19.00   S        033380-8         29915
+UTE GUARIROBA                        7.00   S                         32962
+UTE HERING                           2.80   S                         45068
+UTE IACANGA                         27.00 D                           29882
+UTE IACO                            45.00            030269-4         42612
+UTE IBITIUVA                        30.00   S        027768-1          8771
+UTE IGARAPE                        124.31   S        001100-2          1449
+UTE IGUATU                          14.76 D                             369
+UTE INPASA                          10.00   S        040821-2          1419
+UTE INTERLAGOS                      27.00   S        029461-6         59052
+UTE IOLANDO LEITE                    5.00 D                           18002
+UTE IPAUSSU BIOENERGIA              51.50   S        030199-0          2198
+UTE IPE                             25.00   S        030268-6           565
+UTE IPIRANGA BIOENERGIA MOCOCA      45.00   S                          2499
+UTE IPOJUCA                          3.00 D                           17008
+UTE IRANDUBA                        25.00 D                           10486
+UTE ITAENGA                         20.00 D                           17016
+UTE ITAMARATI                       12.00 D                           26363
+UTE ITUIUTABA                       30.00   S        030094-2         27307
+UTE ITUMBIARA (CIBA)                39.60   S        030090-0         23344
+UTE J.S.PEREIRA(TERMOACU)          316.50            028225-1           433
+UTE JALLES MACHADO                  28.00 D                           23313
+UTE JAPUNGU                          3.00 D                           16503
+UTE JARAQUI                         63.50 D                           10471
+UTE JATAI (COSAN)                   67.00            030043-8         42590
+UTE JITITUBA SANTO ANTONIO          13.70 D                           17509
+UTE JORGE LACERDA A                 90.09   S        001260-2          8954
+UTE JORGE LACERDA A - RB           121.30            001260-2          8955
+UTE JORGE LACERDA B                241.48            027093-8          8956
+UTE JORGE LACERDA C                323.35            027094-6          8957
+UTE JUAZEIRO DO NORTE               14.76 D                             358
+UTE JUIZ DE FORA - CEMIG            41.50   S        001276-9          4387
+UTE JUIZ DE FORA - EMG              42.50   S                          4386
+UTE KLABIN CELULOSE                160.00            031098-0          7042
+UTE L.CARLOS PRESTES (T.LAGOAS)    360.00   S        027975-7          439250.00 439350.00
+UTE LASA                            15.20   S        029107-2         25813
+UTE LDC BIOENERGIA LAGOA DA PRAT    30.00   S        029717-8         27502
+UTE LDC BIOENERGIA RIO BRILHANTE    56.00   S        029718-6          4302
+UTE LINHARES                       204.00   S                          4406
+UTE LUCELIA - SP                     7.00 D                           37560
+UTE LUIZ OSCAR ROD. DE MELO        198.80   S        030054-3         35050
+UTE LWARCEL                          9.00   S        028620-6         29965
+UTE MANAUARA                        64.50 D                           10436
+UTE MANDU                           59.00   S        027787-8         29935
+UTE MARACAI                         29.50   S        001405-2         59167
+UTE MARACANAU I                    162.12 D          029654-6           102
+UTE MARAMBAIA                       13.12 D                             350
+UTE MARANHAO III                   505.90            030800-5         1301665.001302235.00
+UTE MARANHAO IV                    333.76            030202-3         1300399.001300701.00
+UTE MARANHAO V                     333.76            030203-1         1300899.001300901.00
+UTE MARIO LAGO(TERMOMACAE)         893.42            028029-1          439459.00 439641.00
+UTE MARITUBA                         2.00 D                           17512
+UTE MARLIM AZUL                    548.30            032211-3         4044867.004044933.00
+UTE MAUA 3                         570.40            031888-4         1032117.001050146.001050337.00
+UTE MC2 NOVA VENECIA II            177.50            030196-5         13029
+UTE MERIDIANO                       28.58   S        030303-8         58304
+UTE MOEMA                           30.00   S        027886-6           565
+UTE MOGI                             4.50   S                         56677
+UTE MOGIANA BIOENERGIA              29.50   S        030447-6         29900
+UTE MONTE ALEGRE                     3.00 D                           16504
+UTE MONTEVERDE                      14.50   S        029990-1         40620
+UTE MORRO VERMELHO(BRENCO)          50.00            030040-3         42588
+UTE N O BIOENERGIA                   9.00   S                          3230
+UTE NARDINI                         31.00   S        001528-8         29953
+UTE NARDINI - RB                    40.00            030105-1         42584
+UTE NAZARIA                         13.12 D                             351
+UTE NEGRO DE FUMO                   18.00   S        000825-7         58826
+UTE NOBLE 2                         28.60   S                         33110
+UTE NOBLE ENERGIA                   28.58   S        030004-7         59086
+UTE NOBLE ENERGIA II                28.00   S        030271-6         58295
+UTE NOROESTE PAULISTA               28.58   S        029775-5         58287
+UTE NORTE FLUMINENSE               840.00            001544-0          404932.00 405168.00
+UTE NOVA AMERICA - SP               10.50   S                         37732
+UTE NOVA OLINDA 2                   78.57                             13414
+UTE NOVA OLINDA I (GERANORTE)       87.30                             13413
+UTE NOVA PONTE QUEIMADA              3.90   S                          1456
+UTE NOVO TEMPO BARCARENA           604.52            037898-4           298
+UTE NOVO TEMPO GNA II             1324.00            032955-0         4044050.004044150.00
+UTE OESTE DE CANOAS                  5.38 D                           19085
+UTE ONCA PINTADA                    50.00   S        035085-0          8689
+UTE OURO BRANCO                      4.00 D                           50221
+UTE PALMEIRAS DE GOIAS             170.03            001946-1          1251
+UTE PAMESA                           2.00 D                           17013
+UTE PAMPA SUL                      316.30            032282-2          8714
+UTE PARANAPANEMA                    30.00   S        030561-8         58291
+UTE PARNAIBA 5A                    181.60                             13033
+UTE PARNAIBA 5B                    181.60                             13034
+UTE PARNAIBA IV                     55.14            031193-6         13032
+UTE PASSA TEMPO                     50.00   S        028111-5         40629
+UTE PAU FERRO I (EPESA)             93.72            029561-2           412
+UTE PAULICEIA                       15.00   S                         33090
+UTE PCT CANARIO                      0.22 D                           18533
+UTE PECEM                           14.76 D                              74
+UTE PEDRO AFONSO                    62.00   S        030518-9         20554
+UTE PERNAMBUCO III                 194.68            030120-5           104
+UTE PEROLANDIA                      56.00   S                         42589
+UTE PETROCOQUE                      11.80   S        031229-0         58826
+UTE PETROLINA                      132.50 D          028584-6           414
+UTE PIONEIROS                       17.00   S        028047-0         56092
+UTE PIONEIROS II                    19.00   S        029642-2           565
+UTE PIRAPAMA                        23.00 D                           17014
+UTE PIRATININGA - RB               184.86            002082-6          3387
+UTE PIRATININGA (88KV)             200.00   S                          3386
+UTE PITANGUEIRAS                    41.00   S        028859-4         58826
+UTE PLANALTO BIOENERGIA             35.00   S                         33029
+UTE PONTA NEGRA                     64.00 D                           10391
+UTE PORTO DAS AGUAS                 85.00            029999-5         42580
+UTE PORTO DE SERGIPE I            1515.60            032228-8         1114934.001115066.00
+UTE PORTO DO ITAQUI                330.00            029700-3           801
+UTE PORTO PECEM I                  660.00            029720-8         11001
+UTE PORTO PECEM II                 337.50            030098-5         11010
+UTE POTIGUAR                        51.26 D          028655-9         16402
+UTE POTIGUAR III                    64.08 D          029556-6         16403
+UTE POTIRENDABA                     26.00   S        029655-4         29979
+UTE PREDILECTA                       5.00   S                         30182
+UTE PROSPERIDADE I                  28.01            032545-7           284
+UTE PROSPERIDADE II                 37.36            037897-6           284
+UTE PUMA II                        134.80            045824-4          7042
+UTE QUATA                           20.00   S        028288-0         59163
+UTE QUIRINOPOLIS - CELG             25.00   S        029268-0          1271
+UTE QUIRINOPOLIS (UJS)              32.00            029268-0         42601
+UTE RAFARD                          33.50   S        002903-3          8771
+UTE REGAP                           10.00   S        028596-0          1527
+UTE RIO PARDO                       25.00   S        030065-9          2197
+UTE RIO VERMELHO                    30.00   S        030543-0         33123
+UTE RIO VERMELHO 2                  30.00   S        031793-4         55022
+UTE RIO VERMELHO 3                  14.20   S                         33031
+UTE RIO VERMELHO I                  30.00   S                         31102
+UTE ROMULO ALMEIDA(FAFEN)          111.00 D          028206-5         1209460.00  35740.00
+UTE RONDON II                       20.00   S        029243-5          9664
+UTE RUETTE                          18.00   S        027345-7          8771
+UTE SADIA                            3.00   S                         45059
+UTE SALVADOR                        19.73 D                           18538
+UTE SANTA ADELIA                    23.50   S        027343-0          8771
+UTE SANTA CANDIDA I                 21.50   S        027767-3         29955
+UTE SANTA CANDIDA II                30.00   S        031739-0         29955
+UTE SANTA CRUZ                     691.00   S        027243-4          1626
+UTE SANTA CRUZ AB                   50.00   S        001609-8         29904
+UTE SANTA ELISA                     30.00   S        028232-4          8771
+UTE SANTA FE                        12.50   S        027922-6          2460
+UTE SANTA ISABEL                    24.00   S        028401-7         59166
+UTE SANTA JULIANA                   30.00   S        030166-3         27306
+UTE SANTA LUZIA I                   72.00            030006-3         42594
+UTE SANTA TERESA                     4.00 D                           17015
+UTE SANTA TEREZINHA                 29.94   S        028149-2          7213
+UTE SANTA TEREZINHA PARANACITY      26.00   S        028139-5          6770
+UTE SANTA VITORIA                   20.00   S        031268-1         27304
+UTE SANTO ANGELO                    30.00   S        029116-1         26544
+UTE SANTO ANTONIO                   33.00   S                         29911
+UTE SANTO INACIO                    35.00   S                          6833
+UTE SAO FERNANDO                    28.00   S                         40616
+UTE SAO FERNANDO I                  50.00   S                         40630
+UTE SAO FRANCISCO                   19.00   S        027335-0         29865
+UTE SAO JOAO BIOGAS                 21.50   S        028648-6         55477
+UTE SAO JOAO DA BOA VISTA           50.00   S        027709-6         56473
+UTE SAO JOSE                         5.00 D                           17006
+UTE SAO JOSE COLINA                 53.00   S        028975-2         29945
+UTE SAO JOSE DO PINHEIRO            10.00 D                           18003
+UTE SAO JOSE ESTIVA                 25.00   S        027814-9         59408
+UTE SAO JOSE MACATUBA               53.00   S        026847-0          8771
+UTE SAO JUDAS TADEU                 30.00   S        029759-3         27702
+UTE SAO LUIZ                        50.00   S        026869-0         56476
+UTE SAO MARTINHO                    30.00   S        026874-7         29921
+UTE SAO MARTINHO BIOENERGIA         40.00 D                            2473
+UTE SAO MARTINHO ENERGIA            30.00   S        030994-0         29921
+UTE SAO SEPE                         8.00 D                            8728
+UTE SEPE TIARAJU (CANOAS 2)         88.00                              8716
+UTE SEPE TIARAJU (CANOAS)          241.40            028038-0          8717
+UTE SERRA GRANDE                     2.70 D                           17506
+UTE SINIMBU                          2.50 D                           17510
+UTE SOL                             90.00   S        029273-7         40357
+UTE SONORA                          13.00   S                         42604
+UTE SUAPE II                       371.40            029719-4           10018.00  10109.00   9618.00   9718.00   9818.00   9919.00
+UTE SUZANO                         100.00            030959-1           807
+UTE SUZANO MUCURI                   40.00   S        000187-2           162
+UTE SYKUE I                         28.50   S        029634-1         18508
+UTE TAMBAQUI                        63.50 D                           10447
+UTE TAQUARI                          2.00 D                           18004
+UTE TERMOCABO                       96.95 D          028326-6           139
+UTE TERMOCEARA                     215.86            028358-4           339
+UTE TERMOIRAPE (BOLTBAH)            50.00                             40370
+UTE TERMOIRAPE I                    45.45            033467-7          1521
+UTE TERMOMANAUS (EPESA)            142.16            029562-0           413
+UTE TERMONORDESTE(EPASA)           162.31            029641-4           137
+UTE TERMONORTE II                  340.00            028033-0          951266.00 951434.00
+UTE TERMOPARAIBA(EPASA)            162.31            029638-4           130
+UTE TERMOPERNAMBUCO                520.00            028031-3           16060.00  16140.00
+UTE TERMOVERDE CAIEIRAS             27.50   S        031436-6         56085
+UTE TOCANTINOPOLIS (GERANORTE)     165.87                             1341152.001341248.00
+UTE TRAPICHE                         4.20 D                           17009
+UTE TROPICAL BIO I                  57.00                             42602
+UTE TROPICAL BIOENERGIA             50.00            030080-2         23306
+UTE TROPICAL BIOENERGIA II          28.00            031769-1         42603
+UTE U-50                           150.00                             21052
+UTE U-50 (RNEST)                    24.40            030438-7           353
+UTE UFA                             15.00   S        028366-5         59165
+UTE UFL                             30.00   S        031034-4          7244
+UTE UNIAO INDUSTRIA                  0.80 D                           17010
+UTE UNIVALEM                        80.00 D                           31000
+UTE UNIVALEM BIOENERGIA             29.00   S        030264-3         30159
+UTE URUGUAIANA                     634.00            002913-0          891858.00 892042.00
+UTE USACIGA                         23.30   S        029144-7          6801
+UTE USACUCAR TERRA RICA              8.00   S                          7241
+UTE USI                             30.00   S        029575-2          6833
+UTE USI BIO                         10.00   S        031968-6          6811
+UTE USINA DA PEDRA                  70.00   S                         31006
+UTE UT UGPU ITABIRITO                3.30   S        032658-5          1626
+UTE VALE DO PARANA                  30.00   S                          3169
+UTE VALE DO PONTAL                  22.50   S        030371-2         40388
+UTE VALE DO PONTAL 2                25.00   S                         40388
+UTE VALE DO ROSARIO                 63.00   S        002958-0          8771
+UTE VALE DO SAO SIMAO               50.00   S        030046-2         27303
+UTE VALE DO TIJUCO I                30.00   S        030034-9         27300
+UTE VALE DO TIJUCO II               30.00   S        030473-5         27300
+UTE VCP-MS                          50.00   S        029694-5         58293
+UTE VERACEL                         27.00            029014-9           172
+UTE VERTENTE                        27.50   S        029270-2         29915
+UTE VIANA                          171.60            029664-3          440549.00 442051.00
+UTE VIRALCOOL                       20.00   S        003035-0         30067
+UTE VIRALCOOL 2                     29.00   S        030851-0          2442
+UTE VIRALCOOL CASTILHO              28.00   S        030445-0         56088
+UTE VIRALCOOL PITANGUEIRAS          23.30   S                         29902
+UTE VISTA ALEGRE - ELEKTRO          30.00   S        028462-9         56089
+UTE VISTA ALEGRE I                  30.00   S        029994-4         40614
+UTE VISTA ALEGRE II                 29.20   S        031702-0         40614
+UTE WD                              30.00   S        029122-6         40350
+UTE WD BIO                          30.00   S                          1840
+UTE XAVANTES(ARUANA)                53.60   S        028654-0         23319
+UTE ZIHUATANEJO                      3.60 D                           17011
+UTN ANGRA I                        625.00            000100-7          3581
+UTN ANGRA II                      1307.00            000101-5          3582
+UTN ANGRA III                     1405.00                              3602
+(RETIFICACAO 2020-2021                                                     
+EOL TUCANO II                       24.80  O         032567-8           582
+EOL TUCANO III                      43.40  O         032568-6           582
+EOL TUCANO IV                       43.40  O         032569-4           582
+EOL TUCANO V                        24.80  O         032570-8           582
+EOL TUCANO VI                       49.60  O         032578-3           582
+EOL TUCANO VII                      55.80  O         032579-1           582
+EOL TUCANO VIII                     49.60  O         032580-5           582
+EOL TUCANO IX                       43.40  O         032583-0           582
+EOL TUCANO X                        43.40  O         032584-8           582
+EOL TUCANO XI                       37.20  O         036988-8           582
+EOL TUCANO XVI                      12.40  O         036989-6           582
+EOL TUCANO XIII                     37.20  O         036994-2           582
+EOL TUCANO XVII                     18.60  O         040696-1           582
+EOL MORRO BRANCO II                 31.19  O         032417-5           506
+UFV SOL DO SAO FRANCISCO            36.43  O         045570-9           506
+EOL ACAUA III                       16.80  O         033864-8           364
+UFV JAIBA CN                        40.00  O         043147-8         38971
+UFV JAIBA CE                        40.00  O         043148-6         38971
+UFV JAIBA C                         40.00  O         043150-8         38971
+UFV JAIBA CO                        40.00  O         043151-6         38971
+UFV JAIBA L2                        20.00  O         043152-4         38971
+UFV JAIBA NO2                       40.00  O         043153-2         38971
+UFV JAIBA NE2                       40.00  O         043154-0         38971
+UFV JAIBA SE2                       40.00  O         043155-9         38971
+UFV JAIBA SO                        40.00  O         043156-7         38971
+UFV JAIBA NE3                       40.00  O         043157-5         38971
+UFV JAIBA S                         40.00  O         043158-3         38971
+UFV JAIBA L1                        40.00  O         043163-0         38971
+UFV JAIBA CS                        40.00  O         043164-8         38971

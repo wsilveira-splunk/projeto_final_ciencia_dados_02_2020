@@ -1,0 +1,506 @@
+PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2020-2021 * (30/07/2020 - 15:14:54)                                                    
+
+ RELATÓRIO DAS TUSDg POR CENTRAL GERADORA. RESUMO PARA MONITORAÇÃO.
+
+ X--------------------------------X--------------------------------X-------------------------------X--------X--X-X
+               Usina                 Distribuidora                   Componentes da TUSDg R$/kW.mês    MUSD  UF T
+                                                                        T    D/DIT     ONS   TOTAL     (MW)     P
+ X--------------------------------X--------------------------------X-------X-------X-------X-------X--------X--X-X
+  PCH HENRIQUE KOTZIAN             RGE SUL                                             .234           13.000 RS E
+  PCH JORGE DREHER                 RGE SUL                                             .234           17.870 RS E
+  UHE JACUI                        RGE SUL                                             .234          180.000 RS E
+  UHE CANASTRA                     RGE SUL                                             .234           44.000 RS E
+  EOL AGUA DOCE                    CELESC-DIS                                          .234            3.983 SC E
+  EOL AMPARO                       CELESC-DIS                                          .299           22.500 SC E
+  EOL AQUIBATA                     CELESC-DIS                                          .299           30.000 SC E
+  EOL BOM JARDIM                   CELESC-DIS                                          .299           30.000 SC E
+  EOL CAMPO BELO                   CELESC-DIS                                          .299           10.500 SC E
+  EOL CASCATA                      CELESC-DIS                                          .299            6.000 SC E
+  EOL CRUZ ALTA                    CELESC-DIS                                          .299           30.000 SC E
+  EOL HIPERION                     CELESC-DIS                                          .299            1.983 SC E
+  EOL PULPITO                      CELESC-DIS                                          .299           30.000 SC E
+  EOL QUINTA DO GOMARIZ            CELESC-DIS                                          .299            3.983 SC E
+  EOL RIO DO OURO                  CELESC-DIS                                          .299           30.000 SC E
+  EOL SALTO                        CELESC-DIS                                          .299           30.000 SC E
+  EOL SANTO ANTONIO                CELESC-DIS                                          .299            3.000 SC E
+  PCH ADO POPINHAKI                CELESC-DIS                                          .272           22.600 SC E
+  PCH ALTO BENEDITO NOVO I         CELESC-DIS                                          .299           15.000 SC E
+  PCH ANGELINA                     CELESC-DIS                                          .299           26.270 SC E
+  PCH CAPIVARI                     CELESC-DIS                                          .214           12.483 SC E
+  PCH COQUEIRAL                    CELESC-DIS                                          .299            3.164 SC E
+  PCH JOAO BORGES                  CELESC-DIS                                          .299           19.000 SC E
+  PCH MOINHO                       CELESC-DIS                                          .299           13.500 SC E
+  PCH NOVA FATIMA                  CELESC-DIS                                          .299            4.100 SC E
+  PCH OURO                         CELESC-DIS                                          .299           16.000 SC E
+  PCH PERY                         CELESC-DIS                                          .299           25.600 SC E
+  PCH RABO DO MACACO               CELESC-DIS                                          .209            5.700 SC E
+  PCH RIO DAS PACAS                CELESC-DIS                                          .209            2.100 SC E
+  PCH RIO FORTUNA                  CELESC-DIS                                          .299            6.850 SC E
+  PCH RIO NATAL I                  CELESC-DIS                                          .299            8.480 SC E
+  PCH RIO VERMELHO 1               CELESC-DIS                                          .299            3.000 SC E
+  PCH RIO VERMELHO 2               CELESC-DIS                                          .299            2.150 SC E
+  PCH RIO VERMELHO 3               CELESC-DIS                                          .299            2.400 SC E
+  PCH RUDOLF                       CELESC-DIS                                          .299            9.000 SC E
+  PCH SALTO GOES                   CELESC-DIS                                          .299           20.000 SC E
+  PCH SANTA ANA                    CELESC-DIS                                          .299            6.304 SC E
+  PCH SANTA ROSA - SC              CELESC-DIS                                          .299            6.500 SC E
+  PCH TAMANDUA                     CELESC-DIS                                          .299           16.000 SC E
+  UHE QUEBRA QUEIXO                CELESC-DIS                                          .299          120.000 SC E
+  UHE SALTO PILAO                  CELESC-DIS                                          .299          188.000 SC E
+  UTE COGERACAO LAGES              CELESC-DIS                                          .299           26.000 SC E
+  UTE JORGE LACERDA A              CELESC-DIS                                          .299           90.090 SC E
+  PCH ALTO SUCURIU                 ENERGISA M.G. DO SUL - EMS                          .299           29.000 MS E
+  PCH BURITI                       ENERGISA M.G. DO SUL - EMS                          .299           30.000 MS E
+  PCH COSTA RICA                   ENERGISA M.G. DO SUL - EMS                          .299           15.810 MS E
+  PCH PARAISO I                    ENERGISA M.G. DO SUL - EMS                          .299           21.380 MS E
+  PCH PLANALTO                     ENERGISA M.G. DO SUL - EMS                          .299           16.830 MS E
+  PCH PORTO DAS PEDRAS             ENERGISA M.G. DO SUL - EMS                          .299           28.030 MS E
+  PCH RETIRO VELHO                 ENERGISA M.G. DO SUL - EMS                          .299           18.000 MS E
+  PCH VERDE 4                      ENERGISA M.G. DO SUL - EMS                          .189           18.550 MS E
+  PCH VERDE 4A                     ENERGISA M.G. DO SUL - EMS                          .190           27.440 MS E
+  UHE MIMOSO                       ENERGISA M.G. DO SUL - EMS                          .299           29.350 MS E
+  UHE SAO DOMINGOS                 ENERGISA M.G. DO SUL - EMS                          .299           47.400 MS E
+  UTE ANGELICA                     ENERGISA M.G. DO SUL - EMS                          .299           70.000 MS E
+  UTE CAARAPO                      ENERGISA M.G. DO SUL - EMS                          .299           57.000 MS E
+  UTE LDC BIOENERGIA RIO BRILHANTE ENERGISA M.G. DO SUL - EMS                          .299           56.000 MS E
+  UTE MONTEVERDE                   ENERGISA M.G. DO SUL - EMS                          .287           14.500 MS E
+  UTE PASSA TEMPO                  ENERGISA M.G. DO SUL - EMS                          .299           50.000 MS E
+  UTE VISTA ALEGRE I               ENERGISA M.G. DO SUL - EMS                          .299           30.000 MS E
+  UTE VISTA ALEGRE II              ENERGISA M.G. DO SUL - EMS                          .272           29.200 MS E
+  INT IMPORTACAO ANDE              COPEL-DIS                                           .162             .030 PR N
+  PCH ARTURO ANDREOLI              COPEL-DIS                                           .162           29.072 PR N
+  PCH CANHADAO                     COPEL-DIS                                           .162           10.000 PR N
+  PCH CANTU 2                      COPEL-DIS                                           .272           19.550 PR E
+  PCH CAVERNOSO II                 COPEL-DIS                                           .162           19.000 PR N
+  PCH CONFLUENCIA                  COPEL-DIS                                           .246           27.000 PR E
+  PCH LUDESA                       COPEL-DIS                                           .162           30.000 PR N
+  PCH MACACOS                      COPEL-DIS                                           .162            9.900 PR N
+  PCH NOVO HORIZONTE               COPEL-DIS                                           .162           23.000 PR N
+  PCH SANTA LUZIA ALTO             COPEL-DIS                                           .162           28.500 PR N
+  PCH VICTOR BAPTISTA ADAMI        COPEL-DIS                                           .162           25.000 PR N
+  UHE FUNDAO                       COPEL-DIS                                           .162          120.168 PR N
+  UHE SANTA BRANCA (COPEL)         COPEL-DIS                                           .214           60.570 PR E
+  UHE SANTA CLARA                  COPEL-DIS                                           .162          120.168 PR N
+  UHE TIBAGI MONTANTE              COPEL-DIS                                           .246           36.000 PR E
+  UTE ALTO ALEGRE - UJU            COPEL-DIS                                           .162           20.000 PR N
+  UTE BIO COOPCANA                 COPEL-DIS                                           .162           30.000 PR N
+  UTE FIGUEIRA                     COPEL-DIS                                           .162           18.000 PR N
+  UTE SANTA TEREZINHA              COPEL-DIS                                           .162           29.940 PR N
+  UTE SANTA TEREZINHA PARANACITY   COPEL-DIS                                           .162           26.000 PR N
+  UTE UFL                          COPEL-DIS                                           .162           30.000 PR N
+  UTE USACIGA                      COPEL-DIS                                           .162           23.300 PR N
+  UTE USI                          COPEL-DIS                                           .162           30.000 PR N
+  UTE USI BIO                      COPEL-DIS                                           .162           10.000 PR N
+  PCH ANHANGUERA                   CPFL PAULISTA                                       .299           22.680 SP E
+  PCH ELOY CHAVES                  CPFL PAULISTA                                       .299           18.935 SP E
+  PCH PALMEIRAS                    CPFL PAULISTA                                       .299           16.000 SP E
+  PCH PINHAL                       CPFL PAULISTA                                       .299            6.777 SP E
+  PCH RETIRO                       CPFL PAULISTA                                       .299           15.600 SP E
+  PCH SAN JUAN                     ELEKTRO                                             .299            4.870 SP E
+  UFV AGUA VERMELHA IV             ELEKTRO                                             .209           15.000 SP E
+  UFV AGUA VERMELHA V              ELEKTRO                                             .208           30.000 SP E
+  UFV AGUA VERMELHA VI             ELEKTRO                                             .208           30.000 SP E
+  UFV BOA HORA 1                   ELEKTRO                                             .162           23.040 SP M
+  UFV BOA HORA 2                   ELEKTRO                                             .162           23.040 SP M
+  UFV BOA HORA 3                   ELEKTRO                                             .162           23.040 SP M
+  UFV DRACENA 1                    ELEKTRO                                             .246           27.000 SP E
+  UFV DRACENA 2                    ELEKTRO                                             .246           27.000 SP E
+  UFV DRACENA 4                    ELEKTRO                                             .246           27.000 SP E
+  UFV GUAIMBE 1                    CPFL PAULISTA                                       .246           30.000 SP E
+  UFV GUAIMBE 2                    CPFL PAULISTA                                       .246           30.000 SP E
+  UFV GUAIMBE 3                    CPFL PAULISTA                                       .246           30.000 SP E
+  UFV GUAIMBE 4                    CPFL PAULISTA                                       .246           30.000 SP E
+  UFV GUAIMBE 5                    CPFL PAULISTA                                       .246           30.000 SP E
+  UFV PEREIRA BARRETO I            ELEKTRO                                             .162           41.490 SP N
+  UFV PEREIRA BARRETO II           ELEKTRO                                             .162           41.490 SP N
+  UFV PEREIRA BARRETO III          ELEKTRO                                             .162           41.490 SP N
+  UFV PEREIRA BARRETO IV           ELEKTRO                                             .162           41.490 SP N
+  UFV PEREIRA BARRETO V            ELEKTRO                                             .162           36.480 SP N
+  UFV VALE DO PARANA               ELEKTRO                                             .214           30.000 SP E
+  UHE BARIRI (A.S.LIMA)            CPFL PAULISTA                                       .246          135.280 SP E
+  UHE BARRA BONITA                 CPFL PAULISTA                                       .246          139.230 SP E
+  UHE CACONDE                      CPFL SANTA CRUZ                                     .162           79.500 SP N
+  UHE CANOAS I                     ENERGISA SUL SUDESTE - ESS                          .299           81.400 SP E
+  UHE CANOAS II                    ENERGISA SUL SUDESTE - ESS                          .299           71.000 SP E
+  UHE EUCLIDES DA CUNHA            CPFL SANTA CRUZ                                     .162          107.590 SP N
+  UHE IBITINGA                     CPFL PAULISTA                                       .299          129.940 SP E
+  UHE JAGUARI                      EDP SP                                              .299           27.300 SP E
+  UHE JUPIA                        ELEKTRO                                             .299          219.800 SP E
+  UHE LIMOEIRO (A.S.OLIVEIRA)      CPFL SANTA CRUZ                                     .162           31.640 SP N
+  UHE NOVA AVANHANDAVA             ELEKTRO                                             .299          341.160 SP E
+  UHE OURINHOS                     CPFL SANTA CRUZ                                     .162           41.000 SP N
+  UHE PARAIBUNA                    ELEKTRO                                             .299           84.300 SP E
+  UHE PORTO COLOMBIA               CEMIG-D                                             .299          316.000 MG E
+  UHE PROMISSAO                    CPFL PAULISTA                                       .299          261.060 SP E
+  UHE ROSANA                       ELEKTRO                                             .299          351.600 SP E
+  UHE SALTO GRANDE (LN GARCEZ-GP)  ENERGISA SUL SUDESTE - ESS                          .299           73.300 SP E
+  UHE SANTA BRANCA                 EDP SP                                              .299           57.000 SP E
+  UTE AGUA BONITA                  ENERGISA SUL SUDESTE - ESS                          .299           15.000 SP E
+  UTE ALCIDIA                      ELEKTRO                                             .299           27.000 SP E
+  UTE ALTA MOGIANA                 CPFL PAULISTA                                       .162           29.750 SP M
+  UTE BALDIN                       ELEKTRO                                             .299           28.500 SP E
+  UTE BARRA BIOENERGIA             CPFL PAULISTA                                       .299           83.700 SP E
+  UTE BARRA GRANDE (SP)            CPFL PAULISTA                                       .299           46.000 SP E
+  UTE BIOENERGIA MOCOCA            CPFL SANTA CRUZ                                     .162           35.000 SP N
+  UTE BIOGAS BONFIM                CPFL PAULISTA                                       .214           20.900 SP E
+  UTE BIOLINS                      CPFL PAULISTA                                       .299           18.000 SP E
+  UTE BONFIM                       CPFL PAULISTA                                       .299           84.100 SP E
+  UTE BROTAS                       CPFL PAULISTA                                       .299           30.000 SP E
+  UTE BROTAS II                    CPFL PAULISTA                                       .162           30.000 SP M
+  UTE CANAA                        ENERGISA SUL SUDESTE - ESS                          .299           20.000 SP E
+  UTE CATANDUVA                    ENERGISA SUL SUDESTE - ESS                          .299           28.580 SP E
+  UTE CERRADAO                     CEMIG-D                                             .299            8.800 MG E
+  UTE CERRADAO 2                   CEMIG-D                                             .162           40.000 MG N
+  UTE CEVASA                       CPFL PAULISTA                                       .299           28.000 SP E
+  UTE CLEALCO QUEIROZ              CPFL PAULISTA                                       .299           29.000 SP E
+  UTE COCAL                        ENERGISA SUL SUDESTE - ESS                          .299           25.000 SP E
+  UTE COCAL II                     ELEKTRO                                             .299           80.000 SP E
+  UTE COLOMBO ARIRANHA             CPFL PAULISTA                                       .162           14.000 SP M
+  UTE COLOMBO ARIRANHA 2           CPFL PAULISTA                                       .299           30.000 SP E
+  UTE COLOMBO SANTA ALBERTINA      ELEKTRO                                             .299           21.000 SP E
+  UTE COLORADO                     CPFL PAULISTA                                       .299           30.000 SP E
+  UTE CONQUISTA DO PONTAL          ELEKTRO                                             .299           70.000 SP E
+  UTE COSTA PINTO                  CPFL PAULISTA                                       .162           49.500 SP M
+  UTE CRESCIUMAL                   ELEKTRO                                             .299           20.000 SP E
+  UTE DA MATA                      CPFL PAULISTA                                       .162           30.000 SP M
+  UTE DA MATA II                   CPFL PAULISTA                                       .299           30.000 SP E
+  UTE DA PEDRA                     CPFL PAULISTA                                       .299           50.000 SP E
+  UTE DECASA                       ENERGISA SUL SUDESTE - ESS                          .299           23.000 SP E
+  UTE ELDORADO BRASIL              ELEKTRO                                             .162           50.000 SP M
+  UTE EQUIPAV I                    CPFL PAULISTA                                       .299            7.000 SP E
+  UTE EQUIPAV II                   CPFL PAULISTA                                       .299           29.000 SP E
+  UTE ESTER                        CPFL PAULISTA                                       .299           28.000 SP E
+  UTE FBA GASA - ANDRADINA         ELEKTRO                                             .162           50.000 SP M
+  UTE FERRARI - PIRASSUNUNGA       ELEKTRO                                             .299           55.000 SP E
+  UTE FIBRIA 2                     ELEKTRO                                             .299          140.000 SP E
+  UTE GUAIRA - SP                  CPFL PAULISTA                                       .299           30.000 SP E
+  UTE GUARANI - TANABI             CPFL PAULISTA                                       .299           30.000 SP E
+  UTE GUARANI - TANABI 2           CPFL PAULISTA                                       .272           29.000 SP E
+  UTE GUARANI CRUZ ALTA            CPFL PAULISTA                                       .272           29.000 SP E
+  UTE GUARANI CRUZ ALTA 2          CPFL PAULISTA                                       .246           19.000 SP E
+  UTE IBITIUVA                     CPFL PAULISTA                                       .246           30.000 SP E
+  UTE INTERLAGOS                   ELEKTRO                                             .246           27.000 SP E
+  UTE IPAUSSU BIOENERGIA           CPFL SANTA CRUZ                                     .162           51.500 SP N
+  UTE IPE                          ELEKTRO                                             .299           25.000 SP E
+  UTE L.CARLOS PRESTES (T.LAGOAS)  ELEKTRO                                             .299          360.000 SP E
+  UTE LWARCEL                      CPFL PAULISTA                                       .299            9.000 SP E
+  UTE MANDU                        CPFL PAULISTA                                       .299           59.000 SP E
+  UTE MARACAI                      ENERGISA SUL SUDESTE - ESS                          .299           29.500 SP E
+  UTE MERIDIANO                    ELEKTRO                                             .296           28.580 SP E
+  UTE MOEMA                        ELEKTRO                                             .296           30.000 SP E
+  UTE MOGI                         ELEKTRO                                             .162            4.500 SP M
+  UTE MOGIANA BIOENERGIA           CPFL PAULISTA                                       .162           29.500 SP M
+  UTE NARDINI                      CPFL PAULISTA                                       .296           31.000 SP E
+  UTE NOBLE ENERGIA                ELEKTRO                                             .296           28.580 SP E
+  UTE NOBLE ENERGIA II             ELEKTRO                                             .296           28.000 SP E
+  UTE NOROESTE PAULISTA            ELEKTRO                                             .296           28.580 SP E
+  UTE ONCA PINTADA                 ELEKTRO                                             .214           50.000 SP E
+  UTE PARANAPANEMA                 ELEKTRO                                             .296           30.000 SP E
+  UTE PETROCOQUE                   CPFL PIRATININGA                                    .162           11.800 SP M
+  UTE PIONEIROS                    ELEKTRO                                             .296           17.000 SP E
+  UTE PIONEIROS II                 ELEKTRO                                             .296           19.000 SP E
+  UTE PITANGUEIRAS                 CPFL PAULISTA                                       .162           41.000 SP M
+  UTE POTIRENDABA                  CPFL PAULISTA                                       .297           26.000 SP E
+  UTE QUATA                        ENERGISA SUL SUDESTE - ESS                          .299           20.000 SP E
+  UTE RAFARD                       CPFL PAULISTA                                       .299           33.500 SP E
+  UTE RIO VERMELHO                 ELEKTRO                                             .299           30.000 SP E
+  UTE RIO VERMELHO 2               ELEKTRO                                             .299           30.000 SP E
+  UTE RIO VERMELHO 3               ELEKTRO                                             .162           14.200 SP N
+  UTE RUETTE                       CPFL PAULISTA                                       .299           18.000 SP E
+  UTE SANTA ADELIA                 CPFL PAULISTA                                       .299           23.500 SP E
+  UTE SANTA CANDIDA I              CPFL PAULISTA                                       .299           21.500 SP E
+  UTE SANTA CANDIDA II             CPFL PAULISTA                                       .272           30.000 SP E
+  UTE SANTA CRUZ AB                CPFL PAULISTA                                       .162           50.000 SP M
+  UTE SANTA ELISA                  CPFL PAULISTA                                       .162           30.000 SP M
+  UTE SANTA FE                     CPFL PAULISTA                                       .272           12.500 SP E
+  UTE SANTA ISABEL                 ENERGISA SUL SUDESTE - ESS                          .299           24.000 SP E
+  UTE SANTO ANGELO                 CEMIG-D                                             .272           30.000 MG E
+  UTE SAO FRANCISCO                CPFL PAULISTA                                       .272           19.000 SP E
+  UTE SAO JOAO DA BOA VISTA        ELEKTRO                                             .272           50.000 SP E
+  UTE SAO JOSE COLINA              CPFL PAULISTA                                       .299           53.000 SP E
+  UTE SAO JOSE ESTIVA              ENERGISA SUL SUDESTE - ESS                          .299           25.000 SP E
+  UTE SAO JOSE MACATUBA            CPFL PAULISTA                                       .299           53.000 SP E
+  UTE SAO LUIZ                     ELEKTRO                                             .299           50.000 SP E
+  UTE SAO MARTINHO                 CPFL PAULISTA                                       .299           30.000 SP E
+  UTE SAO MARTINHO ENERGIA         CPFL PAULISTA                                       .162           30.000 SP M
+  UTE TERMOVERDE CAIEIRAS          ELEKTRO                                             .299           27.500 SP E
+  UTE UFA                          ENERGISA SUL SUDESTE - ESS                          .162           15.000 SP M
+  UTE UNIVALEM BIOENERGIA          CPFL PAULISTA                                       .299           29.000 SP E
+  UTE VALE DO ROSARIO              CPFL PAULISTA                                       .299           63.000 SP E
+  UTE VCP-MS                       ELEKTRO                                             .299           50.000 SP E
+  UTE VERTENTE                     CPFL PAULISTA                                       .299           27.500 SP E
+  UTE VIRALCOOL                    CPFL PAULISTA                                       .162           20.000 SP M
+  UTE VIRALCOOL 2                  CPFL PAULISTA                                       .299           29.000 SP E
+  UTE VIRALCOOL CASTILHO           ELEKTRO                                             .299           28.000 SP E
+  UTE VISTA ALEGRE - ELEKTRO       ELEKTRO                                             .299           30.000 SP E
+  UTE SAO JOAO BIOGAS              ENEL-SP                                             .299           21.500 SP E
+  PCH PIRAPORA                     ENEL-SP                                             .299           25.000 SP E
+  PCH RASGAO                       ENEL-SP                                             .299           22.000 SP E
+  UHE HENRY BORDEN                 CPFL PIRATININGA                                    .299           49.000 SP E
+  UTE NEGRO DE FUMO                CPFL PIRATININGA                                    .299           18.000 SP E
+  PCH ANNA MARIA                   ENERGISA MINAS GERAIS - EMG                         .162            1.640 MG N
+  PCH BONFANTE                     LIGHT                                               .299           19.000 RJ E
+  PCH GUARY                        ENERGISA MINAS GERAIS - EMG                         .162            5.320 MG N
+  PCH IVAN BOTELHO I (PONTE)       ENERGISA MINAS GERAIS - EMG                         .162           25.000 MG N
+  PCH IVAN BOTELHO II (PALESTINA)  ENERGISA MINAS GERAIS - EMG                         .162           12.600 MG N
+  PCH IVAN BOTELHO III (TRIUNFO)   ENERGISA MINAS GERAIS - EMG                         .162           24.400 MG N
+  PCH JOAO CAMILO PENA             ENERGISA MINAS GERAIS - EMG                         .162           22.000 MG N
+  PCH LAJES (FONTES VELHA)         LIGHT                                               .299           16.700 RJ E
+  PCH MONTE SERRAT                 LIGHT                                               .299           25.000 RJ E
+  PCH PARACAMBI                    LIGHT                                               .299           25.000 RJ E
+  PCH SANTA FE                     LIGHT                                               .299           30.000 RJ E
+  PCH TULIO CORDEIRO DE MELO       ENERGISA MINAS GERAIS - EMG                         .162           16.500 MG N
+  PCH ZE TUNIN                     ENERGISA MINAS GERAIS - EMG                         .162            8.100 MG N
+  UHE BARRA DO BRAUNA              ENERGISA MINAS GERAIS - EMG                         .162           39.500 MG N
+  UHE FONTES NOVA                  LIGHT                                               .299          129.171 RJ E
+  UHE FUNIL - RJ                   LIGHT                                               .299          204.000 RJ E
+  UHE ILHA DOS POMBOS              LIGHT                                               .299          185.125 RJ E
+  UHE ITAOCARA I                   LIGHT                                               .246          150.000 RJ E
+  UHE NILO PECANHA                 LIGHT                                               .299          376.923 RJ E
+  UHE PEREIRA PASSOS               LIGHT                                               .299           99.212 RJ E
+  UHE SIMPLICIO                    ENEL-RJ                                             .299          322.500 RJ E
+  UTE BARBOSA L.S. (ELETROBOLT)    LIGHT                                               .299          379.000 RJ E
+  UTE CAMPOS                       ENEL-RJ                                             .299           31.000 RJ E
+  UTE GOV.LEONEL BRIZOLA (TERMORIO LIGHT                                               .299         1036.400 RJ E
+  UTE JUIZ DE FORA - EMG           ENERGISA MINAS GERAIS - EMG                         .162           42.500 MG N
+  UTE SANTA CRUZ                   LIGHT                                               .299          691.000 RJ E
+  PCH CABOCLO                      CEMIG-D                                             .299            3.815 MG E
+  PCH CACHOEIRA DOS PRAZERES       CEMIG-D                                             .299            1.750 MG E
+  PCH FUMACA                       CEMIG-D                                             .299            9.700 MG E
+  PCH FUNIL                        CEMIG-D                                             .299            3.550 MG E
+  PCH FURQUIM                      CEMIG-D                                             .299            5.875 MG E
+  PCH NINHO DA AGUIA               CEMIG-D                                             .299           10.000 MG E
+  PCH SALTO - MG                   CEMIG-D                                             .299            4.210 MG E
+  UHE CAMARGOS                     CEMIG-D                                             .299           44.744 MG E
+  UHE FUNIL - MG                   CEMIG-D                                             .299          180.000 MG E
+  UHE ITUTINGA                     CEMIG-D                                             .299           50.672 MG E
+  UHE PICADA                       CEMIG-D                                             .299           49.000 MG E
+  UHE RISOLETA NEVES (CANDONGA)    CEMIG-D                                             .299          140.000 MG E
+  UHE SOBRAGI                      CEMIG-D                                             .299           59.500 MG E
+  UTE AURELIANO CHAVES (IBIRITE)   CEMIG-D                                             .299          230.000 MG E
+  UTE IGARAPE                      CEMIG-D                                             .299          124.308 MG E
+  UTE JUIZ DE FORA - CEMIG         CEMIG-D                                             .299           41.500 MG E
+  UTE LDC BIOENERGIA LAGOA DA PRAT CEMIG-D                                             .299           30.000 MG E
+  UTE REGAP                        CEMIG-D                                             .299           10.000 MG E
+  PCH FRANCISCO GROSS              EDP ES                                              .299           28.970 ES E
+  PCH SAO JOAQUIM                  EDP ES                                              .299           21.000 ES E
+  PCH SAO PEDRO                    EDP ES                                              .299           30.000 ES E
+  PCH SAO SIMAO                    EDP ES                                              .299           27.000 ES E
+  UHE MASCARENHAS - ENERGEST       EDP ES                                              .299          196.420 ES E
+  UHE SUICA                        EDP ES                                              .299           33.870 ES E
+  UTE ALCON                        EDP ES                                              .299           30.000 ES E
+  UTE ARCEL                        EDP ES                                              .299           29.999 ES E
+  UTE LASA                         EDP ES                                              .299           15.200 ES E
+  UTE LUIZ OSCAR ROD. DE MELO      EDP ES                                              .299          198.800 ES E
+  UTE SOL                          EDP ES                                              .162           90.000 ES M
+  PCH AGUA BRAVA                   ENERGISA MATO GROSSO - EMT                          .214           13.050 MT E
+  PCH AGUA PRATA                   ENERGISA MATO GROSSO - EMT                          .214           13.300 MT E
+  PCH BARUITO                      ENERGISA MATO GROSSO - EMT                          .299           18.000 MT E
+  PCH BOCAIUVA                     ENERGISA MATO GROSSO - EMT                          .299           29.500 MT E
+  PCH CASCA III                    ENERGISA MATO GROSSO - EMT                          .299           12.420 MT E
+  PCH GARGANTA JARARACA            ENERGISA MATO GROSSO - EMT                          .299           29.300 MT E
+  PCH INXU                         ENERGISA MATO GROSSO - EMT                          .162           21.550 MT M
+  PCH JOSE GELASIO                 ENERGISA MATO GROSSO - EMT                          .299           23.166 MT E
+  PCH JUI 117                      ENERGISA MATO GROSSO - EMT         6.542            .256           25.000 MT E
+  PCH LAJARI                       ENERGISA MATO GROSSO - EMT                          .299           20.880 MT E
+  PCH PAMPEANA                     ENERGISA MATO GROSSO - EMT                          .299           28.000 MT E
+  PCH QUEIXADA                     ENEL GOIAS                                          .299           30.000 GO E
+  PCH RECANTO                      ENERGISA MATO GROSSO - EMT                          .214            9.110 MT E
+  PCH RONDONOPOLIS                 ENERGISA MATO GROSSO - EMT                          .299           26.210 MT E
+  PCH SACRE II                     ENERGISA MATO GROSSO - EMT                          .299           30.000 MT E
+  PCH SANTA GABRIELA               ENERGISA MATO GROSSO - EMT                          .299           24.000 MT E
+  PCH SAO LOURENCO                 ENERGISA MATO GROSSO - EMT                          .299           29.100 MT E
+  PCH SAO TADEU                    ENERGISA MATO GROSSO - EMT                          .299           17.890 MT E
+  PCH SETE QUEDAS                  ENERGISA MATO GROSSO - EMT                          .299           22.000 MT E
+  PCH TERRA SANTA                  ENERGISA MATO GROSSO - EMT                          .299           27.400 MT E
+  PCH VERDE 8                      ENEL GOIAS                                          .299           30.000 GO E
+  PCH YPE                          ENEL GOIAS                                          .299           30.000 GO E
+  UHE CACHOEIRA DOURADA            ENEL GOIAS                                          .299          141.410 GO E
+  UHE ESPORA                       ENEL GOIAS                                          .299           32.010 GO E
+  UHE JUBA I                       ENERGISA MATO GROSSO - EMT                          .299           42.000 MT E
+  UHE JUBA II                      ENERGISA MATO GROSSO - EMT                          .299           42.000 MT E
+  UTE BOA VISTA - CELG             ENEL GOIAS                                          .299           28.500 GO E
+  UTE CACHOEIRA DOURADA            ENEL GOIAS                                          .299           29.000 GO E
+  UTE F&S AGRI SOLUTIONS           ENERGISA MATO GROSSO - EMT                          .162            3.500 MT N
+  UTE ITUMBIARA (CIBA)             ENEL GOIAS                                          .299           39.600 GO E
+  UTE QUIRINOPOLIS - CELG          ENEL GOIAS                                          .299           25.000 GO E
+  PCH BRACO NORTE III              ENERGISA MATO GROSSO - EMT                          .299           14.037 MT E
+  PCH BRACO NORTE IV               ENERGISA MATO GROSSO - EMT                          .299           13.977 MT E
+  PCH CABECA DE BOI                ENERGISA MATO GROSSO - EMT                          .272           30.000 MT E
+  PCH DA FAZENDA                   ENERGISA MATO GROSSO - EMT                          .272           26.487 MT E
+  PCH SALTO BURITI                 CELPA                                               .272           10.000 MT E
+  PCH SALTO CURUA                  CELPA                                               .272           30.000 MT E
+  PCH SALTO TRES DE MAIO           CELPA                                               .272           20.000 MT E
+  UHE SALTO APIACAS                ENERGISA MATO GROSSO - EMT                          .272           44.145 MT E
+  UTE INPASA                       ENERGISA MATO GROSSO - EMT                          .272           10.000 MT E
+  PCH PARANATINGA II               ENERGISA MATO GROSSO - EMT                          .272           29.020 MT E
+  PCH GALHEIROS I                  ENEL GOIAS                                          .272           11.550 GO E
+  PCH SAO DOMINGOS II              ENEL GOIAS                                          .272           24.000 GO E
+  PCH TAMBORIL 35113               ENEL GOIAS                                          .256           15.800 GO E
+  UHE CORUMBA III                  CEB-DIS                                             .299           86.500 GO E
+  UHE CORUMBA IV                   CEB-DIS                                             .299          124.500 GO E
+  UTE DAIA (ANAPOLIS)              ENEL GOIAS                                          .299           44.300 GO E
+  PCH AGROTRAFO                    ENERGISA TOCANTINS - ETO                            .162           14.031 TO N
+  PCH AGUA LIMPA                   ENERGISA TOCANTINS - ETO                            .162           14.000 TO N
+  PCH AREIA                        ENERGISA TOCANTINS - ETO                            .162           11.400 TO N
+  UTE PEDRO AFONSO                 ENERGISA TOCANTINS - ETO                            .162           62.000 TO N
+  UHE CURUA-UNA                    CELPA                                               .299           30.300 PA E
+  PCH CACHOEIRA DA LIXA - BA       COELBA                                              .299           14.800 BA E
+  PCH COLINO 1 - BA                COELBA                                              .299           11.000 BA E
+  PCH COLINO 2 - BA                COELBA                                              .299           16.000 BA E
+  UHE FUNIL - BA                   COELBA                                              .299           29.961 BA E
+  UTE SUZANO MUCURI                COELBA                                              .299           40.000 BA E
+  PCH BOA SORTE - TO               COELBA                             1.473            .299           15.900 BA E
+  PCH DOIDO                        COELBA                             1.473            .299            6.000 BA E
+  PCH LAGOA GRANDE - TO            COELBA                             1.473            .299           24.300 BA E
+  PCH PORTO FRANCO - TO            COELBA                             1.473            .299           29.710 BA E
+  PCH RIACHO PRETO - TO            COELBA                             1.473            .299            9.300 BA E
+  UTE SYKUE I                      COELBA                             1.474            .299           28.500 BA E
+  PCH ANTONIO BRENNAND(ALTO JAURU) ENERGISA MATO GROSSO - EMT         8.390            .299           20.000 MT E
+  PCH ESTIVADINHO 3                ENERGISA MATO GROSSO - EMT         6.001            .256            9.900 MT E
+  PCH FIGUEIROPOLIS                ENERGISA MATO GROSSO - EMT         8.390            .299           19.300 MT E
+  PCH INDIAVAI                     ENERGISA MATO GROSSO - EMT         8.390            .299           28.000 MT E
+  PCH NOVA GUAPORE                 ENERGISA MATO GROSSO - EMT         5.137            .214           13.958 MT E
+  PCH OMBREIRAS                    ENERGISA MATO GROSSO - EMT         8.390            .299           26.000 MT E
+  PCH SALTO - MT                   ENERGISA MATO GROSSO - EMT         8.390            .299           19.000 MT E
+  PCH SALTO CORGAO                 ENERGISA MATO GROSSO - EMT         8.390            .299           27.000 MT E
+  UHE GUAPORE                      ENERGISA MATO GROSSO - EMT         8.390            .299          120.000 MT E
+  UHE JAURU (CINCO ESTRELAS)       ENERGISA MATO GROSSO - EMT         8.390            .299            8.000 MT E
+  UHE JAURU (QUEIROZ GALVAO)       ENERGISA MATO GROSSO - EMT         8.390            .299          103.500 MT E
+  PCH MOSQUITAO                    ENEL GOIAS                                          .299           30.000 GO E
+  PCH RENIC                        ENEL GOIAS                                          .272           15.832 GO E
+  PCH SANTO ANTONIO DO CAIAPO      ENEL GOIAS                                          .272           30.000 GO E
+  PCH TAMBORIL 29648               ENEL GOIAS                                          .272           15.800 GO E
+  UTE XAVANTES(ARUANA)             ENEL GOIAS                                          .272           53.598 GO E
+  UTE FERNANDO GASPARIAN (N.PIRAT) ENEL-SP                                             .272          185.000 SP E
+  PCH AUTODROMO                    RGE SUL                                             .299           24.000 RS E
+  PCH BOA FE                       RGE SUL                                             .299           24.000 RS E
+  PCH CAZUZA FERREIRA              RGE SUL                                             .214            9.100 RS E
+  PCH JARDIM                       RGE SUL                                             .299            9.000 RS E
+  PCH LINHA APARECIDA              RGE SUL                                             .271           24.920 RS E
+  PCH LINHA JACINTO                RGE SUL                                             .271           17.407 RS E
+  PCH MORRO GRANDE                 RGE SUL                                             .299            9.800 RS E
+  PCH SANTA CAROLINA               RGE SUL                                             .272           10.500 RS E
+  PCH SAO PAULO                    RGE SUL                                             .272           16.000 RS E
+  UHE MONJOLINHO                   RGE SUL                                             .272           74.000 RS E
+  PCH CESAR FILHO                  CERON                              5.649            .272            7.000 RO E
+  PCH PRIMAVERA                    CERON                              5.649            .272           18.200 RO E
+  UHE RONDON II                    CERON                              5.649            .272           73.500 RO E
+  UTE RONDON II                    CERON                              5.649            .272           20.000 RO E
+  UTE FURLAN AVARE                 CPFL SANTA CRUZ                                     .162           15.000 SP N
+  UTE RIO PARDO                    CPFL SANTA CRUZ                                     .162           25.000 SP N
+  PCH MALAGONE                     CEMIG-D                                             .299           19.000 MG E
+  PCH MATA VELHA                   CEMIG-D                                             .272           24.000 MG E
+  PCH SERRA DAS AGULHAS            CEMIG-D                                             .272           29.774 MG E
+  PCH UNAI BAIXO                   CEMIG-D                                             .272           26.000 MG E
+  UFV ARAXA 1                      CEMIG-D                            1.105            .162           44.220 MG N
+  UFV ARAXA 2                      CEMIG-D                            1.105            .162           44.220 MG N
+  UFV FRANCISCO SA 1               CEMIG-D                                             .208           29.990 MG E
+  UFV FRANCISCO SA 2               CEMIG-D                                             .208           29.990 MG E
+  UFV FRANCISCO SA 3               CEMIG-D                                             .208           29.990 MG E
+  UFV GUIMARANIA 1                 CEMIG-D                            1.461            .272           31.000 MG E
+  UFV GUIMARANIA 2                 CEMIG-D                            1.461            .272           31.000 MG E
+  UFV PARACATU 1                   CEMIG-D                            1.569            .272           32.900 MG E
+  UFV PARACATU 2                   CEMIG-D                            1.569            .272           32.900 MG E
+  UFV PARACATU 3                   CEMIG-D                            1.569            .272           32.900 MG E
+  UFV PARACATU 4                   CEMIG-D                            1.569            .272           32.900 MG E
+  UFV PIRAPORA 10                  CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 2                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 3                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 4                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 5                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 6                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 7                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV PIRAPORA 9                   CEMIG-D                            1.424            .272           30.000 MG E
+  UFV SOLAR JAIBA 3                CEMIG-D                                             .208           33.000 MG E
+  UFV SOLAR JAIBA 4                CEMIG-D                                             .208           33.000 MG E
+  UFV SOLAR JAIBA 9                CEMIG-D                                             .208           22.500 MG E
+  UFV VAZANTE 1                    CEMIG-D                                             .246           27.000 MG E
+  UFV VAZANTE 2                    CEMIG-D                                             .246           27.000 MG E
+  UFV VAZANTE 3                    CEMIG-D                                             .246           27.000 MG E
+  UHE AMADOR AGUIAR I (C.BRANCO I) CEMIG-D                                             .246          230.800 MG E
+  UHE AMADOR AGUIAR II(C.BRANCO II CEMIG-D                                             .246          207.200 MG E
+  UHE BATALHA                      CEMIG-D                                             .246           49.450 MG E
+  UHE IGARAPAVA                    CEMIG-D                                             .246          207.720 MG E
+  UHE MASCARENHAS DE MORAES(PEIX.) CEMIG-D                                             .246          150.000 MG E
+  UHE MIRANDA                      CEMIG-D                                             .246          403.713 MG E
+  UHE QUEIMADO                     CEMIG-D                                             .246          105.000 MG E
+  UHE RETIRO BAIXO                 CEMIG-D                                             .246           79.000 MG E
+  UHE SERRA DO FACAO               ENEL GOIAS                                          .246          202.400 GO E
+  UTE BEVAP                        CEMIG-D                                             .246           30.000 MG E
+  UTE DELTA                        CEMIG-D                                             .246           62.500 MG E
+  UTE DVPA                         CEMIG-D                                             .246           20.000 MG E
+  UTE ENERGETICA TUPACIGUARA       CEMIG-D                            1.235            .162           21.000 MG N
+  UTE ENERVALE                     CEMIG-D                                             .246           30.000 MG E
+  UTE ITUIUTABA                    CEMIG-D                                             .246           36.000 MG E
+  UTE SANTA JULIANA                CEMIG-D                                             .246           30.000 MG E
+  UTE SANTA VITORIA                CEMIG-D                                             .246           20.000 MG E
+  UTE SAO JUDAS TADEU              CEMIG-D                                             .246           30.000 MG E
+  UTE VALE DO PONTAL               CEMIG-D                                             .246           23.500 MG E
+  UTE VALE DO TIJUCO I             CEMIG-D                                             .246           30.000 MG E
+  UTE VALE DO TIJUCO II            CEMIG-D                            1.711            .296           30.000 MG E
+  UTE WD                           CEMIG-D                                             .296           30.000 MG E
+  PCH BOA VISTA II                 CEMIG-D                                             .246           29.701 MG E
+  PCH DORES DE GANHAES             CEMIG-D                                             .272           13.181 MG E
+  PCH FORTUNA II                   CEMIG-D                                             .272            8.456 MG E
+  PCH JACARE                       CEMIG-D                                             .272            8.856 MG E
+  PCH MUCURI                       CEMIG-D                                             .272           18.810 MG E
+  PCH PAIOL                        CEMIG-D                                             .272           20.000 MG E
+  PCH SENHORA DO PORTO             CEMIG-D                                             .272           11.616 MG E
+  UHE SANTA CLARA - MG             CEMIG-D                                             .272           60.000 MG E
+  UTE UT UGPU ITABIRITO            CEMIG-D                                             .272            3.300 MG E
+  PCH CARANGOLA                    CEMIG-D                                             .272           15.000 MG E
+  UHE SALTO GRANDE - MG            CEMIG-D                                             .272          101.004 MG E
+  EOL FAZENDA ROSARIO              CEEE-D                                              .272            9.200 RS E
+  EOL FAZENDA ROSARIO 2            CEEE-D                                              .272           23.000 RS E
+  EOL FAZENDA ROSARIO 3            CEEE-D                                              .272           16.100 RS E
+  EOL PALMARES                     CEEE-D                                              .272            9.200 RS E
+  PCH LAVRINHAS                    EDP SP                                              .299           30.000 SP E
+  PCH QUELUZ                       EDP SP                                              .299           30.000 SP E
+  EOL MANGUE SECO I                COSERN                                              .299           25.300 RN E
+  EOL MANGUE SECO II               COSERN                                              .299           25.460 RN E
+  EOL MANGUE SECO III              COSERN                                              .299           25.700 RN E
+  EOL MANGUE SECO V                COSERN                                              .299           25.420 RN E
+  EOL SANTA ROSA E MUNDO NOVO I    COSERN                             0.922            .162           32.390 RN N
+  EOL SANTA ROSA E MUNDO NOVO II   COSERN                             0.922            .162           28.460 RN N
+  EOL SANTA ROSA E MUNDO NOVO III  COSERN                             0.922            .162           32.090 RN N
+  EOL SANTA ROSA E MUNDO NOVO IV   COSERN                             0.922            .162           32.090 RN N
+  EOL SANTA ROSA E MUNDO NOVO V    COSERN                             0.922            .162           24.320 RN N
+  UFV ASSU V                       COSERN                                              .299           30.000 RN E
+  PCH CIDEZAL                      ENERGISA MATO GROSSO - EMT         9.732            .234           16.773 MT E
+  PCH DIVISA                       ENERGISA MATO GROSSO - EMT         9.732            .234           10.800 MT E
+  PCH ILHA COMPRIDA                ENERGISA MATO GROSSO - EMT         9.732            .234           19.910 MT E
+  PCH PARECIS                      ENERGISA MATO GROSSO - EMT         9.732            .234           15.171 MT E
+  PCH RONDON                       ENERGISA MATO GROSSO - EMT         9.732            .234           12.772 MT E
+  PCH SAPEZAL                      ENERGISA MATO GROSSO - EMT         9.732            .234           15.771 MT E
+  PCH SEGREDO                      ENERGISA MATO GROSSO - EMT         9.732            .234           25.868 MT E
+  PCH TELEGRAFICA                  ENERGISA MATO GROSSO - EMT         9.732            .234           29.772 MT E
+  EOL DELTA DO PARNAIBA            EQUATORIAL PIAUI                                    .296           30.000 PI E
+  EOL PORTO DAS BARCAS             EQUATORIAL PIAUI                                    .296           20.000 PI E
+  EOL PORTO DO DELTA               EQUATORIAL PIAUI                   0.317            .272           30.000 PI E
+  EOL PORTO SALGADO                EQUATORIAL PIAUI                                    .296           20.000 PI E
+  EOL TESTA BRANCA I               EQUATORIAL PIAUI                                    .296           22.000 PI E
+  EOL TESTA BRANCA III             EQUATORIAL PIAUI                                    .296           22.000 PI E
+  UHE COARACY NUNES                CEA                                                 .234           78.000 AP E
+  EOL CORREDOR DO SENANDES II      CEEE-D                                              .296           20.800 RS E
+  EOL CORREDOR DO SENANDES III     CEEE-D                                              .296           26.050 RS E
+  EOL CORREDOR DO SENANDES IV      CEEE-D                                              .296           28.660 RS E
+  EOL VENTO ARAGANO I              CEEE-D                                              .296           28.660 RS E
+  EOL VENTOS DA BAHIA II           COELBA                                              .296           26.210 BA E
+  EOL VENTOS DA BAHIA IV           COELBA                                              .272           11.650 BA E
+  EOL VENTOS DA BAHIA VIII         COELBA                                              .272           26.210 BA E
+  UTE FLORAPLAC                    CELPA                                               .272           15.900 PA E
+  UFV BRIGIDA 1                    CELPE                                               .162           31.500 PE N
+  UFV BRIGIDA 2                    CELPE                                               .162           31.500 PE N
+  UFV SOLAR SALGUEIRO              CELPE                                               .208           30.000 PE E
+  UFV SOLAR SALGUEIRO II           CELPE                                               .208           30.000 PE E
+  UFV SOLAR SALGUEIRO III          CELPE                                               .208           30.000 PE E
+ X--------------------------------X--------------------------------X-------X-------X-------X-------X--------X--X-X
+
+ Soma dos encargos ONS para geradores (1000R$/ano)
+ Novos:           4973.47
+ Existentes:     67161.19
+ Total:          72134.67
+

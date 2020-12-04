@@ -1,0 +1,316 @@
+ PROGRAMA NODAL - SIMULAÇÃO DE TARIFAS DE USO DO SISTEMA ELÉTRICO - v5.4(06/19)
+
+ 2021 ONS * CICLO 2020-2021 * (30/07/2020 - 15:13:42)                                                    
+                                                             
+ RELATÓRIO DE TUST DAS USINAS
+
+ X--------------------------------X-----------X-----------X
+               USINA                   CEG        TUST
+                                                R$/kW.mês
+ X--------------------------------X-----------X-----------X
+  EOL ACARI (RIACHAO I)               030870-6       7.248
+  EOL ALBUQUERQUE (RIACHAO II)        030871-4       7.248
+  EOL ALEGRIA I(NEW ENERGY)           028444-0       6.822
+  EOL ALEGRIA II(NEW ENERGY)          028443-2       6.822
+  EOL AMESCLA                         032090-0       5.651
+  EOL ANEMOI (RIACHAO IV)             030874-9       7.248
+  EOL ANGELIM                         032091-9       5.651
+  EOL ANGICOS II                      035166-0       7.846
+  EOL APELIOTES(RIACHAO VI)           030872-2       7.248
+  EOL ARARINHA AZUL                   037001-0       8.307
+  EOL ARENA (RIACHAO VII)             030873-0       7.248
+  EOL ASA BRANCA I                    030505-7       7.834
+  EOL ASA BRANCA V                    030507-3       6.754
+  EOL ASA BRANCA VII                  030513-8       6.754
+  EOL B.VENTOS(VENTOS)                028887-0       7.054
+  EOL BARBATIMAO                      032093-5       5.651
+  EOL BOA VISTA DA LAGOINHA           032759-0       7.271
+  EOL CACIMBAS 1                      032011-0       5.197
+  EOL CAETITE 1                       030976-1       6.061
+  EOL CALANGO 1                       030511-1       6.541
+  EOL CALANGO 2                       030519-7       6.541
+  EOL CALANGO 3                       030545-6       6.541
+  EOL CALANGO 4                       030537-5       6.541
+  EOL CALANGO 5                       030552-9       6.541
+  EOL CAMPO DOS VENTOS I              031072-7       5.652
+  EOL CAMPO DOS VENTOS II             030500-6       6.754
+  EOL CAMPO DOS VENTOS III            031071-9       5.652
+  EOL CAMPO DOS VENTOS V              031069-7       5.652
+  EOL CAMPO LARGO I                   034613-6       9.256
+  EOL CAMPO LARGO II                  034633-0       9.583
+  EOL CAMPO LARGO IX                  034631-4       8.366
+  EOL CAMPO LARGO VIII                034614-4       8.366
+  EOL CAMPO LARGO X                   034630-6       8.366
+  EOL CAMPO LARGO XI                  034625-0       8.366
+  EOL CAMPO LARGO XII                 034623-3       8.366
+  EOL CAMPO LARGO XIII                034622-5       8.366
+  EOL CAMPO LARGO XIV                 034634-9       8.366
+  EOL CAMPO LARGO XIX                 034645-4       8.366
+  EOL CAMPO LARGO XV                  034636-5       9.256
+  EOL CAMPO LARGO XVI                 034637-3       9.256
+  EOL CAMPO LARGO XVII                034638-1       8.366
+  EOL CAMPO LARGO XVIII               034643-8       9.256
+  EOL CAMPO LARGO XX                  034647-0       8.366
+  EOL CAMPO LARGO XXII                034648-9       8.366
+  EOL CANOA QUEBRADA(VENTOS)          028788-1       7.054
+  EOL CATAVENTOS ACARAU I             033756-0       6.873
+  EOL CEDRO                           032098-6       5.563
+  EOL CORRUPIAO 2                     037019-3       7.874
+  EOL DELFINA III                     032521-0       7.249
+  EOL DELFINA IV                      032522-8       7.249
+  EOL DELFINA VI                      032523-6       7.249
+  EOL DELFINA VII                     032524-4       7.249
+  EOL DELTA 7 I                       040572-8       7.215
+  EOL DELTA 7 II                      040573-6       7.215
+  EOL DELTA 8 I                       040574-4       7.215
+  EOL DOS INDIOS 2                    030734-3       5.679
+  EOL DOS INDIOS 3                    030894-3       6.188
+  EOL DOS INDIOS(V.DO SUL)            028864-0       5.557
+  EOL EMBUACA                         030336-4       6.640
+  EOL ENACEL(VENTOS)                  028770-9       7.054
+  EOL EURUS IV                        030509-0       7.511
+  EOL FACHEIO                         032101-0       5.651
+  EOL FAROL                           030502-2       6.754
+  EOL FLEIXEIRAS I                    030670-3       6.640
+  EOL GARROTE                         035197-0       6.546
+  EOL GUAJIRU                         030663-0       6.640
+  EOL ICARAIZINHO                     028699-0       7.435
+  EOL ILHA GRANDE (EOLOS)             030691-6       7.435
+  EOL IMBURANA MACHO                  032102-8       5.651
+  EOL INHAMBU 2                       032487-6       7.874
+  EOL JATAI                           032104-4       5.651
+  EOL JUAZEIRO                        032106-0       5.651
+  EOL MANINEIRO                       032245-8       5.651
+  EOL MORRAO                          030506-5       6.985
+  EOL MUNDAU                          030656-8       5.179
+  EOL OSORIO(V.DO SUL)                028810-1       5.557
+  EOL OURO VERDE                      032012-9       5.197
+  EOL PALMAS (B. DO CORREGO)          030697-5       5.530
+  EOL PAU D'AGUA                      032246-6       5.651
+  EOL PRAIA DO MORGADO                028440-8       6.932
+  EOL PRAIA FORMOSA                   028631-1       6.864
+  EOL RIBEIRAO (EOLOS)                030695-9       7.435
+  EOL SABIU                           032108-7       5.651
+  EOL SANGRADOURO(V.DO SUL)           028811-0       5.557
+  EOL SANTA EDWIGES (BRITE)           031270-3       6.860
+  EOL SANTA MONICA                    031427-7       5.639
+  EOL SANTA MONICA I                  032013-7       5.197
+  EOL SANTA URSULA                    031425-0       5.639
+  EOL SANTA VERIDIANA                 031685-7       5.998
+  EOL SANTA VERONICA                  031686-5       5.998
+  EOL SANTO AMARO DO PIAUI            031691-1       5.998
+  EOL SANTO ANASTACIO                 031690-3       5.998
+  EOL SANTO INACIO III                035217-9       6.571
+  EOL SANTO INACIO IV                 031866-3       6.571
+  EOL SAO BASILIO                     031689-0       5.998
+  EOL SAO BENTO DO NORTE              030536-7       6.754
+  EOL SAO DOMINGOS                    032215-6       5.639
+  EOL SAO FELIX                       031688-1       5.998
+  EOL SAO FERNANDO 1                  037073-8       8.015
+  EOL SAO MOISES                      031687-3       5.998
+  EOL SAO RAIMUNDO                    035219-5       6.571
+  EOL SERRA DA BABILONIA B            040608-2       8.322
+  EOL SERRA DA BABILONIA D            040610-4       8.222
+  EOL SERRA DE SANTANA I              030625-8       7.323
+  EOL SERRA DE SANTANA II             030609-6       7.323
+  EOL SERRA DE SANTANA III            030615-0       7.323
+  EOL SERRA DO FOGO                   035222-5       8.191
+  EOL SERRA DO VENTO                  035229-2       8.191
+  EOL SERROTE I                       040878-6       7.295
+  EOL SERROTE II                      040879-4       7.295
+  EOL SERROTE III                     040880-8       7.295
+  EOL SERROTE IV                      040881-6       7.295
+  EOL SERROTE V                       040882-4       7.295
+  EOL SERROTE VI                      040883-2       7.295
+  EOL SERROTE VII                     040884-0       7.295
+  EOL SERROTE VIII                    040885-9       7.295
+  EOL TEIU 3                          037093-2       8.307
+  EOL TRAIRI                          030662-2       6.640
+  EOL U.VENTOS 1(POTIGUAR)            030562-6       7.202
+  EOL U.VENTOS 10(P.NORDESTE)         030571-5       7.202
+  EOL U.VENTOS 2(T.DE PEDRAS)         030563-4       7.202
+  EOL U.VENTOS 3(P.V.LESTE)           030564-2       7.202
+  EOL U.VENTOS 4(T.S.MIGUEL)          030565-0       7.202
+  EOL U.VENTOS 5(M.DOS VENTOS)        030566-9       7.202
+  EOL U.VENTOS 6(C.DA ILHA)           030567-7       7.202
+  EOL U.VENTOS 7(C.POTIGUAR)          030568-5       7.202
+  EOL U.VENTOS 8(E.DOS VENTOS)        030569-3       7.741
+  EOL U.VENTOS 9(I.DOS VENTOS)        030570-7       7.202
+  EOL UMBURANA DE CHEIRO              035233-0       8.191
+  EOL UMBUZEIRO                       032111-7       5.651
+  EOL V. DE SANTA FATIMA              031273-8       6.860
+  EOL V. DE SANTA REGINA              031276-2       6.860
+  EOL V. DE SANTO ADRIANO(COLIBRI)    031271-1       6.860
+  EOL V. DE SANTO ALBANO              031272-0       6.860
+  EOL V. DE SANTO DIMAS               031372-6       6.617
+  EOL V. DE SAO BENEDITO              031373-4       7.548
+  EOL VELLOZIA                        032113-3       5.651
+  EOL VENTOS DE S.ANGELINA            031275-4       6.860
+  EOL VENTOS DE S.BARBARA             031274-6       6.860
+  EOL VENTOS DE SANTA ANGELA 12       033016-7       8.263
+  EOL VENTOS DE SANTA ANGELA 13       033017-5       8.263
+  EOL VENTOS DE SANTA ANGELA 16       033020-5       8.263
+  EOL VENTOS DE SANTA ANGELA 18       033022-1       8.263
+  EOL VENTOS DE SANTO ABRAAO          032884-7       7.271
+  EOL VENTOS DE SAO MARTINHO          031412-9       5.639
+  EOL VILA PIAUI I                    036975-6       7.844
+  EOL VILA PIAUI II                   036973-0       7.844
+  EOL VILA PIAUI III                  036979-9       7.844
+  EOL VILA RIO GRANDE DO NORTE I      038141-1       7.622
+  EOL VILA RIO GRANDE DO NORTE II     038140-3       7.622
+  EOL VILA SERGIPE I                  038142-0       7.622
+  EOL VILA SERGIPE II                 038143-8       7.844
+  EOL VILA SERGIPE III                038144-6       7.844
+  EOL VOLTA DO RIO(ELETROWIND)        028441-6       6.932
+  PCH INDAIA GRANDE (FIGUEIRA)        030078-0       7.390
+  PCH INDAIAZINHO (GUATAMBU)          030079-9       7.390
+  PCH PASSO DO MEIO                   001999-2       5.588
+  PCH PEZZI                           028988-4       5.042
+  PCH SERRA DOS CAVALINHOS II         030337-2       5.042
+  UFV CAETITE Va                      038168-3       6.625
+  UFV FONTES SOLAR I                  032372-1       7.028
+  UFV FONTES SOLAR II                 032373-0       7.028
+  UFV SAO GONCALO 11                  037578-0       8.374
+  UFV SAO GONCALO 12                  037579-9       8.374
+  UFV SAO GONCALO 6                   033846-0       8.374
+  UFV SAO GONCALO 7                   033847-8       8.374
+  UFV SAO GONCALO 8                   033849-4       8.374
+  UHE 14 DE JULHO (CERAN)             000012-4       5.651
+  UHE AGUA VERMELHA                   000041-8       6.635
+  UHE AIMORES                         000042-6       3.715
+  UHE APOLONIO SALES (MOXOTO)         001510-5       7.635
+  UHE B.DOS COQUEIROS (GERDAU)        028757-1       7.542
+  UHE BAGUARI                         029453-5       3.924
+  UHE BALBINA                         000190-2       4.123
+  UHE BARRA GRANDE                    027556-5       6.374
+  UHE BOA ESPERANCA                   000267-4       6.552
+  UHE CACHOEIRA DOURADA - RB          000528-2       7.818
+  UHE CACU (GERDAU)                   028756-3       8.254
+  UHE CAMPOS NOVOS                    027401-1       6.283
+  UHE CANA BRAVA                      000630-0       6.302
+  UHE CAPIVARA                        000657-2       6.542
+  UHE CASTRO ALVES (CERAN)            000718-8       5.651
+  UHE CHAVANTES                       000764-1       5.769
+  UHE CORUMBA I                       000866-4       8.057
+  UHE DARDANELOS                      029597-3      10.028
+  UHE DONA FRANCISCA                  027012-1       6.068
+  UHE EMBORCACAO                      027115-2       5.963
+  UHE ESTREITO(L.C.BARRETO)           000917-2       7.955
+  UHE FOZ DO RIO CLARO                029455-1       7.601
+  UHE FURNAS                          001007-3       6.959
+  UHE GOV. BENTO MUNHOZ(AREIA)        000984-9       6.104
+  UHE GOV. PARIGOT SOUZA              001042-1       6.076
+  UHE GUILMAN AMORIM                  001079-0       3.420
+  UHE HENRY BORDEN - RB               001084-7       7.619
+  UHE ILHA SOLTEIRA                   001120-7       7.919
+  UHE IRAPE                           001146-0       5.244
+  UHE ITA                             001152-5       6.249
+  UHE ITAIPU                          001161-4       9.039
+  UHE ITAPARICA (SL GONZAGA)          001174-6       7.285
+  UHE ITAPEBI                         001175-4       3.527
+  UHE ITAUBA                          027019-9       6.188
+  UHE ITIQUIRA(I,II)                  027244-2       8.105
+  UHE ITUMBIARA                       001194-0       6.390
+  UHE JAGUARA                         001225-4       8.851
+  UHE JUPIA - RB                      001282-3       7.872
+  UHE JURUMIRIM (A.A.LAYDNER)         001285-8       5.028
+  UHE LAJEADO                         001304-8       6.487
+  UHE MACHADINHO                      001356-0       6.145
+  UHE MANSO                           001401-0       8.504
+  UHE MARIMBONDO                      001417-6       9.085
+  UHE MASCARENHAS DE MORAES (PEIX.    002038-9       5.632
+  UHE MAUA                            029598-1       5.457
+  UHE MONTE CLARO (CERAN)             027968-4       5.651
+  UHE NOVA PONTE                      001574-1       5.844
+  UHE PASSO FUNDO                     002001-0       6.695
+  UHE PASSO REAL                      002003-6       9.497
+  UHE PAULO AFONSO I                  002012-5       7.205
+  UHE PAULO AFONSO II                 027048-2       7.635
+  UHE PAULO AFONSO III                027049-0       7.420
+  UHE PAULO AFONSO IV                 027050-4       7.230
+  UHE PEDRA DO CAVALO                 028565-0       4.827
+  UHE PEIXE ANGICAL                   028353-3       6.249
+  UHE PIRAJU                          002077-0       5.456
+  UHE PONTE DE PEDRA                  002103-2       8.105
+  UHE PORTO ESTRELA                   027196-9       3.547
+  UHE PORTO PRIMAVERA(S.MOTTA)        002127-0       9.553
+  UHE SA CARVALHO                     002563-1       2.553
+  UHE SALTO                           028758-0       7.802
+  UHE SALTO CAXIAS (G.J.RICHA)        002591-7       6.648
+  UHE SALTO DO RIO VERDINHO           028760-1       7.763
+  UHE SALTO OSORIO                    002659-0       6.682
+  UHE SALTO SANTIAGO                  002672-7       6.400
+  UHE SALTO SEGREDO(GOV.N.BRAGA)      002715-4       6.808
+  UHE SAMUEL                          002687-5      11.483
+  UHE SAO SALVADOR                    028567-6       7.110
+  UHE SAO SIMAO                       002704-9       9.983
+  UHE SERRA DA MESA                   002731-6       6.192
+  UHE SOBRADINHO                      002755-3       6.682
+  UHE TAQUARUCU                       002821-5       6.760
+  UHE TRES IRMAOS                     002873-8       9.908
+  UHE TRES MARIAS                     027113-6       6.295
+  UHE TUCURUI                         002889-4       6.481
+  UHE VOLTA GRANDE                    003045-7       9.286
+  UHE XINGO                           027053-9       7.022
+  UTE AGUA EMENDADA                   030039-0       9.101
+  UTE ALTO TAQUARI(BRENCO)            030038-1       9.101
+  UTE AMANDINA                        030115-9       6.747
+  UTE AMANDINA II                     038375-9      10.684
+  UTE ARAUCARIA                       027733-9       4.879
+  UTE BERNECK                         029993-6       6.642
+  UTE BOA VISTA                       029588-4      10.013
+  UTE CACU I                          030025-0      10.537
+  UTE CAMACARI MURICY (ECM)           029554-0       5.376
+  UTE CAMACARI POLO (AREMBEPE)        029555-8       5.376
+  UTE CAMPINA GRANDE                  000612-2       8.069
+  UTE CANDIOTA III (CGTEE)            029767-4       6.666
+  UTE CARAMURU ITUMBIARA              035527-5       7.533
+  UTE CELSO FURTADO(TERMOBAHIA)       027263-9       5.128
+  UTE CMPC                            030666-5       5.700
+  UTE COSTA RICA                      030037-3       8.984
+  UTE CRISTIANO ROCHA                 029499-3       5.207
+  UTE CSP                             031241-0       7.295
+  UTE DO ATLANTICO (CSA)              029587-6       5.644
+  UTE ELDORADO                        029193-5       8.254
+  UTE EUZEBIO ROCHA (CUBATAO)         028014-3       4.430
+  UTE FERNANDO GASPARIAN - RB         028191-3       4.739
+  UTE FORTALEZA                       028357-6       5.971
+  UTE GERAMAR I                       029705-4       6.617
+  UTE GERAMAR II                      029668-6       5.610
+  UTE GLOBAL I (CANDEIAS)             029653-8       5.128
+  UTE GLOBAL II (CANDEIAS)            029639-2       5.128
+  UTE GOIANIA II (BRENTECH)           029460-8       5.950
+  UTE J.S.PEREIRA(TERMOACU)           028225-1       6.822
+  UTE JATAI (COSAN)                   030043-8       9.101
+  UTE JORGE LACERDA A - RB            001260-2       5.115
+  UTE JORGE LACERDA B                 027093-8       5.115
+  UTE JORGE LACERDA C                 027094-6       5.115
+  UTE KLABIN CELULOSE                 031098-0       5.868
+  UTE MARANHAO V                      030203-1       5.989
+  UTE MARIO LAGO(TERMOMACAE)          028029-1       4.531
+  UTE MC2 NOVA VENECIA II             030196-5       5.989
+  UTE MORRO VERMELHO(BRENCO)          030040-3       9.101
+  UTE NARDINI - RB                    030105-1       8.017
+  UTE NORTE FLUMINENSE                001544-0       4.531
+  UTE PALMEIRAS DE GOIAS              001946-1       6.632
+  UTE PARNAIBA IV                     031193-6       5.996
+  UTE PAU FERRO I (EPESA)             029561-2       5.713
+  UTE PIRATININGA - RB                002082-6       4.739
+  UTE PORTO DAS AGUAS                 029999-5       8.984
+  UTE QUIRINOPOLIS (UJS)              029268-0       7.623
+  UTE SANTA LUZIA I                   030006-3       8.406
+  UTE SEPE TIARAJU (CANOAS)           028038-0       5.402
+  UTE SUZANO                          030959-1       5.931
+  UTE TERMOCEARA                      028358-4       5.973
+  UTE TERMOMANAUS (EPESA)             029562-0       5.713
+  UTE TERMONORDESTE(EPASA)            029641-4       5.097
+  UTE TERMONORTE II                   028033-0       7.584
+  UTE TERMOPARAIBA(EPASA)             029638-4       5.097
+  UTE TERMOPERNAMBUCO                 028031-3       6.041
+  UTE TROPICAL BIOENERGIA II          031769-1       9.951
+  UTE U-50 (RNEST)                    030438-7       6.051
+  UTE VERACEL                         029014-9       3.495
+  UTE VIANA                           029664-3       6.445
+  UTN ANGRA I                         000100-7       5.556
+  UTN ANGRA II                        000101-5       5.556
+ X--------------------------------X-----------X-----------X
