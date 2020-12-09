@@ -1,7 +1,7 @@
 # PROJETO FINAL PARA A DISCIPLINA DE PCS5787 - CIÊNCIA DE DADOS (2020) 
 
 
-## Modelo de Precificação para Geração Distribuída na Rede de Distribuição de Energia 
+## Modelo de Regressão Aplicado à Previsão de Preços SPOT de Energia Elétrica
 
 
 ### Autores:
@@ -15,9 +15,7 @@
 
 ### Descrição:
 
-O modelo utilizado atualmente para a Geração Distribuída (geradores instalados nas redes de distribuição) não abrange os impactos que esses geradores causam na rede, tanto os bons quanto os ruins, não diferenciando a tarifa paga por estes (todos pagam a mesma tarifa independentemente da localização). O modelo locacional é construído para capturar boa parte desses impactos e, por isso é o utilizado como exemplo a ser seguido para criar uma forma de precificação justa para a geração distribuída e para a rede. 
-
-O objetivo deste trabalho é propor um modelo de precificação para geração distribuída para o sistema de distribuição baseado no modelo existente de precificação do sistema de transmissão, especificamente utilizando o modelo da parcela locacional, utilizado no cálculo da tarifa de uso do sistema de transmissão, como referência. 
+Os preços nos mercados de energia elétrica são formados utilizando-se de conceitos gerais de economia, com o equilíbrio entre a oferta e a demanda de energia. Em sistemas hidrotérmicos este equilíbrio precisa ser avaliado no longo prazo, em geral utilizando ferramentas computacionais de otimização de custos que possuem altos tempos de convergência. O objetivo deste projeto é o desenvolvimento de um modelo mais simples e rápido de definição do preço da energia, utilizando regressão, que trará vantagem competitiva para os agentes de mercado em relação à antecipação de decisões. 
 
 ---
 
